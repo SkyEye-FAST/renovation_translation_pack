@@ -53,22 +53,34 @@ def map_new_to_old_keys(new_en: Ldata, old_en: Ldata, old_format: str) -> Lmap:
     """
 
     def check_key_format(new_key: str, old_key: str) -> bool:
-        """Check format compatibility between new and old keys."""
+        """Check if the new translation key and old translation key are compatible in format.
+
+        Args:
+            new_key (str): The translation key from the new version.
+            old_key (str): The translation key from the old version.
+
+        Returns:
+            bool: True if the keys are considered format-compatible, False otherwise.
+        """
         if old_format == "json":
             return new_key == old_key
 
-        if new_key.startswith("item.minecraft.lingering_potion.effect."):
-            return old_key.startswith("lingering_potion.effect.")
-        if new_key.startswith("item.minecraft.splash_potion.effect."):
-            return old_key.startswith("splash_potion.effect.")
-        if new_key.startswith("item.minecraft.potion.effect."):
-            return old_key.startswith("potion.effect.")
-        if new_key.startswith("effect.minecraft."):
-            return old_key.startswith("effect.")
-        if new_key.startswith("entity.minecraft."):
-            return old_key.startswith("entity.")
-        if new_key.startswith("block.minecraft."):
-            return old_key.startswith("tile.")
+        prefix_map = [
+            ("item.minecraft.lingering_potion.effect.", "lingering_potion.effect."),
+            ("item.minecraft.splash_potion.effect.", "splash_potion.effect."),
+            ("item.minecraft.potion.effect.", "potion.effect."),
+            ("effect.minecraft.", "effect."),
+            ("entity.minecraft.", "entity."),
+            ("block.minecraft.", ("tile.", "item.")),
+            ("item.minecraft.", "item."),
+            ("enchantment.minecraft.", "enchantment."),
+        ]
+
+        for new_prefix, old_prefix in prefix_map:
+            if new_key.startswith(new_prefix):
+                if isinstance(old_prefix, tuple):
+                    return any(old_key.startswith(p) for p in old_prefix)
+                return old_key.startswith(old_prefix)
 
         return new_key == old_key
 

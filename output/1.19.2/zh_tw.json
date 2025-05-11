@@ -1,5 +1,5 @@
 {
-  "advancements.adventure.lightning_rod_with_villager_no_fire.description": "保護村民免受飛來橫禍的雷擊，並且不引發火災",
+  "advancements.adventure.lightning_rod_with_villager_no_fire.description": "保護村民不受雷擊的飛來橫禍，以免發生火災",
   "advancements.adventure.root.description": "冒險、探索和戰鬥",
   "advancements.husbandry.tactical_fishing.description": "釣魚... 不用釣竿！",
   "advancements.nether.explore_nether.title": "熱門景點",
@@ -212,7 +212,7 @@
   "commands.difficulty.query": "目前難易度為 %s",
   "commands.difficulty.success": "已將難易度設為 %s",
   "commands.fill.toobig": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
-  "commands.list.players": "目前有 %s/%s 個玩家在線上：%s",
+  "commands.list.players": "目前有 %s\/%s 個玩家在線上：%s",
   "commands.locate.biome.not_found": "無法在合理距離內找到 \"%s\" 類型的生態域",
   "commands.locate.poi.not_found": "無法在合理距離內找到 \"%s\" 類型的興趣點",
   "commands.locate.structure.invalid": "沒有類型為 \"%s\" 的結構",
