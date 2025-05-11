@@ -9,11 +9,8 @@ and updates between different Minecraft versions and languages.
 
 import json
 from pathlib import Path
-from typing import Final, TypeAlias
 
-Ldata: TypeAlias = dict[str, str]
-Lmap: TypeAlias = dict[str, list[str]]
-P: Final[Path] = Path(__file__).resolve().parent
+from base import DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, Ldata, Lmap, P
 
 
 def load_lang_file(file_path: str) -> Ldata:
@@ -142,38 +139,24 @@ def save_json_file(data: Ldata, file_path: Path) -> None:
         json.dump(dict(sorted(data.items())), f, ensure_ascii=False, indent=2)
 
 
-VERSION_CONFIGS = {
-    "1.12.2": {"format": "lang", "variants": ["zh_cn", "zh_tw"]},
-    "1.13": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
-    "1.13.2": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
-    "1.14.4": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
-    "1.15.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.16.5": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.17.1": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.18.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.19.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-}
-
-
 def process_version(version: str) -> None:
     """Process all language variants for a specific version.
 
     Args:
         version (str): Minecraft version string to process
     """
-    config = VERSION_CONFIGS[version]
+    config = VERSION_CONFIG[version]
     format_suffix = f".{config['format']}"
-    version_path = f"lang/{version}"
 
-    output_dir = P / "output" / version
+    output_dir = OUTPUT_DIR / version
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for variant in config["variants"]:
         changed_translations = find_changed_translations(
             new_en_path="mc_lang/full/en_us.json",
             new_zh_path=f"mc_lang/full/{variant}.json",
-            old_en_path=f"{version_path}/en_us{format_suffix}",
-            old_zh_path=f"{version_path}/{variant}{format_suffix}",
+            old_en_path=f"{DATA_DIR}/{version}/en_us{format_suffix}",
+            old_zh_path=f"{DATA_DIR}/{version}/{variant}{format_suffix}",
         )
 
         output_path = output_dir / f"{variant}{format_suffix}"
@@ -190,9 +173,9 @@ def main() -> None:
     """Process translation updates for all configured versions."""
     print("Starting processing...")
     print("Supported versions:")
-    for version in VERSION_CONFIGS:
+    for version in VERSION_CONFIG:
         print(f" - {version}")
-    for version in VERSION_CONFIGS:
+    for version in VERSION_CONFIG:
         print(f"\nProcessing Minecraft version {version}...")
         process_version(version)
 
