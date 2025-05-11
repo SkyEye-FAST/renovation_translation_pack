@@ -42,12 +42,13 @@ def load_lang_file(file_path: str) -> Ldata:
     return data
 
 
-def map_new_to_old_keys(new_en: Ldata, old_en: Ldata) -> Lmap:
+def map_new_to_old_keys(new_en: Ldata, old_en: Ldata, old_format: str) -> Lmap:
     """Map new translation keys to old ones based on identical English values.
 
     Args:
         new_en (Ldata): Dictionary containing new version's English translations
         old_en (Ldata): Dictionary containing old version's English translations
+        old_format (str): Format of old translation file ("lang" or "json")
 
     Returns:
         Lmap: A dictionary mapping new keys to lists of corresponding old keys
@@ -55,6 +56,9 @@ def map_new_to_old_keys(new_en: Ldata, old_en: Ldata) -> Lmap:
 
     def check_key_format(new_key: str, old_key: str) -> bool:
         """Check format compatibility between new and old keys."""
+        if old_format == "json":
+            return new_key == old_key
+
         if new_key.startswith("item.minecraft.lingering_potion.effect."):
             return old_key.startswith("lingering_potion.effect.")
         if new_key.startswith("item.minecraft.splash_potion.effect."):
@@ -102,7 +106,8 @@ def find_changed_translations(
     old_en = load_lang_file(old_en_path)
     old_zh = load_lang_file(old_zh_path)
 
-    mapping = map_new_to_old_keys(new_en, old_en)
+    old_format = "lang" if Path(old_en_path).suffix == ".lang" else "json"
+    mapping = map_new_to_old_keys(new_en, old_en, old_format)
     result: Ldata = {}
     for new_key, old_keys in mapping.items():
         new_cn = new_zh.get(new_key)
@@ -139,13 +144,14 @@ def save_json_file(data: Ldata, file_path: Path) -> None:
 
 VERSION_CONFIGS = {
     "1.12.2": {"format": "lang", "variants": ["zh_cn", "zh_tw"]},
+    "1.13": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
     "1.13.2": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
     "1.14.4": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
-    "1.15.2": {"format": "json", "variants": ["zh_cn", "zh_tw", "zh_hk"]},
-    "1.16.5": {"format": "json", "variants": ["zh_cn", "zh_tw", "zh_hk"]},
-    "1.17.1": {"format": "json", "variants": ["zh_cn", "zh_tw", "zh_hk"]},
-    "1.18.2": {"format": "json", "variants": ["zh_cn", "zh_tw", "zh_hk"]},
-    "1.19.2": {"format": "json", "variants": ["zh_cn", "zh_tw", "zh_hk"]},
+    "1.15.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
+    "1.16.5": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
+    "1.17.1": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
+    "1.18.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
+    "1.19.2": {"format": "json", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
 }
 
 
