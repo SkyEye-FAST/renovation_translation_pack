@@ -12,6 +12,11 @@ DATA_DIR: Final[Path] = P / "data"
 OUTPUT_DIR: Final[Path] = P / "output"
 
 VERSION_CONFIG = {
+    "1.7.10": {"format": "lang", "variants": ["zh_CN", "zh_TW"]},
+    "1.8.9": {"format": "lang", "variants": ["zh_CN", "zh_TW"]},
+    "1.9.4": {"format": "lang", "variants": ["zh_CN", "zh_TW"]},
+    "1.10.2": {"format": "lang", "variants": ["zh_CN", "zh_TW"]},
+    "1.11.2": {"format": "lang", "variants": ["zh_cn", "zh_tw"]},
     "1.12.2": {"format": "lang", "variants": ["zh_cn", "zh_tw"]},
     "1.13.2": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
     "1.14.4": {"format": "json", "variants": ["zh_cn", "zh_tw"]},
