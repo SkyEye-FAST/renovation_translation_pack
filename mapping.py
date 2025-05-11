@@ -166,7 +166,7 @@ def process_version(version: str) -> None:
 
     for variant in config["variants"]:
         changed_translations = find_changed_translations(
-            old_en_path=f"{DATA_DIR}/{version}/en_us{format_suffix}",
+            old_en_path=f"{DATA_DIR}/{version}/{config['source']}{format_suffix}",
             old_zh_path=f"{DATA_DIR}/{version}/{variant}{format_suffix}",
             new_en_path="mc_lang/full/en_us.json",
             new_zh_path=f"mc_lang/full/{variant.lower()}.json",
