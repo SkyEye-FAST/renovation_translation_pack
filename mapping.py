@@ -7,8 +7,9 @@ Supports both .lang and .json formats, handling translation key mappings
 and updates between different Minecraft versions and languages.
 """
 
-import json
 from pathlib import Path
+
+import ujson as json
 
 from base import DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, Ldata, Lmap, P
 
