@@ -3,6 +3,7 @@ advMode.setCommand.success=成功设置命令：%s
 advancements.adventure.kill_all_mobs.title=资深怪物猎人
 advancements.adventure.trade.title=成交！
 advancements.end.enter_end_gateway.description=逃离这座岛屿
+advancements.end.levitate.description=利用潜影贝的攻击向上飘浮50个方块
 advancements.end.root.description=抑或是起点？
 advancements.nether.brew_potion.title=本地酿造厂
 advancements.nether.fast_travel.title=曲速泡
