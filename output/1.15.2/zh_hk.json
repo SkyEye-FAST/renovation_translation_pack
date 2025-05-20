@@ -208,6 +208,8 @@
   "commands.gamemode.success.self": "已將自己的遊戲模式切換為 %s",
   "commands.message.display.incoming": "%s 對你説：%s",
   "commands.message.display.outgoing": "你對 %s 説：%s",
+  "commands.playsound.success.multiple": "已將音效 %s 播放給 %s 個玩家",
+  "commands.playsound.success.single": "已將音效 %s 播放給 %s",
   "commands.publish.started": "已於 %s 連接埠上開放本地遊戲",
   "commands.recipe.take.failed": "沒有可以被遺忘的配方",
   "commands.save.saving": "儲存遊戲中（可能需要些時間！）",

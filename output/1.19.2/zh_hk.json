@@ -336,6 +336,8 @@
   "commands.place.jigsaw.invalid": "不存在類型為「%s」的模板池",
   "commands.place.structure.invalid": "不存在類型為「%s」的結構",
   "commands.place.template.invalid": "不存在 ID 為「%s」的模板",
+  "commands.playsound.success.multiple": "已將音效 %s 播放給 %s 個玩家",
+  "commands.playsound.success.single": "已將音效 %s 播放給 %s",
   "commands.publish.started": "已於 %s 連接埠上開放本地遊戲",
   "commands.recipe.take.failed": "沒有可以被遺忘的配方",
   "commands.save.saving": "儲存遊戲中（可能需要些時間！）",

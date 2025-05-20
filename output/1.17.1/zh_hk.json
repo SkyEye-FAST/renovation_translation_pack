@@ -302,6 +302,8 @@
   "commands.message.display.outgoing": "你對 %s 説：%s",
   "commands.perf.reportSaved": "已經在 %s 建立除錯報吿",
   "commands.perf.started": "已啟動持續 10 秒的效能分析器（用 '\/perf stop' 可提前停止）",
+  "commands.playsound.success.multiple": "已將音效 %s 播放給 %s 個玩家",
+  "commands.playsound.success.single": "已將音效 %s 播放給 %s",
   "commands.publish.started": "已於 %s 連接埠上開放本地遊戲",
   "commands.recipe.take.failed": "沒有可以被遺忘的配方",
   "commands.save.saving": "儲存遊戲中（可能需要些時間！）",
