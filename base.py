@@ -5,11 +5,11 @@
 from pathlib import Path
 from typing import Final
 
-type Ldata = dict[str, str]
-type Lmap = dict[str, list[str]]
-P: Final[Path] = Path(__file__).resolve().parent
-DATA_DIR: Final[Path] = P / "data"
-OUTPUT_DIR: Final[Path] = P / "output"
+type language_data = dict[str, str]
+type language_map = dict[str, list[str]]
+CURRENT_PATH: Final[Path] = Path(__file__).resolve().parent
+DATA_DIR: Final[Path] = CURRENT_PATH / "data"
+OUTPUT_DIR: Final[Path] = CURRENT_PATH / "output"
 
 VERSION_CONFIG = {
     "1.7.10": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
