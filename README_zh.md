@@ -13,6 +13,15 @@
 - [**下载最新版本资源包**](https://github.com/SkyEye-FAST/renovation_language_pack/releases/latest/)
 - [查看历史版本](https://github.com/SkyEye-FAST/renovation_language_pack/releases/)
 
+## 语言
+
+资源包目前支持4种语言：`zh_cn`、`zh_tw`、`zh_hk`和`lzh`。
+
+> [!NOTE]
+> `zh_cn`和`zh_tw`在1.11.x之前记作`zh_CN`和`zh_TW`。
+>
+> `zh_hk`和`lzh`在1.15.x及之后的版本中可用。
+
 ## 版本兼容性
 
 **资源包适用于1.7.10至1.19.2的所有版本。**

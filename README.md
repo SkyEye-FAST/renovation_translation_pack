@@ -13,6 +13,15 @@ This project provides a Minecraft: Java Edition resource pack for mapping newer 
 - [**Download the latest version**](https://github.com/SkyEye-FAST/renovation_translation_pack/releases/latest/)
 - [View previous versions](https://github.com/SkyEye-FAST/renovation_translation_pack/releases/)
 
+## Languages
+
+The resource pack currently supports 4 languages: `zh_cn`, `zh_tw`, `zh_hk`, and `lzh`.
+
+> [!NOTE]
+> `zh_cn` and `zh_tw` were referred to as `zh_CN` and `zh_TW` before 1.11.x.
+>
+> `zh_hk` and `lzh` are available in version 1.15.x and above.
+
 ## Version Compatibility
 
 **The resource pack is compatible with all versions from 1.7.10 to 1.19.2.**
