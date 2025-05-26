@@ -50,7 +50,7 @@ jobs:
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          github-tag: "${{ env.ver }}"
+          github-tag: ${{ env.ver }}
           files: |
             output/1.7.10/renovation_translation_pack_1.7.10.zip
             output/1.8.9/renovation_translation_pack_1.8.9.zip
@@ -65,5 +65,5 @@ jobs:
             output/1.17.1/renovation_translation_pack_1.17.1.zip
             output/1.18.2/renovation_translation_pack_1.18.2.zip
             output/1.19.2/renovation_translation_pack_1.19.2.zip
-          name: "${{ env.ver }}"
-          version: "${{ env.ver }}"
+          name: ${{ env.ver }}
+          version: ${{ env.ver }}

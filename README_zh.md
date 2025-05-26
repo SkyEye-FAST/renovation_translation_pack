@@ -1,4 +1,4 @@
-# Renovation Translation Resource Pack-
+# Minecraft翻新翻译资源包
 
 **[English](README.md) | [中文](README_zh.md)**
 
@@ -6,25 +6,25 @@
 
 [![Update resource pack](https://github.com/SkyEye-FAST/renovation_translation_pack/actions/workflows/update.yml/badge.svg)](https://github.com/SkyEye-FAST/renovation_translation_pack/actions/workflows/update.yml)[![Ruff](https://github.com/SkyEye-FAST/renovation_translation_pack/actions/workflows/ruff.yml/badge.svg)](https://github.com/SkyEye-FAST/renovation_translation_pack/actions/workflows/ruff.yml)
 
-This project provides a Minecraft: Java Edition resource pack for mapping newer Chinese translations back to older versions.
+此项目用于提供将新的中文翻译映射回旧版本的Minecraft Java版资源包。
 
-## Download
+## 下载
 
-- [**Download the latest version**](https://github.com/SkyEye-FAST/renovation_translation_pack/releases/latest/)
-- [View previous versions](https://github.com/SkyEye-FAST/renovation_translation_pack/releases/)
+- [**下载最新版本资源包**](https://github.com/SkyEye-FAST/renovation_language_pack/releases/latest/)
+- [查看历史版本](https://github.com/SkyEye-FAST/renovation_language_pack/releases/)
 
-## Version Compatibility
+## 版本兼容性
 
-**The resource pack is compatible with all versions from 1.7.10 to 1.19.2.**
+**资源包适用于1.7.10至1.19.2的所有版本。**
 
-The version marked in the resource pack releases applies to an entire major version, such as a resource pack marked as `1.16.5` applies to versions from 1.16 to 1.16.5.
+资源包文件名中标注的版本适用于整个主要更新，例如标注为`1.16.5`的资源包适用于从1.16到1.16.5的所有版本。
 
 > [!TIP]
-> All versions of language files after 1.19.2 (1.19.3 and beyond) are being continuously updated, **so it is *unnecessary* to use the resource pack in those versions.**
+> 1.19.2以上（1.19.3及之后）的所有版本都可以接受语言文件更新，这些版本不需要使用此资源包。**
 
-## License
+## 协议
 
-The resource pack is released under the [Apache 2.0 license](LICENSE).
+资源包在[Apache 2.0协议](LICENSE)下发布。
 
 ``` text
   Copyright 2025 SkyEye_FAST
@@ -42,8 +42,8 @@ The resource pack is released under the [Apache 2.0 license](LICENSE).
   limitations under the License.
 ```
 
-## Feedback
+## 反馈
 
-Please feel free to raise issues for any problems encountered or feature suggestions.
+遇到的问题和功能建议等可以提出议题（Issue）。
 
-Pull requests are welcome.
+欢迎创建拉取请求（Pull request）。
