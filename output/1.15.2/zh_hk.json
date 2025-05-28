@@ -129,7 +129,7 @@
   "book.generation.2": "複本的複本",
   "book.generation.3": "破舊的",
   "chat.coordinates.tooltip": "按此處傳送",
-  "chat.link.confirm": "你真的要瀏覽此網頁？",
+  "chat.link.confirm": "你確定要瀏覽這個網頁？",
   "chat.link.confirmTrusted": "你確定要打開此連結，還是將它複製到剪貼簿？",
   "chat.link.warning": "永遠不要打開任何你不信任的人提供的連結！",
   "chat.type.advancement.challenge": "%s 已完成挑戰 %s",
