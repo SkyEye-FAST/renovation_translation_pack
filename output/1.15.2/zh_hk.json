@@ -386,8 +386,6 @@
   "options.attack.crosshair": "十字準星",
   "options.sounds": "音樂與音效⋯⋯",
   "options.sounds.title": "音樂與音效選項",
-  "parsing.bool.expected": "應為布林值",
-  "parsing.bool.invalid": "無效布林值，應為 'true' 或 'false' 但出現 '%s'",
   "parsing.quote.escape": "引號字串內的跳脱序列 '\\%s' 無效",
   "realms.missing.snapshot.error.text": "快相目前不支援 Realms",
   "recipe.toast.description": "請檢查你的配方指南",
