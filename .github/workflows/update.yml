@@ -2,7 +2,7 @@ name: Update resource pack
 
 on:
   schedule:
-    - cron: "55 9 * * *"
+    - cron: "30 16 * * *"
 
 jobs:
   build:
