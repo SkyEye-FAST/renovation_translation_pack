@@ -122,6 +122,6 @@ jobs:
           version: ${{ needs.build.outputs.mc_version }}-${{ matrix.mcversion }}
           name: ${{ needs.build.outputs.mc_version }} to ${{ matrix.mcversion }}
           loaders: minecraft
-          game-versions: |-
-            ${{ join(matrix.game_versions, '\n') }}
+          channel: release
+          game-versions: ${{ toJson(matrix.game_versions) }}
           files: output/${{ matrix.mcversion }}/renovation_translation_pack_${{ matrix.mcversion }}.zip
