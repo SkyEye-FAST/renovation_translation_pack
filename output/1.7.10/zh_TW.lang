@@ -160,6 +160,7 @@ tile.log.jungle.name=叢林木塊
 tile.log.oak.name=橡木塊
 tile.log.spruce.name=杉木塊
 tile.melon.name=西瓜
+tile.netherBrick.name=地獄磚頭
 tile.netherFence.name=地獄磚柵欄
 tile.quartzBlock.chiseled.name=浮雕石英方塊
 tile.quartzBlock.default.name=石英方塊

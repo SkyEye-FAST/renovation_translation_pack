@@ -16,14 +16,14 @@ import ujson as json
 
 from base import CURRENT_PATH, DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, language_data, language_map
 
-PREFIX_MAP: list[tuple[str, str | tuple[str, str]]] = [
+PREFIX_MAP: list[tuple[str, str | tuple[str, ...]]] = [
     ("item.minecraft.lingering_potion.effect.", "lingering_potion.effect."),
     ("item.minecraft.splash_potion.effect.", "splash_potion.effect."),
     ("item.minecraft.potion.effect.", "potion.effect."),
     ("effect.minecraft.", "effect."),
     ("entity.minecraft.", "entity."),
     ("block.minecraft.", ("tile.", "item.")),
-    ("item.minecraft.", "item."),
+    ("item.minecraft.", ("tile.", "item.")),
     ("enchantment.minecraft.", "enchantment."),
 ]
 
