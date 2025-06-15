@@ -2,7 +2,7 @@ name: Update resource pack
 
 on:
   schedule:
-    - cron: "30 16 * * *"
+    - cron: "20 10 * * *"
 
 jobs:
   build:
@@ -106,6 +106,7 @@ jobs:
     if: needs.build.outputs.modrinth_exists != 'true'
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
     steps:
       - name: Download artifacts
