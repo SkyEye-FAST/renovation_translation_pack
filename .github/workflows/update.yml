@@ -2,7 +2,7 @@ name: Update resource pack
 
 on:
   schedule:
-    - cron: "45 8 * * *"
+    - cron: "55 8 * * *"
 
 jobs:
   build:
@@ -93,23 +93,7 @@ jobs:
     steps:
       - id: set-matrix
         run: |
-          echo 'matrix={
-            "include": [
-              {"mcversion": "1.7.10", "game_versions": ["1.7.10"]},
-              {"mcversion": "1.8.9", "game_versions": ["1.8.x"]},
-              {"mcversion": "1.9.4", "game_versions": ["1.9.x"]},
-              {"mcversion": "1.10.2", "game_versions": ["1.10.x"]},
-              {"mcversion": "1.11.2", "game_versions": ["1.11.x"]},
-              {"mcversion": "1.12.2", "game_versions": ["1.12.x"]},
-              {"mcversion": "1.13.2", "game_versions": ["1.13.x"]},
-              {"mcversion": "1.14.4", "game_versions": ["1.14.x"]},
-              {"mcversion": "1.15.2", "game_versions": ["1.15.x"]},
-              {"mcversion": "1.16.5", "game_versions": ["1.16.x"]},
-              {"mcversion": "1.17.1", "game_versions": ["1.17.x"]},
-              {"mcversion": "1.18.2", "game_versions": ["1.18.x"]},
-              {"mcversion": "1.19.2", "game_versions": ["1.19", "1.19.1", "1.19.2"]}
-            ]
-          }' >> $GITHUB_OUTPUT
+          printf "matrix={\"include\":[{\"mcversion\":\"1.7.10\",\"game_versions\":[\"1.7.10\"]},{\"mcversion\":\"1.8.9\",\"game_versions\":[\"1.8.x\"]},{\"mcversion\":\"1.9.4\",\"game_versions\":[\"1.9.x\"]},{\"mcversion\":\"1.10.2\",\"game_versions\":[\"1.10.x\"]},{\"mcversion\":\"1.11.2\",\"game_versions\":[\"1.11.x\"]},{\"mcversion\":\"1.12.2\",\"game_versions\":[\"1.12.x\"]},{\"mcversion\":\"1.13.2\",\"game_versions\":[\"1.13.x\"]},{\"mcversion\":\"1.14.4\",\"game_versions\":[\"1.14.x\"]},{\"mcversion\":\"1.15.2\",\"game_versions\":[\"1.15.x\"]},{\"mcversion\":\"1.16.5\",\"game_versions\":[\"1.16.x\"]},{\"mcversion\":\"1.17.1\",\"game_versions\":[\"1.17.x\"]},{\"mcversion\":\"1.18.2\",\"game_versions\":[\"1.18.x\"]},{\"mcversion\":\"1.19.2\",\"game_versions\":[\"1.19\",\"1.19.1\",\"1.19.2\"]}]}" >> $GITHUB_OUTPUT
 
   upload-modrinth:
     needs: [build, generate-matrix]
