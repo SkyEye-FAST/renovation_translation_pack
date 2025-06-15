@@ -96,7 +96,7 @@
   "block.minecraft.wheat": "小麦植株",
   "block.minecraft.wither_rose": "凋灵玫瑰",
   "block.minecraft.zombie_wall_head": "墙上的僵尸的头",
-  "book.pageIndicator": "第%1$s页\/共%2$s页",
+  "book.pageIndicator": "第%1$s页/共%2$s页",
   "chat.cannotSend": "无法发送聊天消息",
   "chat.link.confirm": "你确定要打开以下网页？",
   "chat.link.confirmTrusted": "你想要打开这个链接或将其复制到你的剪贴板吗？",

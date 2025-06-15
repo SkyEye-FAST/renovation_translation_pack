@@ -12,7 +12,7 @@ import time
 from pathlib import Path
 
 import aiofiles
-import ujson as json
+import orjson as json
 
 from base import CURRENT_PATH, DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, language_data, language_map
 
@@ -37,7 +37,7 @@ async def load_lang_file(file_paths: list[Path]) -> list[language_data]:
             async with aiofiles.open(path, encoding="utf-8") as f:
                 content = await f.read()
                 if path.suffix == ".json":
-                    return json.loads(content)
+                    return json.loads(content.encode())
                 elif path.suffix == ".lang":
                     data: language_data = {}
                     for line in (
@@ -171,7 +171,10 @@ async def save_json_file(data: language_data, file_path: Path) -> None:
         file_path (Path): Path where the .json file should be saved
     """
     async with aiofiles.open(file_path, "w", encoding="utf-8", newline="\n") as f:
-        content = json.dumps(dict(sorted(data.items())), ensure_ascii=False, indent=2)
+        content = json.dumps(
+            dict(sorted(data.items())),
+            option=json.OPT_INDENT_2 | json.OPT_SORT_KEYS,
+        ).decode("utf-8")
         await f.write(content)
 
 

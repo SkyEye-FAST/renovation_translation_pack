@@ -212,7 +212,7 @@
   "commands.difficulty.success": "已將難易度設為 %s",
   "commands.fill.toobig": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
   "commands.item.target.not_a_container": "指定的位置 %s, %s, %s 並非容器",
-  "commands.list.players": "目前有 %s\/%s 個玩家在線上：%s",
+  "commands.list.players": "目前有 %s/%s 個玩家在線上：%s",
   "commands.publish.started": "已在 %s 連接埠上發布本機遊戲",
   "commands.save.saving": "正在儲存遊戲（這可能需要一點時間！）",
   "commands.scoreboard.objectives.remove.success": "已移除目標 %s",
