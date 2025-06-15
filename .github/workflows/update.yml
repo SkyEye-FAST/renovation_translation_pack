@@ -2,7 +2,7 @@ name: Update resource pack
 
 on:
   schedule:
-    - cron: "30 16 * * *"
+    - cron: "35 8 * * *"
 
 jobs:
   build:
@@ -41,16 +41,28 @@ jobs:
           message: "chore: update language files"
 
       - name: Get Minecraft version
+        id: get_version
         run: |
           cd mc_lang
           cat version.txt
-          echo "ver=$(<version.txt)" >> "$GITHUB_ENV"
+          echo "ver=$(<version.txt)" >> "$GITHUB_OUTPUT"
 
-      - name: Release
+      - name: Check if Modrinth version exists
+        id: check_modrinth
+        run: |
+          url="https://api.modrinth.com/v2/project/AO8iY7f9/version/${{ steps.get_version.outputs.ver }}"
+          resp=$(curl --silent "$url")
+          if echo "$resp" | grep -q '"version_number"'; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Release to GitHub
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          github-tag: ${{ env.ver }}
+          github-tag: ${{ steps.get_version.outputs.ver }}
           files: |
             output/1.7.10/renovation_translation_pack_1.7.10.zip
             output/1.8.9/renovation_translation_pack_1.8.9.zip
@@ -65,5 +77,60 @@ jobs:
             output/1.17.1/renovation_translation_pack_1.17.1.zip
             output/1.18.2/renovation_translation_pack_1.18.2.zip
             output/1.19.2/renovation_translation_pack_1.19.2.zip
-          name: ${{ env.ver }}
-          version: ${{ env.ver }}
+          name: ${{ steps.get_version.outputs.ver }}
+          version: ${{ steps.get_version.outputs.ver }}
+
+    outputs:
+      mc_version: ${{ steps.get_version.outputs.ver }}
+      modrinth_exists: ${{ steps.check_modrinth.outputs.exists }}
+
+  generate-matrix:
+    needs: build
+    if: needs.build.outputs.modrinth_exists != 'true'
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - id: set-matrix
+        run: |
+          echo 'matrix={
+            "include": [
+              {"mcversion": "1.7.10", "game_versions": ["1.7.10"]},
+              {"mcversion": "1.8.9", "game_versions": ["1.8.x"]},
+              {"mcversion": "1.9.4", "game_versions": ["1.9.x"]},
+              {"mcversion": "1.10.2", "game_versions": ["1.10.x"]},
+              {"mcversion": "1.11.2", "game_versions": ["1.11.x"]},
+              {"mcversion": "1.12.2", "game_versions": ["1.12.x"]},
+              {"mcversion": "1.13.2", "game_versions": ["1.13.x"]},
+              {"mcversion": "1.14.4", "game_versions": ["1.14.x"]},
+              {"mcversion": "1.15.2", "game_versions": ["1.15.x"]},
+              {"mcversion": "1.16.5", "game_versions": ["1.16.x"]},
+              {"mcversion": "1.17.1", "game_versions": ["1.17.x"]},
+              {"mcversion": "1.18.2", "game_versions": ["1.18.x"]},
+              {"mcversion": "1.19.2", "game_versions": ["1.19", "1.19.1", "1.19.2"]}
+            ]
+          }' >> $GITHUB_OUTPUT
+
+  upload-modrinth:
+    needs: [build, generate-matrix]
+    if: needs.build.outputs.modrinth_exists != 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: output
+
+      - name: Upload to Modrinth
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: AO8iY7f9
+          version: ${{ needs.build.outputs.mc_version }}-${{ matrix.mcversion }}
+          name: ${{ needs.build.outputs.mc_version }} to ${{ matrix.mcversion }}
+          loaders: minecraft
+          game-versions: |-
+            ${{ join(matrix.game_versions, '\n') }}
+          files: output/${{ matrix.mcversion }}/renovation_translation_pack_${{ matrix.mcversion }}.zip
