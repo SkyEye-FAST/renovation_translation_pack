@@ -67,11 +67,11 @@ def map_new_to_old_keys(
     """Map new translation keys to old ones based on identical source language values.
 
     Args:
-        source (tuple[Ldata, Ldata]): Tuple of (new_source, old_source) translations
+        source (tuple[language_data, language_data]): Tuple of (new_source, old_source) translations
         format_type (str): Format of old translation file (`lang` or `json`)
 
     Returns:
-        Lmap: A dictionary mapping new keys to lists of corresponding old keys
+        language_map: A dictionary mapping new keys to lists of corresponding old keys
     """
     new_source, old_source = source
 
@@ -154,7 +154,7 @@ async def save_lang_file(data: language_data, file_path: Path) -> None:
     """Save dictionary to a .lang file with sorted keys asynchronously.
 
     Args:
-        data (Ldata): Dictionary of translation key-value pairs
+        data (language_data): Dictionary of translation key-value pairs
         file_path (Path): Path where the .lang file should be saved
     """
     path = CURRENT_PATH / file_path
@@ -167,7 +167,7 @@ async def save_json_file(data: language_data, file_path: Path) -> None:
     """Save dictionary to a .json file with sorted keys asynchronously.
 
     Args:
-        data (Ldata): Dictionary of translation key-value pairs
+        data (language_data): Dictionary of translation key-value pairs
         file_path (Path): Path where the .json file should be saved
     """
     async with aiofiles.open(file_path, "w", encoding="utf-8", newline="\n") as f:

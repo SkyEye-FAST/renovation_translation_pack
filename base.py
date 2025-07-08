@@ -11,7 +11,7 @@ CURRENT_PATH: Final[Path] = Path(__file__).resolve().parent
 DATA_DIR: Final[Path] = CURRENT_PATH / "data"
 OUTPUT_DIR: Final[Path] = CURRENT_PATH / "output"
 
-VERSION_CONFIG = {
+VERSION_CONFIG: Final[dict[str, dict[str, str | list[str]]]] = {
     "1.7.10": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
     "1.8.9": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
     "1.9.4": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
