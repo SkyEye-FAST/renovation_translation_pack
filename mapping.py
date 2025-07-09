@@ -1,9 +1,9 @@
 # @Author: SkyEye_FAST <skyeyefast@foxmail.com>
 # @Copyright: Copyright (C) 2025 SkyEye_FAST
-"""Renovation Translation Mapping Tool for Minecraft
+"""Renovation Translation Mapping Tool for Minecraft.
 
-A script for mapping newer Minecraft translations back to older versions.
-Supports both .lang and .json formats, handling translation key mappings
+This script provides tools for mapping newer Minecraft translations back to older versions.
+It supports both .lang and .json formats, handling translation key mappings
 and updates between different Minecraft versions and languages.
 """
 
@@ -14,8 +14,9 @@ from pathlib import Path
 import aiofiles
 import orjson as json
 
-from base import CURRENT_PATH, DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, language_data, language_map
+from base import CURRENT_PATH, DATA_DIR, OUTPUT_DIR, VERSION_CONFIG, LanguageData, LanguageMap
 
+# List of prefix mapping rules for translation key compatibility between versions
 PREFIX_MAP: list[tuple[str, str | tuple[str, ...]]] = [
     ("item.minecraft.lingering_potion.effect.", "lingering_potion.effect."),
     ("item.minecraft.splash_potion.effect.", "splash_potion.effect."),
@@ -28,10 +29,17 @@ PREFIX_MAP: list[tuple[str, str | tuple[str, ...]]] = [
 ]
 
 
-async def load_lang_file(file_paths: list[Path]) -> list[language_data]:
-    """Load multiple .json or .lang files into dictionaries asynchronously."""
+async def load_lang_file(file_paths: list[Path]) -> list[LanguageData]:
+    """Load multiple .json or .lang files into dictionaries asynchronously.
 
-    async def _load_single_file(path: Path) -> language_data:
+    Args:
+        file_paths (list[Path]): List of file paths to load.
+
+    Returns:
+        list[LanguageData]: List of loaded translation dictionaries.
+    """
+
+    async def _load_single_file(path: Path) -> LanguageData:
         path = CURRENT_PATH / path
         try:
             async with aiofiles.open(path, encoding="utf-8") as f:
@@ -39,7 +47,7 @@ async def load_lang_file(file_paths: list[Path]) -> list[language_data]:
                 if path.suffix == ".json":
                     return json.loads(content.encode())
                 elif path.suffix == ".lang":
-                    data: language_data = {}
+                    data: LanguageData = {}
                     for line in (
                         line.strip()
                         for line in content.splitlines()
@@ -52,9 +60,10 @@ async def load_lang_file(file_paths: list[Path]) -> list[language_data]:
             print(f"Error loading {path}: {e}")
         return {}
 
+    # Limit concurrent file loads to avoid overwhelming the system
     sem = asyncio.Semaphore(5)
 
-    async def _load_with_semaphore(path: Path) -> language_data:
+    async def _load_with_semaphore(path: Path) -> LanguageData:
         async with sem:
             return await _load_single_file(path)
 
@@ -62,18 +71,18 @@ async def load_lang_file(file_paths: list[Path]) -> list[language_data]:
 
 
 def map_new_to_old_keys(
-    source: tuple[language_data, language_data], format_type: str
-) -> language_map:
+    sources: tuple[LanguageData, LanguageData], format_type: str
+) -> LanguageMap:
     """Map new translation keys to old ones based on identical source language values.
 
     Args:
-        source (tuple[language_data, language_data]): Tuple of (new_source, old_source) translations
-        format_type (str): Format of old translation file (`lang` or `json`)
+        sources (tuple[LanguageData, LanguageData]): Tuple of (new_source, old_source) translations.
+        format_type (str): Format of old translation file (`lang` or `json`).
 
     Returns:
-        language_map: A dictionary mapping new keys to lists of corresponding old keys
+        LanguageMap: A dictionary mapping new keys to lists of corresponding old keys.
     """
-    new_source, old_source = source
+    new_source, old_source = sources
 
     def check_key_format(new_key: str, old_key: str) -> bool:
         """Check if the new translation key and old translation key are compatible in format.
@@ -88,6 +97,7 @@ def map_new_to_old_keys(
         if format_type == "json":
             return new_key == old_key
 
+        # For .lang, allow mapping if prefix rules match or keys are identical
         return (
             any(
                 new_key.startswith(new_prefix)
@@ -101,13 +111,15 @@ def map_new_to_old_keys(
             or new_key == old_key
         )
 
-    value_to_old_key: language_map = {}
+    # Build a mapping from translation value to old keys
+    value_to_old_key: LanguageMap = {}
     for k, v in old_source.items():
         value_to_old_key.setdefault(v, []).append(k)
 
-    mapping: language_map = {}
+    mapping: LanguageMap = {}
     value_set = set(value_to_old_key.keys())
 
+    # For each new key, find matching old keys by value and format
     for new_key, new_val in new_source.items():
         if new_val in value_set:
             for old_key in value_to_old_key[new_val]:
@@ -118,15 +130,15 @@ def map_new_to_old_keys(
 
 async def find_changed_translations(
     source: tuple[Path, Path], target: tuple[Path, Path]
-) -> language_data:
+) -> LanguageData:
     """Find translations that changed between versions asynchronously.
 
     Args:
-        source (tuple[Path, Path]): Paths to (new_source, old_source) translation files
-        target (tuple[Path, Path]): Paths to (new_target, old_target) translation files
+        source (tuple[Path, Path]): Paths to (new_source, old_source) translation files.
+        target (tuple[Path, Path]): Paths to (new_target, old_target) translation files.
 
     Returns:
-        Dictionary of old keys and their updated translations
+        LanguageData: Dictionary of old keys and their updated translations.
     """
     new_source_path, old_source_path = source
     new_target_path, old_target_path = target
@@ -136,11 +148,12 @@ async def find_changed_translations(
 
     old_format = "lang" if old_source_path.suffix == ".lang" else "json"
     mapping = map_new_to_old_keys((new_source, old_source), old_format)
-    result: language_data = {}
+    result: LanguageData = {}
     for new_key, old_keys in mapping.items():
         new_translation = new_target.get(new_key)
         for old_key in old_keys:
             old_translation = old_target.get(old_key)
+            # Only record changed translations
             if (
                 new_translation is not None
                 and old_translation is not None
@@ -150,12 +163,12 @@ async def find_changed_translations(
     return result
 
 
-async def save_lang_file(data: language_data, file_path: Path) -> None:
+async def save_lang_file(data: LanguageData, file_path: Path) -> None:
     """Save dictionary to a .lang file with sorted keys asynchronously.
 
     Args:
-        data (language_data): Dictionary of translation key-value pairs
-        file_path (Path): Path where the .lang file should be saved
+        data (LanguageData): Dictionary of translation key-value pairs.
+        file_path (Path): Path where the .lang file should be saved.
     """
     path = CURRENT_PATH / file_path
     async with aiofiles.open(path, "w", encoding="utf-8", newline="\n") as f:
@@ -163,12 +176,12 @@ async def save_lang_file(data: language_data, file_path: Path) -> None:
             await f.write(f"{k}={data[k]}\n")
 
 
-async def save_json_file(data: language_data, file_path: Path) -> None:
+async def save_json_file(data: LanguageData, file_path: Path) -> None:
     """Save dictionary to a .json file with sorted keys asynchronously.
 
     Args:
-        data (language_data): Dictionary of translation key-value pairs
-        file_path (Path): Path where the .json file should be saved
+        data (LanguageData): Dictionary of translation key-value pairs.
+        file_path (Path): Path where the .json file should be saved.
     """
     async with aiofiles.open(file_path, "w", encoding="utf-8", newline="\n") as f:
         content = json.dumps(
@@ -182,20 +195,20 @@ async def process_version(version: str) -> None:
     """Process all language variants for a specific version asynchronously.
 
     Args:
-        version (str): Minecraft version string to process
+        version (str): Minecraft version string to process.
     """
     start_time = time.time()
     config = VERSION_CONFIG[version]
     format_suffix = f".{config['format']}"
 
-    version_dir = DATA_DIR / version
-    version_dir.mkdir(parents=True, exist_ok=True)
-    output_dir = OUTPUT_DIR / version
-    output_dir.mkdir(parents=True, exist_ok=True)
+    version_data_dir = DATA_DIR / version
+    version_data_dir.mkdir(parents=True, exist_ok=True)
+    version_output_dir = OUTPUT_DIR / version
+    version_output_dir.mkdir(parents=True, exist_ok=True)
 
     common_files = {
         "en_us": Path("mc_lang/full/en_us.json"),
-        "source": Path(f"{version_dir}/{config['source']}{format_suffix}"),
+        "source": Path(f"{version_data_dir}/{config['source']}{format_suffix}"),
     }
 
     tasks = []
@@ -205,14 +218,15 @@ async def process_version(version: str) -> None:
             common_files["en_us"],
             common_files["source"],
             Path(f"mc_lang/full/{variant_lower}.json"),
-            Path(f"{version_dir}/{variant}{format_suffix}"),
+            Path(f"{version_data_dir}/{variant}{format_suffix}"),
         ]
 
+        # Find changed translations for this variant
         changed = await find_changed_translations(
             source=(files[0], files[1]), target=(files[2], files[3])
         )
 
-        output_path = output_dir / f"{variant}{format_suffix}"
+        output_path = version_output_dir / f"{variant}{format_suffix}"
         if format_suffix == ".lang":
             tasks.append(save_lang_file(changed, output_path))
         else:

@@ -1,16 +1,27 @@
 # @Author: SkyEye_FAST <skyeyefast@foxmail.com>
 # @Copyright: Copyright (C) 2025 SkyEye_FAST
-"""Base module for the Renovation Translation Pack Project."""
+"""Base module for the Renovation Translation Pack Project.
+
+This module defines constants, type aliases, and configuration
+used throughout the Renovation Translation Pack Project.
+"""
 
 from pathlib import Path
 from typing import Final
 
-type language_data = dict[str, str]
-type language_map = dict[str, list[str]]
+# Type alias for a dictionary mapping translation keys to their values
+type LanguageData = dict[str, str]
+# Type alias for a dictionary mapping translation keys to a list of keys
+type LanguageMap = dict[str, list[str]]
+
+# The current directory of this script
 CURRENT_PATH: Final[Path] = Path(__file__).resolve().parent
+# Directory containing translation data files
 DATA_DIR: Final[Path] = CURRENT_PATH / "data"
+# Directory for output files
 OUTPUT_DIR: Final[Path] = CURRENT_PATH / "output"
 
+# Configuration for supported Minecraft versions, their translation formats, and language variants
 VERSION_CONFIG: Final[dict[str, dict[str, str | list[str]]]] = {
     "1.7.10": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
     "1.8.9": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
