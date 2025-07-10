@@ -1,0 +1,4321 @@
+[
+  {
+    "old_key": "advMode.command",
+    "old_value": "控制台指令",
+    "new_key": "advMode.command",
+    "new_value": "控制台命令",
+    "en_us": "Console Command"
+  },
+  {
+    "old_key": "advMode.command",
+    "old_value": "控制台指令",
+    "new_key": "advMode.command",
+    "new_value": "控制台命令",
+    "en_us": "Console Command"
+  },
+  {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "en_us": "Command blocks are not enabled on this server"
+  },
+  {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "en_us": "Command blocks are not enabled on this server"
+  },
+  {
+    "old_key": "advMode.setCommand",
+    "old_value": "设置此方块的控制台指令",
+    "new_key": "advMode.setCommand",
+    "new_value": "设置此方块的控制台命令",
+    "en_us": "Set Console Command for Block"
+  },
+  {
+    "old_key": "advMode.setCommand",
+    "old_value": "设置此方块的控制台指令",
+    "new_key": "advMode.setCommand",
+    "new_value": "设置此方块的控制台命令",
+    "en_us": "Set Console Command for Block"
+  },
+  {
+    "old_key": "advMode.setCommand.success",
+    "old_value": "成功设置：%s",
+    "new_key": "advMode.setCommand.success",
+    "new_value": "成功设置命令：%s",
+    "en_us": "Command set: %s"
+  },
+  {
+    "old_key": "advMode.setCommand.success",
+    "old_value": "成功设置：%s",
+    "new_key": "advMode.setCommand.success",
+    "new_value": "成功设置命令：%s",
+    "en_us": "Command set: %s"
+  },
+  {
+    "old_key": "book.byAuthor",
+    "old_value": "——%1$s",
+    "new_key": "book.byAuthor",
+    "new_value": "%1$s 著",
+    "en_us": "by %1$s"
+  },
+  {
+    "old_key": "book.byAuthor",
+    "old_value": "——%1$s",
+    "new_key": "book.byAuthor",
+    "new_value": "%1$s 著",
+    "en_us": "by %1$s"
+  },
+  {
+    "old_key": "book.finalizeButton",
+    "old_value": "签名并关闭",
+    "new_key": "book.finalizeButton",
+    "new_value": "署名并关闭",
+    "en_us": "Sign and Close"
+  },
+  {
+    "old_key": "book.finalizeButton",
+    "old_value": "签名并关闭",
+    "new_key": "book.finalizeButton",
+    "new_value": "署名并关闭",
+    "en_us": "Sign and Close"
+  },
+  {
+    "old_key": "book.finalizeWarning",
+    "old_value": "注意！在你签名后，它将不能再被修改。",
+    "new_key": "book.finalizeWarning",
+    "new_value": "注意！在你署名后，它将不能再被修改。",
+    "en_us": "Note! When you sign the book, it will no longer be editable."
+  },
+  {
+    "old_key": "book.finalizeWarning",
+    "old_value": "注意！在你签名后，它将不能再被修改。",
+    "new_key": "book.finalizeWarning",
+    "new_value": "注意！在你署名后，它将不能再被修改。",
+    "en_us": "Note! When you sign the book, it will no longer be editable."
+  },
+  {
+    "old_key": "book.generation.0",
+    "old_value": "原作",
+    "new_key": "book.generation.0",
+    "new_value": "原稿",
+    "en_us": "Original"
+  },
+  {
+    "old_key": "book.generation.0",
+    "old_value": "原作",
+    "new_key": "book.generation.0",
+    "new_value": "原稿",
+    "en_us": "Original"
+  },
+  {
+    "old_key": "book.generation.1",
+    "old_value": "原作的副本",
+    "new_key": "book.generation.1",
+    "new_value": "原稿的副本",
+    "en_us": "Copy of original"
+  },
+  {
+    "old_key": "book.generation.1",
+    "old_value": "原作的副本",
+    "new_key": "book.generation.1",
+    "new_value": "原稿的副本",
+    "en_us": "Copy of original"
+  },
+  {
+    "old_key": "book.pageIndicator",
+    "old_value": "页面：%1$s/%2$s",
+    "new_key": "book.pageIndicator",
+    "new_value": "第%1$s页/共%2$s页",
+    "en_us": "Page %1$s of %2$s"
+  },
+  {
+    "old_key": "book.pageIndicator",
+    "old_value": "页面：%1$s/%2$s",
+    "new_key": "book.pageIndicator",
+    "new_value": "第%1$s页/共%2$s页",
+    "en_us": "Page %1$s of %2$s"
+  },
+  {
+    "old_key": "book.signButton",
+    "old_value": "签名",
+    "new_key": "book.signButton",
+    "new_value": "署名",
+    "en_us": "Sign"
+  },
+  {
+    "old_key": "book.signButton",
+    "old_value": "签名",
+    "new_key": "book.signButton",
+    "new_value": "署名",
+    "en_us": "Sign"
+  },
+  {
+    "old_key": "chat.cannotSend",
+    "old_value": "无法发送聊天信息",
+    "new_key": "chat.cannotSend",
+    "new_value": "无法发送聊天消息",
+    "en_us": "Cannot send chat message"
+  },
+  {
+    "old_key": "chat.cannotSend",
+    "old_value": "无法发送聊天信息",
+    "new_key": "chat.cannotSend",
+    "new_value": "无法发送聊天消息",
+    "en_us": "Cannot send chat message"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你确定你要打开以下网页？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你确定要打开以下网页？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你确定你要打开以下网页？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你确定要打开以下网页？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "你想要打开这个链接或复制到你的剪贴板吗？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "你想要打开这个链接或将其复制到你的剪贴板吗？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "你想要打开这个链接或复制到你的剪贴板吗？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "你想要打开这个链接或将其复制到你的剪贴板吗？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "永远不要打开从你不信任的人得到的链接！",
+    "new_key": "chat.link.warning",
+    "new_value": "永远不要打开你不信任的人提供的链接！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "永远不要打开从你不信任的人得到的链接！",
+    "new_key": "chat.link.warning",
+    "new_value": "永远不要打开你不信任的人提供的链接！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "connect.authorizing",
+    "old_value": "登入中...",
+    "new_key": "connect.authorizing",
+    "new_value": "登录中…",
+    "en_us": "Logging in..."
+  },
+  {
+    "old_key": "connect.authorizing",
+    "old_value": "登入中...",
+    "new_key": "connect.authorizing",
+    "new_value": "登录中…",
+    "en_us": "Logging in..."
+  },
+  {
+    "old_key": "connect.connecting",
+    "old_value": "正在连接到服务器...",
+    "new_key": "connect.connecting",
+    "new_value": "正在连接到服务器…",
+    "en_us": "Connecting to the server..."
+  },
+  {
+    "old_key": "connect.connecting",
+    "old_value": "正在连接到服务器...",
+    "new_key": "connect.connecting",
+    "new_value": "正在连接到服务器…",
+    "en_us": "Connecting to the server..."
+  },
+  {
+    "old_key": "container.enchant.clue",
+    "old_value": "%s …？",
+    "new_key": "container.enchant.clue",
+    "new_value": "%s…？",
+    "en_us": "%s . . . ?"
+  },
+  {
+    "old_key": "container.enchant.clue",
+    "old_value": "%s …？",
+    "new_key": "container.enchant.clue",
+    "new_value": "%s…？",
+    "en_us": "%s . . . ?"
+  },
+  {
+    "old_key": "container.enchant.lapis.one",
+    "old_value": "1 个青金石",
+    "new_key": "container.enchant.lapis.one",
+    "new_value": "花费：1颗青金石",
+    "en_us": "1 Lapis Lazuli"
+  },
+  {
+    "old_key": "container.enchant.lapis.one",
+    "old_value": "1 个青金石",
+    "new_key": "container.enchant.lapis.one",
+    "new_value": "花费：1颗青金石",
+    "en_us": "1 Lapis Lazuli"
+  },
+  {
+    "old_key": "container.enchant.level.one",
+    "old_value": "附魔等级 1",
+    "new_key": "container.enchant.level.one",
+    "new_value": "+ 1级经验",
+    "en_us": "1 Enchantment Level"
+  },
+  {
+    "old_key": "container.enchant.level.one",
+    "old_value": "附魔等级 1",
+    "new_key": "container.enchant.level.one",
+    "new_value": "+ 1级经验",
+    "en_us": "1 Enchantment Level"
+  },
+  {
+    "old_key": "container.repair",
+    "old_value": "物品修复和命名",
+    "new_key": "container.repair",
+    "new_value": "修复和命名",
+    "en_us": "Repair & Name"
+  },
+  {
+    "old_key": "container.repair",
+    "old_value": "物品修复和命名",
+    "new_key": "container.repair",
+    "new_value": "修复和命名",
+    "en_us": "Repair & Name"
+  },
+  {
+    "old_key": "createWorld.customize.flat.tile",
+    "old_value": "此层的材料",
+    "new_key": "createWorld.customize.flat.tile",
+    "new_value": "各层的材料",
+    "en_us": "Layer Material"
+  },
+  {
+    "old_key": "createWorld.customize.flat.tile",
+    "old_value": "此层的材料",
+    "new_key": "createWorld.customize.flat.tile",
+    "new_value": "各层的材料",
+    "en_us": "Layer Material"
+  },
+  {
+    "old_key": "createWorld.customize.flat.title",
+    "old_value": "超平坦世界个性化",
+    "new_key": "createWorld.customize.flat.title",
+    "new_value": "自定义超平坦世界",
+    "en_us": "Superflat Customization"
+  },
+  {
+    "old_key": "createWorld.customize.flat.title",
+    "old_value": "超平坦世界个性化",
+    "new_key": "createWorld.customize.flat.title",
+    "new_value": "自定义超平坦世界",
+    "en_us": "Superflat Customization"
+  },
+  {
+    "old_key": "createWorld.customize.presets.title",
+    "old_value": "选择一个预设",
+    "new_key": "createWorld.customize.presets.title",
+    "new_value": "选择一种预设",
+    "en_us": "Select a Preset"
+  },
+  {
+    "old_key": "createWorld.customize.presets.title",
+    "old_value": "选择一个预设",
+    "new_key": "createWorld.customize.presets.title",
+    "new_value": "选择一种预设",
+    "en_us": "Select a Preset"
+  },
+  {
+    "old_key": "death.attack.anvil",
+    "old_value": "%1$s 被坠落的铁砧压扁了",
+    "new_key": "death.attack.anvil",
+    "new_value": "%1$s被下落的铁砧压扁了",
+    "en_us": "%1$s was squashed by a falling anvil"
+  },
+  {
+    "old_key": "death.attack.anvil",
+    "old_value": "%1$s 被坠落的铁砧压扁了",
+    "new_key": "death.attack.anvil",
+    "new_value": "%1$s被下落的铁砧压扁了",
+    "en_us": "%1$s was squashed by a falling anvil"
+  },
+  {
+    "old_key": "death.attack.arrow",
+    "old_value": "%1$s 被 %2$s 射杀",
+    "new_key": "death.attack.arrow",
+    "new_value": "%1$s被%2$s射杀",
+    "en_us": "%1$s was shot by %2$s"
+  },
+  {
+    "old_key": "death.attack.arrow",
+    "old_value": "%1$s 被 %2$s 射杀",
+    "new_key": "death.attack.arrow",
+    "new_value": "%1$s被%2$s射杀",
+    "en_us": "%1$s was shot by %2$s"
+  },
+  {
+    "old_key": "death.attack.arrow.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 射杀",
+    "new_key": "death.attack.arrow.item",
+    "new_value": "%1$s被%2$s用%3$s射杀",
+    "en_us": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.arrow.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 射杀",
+    "new_key": "death.attack.arrow.item",
+    "new_value": "%1$s被%2$s用%3$s射杀",
+    "en_us": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.cactus",
+    "old_value": "%1$s 被戳死了",
+    "new_key": "death.attack.cactus",
+    "new_value": "%1$s被戳死了",
+    "en_us": "%1$s was pricked to death"
+  },
+  {
+    "old_key": "death.attack.cactus",
+    "old_value": "%1$s 被戳死了",
+    "new_key": "death.attack.cactus",
+    "new_value": "%1$s被戳死了",
+    "en_us": "%1$s was pricked to death"
+  },
+  {
+    "old_key": "death.attack.drown",
+    "old_value": "%1$s 淹死了",
+    "new_key": "death.attack.drown",
+    "new_value": "%1$s淹死了",
+    "en_us": "%1$s drowned"
+  },
+  {
+    "old_key": "death.attack.drown",
+    "old_value": "%1$s 淹死了",
+    "new_key": "death.attack.drown",
+    "new_value": "%1$s淹死了",
+    "en_us": "%1$s drowned"
+  },
+  {
+    "old_key": "death.attack.explosion",
+    "old_value": "%1$s 爆炸了",
+    "new_key": "death.attack.explosion",
+    "new_value": "%1$s爆炸了",
+    "en_us": "%1$s blew up"
+  },
+  {
+    "old_key": "death.attack.explosion",
+    "old_value": "%1$s 爆炸了",
+    "new_key": "death.attack.explosion",
+    "new_value": "%1$s爆炸了",
+    "en_us": "%1$s blew up"
+  },
+  {
+    "old_key": "death.attack.explosion.player",
+    "old_value": "%1$s 被 %2$s 炸死了",
+    "new_key": "death.attack.explosion.player",
+    "new_value": "%1$s被%2$s炸死了",
+    "en_us": "%1$s was blown up by %2$s"
+  },
+  {
+    "old_key": "death.attack.explosion.player",
+    "old_value": "%1$s 被 %2$s 炸死了",
+    "new_key": "death.attack.explosion.player",
+    "new_value": "%1$s被%2$s炸死了",
+    "en_us": "%1$s was blown up by %2$s"
+  },
+  {
+    "old_key": "death.attack.fallingBlock",
+    "old_value": "%1$s 被坠落的方块压扁了",
+    "new_key": "death.attack.fallingBlock",
+    "new_value": "%1$s被下落的方块压扁了",
+    "en_us": "%1$s was squashed by a falling block"
+  },
+  {
+    "old_key": "death.attack.fallingBlock",
+    "old_value": "%1$s 被坠落的方块压扁了",
+    "new_key": "death.attack.fallingBlock",
+    "new_value": "%1$s被下落的方块压扁了",
+    "en_us": "%1$s was squashed by a falling block"
+  },
+  {
+    "old_key": "death.attack.fireball",
+    "old_value": "%1$s 被 %2$s 用火球烤死了",
+    "new_key": "death.attack.fireball",
+    "new_value": "%1$s被%2$s用火球烧死了",
+    "en_us": "%1$s was fireballed by %2$s"
+  },
+  {
+    "old_key": "death.attack.fireball",
+    "old_value": "%1$s 被 %2$s 用火球烤死了",
+    "new_key": "death.attack.fireball",
+    "new_value": "%1$s被%2$s用火球烧死了",
+    "en_us": "%1$s was fireballed by %2$s"
+  },
+  {
+    "old_key": "death.attack.fireball.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 发射的火球烤死了",
+    "new_key": "death.attack.fireball.item",
+    "new_value": "%1$s被%2$s用%3$s发射的火球烧死了",
+    "en_us": "%1$s was fireballed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.fireball.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 发射的火球烤死了",
+    "new_key": "death.attack.fireball.item",
+    "new_value": "%1$s被%2$s用%3$s发射的火球烧死了",
+    "en_us": "%1$s was fireballed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.generic",
+    "old_value": "%1$s 死了",
+    "new_key": "death.attack.generic",
+    "new_value": "%1$s死了",
+    "en_us": "%1$s died"
+  },
+  {
+    "old_key": "death.attack.generic",
+    "old_value": "%1$s 死了",
+    "new_key": "death.attack.generic",
+    "new_value": "%1$s死了",
+    "en_us": "%1$s died"
+  },
+  {
+    "old_key": "death.attack.inFire",
+    "old_value": "%1$s 浴火焚身",
+    "new_key": "death.attack.inFire",
+    "new_value": "%1$s浴火焚身",
+    "en_us": "%1$s went up in flames"
+  },
+  {
+    "old_key": "death.attack.inFire",
+    "old_value": "%1$s 浴火焚身",
+    "new_key": "death.attack.inFire",
+    "new_value": "%1$s浴火焚身",
+    "en_us": "%1$s went up in flames"
+  },
+  {
+    "old_key": "death.attack.inWall",
+    "old_value": "%1$s 在墙里窒息而亡",
+    "new_key": "death.attack.inWall",
+    "new_value": "%1$s在墙里窒息而亡",
+    "en_us": "%1$s suffocated in a wall"
+  },
+  {
+    "old_key": "death.attack.inWall",
+    "old_value": "%1$s 在墙里窒息而亡",
+    "new_key": "death.attack.inWall",
+    "new_value": "%1$s在墙里窒息而亡",
+    "en_us": "%1$s suffocated in a wall"
+  },
+  {
+    "old_key": "death.attack.indirectMagic",
+    "old_value": "%1$s 被 %2$s 使用的魔法杀死了",
+    "new_key": "death.attack.indirectMagic",
+    "new_value": "%1$s被%2$s使用的魔法杀死了",
+    "en_us": "%1$s was killed by %2$s using magic"
+  },
+  {
+    "old_key": "death.attack.indirectMagic",
+    "old_value": "%1$s 被 %2$s 使用的魔法杀死了",
+    "new_key": "death.attack.indirectMagic",
+    "new_value": "%1$s被%2$s使用的魔法杀死了",
+    "en_us": "%1$s was killed by %2$s using magic"
+  },
+  {
+    "old_key": "death.attack.indirectMagic.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 杀死了",
+    "new_key": "death.attack.indirectMagic.item",
+    "new_value": "%1$s被%2$s用%3$s杀死了",
+    "en_us": "%1$s was killed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.indirectMagic.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 杀死了",
+    "new_key": "death.attack.indirectMagic.item",
+    "new_value": "%1$s被%2$s用%3$s杀死了",
+    "en_us": "%1$s was killed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.lava",
+    "old_value": "%1$s 试图在岩浆里游泳",
+    "new_key": "death.attack.lava",
+    "new_value": "%1$s试图在熔岩里游泳",
+    "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lava",
+    "old_value": "%1$s 试图在岩浆里游泳",
+    "new_key": "death.attack.lava",
+    "new_value": "%1$s试图在熔岩里游泳",
+    "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lava.player",
+    "old_value": "%1$s 在逃离 %2$s 时试图在岩浆里游泳",
+    "new_key": "death.attack.lava.player",
+    "new_value": "%1$s在逃离%2$s时试图在熔岩里游泳",
+    "en_us": "%1$s tried to swim in lava to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.lava.player",
+    "old_value": "%1$s 在逃离 %2$s 时试图在岩浆里游泳",
+    "new_key": "death.attack.lava.player",
+    "new_value": "%1$s在逃离%2$s时试图在熔岩里游泳",
+    "en_us": "%1$s tried to swim in lava to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.lightningBolt",
+    "old_value": "%1$s 被闪电击中",
+    "new_key": "death.attack.lightningBolt",
+    "new_value": "%1$s被闪电击中",
+    "en_us": "%1$s was struck by lightning"
+  },
+  {
+    "old_key": "death.attack.lightningBolt",
+    "old_value": "%1$s 被闪电击中",
+    "new_key": "death.attack.lightningBolt",
+    "new_value": "%1$s被闪电击中",
+    "en_us": "%1$s was struck by lightning"
+  },
+  {
+    "old_key": "death.attack.magic",
+    "old_value": "%1$s 被魔法杀死了",
+    "new_key": "death.attack.magic",
+    "new_value": "%1$s被魔法杀死了",
+    "en_us": "%1$s was killed by magic"
+  },
+  {
+    "old_key": "death.attack.magic",
+    "old_value": "%1$s 被魔法杀死了",
+    "new_key": "death.attack.magic",
+    "new_value": "%1$s被魔法杀死了",
+    "en_us": "%1$s was killed by magic"
+  },
+  {
+    "old_key": "death.attack.mob",
+    "old_value": "%1$s 被 %2$s 杀死了",
+    "new_key": "death.attack.mob",
+    "new_value": "%1$s被%2$s杀死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.mob",
+    "old_value": "%1$s 被 %2$s 杀死了",
+    "new_key": "death.attack.mob",
+    "new_value": "%1$s被%2$s杀死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.onFire",
+    "old_value": "%1$s 被烧死了",
+    "new_key": "death.attack.onFire",
+    "new_value": "%1$s被烧死了",
+    "en_us": "%1$s burned to death"
+  },
+  {
+    "old_key": "death.attack.onFire",
+    "old_value": "%1$s 被烧死了",
+    "new_key": "death.attack.onFire",
+    "new_value": "%1$s被烧死了",
+    "en_us": "%1$s burned to death"
+  },
+  {
+    "old_key": "death.attack.outOfWorld",
+    "old_value": "%1$s 掉出了这个世界",
+    "new_key": "death.attack.outOfWorld",
+    "new_value": "%1$s掉出了这个世界",
+    "en_us": "%1$s fell out of the world"
+  },
+  {
+    "old_key": "death.attack.outOfWorld",
+    "old_value": "%1$s 掉出了这个世界",
+    "new_key": "death.attack.outOfWorld",
+    "new_value": "%1$s掉出了这个世界",
+    "en_us": "%1$s fell out of the world"
+  },
+  {
+    "old_key": "death.attack.player",
+    "old_value": "%1$s 被 %2$s 杀死了",
+    "new_key": "death.attack.player",
+    "new_value": "%1$s被%2$s杀死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.player",
+    "old_value": "%1$s 被 %2$s 杀死了",
+    "new_key": "death.attack.player",
+    "new_value": "%1$s被%2$s杀死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.player.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 杀死了",
+    "new_key": "death.attack.player.item",
+    "new_value": "%1$s被%2$s用%3$s杀死了",
+    "en_us": "%1$s was slain by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.player.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 杀死了",
+    "new_key": "death.attack.player.item",
+    "new_value": "%1$s被%2$s用%3$s杀死了",
+    "en_us": "%1$s was slain by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.starve",
+    "old_value": "%1$s 饿死了",
+    "new_key": "death.attack.starve",
+    "new_value": "%1$s饿死了",
+    "en_us": "%1$s starved to death"
+  },
+  {
+    "old_key": "death.attack.starve",
+    "old_value": "%1$s 饿死了",
+    "new_key": "death.attack.starve",
+    "new_value": "%1$s饿死了",
+    "en_us": "%1$s starved to death"
+  },
+  {
+    "old_key": "death.attack.thrown",
+    "old_value": "%1$s 被 %2$s 给砸死了",
+    "new_key": "death.attack.thrown",
+    "new_value": "%1$s被%2$s给砸死了",
+    "en_us": "%1$s was pummeled by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown",
+    "old_value": "%1$s 被 %2$s 给砸死了",
+    "new_key": "death.attack.thrown",
+    "new_value": "%1$s被%2$s给砸死了",
+    "en_us": "%1$s was pummeled by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 给砸死了",
+    "new_key": "death.attack.thrown.item",
+    "new_value": "%1$s被%2$s用%3$s给砸死了",
+    "en_us": "%1$s was pummeled by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.thrown.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 给砸死了",
+    "new_key": "death.attack.thrown.item",
+    "new_value": "%1$s被%2$s用%3$s给砸死了",
+    "en_us": "%1$s was pummeled by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.wither",
+    "old_value": "%1$s 凋零了",
+    "new_key": "death.attack.wither",
+    "new_value": "%1$s凋零了",
+    "en_us": "%1$s withered away"
+  },
+  {
+    "old_key": "death.attack.wither",
+    "old_value": "%1$s 凋零了",
+    "new_key": "death.attack.wither",
+    "new_value": "%1$s凋零了",
+    "en_us": "%1$s withered away"
+  },
+  {
+    "old_key": "death.fell.accident.generic",
+    "old_value": "%1$s 从高处摔了下来",
+    "new_key": "death.fell.accident.generic",
+    "new_value": "%1$s从高处摔了下来",
+    "en_us": "%1$s fell from a high place"
+  },
+  {
+    "old_key": "death.fell.accident.generic",
+    "old_value": "%1$s 从高处摔了下来",
+    "new_key": "death.fell.accident.generic",
+    "new_value": "%1$s从高处摔了下来",
+    "en_us": "%1$s fell from a high place"
+  },
+  {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s 从梯子上摔了下来",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s从梯子上摔了下来",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s 从梯子上摔了下来",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s从梯子上摔了下来",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
+    "old_key": "death.fell.accident.vines",
+    "old_value": "%1$s 从一些藤蔓上摔了下来",
+    "new_key": "death.fell.accident.vines",
+    "new_value": "%1$s从藤蔓上摔了下来",
+    "en_us": "%1$s fell off some vines"
+  },
+  {
+    "old_key": "death.fell.accident.vines",
+    "old_value": "%1$s 从一些藤蔓上摔了下来",
+    "new_key": "death.fell.accident.vines",
+    "new_value": "%1$s从藤蔓上摔了下来",
+    "en_us": "%1$s fell off some vines"
+  },
+  {
+    "old_key": "death.fell.assist",
+    "old_value": "%1$s 因为 %2$s 注定要摔死",
+    "new_key": "death.fell.assist",
+    "new_value": "%1$s因为%2$s注定要摔死",
+    "en_us": "%1$s was doomed to fall by %2$s"
+  },
+  {
+    "old_key": "death.fell.assist",
+    "old_value": "%1$s 因为 %2$s 注定要摔死",
+    "new_key": "death.fell.assist",
+    "new_value": "%1$s因为%2$s注定要摔死",
+    "en_us": "%1$s was doomed to fall by %2$s"
+  },
+  {
+    "old_key": "death.fell.assist.item",
+    "old_value": "%1$s 因为 %2$s 使用了 %3$s 注定要摔死",
+    "new_key": "death.fell.assist.item",
+    "new_value": "%1$s因为%2$s使用了%3$s注定要摔死",
+    "en_us": "%1$s was doomed to fall by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.assist.item",
+    "old_value": "%1$s 因为 %2$s 使用了 %3$s 注定要摔死",
+    "new_key": "death.fell.assist.item",
+    "new_value": "%1$s因为%2$s使用了%3$s注定要摔死",
+    "en_us": "%1$s was doomed to fall by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.finish",
+    "old_value": "%1$s 摔伤得太重并被 %2$s 完结了生命",
+    "new_key": "death.fell.finish",
+    "new_value": "%1$s摔伤得太重并被%2$s完结了生命",
+    "en_us": "%1$s fell too far and was finished by %2$s"
+  },
+  {
+    "old_key": "death.fell.finish",
+    "old_value": "%1$s 摔伤得太重并被 %2$s 完结了生命",
+    "new_key": "death.fell.finish",
+    "new_value": "%1$s摔伤得太重并被%2$s完结了生命",
+    "en_us": "%1$s fell too far and was finished by %2$s"
+  },
+  {
+    "old_key": "death.fell.finish.item",
+    "old_value": "%1$s 摔伤得太重并被 %2$s 用 %3$s 完结了生命",
+    "new_key": "death.fell.finish.item",
+    "new_value": "%1$s摔伤得太重并被%2$s用%3$s完结了生命",
+    "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.finish.item",
+    "old_value": "%1$s 摔伤得太重并被 %2$s 用 %3$s 完结了生命",
+    "new_key": "death.fell.finish.item",
+    "new_value": "%1$s摔伤得太重并被%2$s用%3$s完结了生命",
+    "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.killer",
+    "old_value": "%1$s 注定要摔死",
+    "new_key": "death.fell.killer",
+    "new_value": "%1$s注定要摔死",
+    "en_us": "%1$s was doomed to fall"
+  },
+  {
+    "old_key": "death.fell.killer",
+    "old_value": "%1$s 注定要摔死",
+    "new_key": "death.fell.killer",
+    "new_value": "%1$s注定要摔死",
+    "en_us": "%1$s was doomed to fall"
+  },
+  {
+    "old_key": "demo.day.5",
+    "old_value": "这是你游戏内的最后一天!",
+    "new_key": "demo.day.5",
+    "new_value": "这是你游戏内的最后一天！",
+    "en_us": "This is your last day!"
+  },
+  {
+    "old_key": "demo.day.5",
+    "old_value": "这是你游戏内的最后一天!",
+    "new_key": "demo.day.5",
+    "new_value": "这是你游戏内的最后一天！",
+    "en_us": "This is your last day!"
+  },
+  {
+    "old_key": "demo.day.warning",
+    "old_value": "您的试玩时间即将结束！",
+    "new_key": "demo.day.warning",
+    "new_value": "你的试玩时间即将结束！",
+    "en_us": "Your time is almost up!"
+  },
+  {
+    "old_key": "demo.day.warning",
+    "old_value": "您的试玩时间即将结束！",
+    "new_key": "demo.day.warning",
+    "new_value": "你的试玩时间即将结束！",
+    "en_us": "Your time is almost up!"
+  },
+  {
+    "old_key": "demo.help.later",
+    "old_value": "继续玩！",
+    "new_key": "demo.help.later",
+    "new_value": "继续游戏！",
+    "en_us": "Continue Playing!"
+  },
+  {
+    "old_key": "demo.help.later",
+    "old_value": "继续玩！",
+    "new_key": "demo.help.later",
+    "new_value": "继续游戏！",
+    "en_us": "Continue Playing!"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "使用鼠标来查看四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "使用鼠标来环顾四周",
+    "en_us": "Look around using the mouse"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "使用鼠标来查看四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "使用鼠标来环顾四周",
+    "en_us": "Look around using the mouse"
+  },
+  {
+    "old_key": "disconnect.spam",
+    "old_value": "由于滥发信息而被踢出游戏",
+    "new_key": "disconnect.spam",
+    "new_value": "由于滥发消息而被踢出游戏",
+    "en_us": "Kicked for spamming"
+  },
+  {
+    "old_key": "disconnect.spam",
+    "old_value": "由于滥发信息而被踢出游戏",
+    "new_key": "disconnect.spam",
+    "new_value": "由于滥发消息而被踢出游戏",
+    "en_us": "Kicked for spamming"
+  },
+  {
+    "old_key": "enchantment.protect.fall",
+    "old_value": "摔落保护",
+    "new_key": "enchantment.minecraft.feather_falling",
+    "new_value": "摔落缓冲",
+    "en_us": "Feather Falling"
+  },
+  {
+    "old_key": "enchantment.protect.fall",
+    "old_value": "摔落保护",
+    "new_key": "enchantment.minecraft.feather_falling",
+    "new_value": "摔落缓冲",
+    "en_us": "Feather Falling"
+  },
+  {
+    "old_key": "entity.Creeper.name",
+    "old_value": "爬行者",
+    "new_key": "entity.minecraft.creeper",
+    "new_value": "苦力怕",
+    "en_us": "Creeper"
+  },
+  {
+    "old_key": "entity.Creeper.name",
+    "old_value": "爬行者",
+    "new_key": "entity.minecraft.creeper",
+    "new_value": "苦力怕",
+    "en_us": "Creeper"
+  },
+  {
+    "old_key": "entity.FallingSand.name",
+    "old_value": "掉落的方块",
+    "new_key": "entity.minecraft.falling_block",
+    "new_value": "下落的方块",
+    "en_us": "Falling Block"
+  },
+  {
+    "old_key": "entity.FallingSand.name",
+    "old_value": "掉落的方块",
+    "new_key": "entity.minecraft.falling_block",
+    "new_value": "下落的方块",
+    "en_us": "Falling Block"
+  },
+  {
+    "old_key": "entity.Sheep.name",
+    "old_value": "羊",
+    "new_key": "entity.minecraft.sheep",
+    "new_value": "绵羊",
+    "en_us": "Sheep"
+  },
+  {
+    "old_key": "entity.Sheep.name",
+    "old_value": "羊",
+    "new_key": "entity.minecraft.sheep",
+    "new_value": "绵羊",
+    "en_us": "Sheep"
+  },
+  {
+    "old_key": "entity.Villager.armor",
+    "old_value": "盔甲商",
+    "new_key": "entity.minecraft.villager.armorer",
+    "new_value": "盔甲匠",
+    "en_us": "Armorer"
+  },
+  {
+    "old_key": "entity.Villager.armor",
+    "old_value": "盔甲商",
+    "new_key": "entity.minecraft.villager.armorer",
+    "new_value": "盔甲匠",
+    "en_us": "Armorer"
+  },
+  {
+    "old_key": "item.banner.creeper.black",
+    "old_value": "黑色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.black",
+    "new_value": "黑色苦力怕盾徽",
+    "en_us": "Black Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.black",
+    "old_value": "黑色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.black",
+    "new_value": "黑色苦力怕盾徽",
+    "en_us": "Black Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.blue",
+    "old_value": "蓝色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.blue",
+    "new_value": "蓝色苦力怕盾徽",
+    "en_us": "Blue Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.blue",
+    "old_value": "蓝色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.blue",
+    "new_value": "蓝色苦力怕盾徽",
+    "en_us": "Blue Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.brown",
+    "old_value": "棕色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.brown",
+    "new_value": "棕色苦力怕盾徽",
+    "en_us": "Brown Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.brown",
+    "old_value": "棕色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.brown",
+    "new_value": "棕色苦力怕盾徽",
+    "en_us": "Brown Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.cyan",
+    "old_value": "青色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.cyan",
+    "new_value": "青色苦力怕盾徽",
+    "en_us": "Cyan Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.cyan",
+    "old_value": "青色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.cyan",
+    "new_value": "青色苦力怕盾徽",
+    "en_us": "Cyan Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.gray",
+    "old_value": "灰色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.gray",
+    "new_value": "灰色苦力怕盾徽",
+    "en_us": "Gray Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.gray",
+    "old_value": "灰色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.gray",
+    "new_value": "灰色苦力怕盾徽",
+    "en_us": "Gray Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.green",
+    "old_value": "绿色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.green",
+    "new_value": "绿色苦力怕盾徽",
+    "en_us": "Green Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.green",
+    "old_value": "绿色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.green",
+    "new_value": "绿色苦力怕盾徽",
+    "en_us": "Green Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.lightBlue",
+    "old_value": "淡蓝色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.light_blue",
+    "new_value": "淡蓝色苦力怕盾徽",
+    "en_us": "Light Blue Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.lightBlue",
+    "old_value": "淡蓝色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.light_blue",
+    "new_value": "淡蓝色苦力怕盾徽",
+    "en_us": "Light Blue Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.lime",
+    "old_value": "黄绿色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.lime",
+    "new_value": "黄绿色苦力怕盾徽",
+    "en_us": "Lime Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.lime",
+    "old_value": "黄绿色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.lime",
+    "new_value": "黄绿色苦力怕盾徽",
+    "en_us": "Lime Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.magenta",
+    "old_value": "品红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.magenta",
+    "new_value": "品红色苦力怕盾徽",
+    "en_us": "Magenta Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.magenta",
+    "old_value": "品红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.magenta",
+    "new_value": "品红色苦力怕盾徽",
+    "en_us": "Magenta Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.orange",
+    "old_value": "橙色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.orange",
+    "new_value": "橙色苦力怕盾徽",
+    "en_us": "Orange Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.orange",
+    "old_value": "橙色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.orange",
+    "new_value": "橙色苦力怕盾徽",
+    "en_us": "Orange Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.pink",
+    "old_value": "粉红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.pink",
+    "new_value": "粉红色苦力怕盾徽",
+    "en_us": "Pink Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.pink",
+    "old_value": "粉红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.pink",
+    "new_value": "粉红色苦力怕盾徽",
+    "en_us": "Pink Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.purple",
+    "old_value": "紫色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.purple",
+    "new_value": "紫色苦力怕盾徽",
+    "en_us": "Purple Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.purple",
+    "old_value": "紫色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.purple",
+    "new_value": "紫色苦力怕盾徽",
+    "en_us": "Purple Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.red",
+    "old_value": "红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.red",
+    "new_value": "红色苦力怕盾徽",
+    "en_us": "Red Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.red",
+    "old_value": "红色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.red",
+    "new_value": "红色苦力怕盾徽",
+    "en_us": "Red Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.silver",
+    "old_value": "淡灰色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.light_gray",
+    "new_value": "淡灰色苦力怕盾徽",
+    "en_us": "Light Gray Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.silver",
+    "old_value": "淡灰色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.light_gray",
+    "new_value": "淡灰色苦力怕盾徽",
+    "en_us": "Light Gray Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.white",
+    "old_value": "白色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.white",
+    "new_value": "白色苦力怕盾徽",
+    "en_us": "White Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.white",
+    "old_value": "白色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.white",
+    "new_value": "白色苦力怕盾徽",
+    "en_us": "White Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.yellow",
+    "old_value": "黄色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.yellow",
+    "new_value": "黄色苦力怕盾徽",
+    "en_us": "Yellow Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.creeper.yellow",
+    "old_value": "黄色爬行者头像",
+    "new_key": "block.minecraft.banner.creeper.yellow",
+    "new_value": "黄色苦力怕盾徽",
+    "en_us": "Yellow Creeper Charge"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.black",
+    "old_value": "黑色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.black",
+    "new_value": "黑色右上三角",
+    "en_us": "Black Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.black",
+    "old_value": "黑色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.black",
+    "new_value": "黑色右上三角",
+    "en_us": "Black Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.blue",
+    "old_value": "蓝色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.blue",
+    "new_value": "蓝色右上三角",
+    "en_us": "Blue Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.blue",
+    "old_value": "蓝色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.blue",
+    "new_value": "蓝色右上三角",
+    "en_us": "Blue Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.brown",
+    "old_value": "棕色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.brown",
+    "new_value": "棕色右上三角",
+    "en_us": "Brown Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.brown",
+    "old_value": "棕色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.brown",
+    "new_value": "棕色右上三角",
+    "en_us": "Brown Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.cyan",
+    "old_value": "青色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.cyan",
+    "new_value": "青色右上三角",
+    "en_us": "Cyan Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.cyan",
+    "old_value": "青色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.cyan",
+    "new_value": "青色右上三角",
+    "en_us": "Cyan Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.gray",
+    "old_value": "灰色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.gray",
+    "new_value": "灰色右上三角",
+    "en_us": "Gray Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.gray",
+    "old_value": "灰色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.gray",
+    "new_value": "灰色右上三角",
+    "en_us": "Gray Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.green",
+    "old_value": "绿色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.green",
+    "new_value": "绿色右上三角",
+    "en_us": "Green Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.green",
+    "old_value": "绿色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.green",
+    "new_value": "绿色右上三角",
+    "en_us": "Green Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.lightBlue",
+    "old_value": "淡蓝色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.light_blue",
+    "new_value": "淡蓝色右上三角",
+    "en_us": "Light Blue Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.lightBlue",
+    "old_value": "淡蓝色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.light_blue",
+    "new_value": "淡蓝色右上三角",
+    "en_us": "Light Blue Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.lime",
+    "old_value": "黄绿色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.lime",
+    "new_value": "黄绿色右上三角",
+    "en_us": "Lime Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.lime",
+    "old_value": "黄绿色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.lime",
+    "new_value": "黄绿色右上三角",
+    "en_us": "Lime Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.magenta",
+    "old_value": "品红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.magenta",
+    "new_value": "品红色右上三角",
+    "en_us": "Magenta Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.magenta",
+    "old_value": "品红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.magenta",
+    "new_value": "品红色右上三角",
+    "en_us": "Magenta Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.orange",
+    "old_value": "橙色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.orange",
+    "new_value": "橙色右上三角",
+    "en_us": "Orange Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.orange",
+    "old_value": "橙色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.orange",
+    "new_value": "橙色右上三角",
+    "en_us": "Orange Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.pink",
+    "old_value": "粉红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.pink",
+    "new_value": "粉红色右上三角",
+    "en_us": "Pink Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.pink",
+    "old_value": "粉红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.pink",
+    "new_value": "粉红色右上三角",
+    "en_us": "Pink Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.purple",
+    "old_value": "紫色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.purple",
+    "new_value": "紫色右上三角",
+    "en_us": "Purple Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.purple",
+    "old_value": "紫色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.purple",
+    "new_value": "紫色右上三角",
+    "en_us": "Purple Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.red",
+    "old_value": "红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.red",
+    "new_value": "红色右上三角",
+    "en_us": "Red Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.red",
+    "old_value": "红色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.red",
+    "new_value": "红色右上三角",
+    "en_us": "Red Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.silver",
+    "old_value": "淡灰色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.light_gray",
+    "new_value": "淡灰色右上三角",
+    "en_us": "Light Gray Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.silver",
+    "old_value": "淡灰色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.light_gray",
+    "new_value": "淡灰色右上三角",
+    "en_us": "Light Gray Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.white",
+    "old_value": "白色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.white",
+    "new_value": "白色右上三角",
+    "en_us": "White Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.white",
+    "old_value": "白色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.white",
+    "new_value": "白色右上三角",
+    "en_us": "White Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.yellow",
+    "old_value": "黄色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.yellow",
+    "new_value": "黄色右上三角",
+    "en_us": "Yellow Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_left.yellow",
+    "old_value": "黄色左上三角",
+    "new_key": "block.minecraft.banner.diagonal_left.yellow",
+    "new_value": "黄色右上三角",
+    "en_us": "Yellow Per Bend Sinister"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.black",
+    "old_value": "黑色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.black",
+    "new_value": "黑色左上三角",
+    "en_us": "Black Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.black",
+    "old_value": "黑色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.black",
+    "new_value": "黑色左上三角",
+    "en_us": "Black Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.blue",
+    "old_value": "蓝色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.blue",
+    "new_value": "蓝色左上三角",
+    "en_us": "Blue Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.blue",
+    "old_value": "蓝色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.blue",
+    "new_value": "蓝色左上三角",
+    "en_us": "Blue Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.brown",
+    "old_value": "棕色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.brown",
+    "new_value": "棕色左上三角",
+    "en_us": "Brown Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.brown",
+    "old_value": "棕色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.brown",
+    "new_value": "棕色左上三角",
+    "en_us": "Brown Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.cyan",
+    "old_value": "青色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.cyan",
+    "new_value": "青色左上三角",
+    "en_us": "Cyan Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.cyan",
+    "old_value": "青色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.cyan",
+    "new_value": "青色左上三角",
+    "en_us": "Cyan Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.gray",
+    "old_value": "灰色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.gray",
+    "new_value": "灰色左上三角",
+    "en_us": "Gray Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.gray",
+    "old_value": "灰色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.gray",
+    "new_value": "灰色左上三角",
+    "en_us": "Gray Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.green",
+    "old_value": "绿色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.green",
+    "new_value": "绿色左上三角",
+    "en_us": "Green Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.green",
+    "old_value": "绿色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.green",
+    "new_value": "绿色左上三角",
+    "en_us": "Green Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.lightBlue",
+    "old_value": "淡蓝色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.light_blue",
+    "new_value": "淡蓝色左上三角",
+    "en_us": "Light Blue Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.lightBlue",
+    "old_value": "淡蓝色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.light_blue",
+    "new_value": "淡蓝色左上三角",
+    "en_us": "Light Blue Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.lime",
+    "old_value": "黄绿色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.lime",
+    "new_value": "黄绿色左上三角",
+    "en_us": "Lime Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.lime",
+    "old_value": "黄绿色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.lime",
+    "new_value": "黄绿色左上三角",
+    "en_us": "Lime Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.magenta",
+    "old_value": "品红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.magenta",
+    "new_value": "品红色左上三角",
+    "en_us": "Magenta Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.magenta",
+    "old_value": "品红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.magenta",
+    "new_value": "品红色左上三角",
+    "en_us": "Magenta Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.orange",
+    "old_value": "橙色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.orange",
+    "new_value": "橙色左上三角",
+    "en_us": "Orange Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.orange",
+    "old_value": "橙色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.orange",
+    "new_value": "橙色左上三角",
+    "en_us": "Orange Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.pink",
+    "old_value": "粉红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.pink",
+    "new_value": "粉红色左上三角",
+    "en_us": "Pink Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.pink",
+    "old_value": "粉红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.pink",
+    "new_value": "粉红色左上三角",
+    "en_us": "Pink Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.purple",
+    "old_value": "紫色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.purple",
+    "new_value": "紫色左上三角",
+    "en_us": "Purple Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.purple",
+    "old_value": "紫色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.purple",
+    "new_value": "紫色左上三角",
+    "en_us": "Purple Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.red",
+    "old_value": "红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.red",
+    "new_value": "红色左上三角",
+    "en_us": "Red Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.red",
+    "old_value": "红色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.red",
+    "new_value": "红色左上三角",
+    "en_us": "Red Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.silver",
+    "old_value": "淡灰色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.light_gray",
+    "new_value": "淡灰色左上三角",
+    "en_us": "Light Gray Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.silver",
+    "old_value": "淡灰色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.light_gray",
+    "new_value": "淡灰色左上三角",
+    "en_us": "Light Gray Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.white",
+    "old_value": "白色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.white",
+    "new_value": "白色左上三角",
+    "en_us": "White Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.white",
+    "old_value": "白色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.white",
+    "new_value": "白色左上三角",
+    "en_us": "White Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.yellow",
+    "old_value": "黄色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.yellow",
+    "new_value": "黄色左上三角",
+    "en_us": "Yellow Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_right.yellow",
+    "old_value": "黄色右上三角",
+    "new_key": "block.minecraft.banner.diagonal_right.yellow",
+    "new_value": "黄色左上三角",
+    "en_us": "Yellow Per Bend"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.black",
+    "old_value": "黑色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.black",
+    "new_value": "黑色右下三角",
+    "en_us": "Black Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.black",
+    "old_value": "黑色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.black",
+    "new_value": "黑色右下三角",
+    "en_us": "Black Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.blue",
+    "old_value": "蓝色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.blue",
+    "new_value": "蓝色右下三角",
+    "en_us": "Blue Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.blue",
+    "old_value": "蓝色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.blue",
+    "new_value": "蓝色右下三角",
+    "en_us": "Blue Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.brown",
+    "old_value": "棕色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.brown",
+    "new_value": "棕色右下三角",
+    "en_us": "Brown Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.brown",
+    "old_value": "棕色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.brown",
+    "new_value": "棕色右下三角",
+    "en_us": "Brown Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.cyan",
+    "old_value": "青色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.cyan",
+    "new_value": "青色右下三角",
+    "en_us": "Cyan Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.cyan",
+    "old_value": "青色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.cyan",
+    "new_value": "青色右下三角",
+    "en_us": "Cyan Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.gray",
+    "old_value": "灰色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.gray",
+    "new_value": "灰色右下三角",
+    "en_us": "Gray Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.gray",
+    "old_value": "灰色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.gray",
+    "new_value": "灰色右下三角",
+    "en_us": "Gray Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.green",
+    "old_value": "绿色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.green",
+    "new_value": "绿色右下三角",
+    "en_us": "Green Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.green",
+    "old_value": "绿色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.green",
+    "new_value": "绿色右下三角",
+    "en_us": "Green Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.lightBlue",
+    "old_value": "淡蓝色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.light_blue",
+    "new_value": "淡蓝色右下三角",
+    "en_us": "Light Blue Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.lightBlue",
+    "old_value": "淡蓝色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.light_blue",
+    "new_value": "淡蓝色右下三角",
+    "en_us": "Light Blue Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.lime",
+    "old_value": "黄绿色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.lime",
+    "new_value": "黄绿色右下三角",
+    "en_us": "Lime Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.lime",
+    "old_value": "黄绿色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.lime",
+    "new_value": "黄绿色右下三角",
+    "en_us": "Lime Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.magenta",
+    "old_value": "品红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.magenta",
+    "new_value": "品红色右下三角",
+    "en_us": "Magenta Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.magenta",
+    "old_value": "品红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.magenta",
+    "new_value": "品红色右下三角",
+    "en_us": "Magenta Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.orange",
+    "old_value": "橙色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.orange",
+    "new_value": "橙色右下三角",
+    "en_us": "Orange Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.orange",
+    "old_value": "橙色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.orange",
+    "new_value": "橙色右下三角",
+    "en_us": "Orange Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.pink",
+    "old_value": "粉红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.pink",
+    "new_value": "粉红色右下三角",
+    "en_us": "Pink Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.pink",
+    "old_value": "粉红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.pink",
+    "new_value": "粉红色右下三角",
+    "en_us": "Pink Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.purple",
+    "old_value": "紫色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.purple",
+    "new_value": "紫色右下三角",
+    "en_us": "Purple Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.purple",
+    "old_value": "紫色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.purple",
+    "new_value": "紫色右下三角",
+    "en_us": "Purple Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.red",
+    "old_value": "红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.red",
+    "new_value": "红色右下三角",
+    "en_us": "Red Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.red",
+    "old_value": "红色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.red",
+    "new_value": "红色右下三角",
+    "en_us": "Red Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.silver",
+    "old_value": "淡灰色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.light_gray",
+    "new_value": "淡灰色右下三角",
+    "en_us": "Light Gray Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.silver",
+    "old_value": "淡灰色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.light_gray",
+    "new_value": "淡灰色右下三角",
+    "en_us": "Light Gray Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.white",
+    "old_value": "白色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.white",
+    "new_value": "白色右下三角",
+    "en_us": "White Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.white",
+    "old_value": "白色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.white",
+    "new_value": "白色右下三角",
+    "en_us": "White Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.yellow",
+    "old_value": "黄色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.yellow",
+    "new_value": "黄色右下三角",
+    "en_us": "Yellow Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_left.yellow",
+    "old_value": "黄色左下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_left.yellow",
+    "new_value": "黄色右下三角",
+    "en_us": "Yellow Per Bend Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.black",
+    "old_value": "黑色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.black",
+    "new_value": "黑色左下三角",
+    "en_us": "Black Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.black",
+    "old_value": "黑色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.black",
+    "new_value": "黑色左下三角",
+    "en_us": "Black Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.blue",
+    "old_value": "蓝色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.blue",
+    "new_value": "蓝色左下三角",
+    "en_us": "Blue Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.blue",
+    "old_value": "蓝色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.blue",
+    "new_value": "蓝色左下三角",
+    "en_us": "Blue Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.brown",
+    "old_value": "棕色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.brown",
+    "new_value": "棕色左下三角",
+    "en_us": "Brown Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.brown",
+    "old_value": "棕色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.brown",
+    "new_value": "棕色左下三角",
+    "en_us": "Brown Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.cyan",
+    "old_value": "青色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.cyan",
+    "new_value": "青色左下三角",
+    "en_us": "Cyan Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.cyan",
+    "old_value": "青色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.cyan",
+    "new_value": "青色左下三角",
+    "en_us": "Cyan Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.gray",
+    "old_value": "灰色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.gray",
+    "new_value": "灰色左下三角",
+    "en_us": "Gray Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.gray",
+    "old_value": "灰色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.gray",
+    "new_value": "灰色左下三角",
+    "en_us": "Gray Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.green",
+    "old_value": "绿色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.green",
+    "new_value": "绿色左下三角",
+    "en_us": "Green Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.green",
+    "old_value": "绿色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.green",
+    "new_value": "绿色左下三角",
+    "en_us": "Green Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.lightBlue",
+    "old_value": "淡蓝色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.light_blue",
+    "new_value": "淡蓝色左下三角",
+    "en_us": "Light Blue Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.lightBlue",
+    "old_value": "淡蓝色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.light_blue",
+    "new_value": "淡蓝色左下三角",
+    "en_us": "Light Blue Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.lime",
+    "old_value": "黄绿色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.lime",
+    "new_value": "黄绿色左下三角",
+    "en_us": "Lime Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.lime",
+    "old_value": "黄绿色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.lime",
+    "new_value": "黄绿色左下三角",
+    "en_us": "Lime Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.magenta",
+    "old_value": "品红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.magenta",
+    "new_value": "品红色左下三角",
+    "en_us": "Magenta Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.magenta",
+    "old_value": "品红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.magenta",
+    "new_value": "品红色左下三角",
+    "en_us": "Magenta Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.orange",
+    "old_value": "橙色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.orange",
+    "new_value": "橙色左下三角",
+    "en_us": "Orange Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.orange",
+    "old_value": "橙色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.orange",
+    "new_value": "橙色左下三角",
+    "en_us": "Orange Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.pink",
+    "old_value": "粉红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.pink",
+    "new_value": "粉红色左下三角",
+    "en_us": "Pink Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.pink",
+    "old_value": "粉红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.pink",
+    "new_value": "粉红色左下三角",
+    "en_us": "Pink Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.purple",
+    "old_value": "紫色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.purple",
+    "new_value": "紫色左下三角",
+    "en_us": "Purple Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.purple",
+    "old_value": "紫色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.purple",
+    "new_value": "紫色左下三角",
+    "en_us": "Purple Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.red",
+    "old_value": "红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.red",
+    "new_value": "红色左下三角",
+    "en_us": "Red Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.red",
+    "old_value": "红色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.red",
+    "new_value": "红色左下三角",
+    "en_us": "Red Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.silver",
+    "old_value": "淡灰色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.light_gray",
+    "new_value": "淡灰色左下三角",
+    "en_us": "Light Gray Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.silver",
+    "old_value": "淡灰色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.light_gray",
+    "new_value": "淡灰色左下三角",
+    "en_us": "Light Gray Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.white",
+    "old_value": "白色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.white",
+    "new_value": "白色左下三角",
+    "en_us": "White Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.white",
+    "old_value": "白色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.white",
+    "new_value": "白色左下三角",
+    "en_us": "White Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.yellow",
+    "old_value": "黄色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.yellow",
+    "new_value": "黄色左下三角",
+    "en_us": "Yellow Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.diagonal_up_right.yellow",
+    "old_value": "黄色右下三角",
+    "new_key": "block.minecraft.banner.diagonal_up_right.yellow",
+    "new_value": "黄色左下三角",
+    "en_us": "Yellow Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "item.banner.flower.black",
+    "old_value": "黑色花朵图案",
+    "new_key": "block.minecraft.banner.flower.black",
+    "new_value": "黑色花朵盾徽",
+    "en_us": "Black Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.black",
+    "old_value": "黑色花朵图案",
+    "new_key": "block.minecraft.banner.flower.black",
+    "new_value": "黑色花朵盾徽",
+    "en_us": "Black Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.blue",
+    "old_value": "蓝色花朵图案",
+    "new_key": "block.minecraft.banner.flower.blue",
+    "new_value": "蓝色花朵盾徽",
+    "en_us": "Blue Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.blue",
+    "old_value": "蓝色花朵图案",
+    "new_key": "block.minecraft.banner.flower.blue",
+    "new_value": "蓝色花朵盾徽",
+    "en_us": "Blue Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.brown",
+    "old_value": "棕色花朵图案",
+    "new_key": "block.minecraft.banner.flower.brown",
+    "new_value": "棕色花朵盾徽",
+    "en_us": "Brown Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.brown",
+    "old_value": "棕色花朵图案",
+    "new_key": "block.minecraft.banner.flower.brown",
+    "new_value": "棕色花朵盾徽",
+    "en_us": "Brown Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.cyan",
+    "old_value": "青色花朵图案",
+    "new_key": "block.minecraft.banner.flower.cyan",
+    "new_value": "青色花朵盾徽",
+    "en_us": "Cyan Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.cyan",
+    "old_value": "青色花朵图案",
+    "new_key": "block.minecraft.banner.flower.cyan",
+    "new_value": "青色花朵盾徽",
+    "en_us": "Cyan Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.gray",
+    "old_value": "灰色花朵图案",
+    "new_key": "block.minecraft.banner.flower.gray",
+    "new_value": "灰色花朵盾徽",
+    "en_us": "Gray Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.gray",
+    "old_value": "灰色花朵图案",
+    "new_key": "block.minecraft.banner.flower.gray",
+    "new_value": "灰色花朵盾徽",
+    "en_us": "Gray Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.green",
+    "old_value": "绿色花朵图案",
+    "new_key": "block.minecraft.banner.flower.green",
+    "new_value": "绿色花朵盾徽",
+    "en_us": "Green Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.green",
+    "old_value": "绿色花朵图案",
+    "new_key": "block.minecraft.banner.flower.green",
+    "new_value": "绿色花朵盾徽",
+    "en_us": "Green Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.lightBlue",
+    "old_value": "淡蓝色花朵图案",
+    "new_key": "block.minecraft.banner.flower.light_blue",
+    "new_value": "淡蓝色花朵盾徽",
+    "en_us": "Light Blue Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.lightBlue",
+    "old_value": "淡蓝色花朵图案",
+    "new_key": "block.minecraft.banner.flower.light_blue",
+    "new_value": "淡蓝色花朵盾徽",
+    "en_us": "Light Blue Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.lime",
+    "old_value": "黄绿色花朵图案",
+    "new_key": "block.minecraft.banner.flower.lime",
+    "new_value": "黄绿色花朵盾徽",
+    "en_us": "Lime Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.lime",
+    "old_value": "黄绿色花朵图案",
+    "new_key": "block.minecraft.banner.flower.lime",
+    "new_value": "黄绿色花朵盾徽",
+    "en_us": "Lime Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.magenta",
+    "old_value": "品红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.magenta",
+    "new_value": "品红色花朵盾徽",
+    "en_us": "Magenta Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.magenta",
+    "old_value": "品红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.magenta",
+    "new_value": "品红色花朵盾徽",
+    "en_us": "Magenta Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.orange",
+    "old_value": "橙色花朵图案",
+    "new_key": "block.minecraft.banner.flower.orange",
+    "new_value": "橙色花朵盾徽",
+    "en_us": "Orange Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.orange",
+    "old_value": "橙色花朵图案",
+    "new_key": "block.minecraft.banner.flower.orange",
+    "new_value": "橙色花朵盾徽",
+    "en_us": "Orange Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.pink",
+    "old_value": "粉红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.pink",
+    "new_value": "粉红色花朵盾徽",
+    "en_us": "Pink Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.pink",
+    "old_value": "粉红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.pink",
+    "new_value": "粉红色花朵盾徽",
+    "en_us": "Pink Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.purple",
+    "old_value": "紫色花朵图案",
+    "new_key": "block.minecraft.banner.flower.purple",
+    "new_value": "紫色花朵盾徽",
+    "en_us": "Purple Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.purple",
+    "old_value": "紫色花朵图案",
+    "new_key": "block.minecraft.banner.flower.purple",
+    "new_value": "紫色花朵盾徽",
+    "en_us": "Purple Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.red",
+    "old_value": "红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.red",
+    "new_value": "红色花朵盾徽",
+    "en_us": "Red Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.red",
+    "old_value": "红色花朵图案",
+    "new_key": "block.minecraft.banner.flower.red",
+    "new_value": "红色花朵盾徽",
+    "en_us": "Red Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.silver",
+    "old_value": "淡灰色花朵图案",
+    "new_key": "block.minecraft.banner.flower.light_gray",
+    "new_value": "淡灰色花朵盾徽",
+    "en_us": "Light Gray Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.silver",
+    "old_value": "淡灰色花朵图案",
+    "new_key": "block.minecraft.banner.flower.light_gray",
+    "new_value": "淡灰色花朵盾徽",
+    "en_us": "Light Gray Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.white",
+    "old_value": "白色花朵图案",
+    "new_key": "block.minecraft.banner.flower.white",
+    "new_value": "白色花朵盾徽",
+    "en_us": "White Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.white",
+    "old_value": "白色花朵图案",
+    "new_key": "block.minecraft.banner.flower.white",
+    "new_value": "白色花朵盾徽",
+    "en_us": "White Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.yellow",
+    "old_value": "黄色花朵图案",
+    "new_key": "block.minecraft.banner.flower.yellow",
+    "new_value": "黄色花朵盾徽",
+    "en_us": "Yellow Flower Charge"
+  },
+  {
+    "old_key": "item.banner.flower.yellow",
+    "old_value": "黄色花朵图案",
+    "new_key": "block.minecraft.banner.flower.yellow",
+    "new_value": "黄色花朵盾徽",
+    "en_us": "Yellow Flower Charge"
+  },
+  {
+    "old_key": "item.banner.half_vertical.black",
+    "old_value": "黑色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.black",
+    "new_value": "黑色右半方形",
+    "en_us": "Black Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.black",
+    "old_value": "黑色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.black",
+    "new_value": "黑色右半方形",
+    "en_us": "Black Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.blue",
+    "old_value": "蓝色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.blue",
+    "new_value": "蓝色右半方形",
+    "en_us": "Blue Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.blue",
+    "old_value": "蓝色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.blue",
+    "new_value": "蓝色右半方形",
+    "en_us": "Blue Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.brown",
+    "old_value": "棕色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.brown",
+    "new_value": "棕色右半方形",
+    "en_us": "Brown Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.brown",
+    "old_value": "棕色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.brown",
+    "new_value": "棕色右半方形",
+    "en_us": "Brown Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.cyan",
+    "old_value": "青色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.cyan",
+    "new_value": "青色右半方形",
+    "en_us": "Cyan Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.cyan",
+    "old_value": "青色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.cyan",
+    "new_value": "青色右半方形",
+    "en_us": "Cyan Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.gray",
+    "old_value": "灰色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.gray",
+    "new_value": "灰色右半方形",
+    "en_us": "Gray Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.gray",
+    "old_value": "灰色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.gray",
+    "new_value": "灰色右半方形",
+    "en_us": "Gray Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.green",
+    "old_value": "绿色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.green",
+    "new_value": "绿色右半方形",
+    "en_us": "Green Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.green",
+    "old_value": "绿色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.green",
+    "new_value": "绿色右半方形",
+    "en_us": "Green Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.lightBlue",
+    "old_value": "淡蓝色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.light_blue",
+    "new_value": "淡蓝色右半方形",
+    "en_us": "Light Blue Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.lightBlue",
+    "old_value": "淡蓝色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.light_blue",
+    "new_value": "淡蓝色右半方形",
+    "en_us": "Light Blue Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.lime",
+    "old_value": "黄绿色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.lime",
+    "new_value": "黄绿色右半方形",
+    "en_us": "Lime Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.lime",
+    "old_value": "黄绿色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.lime",
+    "new_value": "黄绿色右半方形",
+    "en_us": "Lime Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.magenta",
+    "old_value": "品红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.magenta",
+    "new_value": "品红色右半方形",
+    "en_us": "Magenta Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.magenta",
+    "old_value": "品红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.magenta",
+    "new_value": "品红色右半方形",
+    "en_us": "Magenta Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.orange",
+    "old_value": "橙色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.orange",
+    "new_value": "橙色右半方形",
+    "en_us": "Orange Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.orange",
+    "old_value": "橙色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.orange",
+    "new_value": "橙色右半方形",
+    "en_us": "Orange Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.pink",
+    "old_value": "粉红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.pink",
+    "new_value": "粉红色右半方形",
+    "en_us": "Pink Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.pink",
+    "old_value": "粉红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.pink",
+    "new_value": "粉红色右半方形",
+    "en_us": "Pink Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.purple",
+    "old_value": "紫色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.purple",
+    "new_value": "紫色右半方形",
+    "en_us": "Purple Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.purple",
+    "old_value": "紫色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.purple",
+    "new_value": "紫色右半方形",
+    "en_us": "Purple Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.red",
+    "old_value": "红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.red",
+    "new_value": "红色右半方形",
+    "en_us": "Red Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.red",
+    "old_value": "红色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.red",
+    "new_value": "红色右半方形",
+    "en_us": "Red Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.silver",
+    "old_value": "淡灰色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.light_gray",
+    "new_value": "淡灰色右半方形",
+    "en_us": "Light Gray Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.silver",
+    "old_value": "淡灰色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.light_gray",
+    "new_value": "淡灰色右半方形",
+    "en_us": "Light Gray Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.white",
+    "old_value": "白色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.white",
+    "new_value": "白色右半方形",
+    "en_us": "White Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.white",
+    "old_value": "白色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.white",
+    "new_value": "白色右半方形",
+    "en_us": "White Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.yellow",
+    "old_value": "黄色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.yellow",
+    "new_value": "黄色右半方形",
+    "en_us": "Yellow Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical.yellow",
+    "old_value": "黄色左半方形",
+    "new_key": "block.minecraft.banner.half_vertical.yellow",
+    "new_value": "黄色右半方形",
+    "en_us": "Yellow Per Pale"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.black",
+    "old_value": "黑色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.black",
+    "new_value": "黑色左半方形",
+    "en_us": "Black Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.black",
+    "old_value": "黑色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.black",
+    "new_value": "黑色左半方形",
+    "en_us": "Black Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.blue",
+    "old_value": "蓝色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.blue",
+    "new_value": "蓝色左半方形",
+    "en_us": "Blue Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.blue",
+    "old_value": "蓝色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.blue",
+    "new_value": "蓝色左半方形",
+    "en_us": "Blue Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.brown",
+    "old_value": "棕色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.brown",
+    "new_value": "棕色左半方形",
+    "en_us": "Brown Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.brown",
+    "old_value": "棕色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.brown",
+    "new_value": "棕色左半方形",
+    "en_us": "Brown Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.cyan",
+    "old_value": "青色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.cyan",
+    "new_value": "青色左半方形",
+    "en_us": "Cyan Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.cyan",
+    "old_value": "青色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.cyan",
+    "new_value": "青色左半方形",
+    "en_us": "Cyan Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.gray",
+    "old_value": "灰色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.gray",
+    "new_value": "灰色左半方形",
+    "en_us": "Gray Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.gray",
+    "old_value": "灰色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.gray",
+    "new_value": "灰色左半方形",
+    "en_us": "Gray Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.green",
+    "old_value": "绿色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.green",
+    "new_value": "绿色左半方形",
+    "en_us": "Green Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.green",
+    "old_value": "绿色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.green",
+    "new_value": "绿色左半方形",
+    "en_us": "Green Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.lightBlue",
+    "old_value": "淡蓝色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.light_blue",
+    "new_value": "淡蓝色左半方形",
+    "en_us": "Light Blue Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.lightBlue",
+    "old_value": "淡蓝色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.light_blue",
+    "new_value": "淡蓝色左半方形",
+    "en_us": "Light Blue Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.lime",
+    "old_value": "黄绿色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.lime",
+    "new_value": "黄绿色左半方形",
+    "en_us": "Lime Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.lime",
+    "old_value": "黄绿色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.lime",
+    "new_value": "黄绿色左半方形",
+    "en_us": "Lime Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.magenta",
+    "old_value": "品红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.magenta",
+    "new_value": "品红色左半方形",
+    "en_us": "Magenta Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.magenta",
+    "old_value": "品红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.magenta",
+    "new_value": "品红色左半方形",
+    "en_us": "Magenta Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.orange",
+    "old_value": "橙色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.orange",
+    "new_value": "橙色左半方形",
+    "en_us": "Orange Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.orange",
+    "old_value": "橙色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.orange",
+    "new_value": "橙色左半方形",
+    "en_us": "Orange Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.pink",
+    "old_value": "粉红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.pink",
+    "new_value": "粉红色左半方形",
+    "en_us": "Pink Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.pink",
+    "old_value": "粉红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.pink",
+    "new_value": "粉红色左半方形",
+    "en_us": "Pink Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.purple",
+    "old_value": "紫色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.purple",
+    "new_value": "紫色左半方形",
+    "en_us": "Purple Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.purple",
+    "old_value": "紫色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.purple",
+    "new_value": "紫色左半方形",
+    "en_us": "Purple Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.red",
+    "old_value": "红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.red",
+    "new_value": "红色左半方形",
+    "en_us": "Red Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.red",
+    "old_value": "红色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.red",
+    "new_value": "红色左半方形",
+    "en_us": "Red Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.silver",
+    "old_value": "淡灰色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.light_gray",
+    "new_value": "淡灰色左半方形",
+    "en_us": "Light Gray Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.silver",
+    "old_value": "淡灰色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.light_gray",
+    "new_value": "淡灰色左半方形",
+    "en_us": "Light Gray Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.white",
+    "old_value": "白色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.white",
+    "new_value": "白色左半方形",
+    "en_us": "White Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.white",
+    "old_value": "白色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.white",
+    "new_value": "白色左半方形",
+    "en_us": "White Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.yellow",
+    "old_value": "黄色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.yellow",
+    "new_value": "黄色左半方形",
+    "en_us": "Yellow Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.half_vertical_right.yellow",
+    "old_value": "黄色右半方形",
+    "new_key": "block.minecraft.banner.half_vertical_right.yellow",
+    "new_value": "黄色左半方形",
+    "en_us": "Yellow Per Pale Inverted"
+  },
+  {
+    "old_key": "item.banner.skull.black",
+    "old_value": "黑色头颅头像",
+    "new_key": "block.minecraft.banner.skull.black",
+    "new_value": "黑色头颅盾徽",
+    "en_us": "Black Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.black",
+    "old_value": "黑色头颅头像",
+    "new_key": "block.minecraft.banner.skull.black",
+    "new_value": "黑色头颅盾徽",
+    "en_us": "Black Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.blue",
+    "old_value": "蓝色头颅头像",
+    "new_key": "block.minecraft.banner.skull.blue",
+    "new_value": "蓝色头颅盾徽",
+    "en_us": "Blue Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.blue",
+    "old_value": "蓝色头颅头像",
+    "new_key": "block.minecraft.banner.skull.blue",
+    "new_value": "蓝色头颅盾徽",
+    "en_us": "Blue Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.brown",
+    "old_value": "棕色头颅头像",
+    "new_key": "block.minecraft.banner.skull.brown",
+    "new_value": "棕色头颅盾徽",
+    "en_us": "Brown Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.brown",
+    "old_value": "棕色头颅头像",
+    "new_key": "block.minecraft.banner.skull.brown",
+    "new_value": "棕色头颅盾徽",
+    "en_us": "Brown Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.cyan",
+    "old_value": "青色头颅头像",
+    "new_key": "block.minecraft.banner.skull.cyan",
+    "new_value": "青色头颅盾徽",
+    "en_us": "Cyan Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.cyan",
+    "old_value": "青色头颅头像",
+    "new_key": "block.minecraft.banner.skull.cyan",
+    "new_value": "青色头颅盾徽",
+    "en_us": "Cyan Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.gray",
+    "old_value": "灰色头颅头像",
+    "new_key": "block.minecraft.banner.skull.gray",
+    "new_value": "灰色头颅盾徽",
+    "en_us": "Gray Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.gray",
+    "old_value": "灰色头颅头像",
+    "new_key": "block.minecraft.banner.skull.gray",
+    "new_value": "灰色头颅盾徽",
+    "en_us": "Gray Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.green",
+    "old_value": "绿色头颅头像",
+    "new_key": "block.minecraft.banner.skull.green",
+    "new_value": "绿色头颅盾徽",
+    "en_us": "Green Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.green",
+    "old_value": "绿色头颅头像",
+    "new_key": "block.minecraft.banner.skull.green",
+    "new_value": "绿色头颅盾徽",
+    "en_us": "Green Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.lightBlue",
+    "old_value": "淡蓝色头颅头像",
+    "new_key": "block.minecraft.banner.skull.light_blue",
+    "new_value": "淡蓝色头颅盾徽",
+    "en_us": "Light Blue Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.lightBlue",
+    "old_value": "淡蓝色头颅头像",
+    "new_key": "block.minecraft.banner.skull.light_blue",
+    "new_value": "淡蓝色头颅盾徽",
+    "en_us": "Light Blue Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.lime",
+    "old_value": "黄绿色头颅头像",
+    "new_key": "block.minecraft.banner.skull.lime",
+    "new_value": "黄绿色头颅盾徽",
+    "en_us": "Lime Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.lime",
+    "old_value": "黄绿色头颅头像",
+    "new_key": "block.minecraft.banner.skull.lime",
+    "new_value": "黄绿色头颅盾徽",
+    "en_us": "Lime Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.magenta",
+    "old_value": "品红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.magenta",
+    "new_value": "品红色头颅盾徽",
+    "en_us": "Magenta Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.magenta",
+    "old_value": "品红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.magenta",
+    "new_value": "品红色头颅盾徽",
+    "en_us": "Magenta Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.orange",
+    "old_value": "橙色头颅头像",
+    "new_key": "block.minecraft.banner.skull.orange",
+    "new_value": "橙色头颅盾徽",
+    "en_us": "Orange Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.orange",
+    "old_value": "橙色头颅头像",
+    "new_key": "block.minecraft.banner.skull.orange",
+    "new_value": "橙色头颅盾徽",
+    "en_us": "Orange Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.pink",
+    "old_value": "粉红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.pink",
+    "new_value": "粉红色头颅盾徽",
+    "en_us": "Pink Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.pink",
+    "old_value": "粉红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.pink",
+    "new_value": "粉红色头颅盾徽",
+    "en_us": "Pink Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.purple",
+    "old_value": "紫色头颅头像",
+    "new_key": "block.minecraft.banner.skull.purple",
+    "new_value": "紫色头颅盾徽",
+    "en_us": "Purple Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.purple",
+    "old_value": "紫色头颅头像",
+    "new_key": "block.minecraft.banner.skull.purple",
+    "new_value": "紫色头颅盾徽",
+    "en_us": "Purple Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.red",
+    "old_value": "红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.red",
+    "new_value": "红色头颅盾徽",
+    "en_us": "Red Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.red",
+    "old_value": "红色头颅头像",
+    "new_key": "block.minecraft.banner.skull.red",
+    "new_value": "红色头颅盾徽",
+    "en_us": "Red Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.silver",
+    "old_value": "淡灰色头颅头像",
+    "new_key": "block.minecraft.banner.skull.light_gray",
+    "new_value": "淡灰色头颅盾徽",
+    "en_us": "Light Gray Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.silver",
+    "old_value": "淡灰色头颅头像",
+    "new_key": "block.minecraft.banner.skull.light_gray",
+    "new_value": "淡灰色头颅盾徽",
+    "en_us": "Light Gray Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.white",
+    "old_value": "白色头颅头像",
+    "new_key": "block.minecraft.banner.skull.white",
+    "new_value": "白色头颅盾徽",
+    "en_us": "White Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.white",
+    "old_value": "白色头颅头像",
+    "new_key": "block.minecraft.banner.skull.white",
+    "new_value": "白色头颅盾徽",
+    "en_us": "White Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.yellow",
+    "old_value": "黄色头颅头像",
+    "new_key": "block.minecraft.banner.skull.yellow",
+    "new_value": "黄色头颅盾徽",
+    "en_us": "Yellow Skull Charge"
+  },
+  {
+    "old_key": "item.banner.skull.yellow",
+    "old_value": "黄色头颅头像",
+    "new_key": "block.minecraft.banner.skull.yellow",
+    "new_value": "黄色头颅盾徽",
+    "en_us": "Yellow Skull Charge"
+  },
+  {
+    "old_key": "item.banner.square_bottom_right.pink",
+    "old_value": "左底粉方",
+    "new_key": "block.minecraft.banner.square_bottom_right.pink",
+    "new_value": "左底粉红方",
+    "en_us": "Pink Base Sinister Canton"
+  },
+  {
+    "old_key": "item.banner.square_bottom_right.pink",
+    "old_value": "左底粉方",
+    "new_key": "block.minecraft.banner.square_bottom_right.pink",
+    "new_value": "左底粉红方",
+    "en_us": "Pink Base Sinister Canton"
+  },
+  {
+    "old_key": "item.banner.stripe_center.pink",
+    "old_value": "中粉竖条",
+    "new_key": "block.minecraft.banner.stripe_center.pink",
+    "new_value": "中粉红竖条",
+    "en_us": "Pink Pale"
+  },
+  {
+    "old_key": "item.banner.stripe_center.pink",
+    "old_value": "中粉竖条",
+    "new_key": "block.minecraft.banner.stripe_center.pink",
+    "new_value": "中粉红竖条",
+    "en_us": "Pink Pale"
+  },
+  {
+    "old_key": "item.banner.stripe_left.pink",
+    "old_value": "右粉竖条",
+    "new_key": "block.minecraft.banner.stripe_left.pink",
+    "new_value": "右粉红竖条",
+    "en_us": "Pink Pale Dexter"
+  },
+  {
+    "old_key": "item.banner.stripe_left.pink",
+    "old_value": "右粉竖条",
+    "new_key": "block.minecraft.banner.stripe_left.pink",
+    "new_value": "右粉红竖条",
+    "en_us": "Pink Pale Dexter"
+  },
+  {
+    "old_key": "item.banner.stripe_middle.pink",
+    "old_value": "中粉横条",
+    "new_key": "block.minecraft.banner.stripe_middle.pink",
+    "new_value": "中粉红横条",
+    "en_us": "Pink Fess"
+  },
+  {
+    "old_key": "item.banner.stripe_middle.pink",
+    "old_value": "中粉横条",
+    "new_key": "block.minecraft.banner.stripe_middle.pink",
+    "new_value": "中粉红横条",
+    "en_us": "Pink Fess"
+  },
+  {
+    "old_key": "item.banner.triangle_top.gray",
+    "old_value": "灰色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.gray",
+    "new_value": "顶灰三角",
+    "en_us": "Gray Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.gray",
+    "old_value": "灰色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.gray",
+    "new_value": "顶灰三角",
+    "en_us": "Gray Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.lightBlue",
+    "old_value": "淡蓝色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.light_blue",
+    "new_value": "顶淡蓝三角",
+    "en_us": "Light Blue Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.lightBlue",
+    "old_value": "淡蓝色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.light_blue",
+    "new_value": "顶淡蓝三角",
+    "en_us": "Light Blue Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.lime",
+    "old_value": "黄绿色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.lime",
+    "new_value": "顶黄绿三角",
+    "en_us": "Lime Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.lime",
+    "old_value": "黄绿色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.lime",
+    "new_value": "顶黄绿三角",
+    "en_us": "Lime Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.magenta",
+    "old_value": "品红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.magenta",
+    "new_value": "顶品红三角",
+    "en_us": "Magenta Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.magenta",
+    "old_value": "品红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.magenta",
+    "new_value": "顶品红三角",
+    "en_us": "Magenta Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.orange",
+    "old_value": "橙色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.orange",
+    "new_value": "顶橙三角",
+    "en_us": "Orange Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.orange",
+    "old_value": "橙色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.orange",
+    "new_value": "顶橙三角",
+    "en_us": "Orange Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.pink",
+    "old_value": "粉红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.pink",
+    "new_value": "顶粉红三角",
+    "en_us": "Pink Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.pink",
+    "old_value": "粉红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.pink",
+    "new_value": "顶粉红三角",
+    "en_us": "Pink Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.white",
+    "old_value": "白色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.white",
+    "new_value": "顶白三角",
+    "en_us": "White Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.white",
+    "old_value": "白色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.white",
+    "new_value": "顶白三角",
+    "en_us": "White Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.yellow",
+    "old_value": "黄色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.yellow",
+    "new_value": "顶黄三角",
+    "en_us": "Yellow Inverted Chevron"
+  },
+  {
+    "old_key": "item.banner.triangle_top.yellow",
+    "old_value": "黄色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.yellow",
+    "new_value": "顶黄三角",
+    "en_us": "Yellow Inverted Chevron"
+  },
+  {
+    "old_key": "item.bucket.name",
+    "old_value": "桶",
+    "new_key": "item.minecraft.bucket",
+    "new_value": "铁桶",
+    "en_us": "Bucket"
+  },
+  {
+    "old_key": "item.bucket.name",
+    "old_value": "桶",
+    "new_key": "item.minecraft.bucket",
+    "new_value": "铁桶",
+    "en_us": "Bucket"
+  },
+  {
+    "old_key": "item.bucketLava.name",
+    "old_value": "岩浆桶",
+    "new_key": "item.minecraft.lava_bucket",
+    "new_value": "熔岩桶",
+    "en_us": "Lava Bucket"
+  },
+  {
+    "old_key": "item.bucketLava.name",
+    "old_value": "岩浆桶",
+    "new_key": "item.minecraft.lava_bucket",
+    "new_value": "熔岩桶",
+    "en_us": "Lava Bucket"
+  },
+  {
+    "old_key": "item.canBreak",
+    "old_value": "会损坏：",
+    "new_key": "item.canBreak",
+    "new_value": "能破坏：",
+    "en_us": "Can break:"
+  },
+  {
+    "old_key": "item.canBreak",
+    "old_value": "会损坏：",
+    "new_key": "item.canBreak",
+    "new_value": "能破坏：",
+    "en_us": "Can break:"
+  },
+  {
+    "old_key": "item.carrotGolden.name",
+    "old_value": "金萝卜",
+    "new_key": "item.minecraft.golden_carrot",
+    "new_value": "金胡萝卜",
+    "en_us": "Golden Carrot"
+  },
+  {
+    "old_key": "item.carrotGolden.name",
+    "old_value": "金萝卜",
+    "new_key": "item.minecraft.golden_carrot",
+    "new_value": "金胡萝卜",
+    "en_us": "Golden Carrot"
+  },
+  {
+    "old_key": "item.carrotOnAStick.name",
+    "old_value": "萝卜钓竿",
+    "new_key": "item.minecraft.carrot_on_a_stick",
+    "new_value": "胡萝卜钓竿",
+    "en_us": "Carrot on a Stick"
+  },
+  {
+    "old_key": "item.carrotOnAStick.name",
+    "old_value": "萝卜钓竿",
+    "new_key": "item.minecraft.carrot_on_a_stick",
+    "new_value": "胡萝卜钓竿",
+    "en_us": "Carrot on a Stick"
+  },
+  {
+    "old_key": "item.clock.name",
+    "old_value": "钟",
+    "new_key": "item.minecraft.clock",
+    "new_value": "时钟",
+    "en_us": "Clock"
+  },
+  {
+    "old_key": "item.clock.name",
+    "old_value": "钟",
+    "new_key": "item.minecraft.clock",
+    "new_value": "时钟",
+    "en_us": "Clock"
+  },
+  {
+    "old_key": "item.fireworksCharge.type.3",
+    "old_value": "爬行者状",
+    "new_key": "item.minecraft.firework_star.shape.creeper",
+    "new_value": "苦力怕状",
+    "en_us": "Creeper-shaped"
+  },
+  {
+    "old_key": "item.fireworksCharge.type.3",
+    "old_value": "爬行者状",
+    "new_key": "item.minecraft.firework_star.shape.creeper",
+    "new_value": "苦力怕状",
+    "en_us": "Creeper-shaped"
+  },
+  {
+    "old_key": "item.fireworksCharge.type.4",
+    "old_value": "爆裂状",
+    "new_key": "item.minecraft.firework_star.shape.burst",
+    "new_value": "喷发状",
+    "en_us": "Burst"
+  },
+  {
+    "old_key": "item.fireworksCharge.type.4",
+    "old_value": "爆裂状",
+    "new_key": "item.minecraft.firework_star.shape.burst",
+    "new_value": "喷发状",
+    "en_us": "Burst"
+  },
+  {
+    "old_key": "item.netherStalkSeeds.name",
+    "old_value": "地狱疣",
+    "new_key": "item.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "tile.netherStalk.name",
+    "old_value": "地狱疣",
+    "new_key": "item.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "item.netherStalkSeeds.name",
+    "old_value": "地狱疣",
+    "new_key": "item.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "item.netherbrick.name",
+    "old_value": "地狱砖",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "下界砖",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "tile.netherBrick.name",
+    "old_value": "地狱砖块",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "下界砖",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "item.netherbrick.name",
+    "old_value": "地狱砖",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "下界砖",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "item.slimeball.name",
+    "old_value": "粘液球",
+    "new_key": "item.minecraft.slime_ball",
+    "new_value": "黏液球",
+    "en_us": "Slimeball"
+  },
+  {
+    "old_key": "item.slimeball.name",
+    "old_value": "粘液球",
+    "new_key": "item.minecraft.slime_ball",
+    "new_value": "黏液球",
+    "en_us": "Slimeball"
+  },
+  {
+    "old_key": "item.yellowDust.name",
+    "old_value": "萤石粉",
+    "new_key": "item.minecraft.glowstone_dust",
+    "new_value": "荧石粉",
+    "en_us": "Glowstone Dust"
+  },
+  {
+    "old_key": "item.yellowDust.name",
+    "old_value": "萤石粉",
+    "new_key": "item.minecraft.glowstone_dust",
+    "new_value": "荧石粉",
+    "en_us": "Glowstone Dust"
+  },
+  {
+    "old_key": "key.categories.inventory",
+    "old_value": "道具栏",
+    "new_key": "key.categories.inventory",
+    "new_value": "物品栏",
+    "en_us": "Inventory"
+  },
+  {
+    "old_key": "key.categories.inventory",
+    "old_value": "道具栏",
+    "new_key": "key.categories.inventory",
+    "new_value": "物品栏",
+    "en_us": "Inventory"
+  },
+  {
+    "old_key": "key.command",
+    "old_value": "输入指令",
+    "new_key": "key.command",
+    "new_value": "输入命令",
+    "en_us": "Open Command"
+  },
+  {
+    "old_key": "key.command",
+    "old_value": "输入指令",
+    "new_key": "key.command",
+    "new_value": "输入命令",
+    "en_us": "Open Command"
+  },
+  {
+    "old_key": "key.fullscreen",
+    "old_value": "全屏显示切换",
+    "new_key": "key.fullscreen",
+    "new_value": "切换全屏显示",
+    "en_us": "Toggle Fullscreen"
+  },
+  {
+    "old_key": "key.fullscreen",
+    "old_value": "全屏显示切换",
+    "new_key": "key.fullscreen",
+    "new_value": "切换全屏显示",
+    "en_us": "Toggle Fullscreen"
+  },
+  {
+    "old_key": "key.playerlist",
+    "old_value": "玩家列表",
+    "new_key": "key.playerlist",
+    "new_value": "显示玩家列表",
+    "en_us": "List Players"
+  },
+  {
+    "old_key": "key.playerlist",
+    "old_value": "玩家列表",
+    "new_key": "key.playerlist",
+    "new_value": "显示玩家列表",
+    "en_us": "List Players"
+  },
+  {
+    "old_key": "lanServer.start",
+    "old_value": "创造一个局域网世界",
+    "new_key": "lanServer.start",
+    "new_value": "创建局域网世界",
+    "en_us": "Start LAN World"
+  },
+  {
+    "old_key": "lanServer.start",
+    "old_value": "创造一个局域网世界",
+    "new_key": "lanServer.start",
+    "new_value": "创建局域网世界",
+    "en_us": "Start LAN World"
+  },
+  {
+    "old_key": "menu.returnToMenu",
+    "old_value": "保存并退回到标题画面",
+    "new_key": "menu.returnToMenu",
+    "new_value": "保存并退回到标题屏幕",
+    "en_us": "Save and Quit to Title"
+  },
+  {
+    "old_key": "menu.returnToMenu",
+    "old_value": "保存并退回到标题画面",
+    "new_key": "menu.returnToMenu",
+    "new_value": "保存并退回到标题屏幕",
+    "en_us": "Save and Quit to Title"
+  },
+  {
+    "old_key": "multiplayer.player.joined",
+    "old_value": "%s 加入了游戏",
+    "new_key": "multiplayer.player.joined",
+    "new_value": "%s加入了游戏",
+    "en_us": "%s joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.joined",
+    "old_value": "%s 加入了游戏",
+    "new_key": "multiplayer.player.joined",
+    "new_value": "%s加入了游戏",
+    "en_us": "%s joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.joined.renamed",
+    "old_value": "%s (之前被称为 %s)加入了游戏",
+    "new_key": "multiplayer.player.joined.renamed",
+    "new_value": "%s（之前被称为%s）加入了游戏",
+    "en_us": "%s (formerly known as %s) joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.joined.renamed",
+    "old_value": "%s (之前被称为 %s)加入了游戏",
+    "new_key": "multiplayer.player.joined.renamed",
+    "new_value": "%s（之前被称为%s）加入了游戏",
+    "en_us": "%s (formerly known as %s) joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.left",
+    "old_value": "%s 退出了游戏",
+    "new_key": "multiplayer.player.left",
+    "new_value": "%s退出了游戏",
+    "en_us": "%s left the game"
+  },
+  {
+    "old_key": "multiplayer.player.left",
+    "old_value": "%s 退出了游戏",
+    "new_key": "multiplayer.player.left",
+    "new_value": "%s退出了游戏",
+    "en_us": "%s left the game"
+  },
+  {
+    "old_key": "options.chat.visibility.system",
+    "old_value": "仅限指令",
+    "new_key": "options.chat.visibility.system",
+    "new_value": "仅限命令",
+    "en_us": "Commands Only"
+  },
+  {
+    "old_key": "options.chat.visibility.system",
+    "old_value": "仅限指令",
+    "new_key": "options.chat.visibility.system",
+    "new_value": "仅限命令",
+    "en_us": "Commands Only"
+  },
+  {
+    "old_key": "options.controls",
+    "old_value": "控制…",
+    "new_key": "options.controls",
+    "new_value": "按键控制…",
+    "en_us": "Controls..."
+  },
+  {
+    "old_key": "options.controls",
+    "old_value": "控制…",
+    "new_key": "options.controls",
+    "new_value": "按键控制…",
+    "en_us": "Controls..."
+  },
+  {
+    "old_key": "options.fov",
+    "old_value": "视野",
+    "new_key": "options.fov",
+    "new_value": "视场角",
+    "en_us": "FOV"
+  },
+  {
+    "old_key": "options.fov",
+    "old_value": "视野",
+    "new_key": "options.fov",
+    "new_value": "视场角",
+    "en_us": "FOV"
+  },
+  {
+    "old_key": "options.fov.min",
+    "old_value": "正常",
+    "new_key": "options.fov.min",
+    "new_value": "中",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "options.fov.min",
+    "old_value": "正常",
+    "new_key": "options.fov.min",
+    "new_value": "中",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "options.mipmapLevels",
+    "old_value": "Mipmap 级别",
+    "new_key": "options.mipmapLevels",
+    "new_value": "Mipmap级别",
+    "en_us": "Mipmap Levels"
+  },
+  {
+    "old_key": "options.mipmapLevels",
+    "old_value": "Mipmap 级别",
+    "new_key": "options.mipmapLevels",
+    "new_value": "Mipmap级别",
+    "en_us": "Mipmap Levels"
+  },
+  {
+    "old_key": "options.modelPart.jacket",
+    "old_value": "衣物",
+    "new_key": "options.modelPart.jacket",
+    "new_value": "外套",
+    "en_us": "Jacket"
+  },
+  {
+    "old_key": "options.modelPart.jacket",
+    "old_value": "衣物",
+    "new_key": "options.modelPart.jacket",
+    "new_value": "外套",
+    "en_us": "Jacket"
+  },
+  {
+    "old_key": "options.particles",
+    "old_value": "颗粒效果",
+    "new_key": "options.particles",
+    "new_value": "粒子效果",
+    "en_us": "Particles"
+  },
+  {
+    "old_key": "options.particles",
+    "old_value": "颗粒效果",
+    "new_key": "options.particles",
+    "new_value": "粒子效果",
+    "en_us": "Particles"
+  },
+  {
+    "old_key": "options.renderDistance",
+    "old_value": "能见度",
+    "new_key": "options.renderDistance",
+    "new_value": "渲染距离",
+    "en_us": "Render Distance"
+  },
+  {
+    "old_key": "options.renderDistance",
+    "old_value": "能见度",
+    "new_key": "options.renderDistance",
+    "new_value": "渲染距离",
+    "en_us": "Render Distance"
+  },
+  {
+    "old_key": "selectServer.defaultName",
+    "old_value": "Minecraft 服务器",
+    "new_key": "selectServer.defaultName",
+    "new_value": "Minecraft服务器",
+    "en_us": "Minecraft Server"
+  },
+  {
+    "old_key": "selectServer.defaultName",
+    "old_value": "Minecraft 服务器",
+    "new_key": "selectServer.defaultName",
+    "new_value": "Minecraft服务器",
+    "en_us": "Minecraft Server"
+  },
+  {
+    "old_key": "selectServer.deleteQuestion",
+    "old_value": "确定要删除此服务器吗?",
+    "new_key": "selectServer.deleteQuestion",
+    "new_value": "你确定要删除此服务器吗？",
+    "en_us": "Are you sure you want to remove this server?"
+  },
+  {
+    "old_key": "selectServer.deleteQuestion",
+    "old_value": "确定要删除此服务器吗?",
+    "new_key": "selectServer.deleteQuestion",
+    "new_value": "你确定要删除此服务器吗？",
+    "en_us": "Are you sure you want to remove this server?"
+  },
+  {
+    "old_key": "selectServer.hiddenAddress",
+    "old_value": "(隐藏)",
+    "new_key": "selectServer.hiddenAddress",
+    "new_value": "（隐藏）",
+    "en_us": "(Hidden)"
+  },
+  {
+    "old_key": "selectServer.hiddenAddress",
+    "old_value": "(隐藏)",
+    "new_key": "selectServer.hiddenAddress",
+    "new_value": "（隐藏）",
+    "en_us": "(Hidden)"
+  },
+  {
+    "old_key": "selectWorld.deleteQuestion",
+    "old_value": "确定要删除这个世界吗？",
+    "new_key": "selectWorld.deleteQuestion",
+    "new_value": "你确定要删除这个世界吗？",
+    "en_us": "Are you sure you want to delete this world?"
+  },
+  {
+    "old_key": "selectWorld.deleteQuestion",
+    "old_value": "确定要删除这个世界吗？",
+    "new_key": "selectWorld.deleteQuestion",
+    "new_value": "你确定要删除这个世界吗？",
+    "en_us": "Are you sure you want to delete this world?"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "不能被添加或者移除",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "放置或者移除方块",
+    "en_us": "be added or removed"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "不能被添加或者移除",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "放置或者移除方块",
+    "en_us": "be added or removed"
+  },
+  {
+    "old_key": "selectWorld.gameMode.spectator.line1",
+    "old_value": "你可以观看世界，但不能交互",
+    "new_key": "selectWorld.gameMode.spectator.line1",
+    "new_value": "你可以旁观，但不能互动",
+    "en_us": "You can look but don't touch"
+  },
+  {
+    "old_key": "selectWorld.gameMode.spectator.line1",
+    "old_value": "你可以观看世界，但不能交互",
+    "new_key": "selectWorld.gameMode.spectator.line1",
+    "new_value": "你可以旁观，但不能互动",
+    "en_us": "You can look but don't touch"
+  },
+  {
+    "old_key": "selectWorld.moreWorldOptions",
+    "old_value": "更多世界的选项…",
+    "new_key": "selectWorld.moreWorldOptions",
+    "new_value": "更多世界选项…",
+    "en_us": "More World Options..."
+  },
+  {
+    "old_key": "selectWorld.moreWorldOptions",
+    "old_value": "更多世界的选项…",
+    "new_key": "selectWorld.moreWorldOptions",
+    "new_value": "更多世界选项…",
+    "en_us": "More World Options..."
+  },
+  {
+    "old_key": "stat.entityKilledBy.none",
+    "old_value": "你从来没有被 %s 杀死过",
+    "new_key": "stat_type.minecraft.killed_by.none",
+    "new_value": "你从来没有被%s杀死过",
+    "en_us": "You have never been killed by %s"
+  },
+  {
+    "old_key": "stat.entityKills.none",
+    "old_value": "你从来没有杀死过 %s",
+    "new_key": "stat_type.minecraft.killed.none",
+    "new_value": "你从来没有杀死过%s",
+    "en_us": "You have never killed %s"
+  },
+  {
+    "old_key": "tile.acaciaFence.name",
+    "old_value": "金合欢栅栏",
+    "new_key": "block.minecraft.acacia_fence",
+    "new_value": "金合欢木栅栏",
+    "en_us": "Acacia Fence"
+  },
+  {
+    "old_key": "tile.acaciaFence.name",
+    "old_value": "金合欢栅栏",
+    "new_key": "block.minecraft.acacia_fence",
+    "new_value": "金合欢木栅栏",
+    "en_us": "Acacia Fence"
+  },
+  {
+    "old_key": "tile.acaciaFenceGate.name",
+    "old_value": "金合欢栅栏门",
+    "new_key": "block.minecraft.acacia_fence_gate",
+    "new_value": "金合欢木栅栏门",
+    "en_us": "Acacia Fence Gate"
+  },
+  {
+    "old_key": "tile.acaciaFenceGate.name",
+    "old_value": "金合欢栅栏门",
+    "new_key": "block.minecraft.acacia_fence_gate",
+    "new_value": "金合欢木栅栏门",
+    "en_us": "Acacia Fence Gate"
+  },
+  {
+    "old_key": "tile.brick.name",
+    "old_value": "砖块",
+    "new_key": "block.minecraft.bricks",
+    "new_value": "红砖块",
+    "en_us": "Bricks"
+  },
+  {
+    "old_key": "tile.brick.name",
+    "old_value": "砖块",
+    "new_key": "block.minecraft.bricks",
+    "new_value": "红砖块",
+    "en_us": "Bricks"
+  },
+  {
+    "old_key": "tile.clay.name",
+    "old_value": "粘土块",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "tile.clay.name",
+    "old_value": "粘土块",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "item.clay.name",
+    "old_value": "粘土",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "tile.deadbush.name",
+    "old_value": "枯死的灌木",
+    "new_key": "block.minecraft.dead_bush",
+    "new_value": "枯萎的灌木",
+    "en_us": "Dead Bush"
+  },
+  {
+    "old_key": "tile.deadbush.name",
+    "old_value": "枯死的灌木",
+    "new_key": "block.minecraft.dead_bush",
+    "new_value": "枯萎的灌木",
+    "en_us": "Dead Bush"
+  },
+  {
+    "old_key": "tile.flower2.houstonia.name",
+    "old_value": "茜草花",
+    "new_key": "block.minecraft.azure_bluet",
+    "new_value": "蓝花美耳草",
+    "en_us": "Azure Bluet"
+  },
+  {
+    "old_key": "tile.flower2.houstonia.name",
+    "old_value": "茜草花",
+    "new_key": "block.minecraft.azure_bluet",
+    "new_value": "蓝花美耳草",
+    "en_us": "Azure Bluet"
+  },
+  {
+    "old_key": "tile.flower2.poppy.name",
+    "old_value": "罂粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "虞美人",
+    "en_us": "Poppy"
+  },
+  {
+    "old_key": "tile.flower2.poppy.name",
+    "old_value": "罂粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "虞美人",
+    "en_us": "Poppy"
+  },
+  {
+    "old_key": "tile.goldenRail.name",
+    "old_value": "充能铁轨",
+    "new_key": "block.minecraft.powered_rail",
+    "new_value": "动力铁轨",
+    "en_us": "Powered Rail"
+  },
+  {
+    "old_key": "tile.goldenRail.name",
+    "old_value": "充能铁轨",
+    "new_key": "block.minecraft.powered_rail",
+    "new_value": "动力铁轨",
+    "en_us": "Powered Rail"
+  },
+  {
+    "old_key": "tile.hayBlock.name",
+    "old_value": "干草块",
+    "new_key": "block.minecraft.hay_block",
+    "new_value": "干草捆",
+    "en_us": "Hay Bale"
+  },
+  {
+    "old_key": "tile.hayBlock.name",
+    "old_value": "干草块",
+    "new_key": "block.minecraft.hay_block",
+    "new_value": "干草捆",
+    "en_us": "Hay Bale"
+  },
+  {
+    "old_key": "tile.hellrock.name",
+    "old_value": "地狱岩",
+    "new_key": "block.minecraft.netherrack",
+    "new_value": "下界岩",
+    "en_us": "Netherrack"
+  },
+  {
+    "old_key": "tile.hellrock.name",
+    "old_value": "地狱岩",
+    "new_key": "block.minecraft.netherrack",
+    "new_value": "下界岩",
+    "en_us": "Netherrack"
+  },
+  {
+    "old_key": "tile.lava.name",
+    "old_value": "岩浆",
+    "new_key": "block.minecraft.lava",
+    "new_value": "熔岩",
+    "en_us": "Lava"
+  },
+  {
+    "old_key": "tile.lava.name",
+    "old_value": "岩浆",
+    "new_key": "block.minecraft.lava",
+    "new_value": "熔岩",
+    "en_us": "Lava"
+  },
+  {
+    "old_key": "tile.lightgem.name",
+    "old_value": "萤石",
+    "new_key": "block.minecraft.glowstone",
+    "new_value": "荧石",
+    "en_us": "Glowstone"
+  },
+  {
+    "old_key": "tile.lightgem.name",
+    "old_value": "萤石",
+    "new_key": "block.minecraft.glowstone",
+    "new_value": "荧石",
+    "en_us": "Glowstone"
+  },
+  {
+    "old_key": "tile.mobSpawner.name",
+    "old_value": "刷怪箱",
+    "new_key": "block.minecraft.spawner",
+    "new_value": "刷怪笼",
+    "en_us": "Monster Spawner"
+  },
+  {
+    "old_key": "tile.mobSpawner.name",
+    "old_value": "刷怪箱",
+    "new_key": "block.minecraft.spawner",
+    "new_value": "刷怪笼",
+    "en_us": "Monster Spawner"
+  },
+  {
+    "old_key": "tile.mycel.name",
+    "old_value": "菌丝",
+    "new_key": "block.minecraft.mycelium",
+    "new_value": "菌丝体",
+    "en_us": "Mycelium"
+  },
+  {
+    "old_key": "tile.mycel.name",
+    "old_value": "菌丝",
+    "new_key": "block.minecraft.mycelium",
+    "new_value": "菌丝体",
+    "en_us": "Mycelium"
+  },
+  {
+    "old_key": "tile.netherFence.name",
+    "old_value": "地狱砖栅栏",
+    "new_key": "block.minecraft.nether_brick_fence",
+    "new_value": "下界砖栅栏",
+    "en_us": "Nether Brick Fence"
+  },
+  {
+    "old_key": "tile.netherFence.name",
+    "old_value": "地狱砖栅栏",
+    "new_key": "block.minecraft.nether_brick_fence",
+    "new_value": "下界砖栅栏",
+    "en_us": "Nether Brick Fence"
+  },
+  {
+    "old_key": "tile.netherStalk.name",
+    "old_value": "地狱疣",
+    "new_key": "block.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "tile.netherStalk.name",
+    "old_value": "地狱疣",
+    "new_key": "block.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "item.netherStalkSeeds.name",
+    "old_value": "地狱疣",
+    "new_key": "block.minecraft.nether_wart",
+    "new_value": "下界疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "tile.pistonStickyBase.name",
+    "old_value": "粘性活塞",
+    "new_key": "block.minecraft.sticky_piston",
+    "new_value": "黏性活塞",
+    "en_us": "Sticky Piston"
+  },
+  {
+    "old_key": "tile.pistonStickyBase.name",
+    "old_value": "粘性活塞",
+    "new_key": "block.minecraft.sticky_piston",
+    "new_value": "黏性活塞",
+    "en_us": "Sticky Piston"
+  },
+  {
+    "old_key": "tile.pressurePlateStone.name",
+    "old_value": "石质压力板",
+    "new_key": "block.minecraft.stone_pressure_plate",
+    "new_value": "石头压力板",
+    "en_us": "Stone Pressure Plate"
+  },
+  {
+    "old_key": "tile.pressurePlateStone.name",
+    "old_value": "石质压力板",
+    "new_key": "block.minecraft.stone_pressure_plate",
+    "new_value": "石头压力板",
+    "en_us": "Stone Pressure Plate"
+  },
+  {
+    "old_key": "tile.quartzBlock.chiseled.name",
+    "old_value": "錾制石英块",
+    "new_key": "block.minecraft.chiseled_quartz_block",
+    "new_value": "雕纹石英块",
+    "en_us": "Chiseled Quartz Block"
+  },
+  {
+    "old_key": "tile.quartzBlock.chiseled.name",
+    "old_value": "錾制石英块",
+    "new_key": "block.minecraft.chiseled_quartz_block",
+    "new_value": "雕纹石英块",
+    "en_us": "Chiseled Quartz Block"
+  },
+  {
+    "old_key": "tile.redSandStone.chiseled.name",
+    "old_value": "錾制红沙石",
+    "new_key": "block.minecraft.chiseled_red_sandstone",
+    "new_value": "雕纹红砂岩",
+    "en_us": "Chiseled Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.chiseled.name",
+    "old_value": "錾制红沙石",
+    "new_key": "block.minecraft.chiseled_red_sandstone",
+    "new_value": "雕纹红砂岩",
+    "en_us": "Chiseled Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.default.name",
+    "old_value": "红沙石",
+    "new_key": "block.minecraft.red_sandstone",
+    "new_value": "红砂岩",
+    "en_us": "Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.name",
+    "old_value": "红沙石",
+    "new_key": "block.minecraft.red_sandstone",
+    "new_value": "红砂岩",
+    "en_us": "Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.name",
+    "old_value": "红沙石",
+    "new_key": "block.minecraft.red_sandstone",
+    "new_value": "红砂岩",
+    "en_us": "Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.default.name",
+    "old_value": "红沙石",
+    "new_key": "block.minecraft.red_sandstone",
+    "new_value": "红砂岩",
+    "en_us": "Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.smooth.name",
+    "old_value": "平滑红沙石",
+    "new_key": "block.minecraft.smooth_red_sandstone",
+    "new_value": "平滑红砂岩",
+    "en_us": "Smooth Red Sandstone"
+  },
+  {
+    "old_key": "tile.redSandStone.smooth.name",
+    "old_value": "平滑红沙石",
+    "new_key": "block.minecraft.smooth_red_sandstone",
+    "new_value": "平滑红砂岩",
+    "en_us": "Smooth Red Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.chiseled.name",
+    "old_value": "錾制沙石",
+    "new_key": "block.minecraft.chiseled_sandstone",
+    "new_value": "雕纹砂岩",
+    "en_us": "Chiseled Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.chiseled.name",
+    "old_value": "錾制沙石",
+    "new_key": "block.minecraft.chiseled_sandstone",
+    "new_value": "雕纹砂岩",
+    "en_us": "Chiseled Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.default.name",
+    "old_value": "沙石",
+    "new_key": "block.minecraft.sandstone",
+    "new_value": "砂岩",
+    "en_us": "Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.name",
+    "old_value": "沙石",
+    "new_key": "block.minecraft.sandstone",
+    "new_value": "砂岩",
+    "en_us": "Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.name",
+    "old_value": "沙石",
+    "new_key": "block.minecraft.sandstone",
+    "new_value": "砂岩",
+    "en_us": "Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.default.name",
+    "old_value": "沙石",
+    "new_key": "block.minecraft.sandstone",
+    "new_value": "砂岩",
+    "en_us": "Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.smooth.name",
+    "old_value": "平滑沙石",
+    "new_key": "block.minecraft.smooth_sandstone",
+    "new_value": "平滑砂岩",
+    "en_us": "Smooth Sandstone"
+  },
+  {
+    "old_key": "tile.sandStone.smooth.name",
+    "old_value": "平滑沙石",
+    "new_key": "block.minecraft.smooth_sandstone",
+    "new_value": "平滑砂岩",
+    "en_us": "Smooth Sandstone"
+  },
+  {
+    "old_key": "tile.slime.name",
+    "old_value": "粘液块",
+    "new_key": "block.minecraft.slime_block",
+    "new_value": "黏液块",
+    "en_us": "Slime Block"
+  },
+  {
+    "old_key": "tile.slime.name",
+    "old_value": "粘液块",
+    "new_key": "block.minecraft.slime_block",
+    "new_value": "黏液块",
+    "en_us": "Slime Block"
+  },
+  {
+    "old_key": "tile.stairsBrick.name",
+    "old_value": "砖楼梯",
+    "new_key": "block.minecraft.brick_stairs",
+    "new_value": "红砖楼梯",
+    "en_us": "Brick Stairs"
+  },
+  {
+    "old_key": "tile.stairsBrick.name",
+    "old_value": "砖楼梯",
+    "new_key": "block.minecraft.brick_stairs",
+    "new_value": "红砖楼梯",
+    "en_us": "Brick Stairs"
+  },
+  {
+    "old_key": "tile.stairsNetherBrick.name",
+    "old_value": "地狱砖楼梯",
+    "new_key": "block.minecraft.nether_brick_stairs",
+    "new_value": "下界砖楼梯",
+    "en_us": "Nether Brick Stairs"
+  },
+  {
+    "old_key": "tile.stairsNetherBrick.name",
+    "old_value": "地狱砖楼梯",
+    "new_key": "block.minecraft.nether_brick_stairs",
+    "new_value": "下界砖楼梯",
+    "en_us": "Nether Brick Stairs"
+  },
+  {
+    "old_key": "tile.stairsRedSandStone.name",
+    "old_value": "红沙石楼梯",
+    "new_key": "block.minecraft.red_sandstone_stairs",
+    "new_value": "红砂岩楼梯",
+    "en_us": "Red Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stairsRedSandStone.name",
+    "old_value": "红沙石楼梯",
+    "new_key": "block.minecraft.red_sandstone_stairs",
+    "new_value": "红砂岩楼梯",
+    "en_us": "Red Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stairsSandStone.name",
+    "old_value": "沙石楼梯",
+    "new_key": "block.minecraft.sandstone_stairs",
+    "new_value": "砂岩楼梯",
+    "en_us": "Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stairsSandStone.name",
+    "old_value": "沙石楼梯",
+    "new_key": "block.minecraft.sandstone_stairs",
+    "new_value": "砂岩楼梯",
+    "en_us": "Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stairsStone.name",
+    "old_value": "石楼梯",
+    "new_key": "block.minecraft.cobblestone_stairs",
+    "new_value": "圆石楼梯",
+    "en_us": "Cobblestone Stairs"
+  },
+  {
+    "old_key": "tile.stairsStone.name",
+    "old_value": "石楼梯",
+    "new_key": "block.minecraft.cobblestone_stairs",
+    "new_value": "圆石楼梯",
+    "en_us": "Cobblestone Stairs"
+  },
+  {
+    "old_key": "tile.stoneSlab.name",
+    "old_value": "石台阶",
+    "new_key": "block.minecraft.stone_slab",
+    "new_value": "石头台阶",
+    "en_us": "Stone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.stone.name",
+    "old_value": "石台阶",
+    "new_key": "block.minecraft.stone_slab",
+    "new_value": "石头台阶",
+    "en_us": "Stone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.name",
+    "old_value": "石台阶",
+    "new_key": "block.minecraft.stone_slab",
+    "new_value": "石头台阶",
+    "en_us": "Stone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.stone.name",
+    "old_value": "石台阶",
+    "new_key": "block.minecraft.stone_slab",
+    "new_value": "石头台阶",
+    "en_us": "Stone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.netherBrick.name",
+    "old_value": "地狱砖台阶",
+    "new_key": "block.minecraft.nether_brick_slab",
+    "new_value": "下界砖台阶",
+    "en_us": "Nether Brick Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.netherBrick.name",
+    "old_value": "地狱砖台阶",
+    "new_key": "block.minecraft.nether_brick_slab",
+    "new_value": "下界砖台阶",
+    "en_us": "Nether Brick Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.sand.name",
+    "old_value": "沙石台阶",
+    "new_key": "block.minecraft.sandstone_slab",
+    "new_value": "砂岩台阶",
+    "en_us": "Sandstone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab.sand.name",
+    "old_value": "沙石台阶",
+    "new_key": "block.minecraft.sandstone_slab",
+    "new_value": "砂岩台阶",
+    "en_us": "Sandstone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab2.red_sandstone.name",
+    "old_value": "红沙石台阶",
+    "new_key": "block.minecraft.red_sandstone_slab",
+    "new_value": "红砂岩台阶",
+    "en_us": "Red Sandstone Slab"
+  },
+  {
+    "old_key": "tile.stoneSlab2.red_sandstone.name",
+    "old_value": "红沙石台阶",
+    "new_key": "block.minecraft.red_sandstone_slab",
+    "new_value": "红砂岩台阶",
+    "en_us": "Red Sandstone Slab"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.chiseled.name",
+    "old_value": "錾制石砖",
+    "new_key": "block.minecraft.chiseled_stone_bricks",
+    "new_value": "雕纹石砖",
+    "en_us": "Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.chiseled.name",
+    "old_value": "錾制石砖",
+    "new_key": "block.minecraft.chiseled_stone_bricks",
+    "new_value": "雕纹石砖",
+    "en_us": "Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.cracked.name",
+    "old_value": "裂石砖",
+    "new_key": "block.minecraft.cracked_stone_bricks",
+    "new_value": "裂纹石砖",
+    "en_us": "Cracked Stone Bricks"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.cracked.name",
+    "old_value": "裂石砖",
+    "new_key": "block.minecraft.cracked_stone_bricks",
+    "new_value": "裂纹石砖",
+    "en_us": "Cracked Stone Bricks"
+  },
+  {
+    "old_key": "item.skull.creeper.name",
+    "old_value": "爬行者的头",
+    "new_key": "block.minecraft.creeper_head",
+    "new_value": "苦力怕的头",
+    "en_us": "Creeper Head"
+  },
+  {
+    "old_key": "commands.gamemode.success.other",
+    "old_value": "将 %s 的游戏模式改为 %s",
+    "new_key": "commands.gamemode.success.other",
+    "new_value": "已将%s的游戏模式改为%s",
+    "en_us": "Set %s's game mode to %s"
+  },
+  {
+    "old_key": "commands.gamemode.success.self",
+    "old_value": "您的游戏模式已被设置为 %s",
+    "new_key": "commands.gamemode.success.self",
+    "new_value": "已将自己的游戏模式设置为%s",
+    "en_us": "Set own game mode to %s"
+  },
+  {
+    "old_key": "commands.publish.started",
+    "old_value": "本地游戏已在端口 %s 上开启",
+    "new_key": "commands.publish.started",
+    "new_value": "本地游戏已在端口%s上开启",
+    "en_us": "Local game hosted on port %s"
+  },
+  {
+    "old_key": "commands.seed.success",
+    "old_value": "种子: %s",
+    "new_key": "commands.seed.success",
+    "new_value": "种子：%s",
+    "en_us": "Seed: %s"
+  },
+  {
+    "old_key": "commands.whitelist.add.success",
+    "old_value": "已将 %s 加入白名单",
+    "new_key": "commands.whitelist.add.success",
+    "new_value": "已将%s加入白名单",
+    "en_us": "Added %s to the whitelist"
+  },
+  {
+    "old_key": "commands.whitelist.remove.success",
+    "old_value": "已将 %s 移出白名单",
+    "new_key": "commands.whitelist.remove.success",
+    "new_value": "已将%s移出白名单",
+    "en_us": "Removed %s from the whitelist"
+  }
+]

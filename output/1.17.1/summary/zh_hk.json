@@ -1,0 +1,5252 @@
+[
+  {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知進度：%s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知的進度：%s",
+    "en_us": "Unknown advancement: %s"
+  },
+  {
+    "old_key": "advancements.adventure.adventuring_time.description",
+    "old_value": "發現每個生物群落",
+    "new_key": "advancements.adventure.adventuring_time.description",
+    "new_value": "發現每個生物羣落",
+    "en_us": "Discover every biome"
+  },
+  {
+    "old_key": "advancements.adventure.arbalistic.description",
+    "old_value": "用弩一箭射殺五種生物",
+    "new_key": "advancements.adventure.arbalistic.description",
+    "new_value": "用弩一擊射殺五種生物",
+    "en_us": "Kill five unique mobs with one crossbow shot"
+  },
+  {
+    "old_key": "advancements.adventure.bullseye.description",
+    "old_value": "喺至少 30 米外擊中標靶嘅靶心",
+    "new_key": "advancements.adventure.bullseye.description",
+    "new_value": "從至少 30 米外擊中標靶靶心",
+    "en_us": "Hit the bullseye of a Target block from at least 30 meters away"
+  },
+  {
+    "old_key": "advancements.adventure.hero_of_the_village.description",
+    "old_value": "成功喺襲擊之中保護村莊",
+    "new_key": "advancements.adventure.hero_of_the_village.description",
+    "new_value": "成功在襲擊之中保護村莊",
+    "en_us": "Successfully defend a village from a raid"
+  },
+  {
+    "old_key": "advancements.adventure.honey_block_slide.description",
+    "old_value": "跳入蜂蜜塊安全滑落地面",
+    "new_key": "advancements.adventure.honey_block_slide.description",
+    "new_value": "跳入蜜糖塊之後安全滑落到地面",
+    "en_us": "Jump into a Honey Block to break your fall"
+  },
+  {
+    "old_key": "advancements.adventure.honey_block_slide.title",
+    "old_value": "情況膠着",
+    "new_key": "advancements.adventure.honey_block_slide.title",
+    "new_value": "黐𥹉𥹉狀態",
+    "en_us": "Sticky Situation"
+  },
+  {
+    "old_key": "advancements.adventure.sniper_duel.description",
+    "old_value": "從至少 50 米之外射殺一個骷髏骨",
+    "new_key": "advancements.adventure.sniper_duel.description",
+    "new_value": "從至少 50 米以外射殺一隻骷髏骨",
+    "en_us": "Kill a Skeleton from at least 50 meters away"
+  },
+  {
+    "old_key": "advancements.adventure.spyglass_at_ghast.title",
+    "old_value": "好似係隻氣球？",
+    "new_key": "advancements.adventure.spyglass_at_ghast.title",
+    "new_value": "好似係個氣球？",
+    "en_us": "Is It a Balloon?"
+  },
+  {
+    "old_key": "advancements.adventure.summon_iron_golem.description",
+    "old_value": "召喚一個鐵人嚟協助保衞村莊",
+    "new_key": "advancements.adventure.summon_iron_golem.description",
+    "new_value": "召喚一個鐵人以協助保衞村莊",
+    "en_us": "Summon an Iron Golem to help defend a village"
+  },
+  {
+    "old_key": "advancements.adventure.totem_of_undying.description",
+    "old_value": "使用不死圖騰嚟逃離死神",
+    "new_key": "advancements.adventure.totem_of_undying.description",
+    "new_value": "用不死圖騰來逃離死神",
+    "en_us": "Use a Totem of Undying to cheat death"
+  },
+  {
+    "old_key": "advancements.adventure.trade.description",
+    "old_value": "成功同村民進行交易",
+    "new_key": "advancements.adventure.trade.description",
+    "new_value": "成功與村民交易",
+    "en_us": "Successfully trade with a Villager"
+  },
+  {
+    "old_key": "advancements.adventure.very_very_frightening.description",
+    "old_value": "雷擊一個村民",
+    "new_key": "advancements.adventure.very_very_frightening.description",
+    "new_value": "用雷電劈一個村民",
+    "en_us": "Strike a Villager with lightning"
+  },
+  {
+    "old_key": "advancements.adventure.voluntary_exile.description",
+    "old_value": "殺死突襲隊長。\n或者考慮下暫時遠離村莊⋯⋯",
+    "new_key": "advancements.adventure.voluntary_exile.description",
+    "new_value": "殺死突襲隊長。\n或者考慮暫時遠離村莊⋯⋯",
+    "en_us": "Kill a raid captain.\nMaybe consider staying away from villages for the time being..."
+  },
+  {
+    "old_key": "advancements.empty",
+    "old_value": "依度好似乜都冇⋯⋯",
+    "new_key": "advancements.empty",
+    "new_value": "這裏好像什麼都沒有⋯⋯",
+    "en_us": "There doesn't seem to be anything here..."
+  },
+  {
+    "old_key": "advancements.end.dragon_egg.description",
+    "old_value": "攞到龍蛋",
+    "new_key": "advancements.end.dragon_egg.description",
+    "new_value": "得到龍蛋",
+    "en_us": "Hold the Dragon Egg"
+  },
+  {
+    "old_key": "advancements.end.elytra.title",
+    "old_value": "天空即為極限",
+    "new_key": "advancements.end.elytra.title",
+    "new_value": "天下無難事",
+    "en_us": "Sky's the Limit"
+  },
+  {
+    "old_key": "advancements.end.enter_end_gateway.description",
+    "old_value": "逃離依座島",
+    "new_key": "advancements.end.enter_end_gateway.description",
+    "new_value": "逃離這座島",
+    "en_us": "Escape the island"
+  },
+  {
+    "old_key": "advancements.end.find_end_city.description",
+    "old_value": "入去，又會點啫？",
+    "new_key": "advancements.end.find_end_city.description",
+    "new_value": "進去，又會發生什麼？",
+    "en_us": "Go on in, what could happen?"
+  },
+  {
+    "old_key": "advancements.end.levitate.description",
+    "old_value": "利用界伏蚌嘅攻擊向上飄浮 50 格",
+    "new_key": "advancements.end.levitate.description",
+    "new_value": "利用界伏蚌的攻擊向上飄浮 50 格",
+    "en_us": "Levitate up 50 blocks from the attacks of a Shulker"
+  },
+  {
+    "old_key": "advancements.end.root.description",
+    "old_value": "定係新嘅開始？",
+    "new_key": "advancements.end.root.description",
+    "new_value": "還是新的開始？",
+    "en_us": "Or the beginning?"
+  },
+  {
+    "old_key": "advancements.husbandry.balanced_diet.description",
+    "old_value": "食勻食得嘅嘢，就算佢哋對你嘅身體有害",
+    "new_key": "advancements.husbandry.balanced_diet.description",
+    "new_value": "吃遍所有可以吃的東西，就算它們對你的身體有害",
+    "en_us": "Eat everything that is edible, even if it's not good for you"
+  },
+  {
+    "old_key": "advancements.husbandry.breed_all_animals.description",
+    "old_value": "繁殖所有種類嘅動物！",
+    "new_key": "advancements.husbandry.breed_all_animals.description",
+    "new_value": "繁殖所有種類的動物！",
+    "en_us": "Breed all the animals!"
+  },
+  {
+    "old_key": "advancements.husbandry.breed_an_animal.description",
+    "old_value": "餵養兩隻動物，令佢哋繁殖",
+    "new_key": "advancements.husbandry.breed_an_animal.description",
+    "new_value": "餵養兩隻動物，令牠們繁殖",
+    "en_us": "Breed two animals together"
+  },
+  {
+    "old_key": "advancements.husbandry.kill_axolotl_target.title",
+    "old_value": "友誼嘅治療波動！",
+    "new_key": "advancements.husbandry.kill_axolotl_target.title",
+    "new_value": "友誼的治療波動！",
+    "en_us": "The Healing Power of Friendship!"
+  },
+  {
+    "old_key": "advancements.husbandry.make_a_sign_glow.title",
+    "old_value": "螢光奪目！",
+    "new_key": "advancements.husbandry.make_a_sign_glow.title",
+    "new_value": "熒光奪目！",
+    "en_us": "Glow and Behold!"
+  },
+  {
+    "old_key": "advancements.husbandry.netherite_hoe.title",
+    "old_value": "終極奉獻",
+    "new_key": "advancements.husbandry.netherite_hoe.title",
+    "new_value": "敬業樂業",
+    "en_us": "Serious Dedication"
+  },
+  {
+    "old_key": "advancements.husbandry.plant_seed.description",
+    "old_value": "種下一個種子並見證佢嘅成長",
+    "new_key": "advancements.husbandry.plant_seed.description",
+    "new_value": "種植一顆種子並見證它的成長",
+    "en_us": "Plant a seed and watch it grow"
+  },
+  {
+    "old_key": "advancements.husbandry.ride_a_boat_with_a_goat.description",
+    "old_value": "同山羊坐埋一條船",
+    "new_key": "advancements.husbandry.ride_a_boat_with_a_goat.description",
+    "new_value": "與山羊坐在同一條船",
+    "en_us": "Get in a Boat and float with a Goat"
+  },
+  {
+    "old_key": "advancements.husbandry.ride_a_boat_with_a_goat.title",
+    "old_value": "羊帆起航！",
+    "new_key": "advancements.husbandry.ride_a_boat_with_a_goat.title",
+    "new_value": "「羊」帆起航！",
+    "en_us": "Whatever Floats Your Goat!"
+  },
+  {
+    "old_key": "advancements.husbandry.root.description",
+    "old_value": "天下世間，邊度冇老友同埋美食？",
+    "new_key": "advancements.husbandry.root.description",
+    "new_value": "這個世界充滿朋友與美食",
+    "en_us": "The world is full of friends and food"
+  },
+  {
+    "old_key": "advancements.husbandry.safely_harvest_honey.title",
+    "old_value": "待客蜂範",
+    "new_key": "advancements.husbandry.safely_harvest_honey.title",
+    "new_value": "待客「蜂」範",
+    "en_us": "Bee Our Guest"
+  },
+  {
+    "old_key": "advancements.husbandry.silk_touch_nest.title",
+    "old_value": "蜂裝物流",
+    "new_key": "advancements.husbandry.silk_touch_nest.title",
+    "new_value": "「蜂」裝物流",
+    "en_us": "Total Beelocation"
+  },
+  {
+    "old_key": "advancements.husbandry.wax_on.description",
+    "old_value": "將蜂巢蜜搽喺銅磚上面！",
+    "new_key": "advancements.husbandry.wax_on.description",
+    "new_value": "將蜂巢蜜塗在銅磚上面！",
+    "en_us": "Apply Honeycomb to a Copper block!"
+  },
+  {
+    "old_key": "advancements.nether.brew_potion.title",
+    "old_value": "自家嘅釀造廠",
+    "new_key": "advancements.nether.brew_potion.title",
+    "new_value": "自家釀造廠",
+    "en_us": "Local Brewery"
+  },
+  {
+    "old_key": "advancements.nether.explore_nether.description",
+    "old_value": "探索所有地獄生物群落",
+    "new_key": "advancements.nether.explore_nether.description",
+    "new_value": "探索所有地獄生物羣落",
+    "en_us": "Explore all Nether biomes"
+  },
+  {
+    "old_key": "advancements.nether.fast_travel.description",
+    "old_value": "利用地獄喺主世界旅行超過七公里",
+    "new_key": "advancements.nether.fast_travel.description",
+    "new_value": "利用地獄在對應主世界距離旅行超過七公里",
+    "en_us": "Use the Nether to travel 7 km in the Overworld"
+  },
+  {
+    "old_key": "advancements.nether.find_fortress.description",
+    "old_value": "用自己嘅方法進入地獄要塞",
+    "new_key": "advancements.nether.find_fortress.description",
+    "new_value": "用自己的方法進入地獄要塞",
+    "en_us": "Break your way into a Nether Fortress"
+  },
+  {
+    "old_key": "advancements.nether.get_wither_skull.description",
+    "old_value": "攞到凋零骷髏骨嘅頭",
+    "new_key": "advancements.nether.get_wither_skull.description",
+    "new_value": "得到凋零骷髏骨的頭顱",
+    "en_us": "Obtain a Wither Skeleton's skull"
+  },
+  {
+    "old_key": "advancements.nether.netherite_armor.description",
+    "old_value": "攞到全套地獄合金盔甲",
+    "new_key": "advancements.nether.netherite_armor.description",
+    "new_value": "得到全套地獄合金盔甲",
+    "en_us": "Get a full suit of Netherite armor"
+  },
+  {
+    "old_key": "advancements.nether.netherite_armor.title",
+    "old_value": "用殘骸冚住我",
+    "new_key": "advancements.nether.netherite_armor.title",
+    "new_value": "用殘骸包住我",
+    "en_us": "Cover Me in Debris"
+  },
+  {
+    "old_key": "advancements.nether.obtain_ancient_debris.description",
+    "old_value": "揾到遠古殘骸",
+    "new_key": "advancements.nether.obtain_ancient_debris.description",
+    "new_value": "得到遠古殘骸",
+    "en_us": "Obtain Ancient Debris"
+  },
+  {
+    "old_key": "advancements.nether.obtain_blaze_rod.description",
+    "old_value": "令烈焰使者由烈焰棒之中解脱",
+    "new_key": "advancements.nether.obtain_blaze_rod.description",
+    "new_value": "令烈焰使者在烈焰棒中解脱",
+    "en_us": "Relieve a Blaze of its rod"
+  },
+  {
+    "old_key": "advancements.nether.obtain_crying_obsidian.description",
+    "old_value": "攞到哭曜石",
+    "new_key": "advancements.nether.obtain_crying_obsidian.description",
+    "new_value": "得到哭曜石",
+    "en_us": "Obtain Crying Obsidian"
+  },
+  {
+    "old_key": "advancements.nether.ride_strider.description",
+    "old_value": "利用迷離菌菇魚竿騎乘熾足獸",
+    "new_key": "advancements.nether.ride_strider.description",
+    "new_value": "用迷離菌菇魚竿騎乘熾足獸",
+    "en_us": "Ride a Strider with a Warped Fungus on a Stick"
+  },
+  {
+    "old_key": "advancements.nether.root.description",
+    "old_value": "記得帶埋夏裝",
+    "new_key": "advancements.nether.root.description",
+    "new_value": "記得帶上夏裝",
+    "en_us": "Bring summer clothes"
+  },
+  {
+    "old_key": "advancements.nether.uneasy_alliance.description",
+    "old_value": "將地獄幽靈從地獄安全帶返主世界⋯⋯之後再殺咗佢",
+    "new_key": "advancements.nether.uneasy_alliance.description",
+    "new_value": "將地獄幽靈從地獄安全帶去主世界⋯⋯之後再殺死它",
+    "en_us": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it"
+  },
+  {
+    "old_key": "advancements.story.cure_zombie_villager.description",
+    "old_value": "弱化並醫好一個殭屍村民",
+    "new_key": "advancements.story.cure_zombie_villager.description",
+    "new_value": "弱化並治愈一個喪屍村民",
+    "en_us": "Weaken and then cure a Zombie Villager"
+  },
+  {
+    "old_key": "advancements.story.cure_zombie_villager.title",
+    "old_value": "殭屍醫生",
+    "new_key": "advancements.story.cure_zombie_villager.title",
+    "new_value": "喪屍醫生",
+    "en_us": "Zombie Doctor"
+  },
+  {
+    "old_key": "advancements.story.follow_ender_eye.description",
+    "old_value": "跟住終界之眼",
+    "new_key": "advancements.story.follow_ender_eye.description",
+    "new_value": "跟隨終界之眼",
+    "en_us": "Follow an Eye of Ender"
+  },
+  {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "依把就係鐵鎬？",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "呢把就係鐵鎬？",
+    "en_us": "Isn't It Iron Pick"
+  },
+  {
+    "old_key": "advancements.story.root.description",
+    "old_value": "遊戲嘅核心同埋故事",
+    "new_key": "advancements.story.root.description",
+    "new_value": "遊戲核心與故事",
+    "en_us": "The heart and story of the game"
+  },
+  {
+    "old_key": "advancements.story.shiny_gear.title",
+    "old_value": "用鑽石冚住我",
+    "new_key": "advancements.story.shiny_gear.title",
+    "new_value": "用鑽石包住我",
+    "en_us": "Cover Me with Diamonds"
+  },
+  {
+    "old_key": "advancements.story.smelt_iron.title",
+    "old_value": "第一嚿鐵",
+    "new_key": "advancements.story.smelt_iron.title",
+    "new_value": "夾硬嚟",
+    "en_us": "Acquire Hardware"
+  },
+  {
+    "old_key": "advMode.mode.autoexec.bat",
+    "old_value": "保持激活",
+    "new_key": "advMode.mode.autoexec.bat",
+    "new_value": "保持開啟",
+    "en_us": "Always Active"
+  },
+  {
+    "old_key": "advMode.notAllowed",
+    "old_value": "必須為創造模式中嘅管理員",
+    "new_key": "advMode.notAllowed",
+    "new_value": "必須為創造模式中的管理員",
+    "en_us": "Must be an opped player in creative mode"
+  },
+  {
+    "old_key": "advMode.notEnabled",
+    "old_value": "依個伺服器已經停用命令方塊",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此伺服器已經停用命令方塊",
+    "en_us": "Command blocks are not enabled on this server"
+  },
+  {
+    "old_key": "advMode.setCommand",
+    "old_value": "設定依個方塊嘅控制台命令",
+    "new_key": "advMode.setCommand",
+    "new_value": "設定此方塊的控制台命令",
+    "en_us": "Set Console Command for Block"
+  },
+  {
+    "old_key": "advMode.setCommand.success",
+    "old_value": "成功設置：%s",
+    "new_key": "advMode.setCommand.success",
+    "new_value": "成功設定命令：%s",
+    "en_us": "Command set: %s"
+  },
+  {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效實體錨點座標 %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效實體錨點位置 %s",
+    "en_us": "Invalid entity anchor position %s"
+  },
+  {
+    "old_key": "argument.angle.incomplete",
+    "old_value": "不完整（需要 1 個角度）",
+    "new_key": "argument.angle.incomplete",
+    "new_value": "不完整（應有 1 個角度）",
+    "en_us": "Incomplete (expected 1 angle)"
+  },
+  {
+    "old_key": "argument.block.id.invalid",
+    "old_value": "未知嘅方塊類型 '%s",
+    "new_key": "argument.block.id.invalid",
+    "new_value": "未知方塊類型 '%s'",
+    "en_us": "Unknown block type '%s'"
+  },
+  {
+    "old_key": "argument.block.property.novalue",
+    "old_value": "%s 上必須要有 '%s' 屬性",
+    "new_key": "argument.block.property.novalue",
+    "new_value": "方塊 %s 內 '%s' 屬性必須要有值",
+    "en_us": "Expected value for property '%s' on block %s"
+  },
+  {
+    "old_key": "argument.block.property.unclosed",
+    "old_value": "方塊狀態屬性後應以 ] 結尾",
+    "new_key": "argument.block.property.unclosed",
+    "new_value": "方塊狀態屬性結尾應為 ]",
+    "en_us": "Expected closing ] for block state properties"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效聊天組合：%s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效聊天元件：%s",
+    "en_us": "Invalid chat component: %s"
+  },
+  {
+    "old_key": "argument.entity.notfound.entity",
+    "old_value": "未揾到任何實體",
+    "new_key": "argument.entity.notfound.entity",
+    "new_value": "未發現任何實體",
+    "en_us": "No entity was found"
+  },
+  {
+    "old_key": "argument.entity.notfound.player",
+    "old_value": "未揾到任何玩家",
+    "new_key": "argument.entity.notfound.player",
+    "new_value": "未發現任何玩家",
+    "en_us": "No player was found"
+  },
+  {
+    "old_key": "argument.entity.options.advancements.description",
+    "old_value": "玩家擁有嘅進度",
+    "new_key": "argument.entity.options.advancements.description",
+    "new_value": "玩家擁有的進度",
+    "en_us": "Players with advancements"
+  },
+  {
+    "old_key": "argument.entity.options.distance.description",
+    "old_value": "同實體間嘅距離",
+    "new_key": "argument.entity.options.distance.description",
+    "new_value": "實體之間的距離",
+    "en_us": "Distance to entity"
+  },
+  {
+    "old_key": "argument.entity.options.dx.description",
+    "old_value": "位於 x 同 x + dx 之間嘅實體",
+    "new_key": "argument.entity.options.dx.description",
+    "new_value": "位於 x 同 x + dx 之間實體",
+    "en_us": "Entities between x and x + dx"
+  },
+  {
+    "old_key": "argument.entity.options.dy.description",
+    "old_value": "位於 y 同 y + dy 之間嘅實體",
+    "new_key": "argument.entity.options.dy.description",
+    "new_value": "位於 y 同 y + dy 之間實體",
+    "en_us": "Entities between y and y + dy"
+  },
+  {
+    "old_key": "argument.entity.options.dz.description",
+    "old_value": "位於 z 同 z + dz 之間嘅實體",
+    "new_key": "argument.entity.options.dz.description",
+    "new_value": "位於 z 同 z + dz 之間實體",
+    "en_us": "Entities between z and z + dz"
+  },
+  {
+    "old_key": "argument.entity.options.mode.invalid",
+    "old_value": "遊戲模式 '%s' 無效或不明",
+    "new_key": "argument.entity.options.mode.invalid",
+    "new_value": "遊戲模式 '%s' 無效或未知",
+    "en_us": "Invalid or unknown game mode '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.nbt.description",
+    "old_value": "實體所攜帶 NBT",
+    "new_key": "argument.entity.options.nbt.description",
+    "new_value": "實體所攜帶的 NBT",
+    "en_us": "Entities with NBT"
+  },
+  {
+    "old_key": "argument.entity.options.scores.description",
+    "old_value": "實體擁有嘅分數",
+    "new_key": "argument.entity.options.scores.description",
+    "new_value": "實體擁有的分數",
+    "en_us": "Entities with scores"
+  },
+  {
+    "old_key": "argument.entity.options.sort.irreversible",
+    "old_value": "排序類型 '%s' 無效或不明",
+    "new_key": "argument.entity.options.sort.irreversible",
+    "new_value": "排序類型 '%s' 無效或未知",
+    "en_us": "Invalid or unknown sort type '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.tag.description",
+    "old_value": "實體所攜帶標籤",
+    "new_key": "argument.entity.options.tag.description",
+    "new_value": "實體所攜帶的標籤",
+    "en_us": "Entities with tag"
+  },
+  {
+    "old_key": "argument.entity.options.team.description",
+    "old_value": "實體所在隊伍",
+    "new_key": "argument.entity.options.team.description",
+    "new_value": "實體所屬隊伍",
+    "en_us": "Entities on team"
+  },
+  {
+    "old_key": "argument.entity.options.type.invalid",
+    "old_value": "實體類型 '%s' 無效或不明",
+    "new_key": "argument.entity.options.type.invalid",
+    "new_value": "實體類型 '%s' 無效或未知",
+    "en_us": "Invalid or unknown entity type '%s'"
+  },
+  {
+    "old_key": "argument.entity.selector.nearestPlayer",
+    "old_value": "距離最近嘅玩家",
+    "new_key": "argument.entity.selector.nearestPlayer",
+    "new_value": "距離最近的玩家",
+    "en_us": "Nearest player"
+  },
+  {
+    "old_key": "argument.player.unknown",
+    "old_value": "查無此玩家",
+    "new_key": "argument.player.unknown",
+    "new_value": "此玩家不存在",
+    "en_us": "That player does not exist"
+  },
+  {
+    "old_key": "argument.pos.outofworld",
+    "old_value": "座標位於世界外！",
+    "new_key": "argument.pos.outofworld",
+    "new_value": "此位置位於世界之外！",
+    "en_us": "That position is out of this world!"
+  },
+  {
+    "old_key": "argument.range.ints",
+    "old_value": "只准整數，不能為小數",
+    "new_key": "argument.range.ints",
+    "new_value": "僅接受整數，不接受小數",
+    "en_us": "Only whole numbers allowed, not decimals"
+  },
+  {
+    "old_key": "argument.scoreHolder.empty",
+    "old_value": "無法找到該分數相對應持有者",
+    "new_key": "argument.scoreHolder.empty",
+    "new_value": "未發現分數相對應持有者",
+    "en_us": "No relevant score holders could be found"
+  },
+  {
+    "old_key": "arguments.item.tag.unknown",
+    "old_value": "未知物品標籤 '%s'",
+    "new_key": "arguments.item.tag.unknown",
+    "new_value": "未知的物品標籤 '%s'",
+    "en_us": "Unknown item tag '%s'"
+  },
+  {
+    "old_key": "arguments.nbtpath.nothing_found",
+    "old_value": "無法揾到同 %s 相符嘅元素",
+    "new_key": "arguments.nbtpath.nothing_found",
+    "new_value": "未發現同 %s 相符的元素",
+    "en_us": "Found no elements matching %s"
+  },
+  {
+    "old_key": "arguments.operation.div0",
+    "old_value": "無法除以零",
+    "new_key": "arguments.operation.div0",
+    "new_value": "不應除以零",
+    "en_us": "Cannot divide by zero"
+  },
+  {
+    "old_key": "attribute.name.generic.knockback_resistance",
+    "old_value": "抗擊退",
+    "new_key": "attribute.name.generic.knockback_resistance",
+    "new_value": "擊退抗性",
+    "en_us": "Knockback Resistance"
+  },
+  {
+    "old_key": "attribute.name.zombie.spawn_reinforcements",
+    "old_value": "殭屍增援隊",
+    "new_key": "attribute.name.zombie.spawn_reinforcements",
+    "new_value": "喪屍增援隊",
+    "en_us": "Zombie Reinforcements"
+  },
+  {
+    "old_key": "block.minecraft.acacia_wall_sign",
+    "old_value": "牆上嘅相思木指示牌",
+    "new_key": "block.minecraft.acacia_wall_sign",
+    "new_value": "牆上的相思木指示牌",
+    "en_us": "Acacia Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.attached_melon_stem",
+    "old_value": "連接嘅西瓜椗",
+    "new_key": "block.minecraft.attached_melon_stem",
+    "new_value": "連接的西瓜莖",
+    "en_us": "Attached Melon Stem"
+  },
+  {
+    "old_key": "block.minecraft.attached_pumpkin_stem",
+    "old_value": "連接嘅南瓜椗",
+    "new_key": "block.minecraft.attached_pumpkin_stem",
+    "new_value": "連接的南瓜莖",
+    "en_us": "Attached Pumpkin Stem"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_right.lime",
+    "old_value": "左上淺藍色三角",
+    "new_key": "block.minecraft.banner.diagonal_right.lime",
+    "new_value": "左上淺綠色三角",
+    "en_us": "Lime Per Bend"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_top.light_gray",
+    "old_value": "頂部淺藍色橫條",
+    "new_key": "block.minecraft.banner.stripe_top.light_gray",
+    "new_value": "頂部淺灰色橫條",
+    "en_us": "Light Gray Chief"
+  },
+  {
+    "old_key": "block.minecraft.bed.no_sleep",
+    "old_value": "你只能喺晚黑或者雷暴嗰陣瞓覺",
+    "new_key": "block.minecraft.bed.no_sleep",
+    "new_value": "你只能在夜晚或者雷暴時睡覺",
+    "en_us": "You can sleep only at night or during thunderstorms"
+  },
+  {
+    "old_key": "block.minecraft.bed.not_safe",
+    "old_value": "你依家唔可以休息，周圍有怪物喺度遊蕩",
+    "new_key": "block.minecraft.bed.not_safe",
+    "new_value": "你現在不能休息，周圍有怪物在遊蕩",
+    "en_us": "You may not rest now; there are monsters nearby"
+  },
+  {
+    "old_key": "block.minecraft.bed.obstructed",
+    "old_value": "依張牀受到阻擋",
+    "new_key": "block.minecraft.bed.obstructed",
+    "new_value": "牀受到阻擋",
+    "en_us": "This bed is obstructed"
+  },
+  {
+    "old_key": "block.minecraft.bed.occupied",
+    "old_value": "依張牀已被佔用",
+    "new_key": "block.minecraft.bed.occupied",
+    "new_value": "牀已被佔用",
+    "en_us": "This bed is occupied"
+  },
+  {
+    "old_key": "block.minecraft.bed.too_far_away",
+    "old_value": "你依家唔可以休息，張牀太遠",
+    "new_key": "block.minecraft.bed.too_far_away",
+    "new_value": "你現時無法休息，牀距離過遠",
+    "en_us": "You may not rest now; the bed is too far away"
+  },
+  {
+    "old_key": "block.minecraft.big_dripleaf_stem",
+    "old_value": "大懸葉草葉椗",
+    "new_key": "block.minecraft.big_dripleaf_stem",
+    "new_value": "大懸葉草葉莖",
+    "en_us": "Big Dripleaf Stem"
+  },
+  {
+    "old_key": "block.minecraft.birch_wall_sign",
+    "old_value": "牆上嘅樺木指示牌",
+    "new_key": "block.minecraft.birch_wall_sign",
+    "new_value": "牆上的樺木指示牌",
+    "en_us": "Birch Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.black_candle_cake",
+    "old_value": "插咗黑色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.black_candle_cake",
+    "new_value": "插上黑色蠟燭的蛋糕",
+    "en_us": "Cake with Black Candle"
+  },
+  {
+    "old_key": "block.minecraft.blue_candle_cake",
+    "old_value": "插咗藍色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.blue_candle_cake",
+    "new_value": "插上藍色蠟燭的蛋糕",
+    "en_us": "Cake with Blue Candle"
+  },
+  {
+    "old_key": "block.minecraft.brain_coral_wall_fan",
+    "old_value": "牆上嘅扇狀腦珊瑚",
+    "new_key": "block.minecraft.brain_coral_wall_fan",
+    "new_value": "牆上的扇狀腦珊瑚",
+    "en_us": "Brain Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.brown_candle_cake",
+    "old_value": "插咗啡色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.brown_candle_cake",
+    "new_value": "插上啡色蠟燭的蛋糕",
+    "en_us": "Cake with Brown Candle"
+  },
+  {
+    "old_key": "block.minecraft.bubble_coral_wall_fan",
+    "old_value": "牆上嘅扇狀氣泡珊瑚",
+    "new_key": "block.minecraft.bubble_coral_wall_fan",
+    "new_value": "牆上的扇狀氣泡珊瑚",
+    "en_us": "Bubble Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.candle_cake",
+    "old_value": "插咗蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.candle_cake",
+    "new_value": "插上蠟燭的蛋糕",
+    "en_us": "Cake with Candle"
+  },
+  {
+    "old_key": "block.minecraft.chipped_anvil",
+    "old_value": "微損嘅鐵砧",
+    "new_key": "block.minecraft.chipped_anvil",
+    "new_value": "微損的鐵砧",
+    "en_us": "Chipped Anvil"
+  },
+  {
+    "old_key": "block.minecraft.creeper_wall_head",
+    "old_value": "牆上嘅 Creeper 頭顱",
+    "new_key": "block.minecraft.creeper_wall_head",
+    "new_value": "牆上的 Creeper 頭顱",
+    "en_us": "Creeper Wall Head"
+  },
+  {
+    "old_key": "block.minecraft.crimson_stem",
+    "old_value": "猩紅菌椗",
+    "new_key": "block.minecraft.crimson_stem",
+    "new_value": "猩紅菌柄",
+    "en_us": "Crimson Stem"
+  },
+  {
+    "old_key": "block.minecraft.crimson_wall_sign",
+    "old_value": "牆上嘅猩紅菌木指示牌",
+    "new_key": "block.minecraft.crimson_wall_sign",
+    "new_value": "牆上的猩紅菌木指示牌",
+    "en_us": "Crimson Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.cyan_candle_cake",
+    "old_value": "插咗青藍色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.cyan_candle_cake",
+    "new_value": "插上青藍色蠟燭的蛋糕",
+    "en_us": "Cake with Cyan Candle"
+  },
+  {
+    "old_key": "block.minecraft.damaged_anvil",
+    "old_value": "耗損嘅鐵砧",
+    "new_key": "block.minecraft.damaged_anvil",
+    "new_value": "耗損的鐵砧",
+    "en_us": "Damaged Anvil"
+  },
+  {
+    "old_key": "block.minecraft.dark_oak_wall_sign",
+    "old_value": "牆上嘅黑橡木指示牌",
+    "new_key": "block.minecraft.dark_oak_wall_sign",
+    "new_value": "牆上的黑橡木指示牌",
+    "en_us": "Dark Oak Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.dead_brain_coral_wall_fan",
+    "old_value": "牆上嘅死亡扇狀腦珊瑚",
+    "new_key": "block.minecraft.dead_brain_coral_wall_fan",
+    "new_value": "牆上的死亡扇狀腦珊瑚",
+    "en_us": "Dead Brain Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.dead_bubble_coral_wall_fan",
+    "old_value": "牆上嘅死亡扇狀氣泡珊瑚",
+    "new_key": "block.minecraft.dead_bubble_coral_wall_fan",
+    "new_value": "牆上的死亡扇狀氣泡珊瑚",
+    "en_us": "Dead Bubble Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.dead_fire_coral_wall_fan",
+    "old_value": "牆上嘅死亡扇狀火珊瑚",
+    "new_key": "block.minecraft.dead_fire_coral_wall_fan",
+    "new_value": "牆上的死亡扇狀火珊瑚",
+    "en_us": "Dead Fire Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.dead_horn_coral_wall_fan",
+    "old_value": "牆上嘅死亡扇狀角珊瑚",
+    "new_key": "block.minecraft.dead_horn_coral_wall_fan",
+    "new_value": "牆上的死亡扇狀角珊瑚",
+    "en_us": "Dead Horn Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.dead_tube_coral_wall_fan",
+    "old_value": "牆上嘅死亡扇狀管珊瑚",
+    "new_key": "block.minecraft.dead_tube_coral_wall_fan",
+    "new_value": "牆上的死亡扇狀管珊瑚",
+    "en_us": "Dead Tube Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.dragon_wall_head",
+    "old_value": "牆上嘅龍頭",
+    "new_key": "block.minecraft.dragon_wall_head",
+    "new_value": "牆上的龍頭",
+    "en_us": "Dragon Wall Head"
+  },
+  {
+    "old_key": "block.minecraft.exposed_copper",
+    "old_value": "斑駁嘅銅磚",
+    "new_key": "block.minecraft.exposed_copper",
+    "new_value": "斑駁的銅磚",
+    "en_us": "Exposed Copper"
+  },
+  {
+    "old_key": "block.minecraft.exposed_cut_copper",
+    "old_value": "斑駁嘅切製銅磚",
+    "new_key": "block.minecraft.exposed_cut_copper",
+    "new_value": "斑駁的切製銅磚",
+    "en_us": "Exposed Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.exposed_cut_copper_slab",
+    "old_value": "斑駁嘅切製銅半磚",
+    "new_key": "block.minecraft.exposed_cut_copper_slab",
+    "new_value": "斑駁的切製銅半磚",
+    "en_us": "Exposed Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.exposed_cut_copper_stairs",
+    "old_value": "斑駁嘅切製銅樓梯",
+    "new_key": "block.minecraft.exposed_cut_copper_stairs",
+    "new_value": "斑駁的切製銅樓梯",
+    "en_us": "Exposed Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.fire_coral_wall_fan",
+    "old_value": "牆上嘅扇狀火珊瑚",
+    "new_key": "block.minecraft.fire_coral_wall_fan",
+    "new_value": "牆上的扇狀火珊瑚",
+    "en_us": "Fire Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.flowering_azalea",
+    "old_value": "開花嘅杜鵑叢",
+    "new_key": "block.minecraft.flowering_azalea",
+    "new_value": "盛開的杜鵑叢",
+    "en_us": "Flowering Azalea"
+  },
+  {
+    "old_key": "block.minecraft.flowering_azalea_leaves",
+    "old_value": "開花嘅杜鵑樹葉",
+    "new_key": "block.minecraft.flowering_azalea_leaves",
+    "new_value": "盛開的杜鵑樹葉",
+    "en_us": "Flowering Azalea Leaves"
+  },
+  {
+    "old_key": "block.minecraft.gray_candle_cake",
+    "old_value": "插咗灰色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.gray_candle_cake",
+    "new_value": "插上灰色蠟燭的蛋糕",
+    "en_us": "Cake with Gray Candle"
+  },
+  {
+    "old_key": "block.minecraft.green_candle_cake",
+    "old_value": "插咗綠色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.green_candle_cake",
+    "new_value": "插上綠色蠟燭的蛋糕",
+    "en_us": "Cake with Green Candle"
+  },
+  {
+    "old_key": "block.minecraft.horn_coral_wall_fan",
+    "old_value": "牆上嘅扇狀角珊瑚",
+    "new_key": "block.minecraft.horn_coral_wall_fan",
+    "new_value": "牆上的扇狀角珊瑚",
+    "en_us": "Horn Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.infested_chiseled_stone_bricks",
+    "old_value": "蛀蝕嘅浮雕石磚",
+    "new_key": "block.minecraft.infested_chiseled_stone_bricks",
+    "new_value": "蛀蝕的浮雕石磚",
+    "en_us": "Infested Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_cobblestone",
+    "old_value": "蛀蝕嘅碎石",
+    "new_key": "block.minecraft.infested_cobblestone",
+    "new_value": "蛀蝕的碎石",
+    "en_us": "Infested Cobblestone"
+  },
+  {
+    "old_key": "block.minecraft.infested_cracked_stone_bricks",
+    "old_value": "蛀蝕嘅裂紋石磚",
+    "new_key": "block.minecraft.infested_cracked_stone_bricks",
+    "new_value": "蛀蝕的裂紋石磚",
+    "en_us": "Infested Cracked Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_deepslate",
+    "old_value": "蛀蝕嘅深板岩",
+    "new_key": "block.minecraft.infested_deepslate",
+    "new_value": "蛀蝕的深板岩",
+    "en_us": "Infested Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.infested_mossy_stone_bricks",
+    "old_value": "蛀蝕嘅青苔石磚",
+    "new_key": "block.minecraft.infested_mossy_stone_bricks",
+    "new_value": "蛀蝕的青苔石磚",
+    "en_us": "Infested Mossy Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_stone",
+    "old_value": "蛀蝕嘅石頭",
+    "new_key": "block.minecraft.infested_stone",
+    "new_value": "蛀蝕的石頭",
+    "en_us": "Infested Stone"
+  },
+  {
+    "old_key": "block.minecraft.infested_stone_bricks",
+    "old_value": "蛀蝕嘅石磚",
+    "new_key": "block.minecraft.infested_stone_bricks",
+    "new_value": "蛀蝕的石磚",
+    "en_us": "Infested Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.jungle_wall_sign",
+    "old_value": "牆上嘅叢林木指示牌",
+    "new_key": "block.minecraft.jungle_wall_sign",
+    "new_value": "牆上的叢林木指示牌",
+    "en_us": "Jungle Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.large_amethyst_bud",
+    "old_value": "大型紫晶芽",
+    "new_key": "block.minecraft.large_amethyst_bud",
+    "new_value": "大型紫水晶芽",
+    "en_us": "Large Amethyst Bud"
+  },
+  {
+    "old_key": "block.minecraft.lava_cauldron",
+    "old_value": "裝熔岩嘅鍋",
+    "new_key": "block.minecraft.lava_cauldron",
+    "new_value": "裝熔岩的鍋",
+    "en_us": "Lava Cauldron"
+  },
+  {
+    "old_key": "block.minecraft.light_blue_candle_cake",
+    "old_value": "插咗淺藍色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.light_blue_candle_cake",
+    "new_value": "插上淺藍色蠟燭的蛋糕",
+    "en_us": "Cake with Light Blue Candle"
+  },
+  {
+    "old_key": "block.minecraft.light_gray_candle_cake",
+    "old_value": "插咗淺灰色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.light_gray_candle_cake",
+    "new_value": "插上淺灰色蠟燭的蛋糕",
+    "en_us": "Cake with Light Gray Candle"
+  },
+  {
+    "old_key": "block.minecraft.lime_candle",
+    "old_value": "青綠色蠟燭",
+    "new_key": "block.minecraft.lime_candle",
+    "new_value": "淺綠色蠟燭",
+    "en_us": "Lime Candle"
+  },
+  {
+    "old_key": "block.minecraft.lime_candle_cake",
+    "old_value": "插咗淺綠色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.lime_candle_cake",
+    "new_value": "插上淺綠色蠟燭的蛋糕",
+    "en_us": "Cake with Lime Candle"
+  },
+  {
+    "old_key": "block.minecraft.magenta_candle_cake",
+    "old_value": "插咗紫紅色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.magenta_candle_cake",
+    "new_value": "插上紫紅色蠟燭的蛋糕",
+    "en_us": "Cake with Magenta Candle"
+  },
+  {
+    "old_key": "block.minecraft.medium_amethyst_bud",
+    "old_value": "中型紫晶芽",
+    "new_key": "block.minecraft.medium_amethyst_bud",
+    "new_value": "中型紫水晶芽",
+    "en_us": "Medium Amethyst Bud"
+  },
+  {
+    "old_key": "block.minecraft.melon_stem",
+    "old_value": "西瓜椗",
+    "new_key": "block.minecraft.melon_stem",
+    "new_value": "西瓜莖",
+    "en_us": "Melon Stem"
+  },
+  {
+    "old_key": "block.minecraft.moving_piston",
+    "old_value": "移動嘅活塞",
+    "new_key": "block.minecraft.moving_piston",
+    "new_value": "移動的活塞",
+    "en_us": "Moving Piston"
+  },
+  {
+    "old_key": "block.minecraft.mushroom_stem",
+    "old_value": "蘑菇椗",
+    "new_key": "block.minecraft.mushroom_stem",
+    "new_value": "蘑菇柄",
+    "en_us": "Mushroom Stem"
+  },
+  {
+    "old_key": "block.minecraft.oak_wall_sign",
+    "old_value": "牆上嘅橡木指示牌",
+    "new_key": "block.minecraft.oak_wall_sign",
+    "new_value": "牆上的橡木指示牌",
+    "en_us": "Oak Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.orange_candle_cake",
+    "old_value": "插咗橙色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.orange_candle_cake",
+    "new_value": "插上橙色蠟燭的蛋糕",
+    "en_us": "Cake with Orange Candle"
+  },
+  {
+    "old_key": "block.minecraft.oxidized_copper",
+    "old_value": "氧化嘅銅磚",
+    "new_key": "block.minecraft.oxidized_copper",
+    "new_value": "氧化的銅磚",
+    "en_us": "Oxidized Copper"
+  },
+  {
+    "old_key": "block.minecraft.oxidized_cut_copper",
+    "old_value": "氧化嘅切製銅磚",
+    "new_key": "block.minecraft.oxidized_cut_copper",
+    "new_value": "氧化的切製銅磚",
+    "en_us": "Oxidized Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.oxidized_cut_copper_slab",
+    "old_value": "氧化嘅切製銅半磚",
+    "new_key": "block.minecraft.oxidized_cut_copper_slab",
+    "new_value": "氧化的切製銅半磚",
+    "en_us": "Oxidized Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.oxidized_cut_copper_stairs",
+    "old_value": "氧化嘅切製銅樓梯",
+    "new_key": "block.minecraft.oxidized_cut_copper_stairs",
+    "new_value": "氧化的切製銅樓梯",
+    "en_us": "Oxidized Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.pink_candle_cake",
+    "old_value": "插咗粉紅色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.pink_candle_cake",
+    "new_value": "插上粉紅色蠟燭的蛋糕",
+    "en_us": "Cake with Pink Candle"
+  },
+  {
+    "old_key": "block.minecraft.player_head.named",
+    "old_value": "%s 嘅頭顱",
+    "new_key": "block.minecraft.player_head.named",
+    "new_value": "%s 的頭顱",
+    "en_us": "%s's Head"
+  },
+  {
+    "old_key": "block.minecraft.player_wall_head",
+    "old_value": "牆上嘅玩家頭顱",
+    "new_key": "block.minecraft.player_wall_head",
+    "new_value": "牆上的玩家頭顱",
+    "en_us": "Player Wall Head"
+  },
+  {
+    "old_key": "block.minecraft.potted_flowering_azalea_bush",
+    "old_value": "開花嘅杜鵑叢盆栽",
+    "new_key": "block.minecraft.potted_flowering_azalea_bush",
+    "new_value": "開花的杜鵑叢盆栽",
+    "en_us": "Potted Flowering Azalea"
+  },
+  {
+    "old_key": "block.minecraft.powder_snow_cauldron",
+    "old_value": "裝幼雪嘅鍋",
+    "new_key": "block.minecraft.powder_snow_cauldron",
+    "new_value": "裝幼雪的鍋",
+    "en_us": "Powder Snow Cauldron"
+  },
+  {
+    "old_key": "block.minecraft.pumpkin_stem",
+    "old_value": "南瓜椗",
+    "new_key": "block.minecraft.pumpkin_stem",
+    "new_value": "南瓜莖",
+    "en_us": "Pumpkin Stem"
+  },
+  {
+    "old_key": "block.minecraft.purple_candle_cake",
+    "old_value": "插咗紫色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.purple_candle_cake",
+    "new_value": "插上紫色蠟燭的蛋糕",
+    "en_us": "Cake with Purple Candle"
+  },
+  {
+    "old_key": "block.minecraft.red_candle_cake",
+    "old_value": "插咗紅色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.red_candle_cake",
+    "new_value": "插上紅色蠟燭的蛋糕",
+    "en_us": "Cake with Red Candle"
+  },
+  {
+    "old_key": "block.minecraft.redstone_wall_torch",
+    "old_value": "牆上嘅紅石火炬",
+    "new_key": "block.minecraft.redstone_wall_torch",
+    "new_value": "牆上的紅石火炬",
+    "en_us": "Redstone Wall Torch"
+  },
+  {
+    "old_key": "block.minecraft.rooted_dirt",
+    "old_value": "纏根泥土",
+    "new_key": "block.minecraft.rooted_dirt",
+    "new_value": "扎根土",
+    "en_us": "Rooted Dirt"
+  },
+  {
+    "old_key": "block.minecraft.skeleton_wall_skull",
+    "old_value": "牆上嘅骷髏骨頭",
+    "new_key": "block.minecraft.skeleton_wall_skull",
+    "new_value": "牆上的骷髏骨頭",
+    "en_us": "Skeleton Wall Skull"
+  },
+  {
+    "old_key": "block.minecraft.small_amethyst_bud",
+    "old_value": "小型紫晶芽",
+    "new_key": "block.minecraft.small_amethyst_bud",
+    "new_value": "小型紫水晶芽",
+    "en_us": "Small Amethyst Bud"
+  },
+  {
+    "old_key": "block.minecraft.snow",
+    "old_value": "積雪",
+    "new_key": "block.minecraft.snow",
+    "new_value": "雪",
+    "en_us": "Snow"
+  },
+  {
+    "old_key": "block.minecraft.snow_block",
+    "old_value": "雪",
+    "new_key": "block.minecraft.snow_block",
+    "new_value": "雪塊",
+    "en_us": "Snow Block"
+  },
+  {
+    "old_key": "block.minecraft.soul_wall_torch",
+    "old_value": "牆上嘅靈魂火炬",
+    "new_key": "block.minecraft.soul_wall_torch",
+    "new_value": "牆上的靈魂火炬",
+    "en_us": "Soul Wall Torch"
+  },
+  {
+    "old_key": "block.minecraft.spawn.not_valid",
+    "old_value": "你並未擁有牀或附有能量嘅重生錨，抑或被方塊擋住咗",
+    "new_key": "block.minecraft.spawn.not_valid",
+    "new_value": "你的牀或附有能量的重生錨不存在或已被阻擋",
+    "en_us": "You have no home bed or charged respawn anchor, or it was obstructed"
+  },
+  {
+    "old_key": "block.minecraft.spruce_wall_sign",
+    "old_value": "牆上嘅杉木指示牌",
+    "new_key": "block.minecraft.spruce_wall_sign",
+    "new_value": "牆上的杉木指示牌",
+    "en_us": "Spruce Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.stripped_crimson_stem",
+    "old_value": "剝皮猩紅菌椗",
+    "new_key": "block.minecraft.stripped_crimson_stem",
+    "new_value": "剝皮猩紅菌柄",
+    "en_us": "Stripped Crimson Stem"
+  },
+  {
+    "old_key": "block.minecraft.stripped_warped_stem",
+    "old_value": "剝皮迷離菌椗",
+    "new_key": "block.minecraft.stripped_warped_stem",
+    "new_value": "剝皮迷離菌柄",
+    "en_us": "Stripped Warped Stem"
+  },
+  {
+    "old_key": "block.minecraft.tube_coral_wall_fan",
+    "old_value": "牆上嘅扇狀管珊瑚",
+    "new_key": "block.minecraft.tube_coral_wall_fan",
+    "new_value": "牆上的扇狀管珊瑚",
+    "en_us": "Tube Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.wall_torch",
+    "old_value": "牆上嘅火炬",
+    "new_key": "block.minecraft.wall_torch",
+    "new_value": "牆上的火炬",
+    "en_us": "Wall Torch"
+  },
+  {
+    "old_key": "block.minecraft.warped_stem",
+    "old_value": "迷離菌椗",
+    "new_key": "block.minecraft.warped_stem",
+    "new_value": "迷離菌柄",
+    "en_us": "Warped Stem"
+  },
+  {
+    "old_key": "block.minecraft.warped_wall_sign",
+    "old_value": "牆上嘅迷離菌木指示牌",
+    "new_key": "block.minecraft.warped_wall_sign",
+    "new_value": "牆上的迷離菌木指示牌",
+    "en_us": "Warped Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.water_cauldron",
+    "old_value": "裝水嘅鍋",
+    "new_key": "block.minecraft.water_cauldron",
+    "new_value": "裝水的鍋",
+    "en_us": "Water Cauldron"
+  },
+  {
+    "old_key": "block.minecraft.waxed_copper_block",
+    "old_value": "打蠟嘅銅磚",
+    "new_key": "block.minecraft.waxed_copper_block",
+    "new_value": "打蠟的銅磚",
+    "en_us": "Waxed Block of Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper",
+    "old_value": "打蠟嘅切製銅磚",
+    "new_key": "block.minecraft.waxed_cut_copper",
+    "new_value": "打蠟的切製銅磚",
+    "en_us": "Waxed Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper_slab",
+    "old_value": "打蠟嘅切製銅半磚",
+    "new_key": "block.minecraft.waxed_cut_copper_slab",
+    "new_value": "打蠟的切製銅半磚",
+    "en_us": "Waxed Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper_stairs",
+    "old_value": "打蠟嘅切製銅樓梯",
+    "new_key": "block.minecraft.waxed_cut_copper_stairs",
+    "new_value": "打蠟的切製銅樓梯",
+    "en_us": "Waxed Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_copper",
+    "old_value": "打蠟嘅斑駁銅磚",
+    "new_key": "block.minecraft.waxed_exposed_copper",
+    "new_value": "打蠟的斑駁銅磚",
+    "en_us": "Waxed Exposed Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper",
+    "old_value": "打蠟嘅斑駁切製銅磚",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper",
+    "new_value": "打蠟的斑駁切製銅磚",
+    "en_us": "Waxed Exposed Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper_slab",
+    "old_value": "打蠟嘅斑駁切製銅半磚",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper_slab",
+    "new_value": "打蠟的斑駁切製銅半磚",
+    "en_us": "Waxed Exposed Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper_stairs",
+    "old_value": "打蠟嘅斑駁切製銅樓梯",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper_stairs",
+    "new_value": "打蠟的斑駁切製銅樓梯",
+    "en_us": "Waxed Exposed Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_copper",
+    "old_value": "打蠟嘅氧化銅磚",
+    "new_key": "block.minecraft.waxed_oxidized_copper",
+    "new_value": "打蠟的氧化銅磚",
+    "en_us": "Waxed Oxidized Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper",
+    "old_value": "打蠟嘅氧化切製銅磚",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper",
+    "new_value": "打蠟的氧化切製銅磚",
+    "en_us": "Waxed Oxidized Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper_slab",
+    "old_value": "打蠟嘅氧化切製銅半磚",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper_slab",
+    "new_value": "打蠟的氧化切製銅半磚",
+    "en_us": "Waxed Oxidized Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper_stairs",
+    "old_value": "打蠟嘅氧化切製銅樓梯",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper_stairs",
+    "new_value": "打蠟的氧化切製銅樓梯",
+    "en_us": "Waxed Oxidized Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_copper",
+    "old_value": "打蠟嘅生鏽銅磚",
+    "new_key": "block.minecraft.waxed_weathered_copper",
+    "new_value": "打蠟的生鏽銅磚",
+    "en_us": "Waxed Weathered Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper",
+    "old_value": "打蠟嘅生鏽切製銅磚",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper",
+    "new_value": "打蠟的生鏽切製銅磚",
+    "en_us": "Waxed Weathered Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper_slab",
+    "old_value": "打蠟嘅生鏽切製銅半磚",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper_slab",
+    "new_value": "打蠟的生鏽切製銅半磚",
+    "en_us": "Waxed Weathered Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper_stairs",
+    "old_value": "打蠟嘅生鏽切製銅樓梯",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper_stairs",
+    "new_value": "打蠟的生鏽切製銅樓梯",
+    "en_us": "Waxed Weathered Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.weathered_copper",
+    "old_value": "生鏽嘅銅磚",
+    "new_key": "block.minecraft.weathered_copper",
+    "new_value": "生鏽的銅磚",
+    "en_us": "Weathered Copper"
+  },
+  {
+    "old_key": "block.minecraft.weathered_cut_copper",
+    "old_value": "生鏽嘅切製銅磚",
+    "new_key": "block.minecraft.weathered_cut_copper",
+    "new_value": "生鏽的切製銅磚",
+    "en_us": "Weathered Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.weathered_cut_copper_slab",
+    "old_value": "生鏽嘅切製銅半磚",
+    "new_key": "block.minecraft.weathered_cut_copper_slab",
+    "new_value": "生鏽的切製銅半磚",
+    "en_us": "Weathered Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.weathered_cut_copper_stairs",
+    "old_value": "生鏽嘅切製銅樓梯",
+    "new_key": "block.minecraft.weathered_cut_copper_stairs",
+    "new_value": "生鏽的切製銅樓梯",
+    "en_us": "Weathered Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.wheat",
+    "old_value": "小麥",
+    "new_key": "block.minecraft.wheat",
+    "new_value": "小麥植株",
+    "en_us": "Wheat Crops"
+  },
+  {
+    "old_key": "block.minecraft.white_candle_cake",
+    "old_value": "插咗白色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.white_candle_cake",
+    "new_value": "插上白色蠟燭的蛋糕",
+    "en_us": "Cake with White Candle"
+  },
+  {
+    "old_key": "block.minecraft.wither_skeleton_wall_skull",
+    "old_value": "牆上嘅凋零骷髏骨頭",
+    "new_key": "block.minecraft.wither_skeleton_wall_skull",
+    "new_value": "牆上的凋零骷髏骨頭",
+    "en_us": "Wither Skeleton Wall Skull"
+  },
+  {
+    "old_key": "block.minecraft.yellow_candle_cake",
+    "old_value": "插咗黃色蠟燭嘅蛋糕",
+    "new_key": "block.minecraft.yellow_candle_cake",
+    "new_value": "插上黃色蠟燭的蛋糕",
+    "en_us": "Cake with Yellow Candle"
+  },
+  {
+    "old_key": "block.minecraft.zombie_head",
+    "old_value": "殭屍頭顱",
+    "new_key": "block.minecraft.zombie_head",
+    "new_value": "喪屍頭顱",
+    "en_us": "Zombie Head"
+  },
+  {
+    "old_key": "block.minecraft.zombie_wall_head",
+    "old_value": "牆上嘅殭屍頭顱",
+    "new_key": "block.minecraft.zombie_wall_head",
+    "new_value": "牆上的喪屍頭顱",
+    "en_us": "Zombie Wall Head"
+  },
+  {
+    "old_key": "book.finalizeWarning",
+    "old_value": "注意！當你喺依本書簽名後，將無法再修改書入面嘅內容。",
+    "new_key": "book.finalizeWarning",
+    "new_value": "注意！當你簽名之後，將無法再修改書中內容。",
+    "en_us": "Note! When you sign the book, it will no longer be editable."
+  },
+  {
+    "old_key": "book.generation.2",
+    "old_value": "複本嘅複本",
+    "new_key": "book.generation.2",
+    "new_value": "複本的複本",
+    "en_us": "Copy of a copy"
+  },
+  {
+    "old_key": "book.generation.3",
+    "old_value": "破舊嘅",
+    "new_key": "book.generation.3",
+    "new_value": "破舊的",
+    "en_us": "Tattered"
+  },
+  {
+    "old_key": "chat_screen.message",
+    "old_value": "準備傳送嘅訊息：%s",
+    "new_key": "chat_screen.message",
+    "new_value": "準備傳送的訊息：%s",
+    "en_us": "Message to send: %s"
+  },
+  {
+    "old_key": "chat.coordinates.tooltip",
+    "old_value": "按此傳送",
+    "new_key": "chat.coordinates.tooltip",
+    "new_value": "按此處傳送",
+    "en_us": "Click to teleport"
+  },
+  {
+    "old_key": "chat.copy.click",
+    "old_value": "按此複製到剪貼簿",
+    "new_key": "chat.copy.click",
+    "new_value": "按此處複製到剪貼簿",
+    "en_us": "Click to Copy to Clipboard"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你真係要瀏覽依個網頁？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你確定要瀏覽這個網頁？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "你真係要打開依個連結或將其複製到剪貼簿？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "你確定要打開此連結，還是將它複製到剪貼簿？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "永遠唔好打開任何你唔信任嘅人提供嘅連結！",
+    "new_key": "chat.link.warning",
+    "new_value": "永遠不要打開任何你不信任的人提供的連結！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "chat.type.advancement.challenge",
+    "old_value": "%s 已經完成挑戰 %s",
+    "new_key": "chat.type.advancement.challenge",
+    "new_value": "%s 已完成挑戰 %s",
+    "en_us": "%s has completed the challenge %s"
+  },
+  {
+    "old_key": "chat.type.advancement.goal",
+    "old_value": "%s 達成咗目標 %s",
+    "new_key": "chat.type.advancement.goal",
+    "new_value": "%s 達成了目標 %s",
+    "en_us": "%s has reached the goal %s"
+  },
+  {
+    "old_key": "chat.type.advancement.task",
+    "old_value": "%s 達成咗進度 %s",
+    "new_key": "chat.type.advancement.task",
+    "new_value": "%s 達成了進度 %s",
+    "en_us": "%s has made the advancement %s"
+  },
+  {
+    "old_key": "chat.type.text.narrate",
+    "old_value": "%s 話︰%s",
+    "new_key": "chat.type.text.narrate",
+    "new_value": "%s 説︰%s",
+    "en_us": "%s says %s"
+  },
+  {
+    "old_key": "command.context.here",
+    "old_value": "<--[依度]",
+    "new_key": "command.context.here",
+    "new_value": "<--[此處]",
+    "en_us": "<--[HERE]"
+  },
+  {
+    "old_key": "command.context.parse_error",
+    "old_value": "喺第 %2$s 個字元嗰度，%1$s：%3$s",
+    "new_key": "command.context.parse_error",
+    "new_value": "於第 %2$s 個字元處，%1$s：%3$s",
+    "en_us": "%s at position %s: %s"
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "試圖執行依個命令時發生意外錯誤",
+    "new_key": "command.failed",
+    "new_value": "試圖執行命令時發生意外錯誤",
+    "en_us": "An unexpected error occurred trying to execute that command"
+  },
+  {
+    "old_key": "command.unknown.command",
+    "old_value": "未知或不完整命令，錯誤如下",
+    "new_key": "command.unknown.command",
+    "new_value": "未知或不完整的命令，錯誤如下",
+    "en_us": "Unknown or incomplete command, see below for error"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.many.failure",
+    "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
+    "new_key": "commands.advancement.grant.criterion.to.many.failure",
+    "new_value": "無法將進度 %2$s 的條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
+    "en_us": "Couldn't grant criterion '%s' of advancement %s to %s players as they already have it"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.many.success",
+    "old_value": "已將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家",
+    "new_key": "commands.advancement.grant.criterion.to.many.success",
+    "new_value": "已將進度 %2$s 的條件 '%1$s' 賦予 %3$s 個玩家",
+    "en_us": "Granted criterion '%s' of advancement %s to %s players"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.one.failure",
+    "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s，因為已經擁有該條件",
+    "new_key": "commands.advancement.grant.criterion.to.one.failure",
+    "new_value": "無法將進度 %2$s 的條件 '%1$s' 賦予 %3$s，因為已經擁有該條件",
+    "en_us": "Couldn't grant criterion '%s' of advancement %s to %s as they already have it"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.one.success",
+    "old_value": "已將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s",
+    "new_key": "commands.advancement.grant.criterion.to.one.success",
+    "new_value": "已將進度 %2$s 的條件 '%1$s' 賦予 %3$s",
+    "en_us": "Granted criterion '%s' of advancement %s to %s"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "old_value": "無法撤銷 %3$s 個嘅進度 %2$s 未達成嘅條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "new_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s players as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.many.success",
+    "old_value": "已撤銷 %3$s 個玩家嘅進度 %2$s 嘅條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.many.success",
+    "new_value": "已撤銷 %3$s 個玩家的進度 %2$s 內的條件 '%1$s'",
+    "en_us": "Revoked criterion '%s' of advancement %s from %s players"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.one.failure",
+    "old_value": "無法撤銷 %3$s 嘅進度 %2$s 未達成嘅條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.one.failure",
+    "new_value": "無法從 %3$s 身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.one.success",
+    "old_value": "已撤銷 %3$s 嘅進度 %2$s 嘅條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.one.success",
+    "new_value": "已撤銷 %3$s 的進度 %2$s 內的條件 '%1$s'",
+    "en_us": "Revoked criterion '%s' of advancement %s from %s"
+  },
+  {
+    "old_key": "commands.advancement.revoke.many.to.many.failure",
+    "old_value": "無法撤銷 %2$s 個玩家嘅 %1$s 個未達成進度",
+    "new_key": "commands.advancement.revoke.many.to.many.failure",
+    "new_value": "無法撤銷 %2$s 個玩家的 %1$s 個未達成進度",
+    "en_us": "Couldn't revoke %s advancements from %s players as they don't have them"
+  },
+  {
+    "old_key": "commands.advancement.revoke.many.to.many.success",
+    "old_value": "已撤銷 %2$s 個玩家嘅 %1$s 個進度",
+    "new_key": "commands.advancement.revoke.many.to.many.success",
+    "new_value": "已撤銷 %2$s 個玩家的 %1$s 個進度",
+    "en_us": "Revoked %s advancements from %s players"
+  },
+  {
+    "old_key": "commands.advancement.revoke.many.to.one.failure",
+    "old_value": "無法撤銷 %2$s 嘅 %1$s 個未達成進度",
+    "new_key": "commands.advancement.revoke.many.to.one.failure",
+    "new_value": "無法撤銷 %2$s 的 %1$s 個未達成進度",
+    "en_us": "Couldn't revoke %s advancements from %s as they don't have them"
+  },
+  {
+    "old_key": "commands.advancement.revoke.many.to.one.success",
+    "old_value": "已撤銷 %2$s 嘅 %1$s 個進度",
+    "new_key": "commands.advancement.revoke.many.to.one.success",
+    "new_value": "已撤銷 %2$s 的 %1$s 個進度",
+    "en_us": "Revoked %s advancements from %s"
+  },
+  {
+    "old_key": "commands.advancement.revoke.one.to.many.failure",
+    "old_value": "無法撤銷 %2$s 個玩家未達成嘅進度 %1$s",
+    "new_key": "commands.advancement.revoke.one.to.many.failure",
+    "new_value": "無法撤銷 %2$s 個玩家未達成的進度 %1$s",
+    "en_us": "Couldn't revoke advancement %s from %s players as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.one.to.many.success",
+    "old_value": "已撤銷 %2$s 個玩家嘅進度 %1$s",
+    "new_key": "commands.advancement.revoke.one.to.many.success",
+    "new_value": "已撤銷 %2$s 個玩家的進度 %1$s",
+    "en_us": "Revoked the advancement %s from %s players"
+  },
+  {
+    "old_key": "commands.advancement.revoke.one.to.one.failure",
+    "old_value": "無法撤銷 %2$s 未達成嘅進度 %1$s",
+    "new_key": "commands.advancement.revoke.one.to.one.failure",
+    "new_value": "無法從 %2$s 身上撤銷尚未取得的進度 %1$s",
+    "en_us": "Couldn't revoke advancement %s from %s as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.one.to.one.success",
+    "old_value": "已撤銷 %2$s 嘅進度 %1$s",
+    "new_key": "commands.advancement.revoke.one.to.one.success",
+    "new_value": "已撤銷 %2$s 的進度 %1$s",
+    "en_us": "Revoked the advancement %s from %s"
+  },
+  {
+    "old_key": "commands.attribute.base_value.get.success",
+    "old_value": "實體 %2$s 嘅屬性 %1$s 基礎值為 %3$s",
+    "new_key": "commands.attribute.base_value.get.success",
+    "new_value": "實體 %2$s 的屬性 %1$s 基礎值為 %3$s",
+    "en_us": "Base value of attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.base_value.set.success",
+    "old_value": "已將實體 %2$s 嘅屬性 %1$s 基礎值設為 %3$s",
+    "new_key": "commands.attribute.base_value.set.success",
+    "new_value": "已將實體 %2$s 的屬性 %1$s 基礎值設為 %3$s",
+    "en_us": "Base value for attribute %s for entity %s set to %s"
+  },
+  {
+    "old_key": "commands.attribute.failed.entity",
+    "old_value": "%s 並非此命令嘅有效實體",
+    "new_key": "commands.attribute.failed.entity",
+    "new_value": "%s 並非此命令的有效實體",
+    "en_us": "%s is not a valid entity for this command"
+  },
+  {
+    "old_key": "commands.attribute.failed.modifier_already_present",
+    "old_value": "實體 %3$s 嘅屬性 %2$s 已存在修飾符 %1$s",
+    "new_key": "commands.attribute.failed.modifier_already_present",
+    "new_value": "實體 %3$s 的屬性 %2$s 已存在修飾符 %1$s",
+    "en_us": "Modifier %s is already present on attribute %s for entity %s"
+  },
+  {
+    "old_key": "commands.attribute.failed.no_modifier",
+    "old_value": "實體 %2$s 嘅屬性 %1$s 並無修飾符 %3$s",
+    "new_key": "commands.attribute.failed.no_modifier",
+    "new_value": "實體 %2$s 的屬性 %1$s 並無修飾符 %3$s",
+    "en_us": "Attribute %s for entity %s has no modifier %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.add.success",
+    "old_value": "已為實體 %3$s 嘅屬性 %2$s 增添修飾符 %1$s",
+    "new_key": "commands.attribute.modifier.add.success",
+    "new_value": "已為實體 %3$s 的屬性 %2$s 增添修飾符 %1$s",
+    "en_us": "Added modifier %s to attribute %s for entity %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.remove.success",
+    "old_value": "已從實體 %3$s 嘅屬性 %2$s 內刪除修飾符 %1$s",
+    "new_key": "commands.attribute.modifier.remove.success",
+    "new_value": "已從實體 %3$s 的屬性 %2$s 內刪除修飾符 %1$s",
+    "en_us": "Removed modifier %s from attribute %s for entity %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.value.get.success",
+    "old_value": "實體 %3$s 喺屬性 %2$s 內嘅修飾符 %1$s 值為 %4$s",
+    "new_key": "commands.attribute.modifier.value.get.success",
+    "new_value": "實體 %3$s 在屬性 %2$s 內的修飾符 %1$s 值為 %4$s",
+    "en_us": "Value of modifier %s on attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.value.get.success",
+    "old_value": "實體 %2$s 嘅屬性 %1$s 值為 %3$s",
+    "new_key": "commands.attribute.value.get.success",
+    "new_value": "實體 %2$s 的屬性 %1$s 值為 %3$s",
+    "en_us": "Value of attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.banlist.none",
+    "old_value": "並無被封鎖嘅玩家",
+    "new_key": "commands.banlist.none",
+    "new_value": "並無被封鎖的玩家",
+    "en_us": "There are no bans"
+  },
+  {
+    "old_key": "commands.bossbar.create.failed",
+    "old_value": "已存在 ID 為 '%s' 嘅 Boss 狀態條",
+    "new_key": "commands.bossbar.create.failed",
+    "new_value": "已存在 ID 為 '%s' 的 Boss 狀態條",
+    "en_us": "A bossbar already exists with the ID '%s'"
+  },
+  {
+    "old_key": "commands.bossbar.get.max",
+    "old_value": "自訂 Boss 狀態條 %s 嘅最大值為 %s",
+    "new_key": "commands.bossbar.get.max",
+    "new_value": "自訂 Boss 狀態條 %s 的最大值為 %s",
+    "en_us": "Custom bossbar %s has a maximum of %s"
+  },
+  {
+    "old_key": "commands.bossbar.get.value",
+    "old_value": "自訂 Boss 狀態條 %s 嘅數值為 %s",
+    "new_key": "commands.bossbar.get.value",
+    "new_value": "自訂 Boss 狀態條 %s 的數值為 %s",
+    "en_us": "Custom bossbar %s has a value of %s"
+  },
+  {
+    "old_key": "commands.bossbar.list.bars.none",
+    "old_value": "並無已啟用嘅自訂 Boss 狀態條",
+    "new_key": "commands.bossbar.list.bars.none",
+    "new_value": "並無已啟用的自訂 Boss 狀態條",
+    "en_us": "There are no custom bossbars active"
+  },
+  {
+    "old_key": "commands.bossbar.set.color.success",
+    "old_value": "已變更自訂 Boss 狀態條 %s 嘅顏色",
+    "new_key": "commands.bossbar.set.color.success",
+    "new_value": "已變更自訂 Boss 狀態條 %s 的顏色",
+    "en_us": "Custom bossbar %s has changed color"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.success",
+    "old_value": "已將自訂 Boss 狀態條 %s 嘅最大值變更為 %s",
+    "new_key": "commands.bossbar.set.max.success",
+    "new_value": "已將自訂 Boss 狀態條 %s 的最大值變更為 %s",
+    "en_us": "Custom bossbar %s has changed maximum to %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.style.success",
+    "old_value": "已變更自訂 Boss 狀態條 %s 嘅樣式",
+    "new_key": "commands.bossbar.set.style.success",
+    "new_value": "已變更自訂 Boss 狀態條 %s 的樣式",
+    "en_us": "Custom bossbar %s has changed style"
+  },
+  {
+    "old_key": "commands.bossbar.set.value.success",
+    "old_value": "已將自訂 Boss 狀態條 %s 嘅數值更改為 %s",
+    "new_key": "commands.bossbar.set.value.success",
+    "new_value": "已將自訂 Boss 狀態條 %s 的數值變更為 %s",
+    "en_us": "Custom bossbar %s has changed value to %s"
+  },
+  {
+    "old_key": "commands.bossbar.unknown",
+    "old_value": "並無 ID 為 '%s' 嘅 Boss 狀態條",
+    "new_key": "commands.bossbar.unknown",
+    "new_value": "並無 ID 為 '%s' 的 Boss 狀態條",
+    "en_us": "No bossbar exists with the ID '%s'"
+  },
+  {
+    "old_key": "commands.clone.overlap",
+    "old_value": "來源與目的區域不可重疊",
+    "new_key": "commands.clone.overlap",
+    "new_value": "來源與目的區域不得重疊",
+    "en_us": "The source and destination areas cannot overlap"
+  },
+  {
+    "old_key": "commands.clone.toobig",
+    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定值為 %s）",
+    "new_key": "commands.clone.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定值為 %s）",
+    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
+  },
+  {
+    "old_key": "commands.data.block.get",
+    "old_value": "位於 %2$s, %3$s, %4$s 方塊上嘅 %1$s 乘上 %5$s 倍率後為 %6$s",
+    "new_key": "commands.data.block.get",
+    "new_value": "位於 %2$s, %3$s, %4$s 方塊上的 %1$s 乘上 %5$s 倍率後為 %6$s",
+    "en_us": "%s on block %s, %s, %s after scale factor of %s is %s"
+  },
+  {
+    "old_key": "commands.data.block.modified",
+    "old_value": "已變更位於 %s, %s, %s 嘅方塊數據",
+    "new_key": "commands.data.block.modified",
+    "new_value": "已變更位於 %s, %s, %s 的方塊數據",
+    "en_us": "Modified block data of %s, %s, %s"
+  },
+  {
+    "old_key": "commands.data.entity.get",
+    "old_value": "%2$s 嘅 %1$s 乘上 %3$s 的倍率後為 %4$s",
+    "new_key": "commands.data.entity.get",
+    "new_value": "%2$s 的 %1$s 乘上 %3$s 的倍率後為 %4$s",
+    "en_us": "%s on %s after scale factor of %s is %s"
+  },
+  {
+    "old_key": "commands.data.entity.modified",
+    "old_value": "已變更 %s 嘅實體數據",
+    "new_key": "commands.data.entity.modified",
+    "new_value": "已變更 %s 的實體數據",
+    "en_us": "Modified entity data of %s"
+  },
+  {
+    "old_key": "commands.data.get.invalid",
+    "old_value": "無法獲得 %s，只允許數字類型標籤",
+    "new_key": "commands.data.get.invalid",
+    "new_value": "無法獲取 %s，只允許數字類型標籤",
+    "en_us": "Can't get %s; only numeric tags are allowed"
+  },
+  {
+    "old_key": "commands.data.merge.failed",
+    "old_value": "未進行任何變更。指定嘅屬性已有此值",
+    "new_key": "commands.data.merge.failed",
+    "new_value": "未進行任何變更。指定的屬性已有此值",
+    "en_us": "Nothing changed. The specified properties already have these values"
+  },
+  {
+    "old_key": "commands.data.storage.get",
+    "old_value": "儲存於 %2$s 中嘅 %1$s 乘上 %3$s 倍率後為 %4$s",
+    "new_key": "commands.data.storage.get",
+    "new_value": "儲存於 %2$s 中的 %1$s 乘上 %3$s 倍率後為 %4$s",
+    "en_us": "%s in storage %s after scale factor of %s is %s"
+  },
+  {
+    "old_key": "commands.datapack.list.available.none",
+    "old_value": "未有可用嘅數據包",
+    "new_key": "commands.datapack.list.available.none",
+    "new_value": "沒有可用的數據包",
+    "en_us": "There are no more data packs available"
+  },
+  {
+    "old_key": "commands.datapack.list.enabled.none",
+    "old_value": "未有啟用嘅數據包",
+    "new_key": "commands.datapack.list.enabled.none",
+    "new_value": "沒有啟用的數據包",
+    "en_us": "There are no data packs enabled"
+  },
+  {
+    "old_key": "commands.deop.success",
+    "old_value": "已經將 %s 從伺服器管理員入面除名",
+    "new_key": "commands.deop.success",
+    "new_value": "已將 %s 從伺服器管理員內除名",
+    "en_us": "Made %s no longer a server operator"
+  },
+  {
+    "old_key": "commands.drop.no_held_items",
+    "old_value": "依個實體無法持有任何物品",
+    "new_key": "commands.drop.no_held_items",
+    "new_value": "此實體無法持有任何物品",
+    "en_us": "Entity can't hold any items"
+  },
+  {
+    "old_key": "commands.effect.clear.everything.failed",
+    "old_value": "對象並無可以移除嘅效果",
+    "new_key": "commands.effect.clear.everything.failed",
+    "new_value": "對象並無可以移除的效果",
+    "en_us": "Target has no effects to remove"
+  },
+  {
+    "old_key": "commands.effect.clear.everything.success.multiple",
+    "old_value": "已移除 %s 個對象嘅全部效果",
+    "new_key": "commands.effect.clear.everything.success.multiple",
+    "new_value": "已移除 %s 個對象的全部效果",
+    "en_us": "Removed every effect from %s targets"
+  },
+  {
+    "old_key": "commands.effect.clear.everything.success.single",
+    "old_value": "已移除 %s 嘅全部效果",
+    "new_key": "commands.effect.clear.everything.success.single",
+    "new_value": "已移除 %s 的全部效果",
+    "en_us": "Removed every effect from %s"
+  },
+  {
+    "old_key": "commands.effect.clear.specific.failed",
+    "old_value": "對象並無指定嘅效果",
+    "new_key": "commands.effect.clear.specific.failed",
+    "new_value": "對象並無指定的效果",
+    "en_us": "Target doesn't have the requested effect"
+  },
+  {
+    "old_key": "commands.effect.clear.specific.success.multiple",
+    "old_value": "已移除 %2$s 個對象嘅 %1$s 效果",
+    "new_key": "commands.effect.clear.specific.success.multiple",
+    "new_value": "已移除 %2$s 個對象的 %1$s 效果",
+    "en_us": "Removed effect %s from %s targets"
+  },
+  {
+    "old_key": "commands.effect.clear.specific.success.single",
+    "old_value": "已移除 %2$s 嘅 %1$s 效果",
+    "new_key": "commands.effect.clear.specific.success.single",
+    "new_value": "已移除 %2$s 的 %1$s 效果",
+    "en_us": "Removed effect %s from %s"
+  },
+  {
+    "old_key": "commands.effect.give.success.multiple",
+    "old_value": "已經將 %s 效果作用於 %s 個對象",
+    "new_key": "commands.effect.give.success.multiple",
+    "new_value": "已將 %s 效果作用於 %s 個對象",
+    "en_us": "Applied effect %s to %s targets"
+  },
+  {
+    "old_key": "commands.enchant.failed.entity",
+    "old_value": "%s 並非此命令嘅有效實體",
+    "new_key": "commands.enchant.failed.entity",
+    "new_value": "%s 並非此命令的有效實體",
+    "en_us": "%s is not a valid entity for this command"
+  },
+  {
+    "old_key": "commands.enchant.failed.level",
+    "old_value": "%s 高於該附魔所支援嘅最高等級 %s",
+    "new_key": "commands.enchant.failed.level",
+    "new_value": "%s 高於該附魔所支援的最高等級 %s",
+    "en_us": "%s is higher than the maximum level of %s supported by that enchantment"
+  },
+  {
+    "old_key": "commands.enchant.success.single",
+    "old_value": "已將附魔 %s 套用於 %s 嘅物品",
+    "new_key": "commands.enchant.success.single",
+    "new_value": "已將附魔 %s 套用於 %s 的物品",
+    "en_us": "Applied enchantment %s to %s's item"
+  },
+  {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "指定區域內嘅方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
+  },
+  {
+    "old_key": "commands.experience.set.levels.success.multiple",
+    "old_value": "已將 %2$s 個玩家嘅經驗等級設定為 %1$s 級",
+    "new_key": "commands.experience.set.levels.success.multiple",
+    "new_value": "已將 %2$s 個玩家的經驗等級設定為 %1$s 級",
+    "en_us": "Set %s experience levels on %s players"
+  },
+  {
+    "old_key": "commands.experience.set.levels.success.single",
+    "old_value": "已將 %2$s 嘅經驗等級設定為 %1$s 級",
+    "new_key": "commands.experience.set.levels.success.single",
+    "new_value": "已將 %2$s 的經驗等級設定為 %1$s 級",
+    "en_us": "Set %s experience levels on %s"
+  },
+  {
+    "old_key": "commands.experience.set.points.invalid",
+    "old_value": "無法將經驗點設為高於玩家目前等級最高經驗點",
+    "new_key": "commands.experience.set.points.invalid",
+    "new_value": "無法將經驗點設為高於玩家目前等級的最高經驗點",
+    "en_us": "Cannot set experience points above the maximum points for the player's current level"
+  },
+  {
+    "old_key": "commands.experience.set.points.success.multiple",
+    "old_value": "已將 %2$s 個玩家嘅經驗值設為 %1$s",
+    "new_key": "commands.experience.set.points.success.multiple",
+    "new_value": "已將 %2$s 個玩家的經驗值設為 %1$s",
+    "en_us": "Set %s experience points on %s players"
+  },
+  {
+    "old_key": "commands.experience.set.points.success.single",
+    "old_value": "已將 %2$s 嘅經驗值設為 %1$s",
+    "new_key": "commands.experience.set.points.success.single",
+    "new_value": "已將 %2$s 的經驗值設為 %1$s",
+    "en_us": "Set %s experience points on %s"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定為 %s）",
+    "new_key": "commands.fill.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.added.failure",
+    "old_value": "並無被標記為強制載入嘅區塊",
+    "new_key": "commands.forceload.added.failure",
+    "new_value": "並無被標記為強制載入的區塊",
+    "en_us": "No chunks were marked for force loading"
+  },
+  {
+    "old_key": "commands.forceload.added.multiple",
+    "old_value": "已將 %2$s 內 %3$s 到 %4$s 之間嘅 %1$s 個區塊標記為強制載入",
+    "new_key": "commands.forceload.added.multiple",
+    "new_value": "已將 %2$s 內 %3$s 到 %4$s 之間的 %1$s 個區塊標記為強制載入",
+    "en_us": "Marked %s chunks in %s from %s to %s to be force loaded"
+  },
+  {
+    "old_key": "commands.forceload.added.none",
+    "old_value": "%s 內並無強制載入嘅區塊",
+    "new_key": "commands.forceload.added.none",
+    "new_value": "%s 內並無強制載入的區塊",
+    "en_us": "No force loaded chunks were found in %s"
+  },
+  {
+    "old_key": "commands.forceload.added.single",
+    "old_value": "已將 %2$s 內嘅區塊 %1$s 標記為強制載入",
+    "new_key": "commands.forceload.added.single",
+    "new_value": "已將 %2$s 內的區塊 %1$s 標記為強制載入",
+    "en_us": "Marked chunk %s in %s to be force loaded"
+  },
+  {
+    "old_key": "commands.forceload.list.multiple",
+    "old_value": "已從 %2$s 中發現 %1$s 個強制載入嘅區塊：%3$s",
+    "new_key": "commands.forceload.list.multiple",
+    "new_value": "已從 %2$s 中發現 %1$s 個強制載入的區塊：%3$s",
+    "en_us": "%s force loaded chunks were found in %s at: %s"
+  },
+  {
+    "old_key": "commands.forceload.list.single",
+    "old_value": "已從 %s 內發現一個強制載入嘅區塊：%s",
+    "new_key": "commands.forceload.list.single",
+    "new_value": "已從 %s 內發現一個強制載入的區塊：%s",
+    "en_us": "A force loaded chunk was found in %s at: %s"
+  },
+  {
+    "old_key": "commands.forceload.query.failure",
+    "old_value": "%2$s 中嘅區塊 %1$s 未標記為強制載入",
+    "new_key": "commands.forceload.query.failure",
+    "new_value": "%2$s 中的區塊 %1$s 未標記為強制載入",
+    "en_us": "Chunk at %s in %s is not marked for force loading"
+  },
+  {
+    "old_key": "commands.forceload.query.success",
+    "old_value": "%2$s 中嘅區塊 %1$s 已被標記為強制載入",
+    "new_key": "commands.forceload.query.success",
+    "new_value": "%2$s 中的區塊 %1$s 已被標記為強制載入",
+    "en_us": "Chunk at %s in %s is marked for force loading"
+  },
+  {
+    "old_key": "commands.forceload.removed.all",
+    "old_value": "已取消 %s 內所有強制加載區塊嘅標記",
+    "new_key": "commands.forceload.removed.all",
+    "new_value": "已取消 %s 內所有強制加載區塊的標記",
+    "en_us": "Unmarked all force loaded chunks in %s"
+  },
+  {
+    "old_key": "commands.forceload.removed.failure",
+    "old_value": "未移除任何強制載入區塊嘅標記",
+    "new_key": "commands.forceload.removed.failure",
+    "new_value": "未移除任何強制載入區塊的標記",
+    "en_us": "No chunks were removed from force loading"
+  },
+  {
+    "old_key": "commands.forceload.removed.multiple",
+    "old_value": "已取消 %2$s 內 %3$s 到 %4$s 之間嘅 %1$s 個區塊嘅強制載入區塊標記",
+    "new_key": "commands.forceload.removed.multiple",
+    "new_value": "已取消 %2$s 內 %3$s 到 %4$s 之間的 %1$s 個區塊的強制載入區塊標記",
+    "en_us": "Unmarked %s chunks in %s from %s to %s for force loading"
+  },
+  {
+    "old_key": "commands.forceload.removed.single",
+    "old_value": "已取消 %2$s 內嘅區塊 %1$s 強制載入區塊標記",
+    "new_key": "commands.forceload.removed.single",
+    "new_value": "已取消 %2$s 內的區塊 %1$s 強制載入區塊標記",
+    "en_us": "Unmarked chunk %s in %s for force loading"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "指定區域內嘅區塊太多（最大值為 %s，指定為 %s）",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
+    "en_us": "Too many chunks in the specified area (maximum %s, specified %s)"
+  },
+  {
+    "old_key": "commands.gamemode.success.other",
+    "old_value": "已將 %s 嘅遊戲模式切換為 %s",
+    "new_key": "commands.gamemode.success.other",
+    "new_value": "已將 %s 的遊戲模式切換為 %s",
+    "en_us": "Set %s's game mode to %s"
+  },
+  {
+    "old_key": "commands.gamemode.success.self",
+    "old_value": "已將自己嘅遊戲模式切換為 %s",
+    "new_key": "commands.gamemode.success.self",
+    "new_value": "已將自己的遊戲模式切換為 %s",
+    "en_us": "Set own game mode to %s"
+  },
+  {
+    "old_key": "commands.item.block.set.success",
+    "old_value": "已用 %4$s 替換位於 %1$s, %2$s, %3$s 嘅欄位",
+    "new_key": "commands.item.block.set.success",
+    "new_value": "已用 %4$s 替換位於 %1$s, %2$s, %3$s 的欄位",
+    "en_us": "Replaced a slot at %s, %s, %s with %s"
+  },
+  {
+    "old_key": "commands.item.entity.set.success.multiple",
+    "old_value": "已用 %2$s 替換 %1$s 個實體上嘅欄位",
+    "new_key": "commands.item.entity.set.success.multiple",
+    "new_value": "已用 %2$s 替換 %1$s 個實體上的欄位",
+    "en_us": "Replaced a slot on %s entities with %s"
+  },
+  {
+    "old_key": "commands.item.entity.set.success.single",
+    "old_value": "已用 %2$s 替換 %1$s 上嘅欄位",
+    "new_key": "commands.item.entity.set.success.single",
+    "new_value": "已用 %2$s 替換 %1$s 上的欄位",
+    "en_us": "Replaced a slot on %s with %s"
+  },
+  {
+    "old_key": "commands.item.target.no_changed.known_item",
+    "old_value": "並無將物品 %s 接受於 %s 欄位嘅目標",
+    "new_key": "commands.item.target.no_changed.known_item",
+    "new_value": "並無將物品 %s 接受於 %s 欄位的目標",
+    "en_us": "No targets accepted item %s into slot %s"
+  },
+  {
+    "old_key": "commands.item.target.no_changes",
+    "old_value": "並無將物品接受於 %s 欄位嘅目標",
+    "new_key": "commands.item.target.no_changes",
+    "new_value": "並無將物品接受於 %s 欄位的目標",
+    "en_us": "No targets accepted item into slot %s"
+  },
+  {
+    "old_key": "commands.message.display.incoming",
+    "old_value": "%s 對你話：%s",
+    "new_key": "commands.message.display.incoming",
+    "new_value": "%s 對你説：%s",
+    "en_us": "%s whispers to you: %s"
+  },
+  {
+    "old_key": "commands.message.display.outgoing",
+    "old_value": "你對 %s 話：%s",
+    "new_key": "commands.message.display.outgoing",
+    "new_value": "你對 %s 説：%s",
+    "en_us": "You whisper to %s: %s"
+  },
+  {
+    "old_key": "commands.perf.reportSaved",
+    "old_value": "已經喺 %s 建立除錯報吿",
+    "new_key": "commands.perf.reportSaved",
+    "new_value": "已於%s 建立除錯報吿",
+    "en_us": "Created debug report in %s"
+  },
+  {
+    "old_key": "commands.perf.started",
+    "old_value": "已啟動持續 10 秒嘅效能分析器（用 '/perf stop' 可提前停止）",
+    "new_key": "commands.perf.started",
+    "new_value": "已啟動持續 10 秒的效能分析器（用 '/perf stop' 可提前停止）",
+    "en_us": "Started 10 second performance profiling run (use '/perf stop' to stop early)"
+  },
+  {
+    "old_key": "commands.playsound.success.multiple",
+    "old_value": "已將音效 %s 播放至 %s 個玩家",
+    "new_key": "commands.playsound.success.multiple",
+    "new_value": "已將音效 %s 播放給 %s 個玩家",
+    "en_us": "Played sound %s to %s players"
+  },
+  {
+    "old_key": "commands.playsound.success.single",
+    "old_value": "已將音效 %s 播放至 %s",
+    "new_key": "commands.playsound.success.single",
+    "new_value": "已將音效 %s 播放給 %s",
+    "en_us": "Played sound %s to %s"
+  },
+  {
+    "old_key": "commands.publish.started",
+    "old_value": "已於 %s 連接埠上開放本機遊戲",
+    "new_key": "commands.publish.started",
+    "new_value": "已於 %s 連接埠上開放本地遊戲",
+    "en_us": "Local game hosted on port %s"
+  },
+  {
+    "old_key": "commands.recipe.take.failed",
+    "old_value": "並無可以被遺忘嘅配方",
+    "new_key": "commands.recipe.take.failed",
+    "new_value": "並無可被遺忘的配方",
+    "en_us": "No recipes could be forgotten"
+  },
+  {
+    "old_key": "commands.save.saving",
+    "old_value": "儲存遊戲中（可能需要啲時間！）",
+    "new_key": "commands.save.saving",
+    "new_value": "儲存遊戲中（可能需要些時間！）",
+    "en_us": "Saving the game (this may take a moment!)"
+  },
+  {
+    "old_key": "commands.schedule.cleared.failure",
+    "old_value": "並無 ID 為 %s 嘅計劃",
+    "new_key": "commands.schedule.cleared.failure",
+    "new_value": "並無 ID 為 %s 的計劃",
+    "en_us": "No schedules with id %s"
+  },
+  {
+    "old_key": "commands.schedule.same_tick",
+    "old_value": "無法將函數排定於當前刻點",
+    "new_key": "commands.schedule.same_tick",
+    "new_value": "無法將函數計劃於當前刻點",
+    "en_us": "Can't schedule for current tick"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.add.duplicate",
+    "old_value": "已存在使用此名稱嘅目標",
+    "new_key": "commands.scoreboard.objectives.add.duplicate",
+    "new_value": "已存在使用此名稱的目標",
+    "en_us": "An objective already exists by that name"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.display.cleared",
+    "old_value": "已清除 %s 顯示區嘅所有目標",
+    "new_key": "commands.scoreboard.objectives.display.cleared",
+    "new_value": "已清除 %s 顯示區的所有目標",
+    "en_us": "Cleared any objectives in display slot %s"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.display.set",
+    "old_value": "已將目標 %2$s 顯示於 %1$s 嘅顯示區",
+    "new_key": "commands.scoreboard.objectives.display.set",
+    "new_value": "已將目標 %2$s 顯示於 %1$s 的顯示區",
+    "en_us": "Set display slot %s to show objective %s"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.modify.displayname",
+    "old_value": "已將 %s 的顯示名稱更改為 %s",
+    "new_key": "commands.scoreboard.objectives.modify.displayname",
+    "new_value": "已將 %s 的顯示名稱變更為 %s",
+    "en_us": "Changed the display name of %s to %s"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.modify.rendertype",
+    "old_value": "已更改目標 %s 嘅顯示類型",
+    "new_key": "commands.scoreboard.objectives.modify.rendertype",
+    "new_value": "已變更目標 %s 的顯示類型",
+    "en_us": "Changed the render type of objective %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.add.success.multiple",
+    "old_value": "已為 %3$s 個實體嘅 %2$s 增加 %1$s",
+    "new_key": "commands.scoreboard.players.add.success.multiple",
+    "new_value": "已為 %3$s 個實體的 %2$s 增加 %1$s",
+    "en_us": "Added %s to %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.add.success.single",
+    "old_value": "已為 %3$s 嘅 %2$s 增加 %1$s（目前為 %4$s）",
+    "new_key": "commands.scoreboard.players.add.success.single",
+    "new_value": "已為 %3$s 的 %2$s 增加 %1$s（目前為 %4$s）",
+    "en_us": "Added %s to %s for %s (now %s)"
+  },
+  {
+    "old_key": "commands.scoreboard.players.enable.invalid",
+    "old_value": "啟用僅作用於觸發類型嘅目標",
+    "new_key": "commands.scoreboard.players.enable.invalid",
+    "new_value": "啟用僅作用於觸發類型的目標",
+    "en_us": "Enable only works on trigger-objectives"
+  },
+  {
+    "old_key": "commands.scoreboard.players.enable.success.multiple",
+    "old_value": "已啟用 %2$s 個實體嘅觸發項目 %1$s",
+    "new_key": "commands.scoreboard.players.enable.success.multiple",
+    "new_value": "已啟用 %2$s 個實體的觸發項目 %1$s",
+    "en_us": "Enabled trigger %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.enable.success.single",
+    "old_value": "已啟用 %2$s 嘅觸發項目 %1$s",
+    "new_key": "commands.scoreboard.players.enable.success.single",
+    "new_value": "已啟用 %2$s 的觸發項目 %1$s",
+    "en_us": "Enabled trigger %s for %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.get.null",
+    "old_value": "無法獲得 %2$s 嘅 %1$s 數值，數值未設定",
+    "new_key": "commands.scoreboard.players.get.null",
+    "new_value": "無法獲得 %2$s 的 %1$s 數值，數值未設定",
+    "en_us": "Can't get value of %s for %s; none is set"
+  },
+  {
+    "old_key": "commands.scoreboard.players.list.empty",
+    "old_value": "並無任何追蹤嘅實體",
+    "new_key": "commands.scoreboard.players.list.empty",
+    "new_value": "並無任何追蹤的實體",
+    "en_us": "There are no tracked entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.list.entity.empty",
+    "old_value": "%s 並無可顯示嘅分數",
+    "new_key": "commands.scoreboard.players.list.entity.empty",
+    "new_value": "%s 並無可顯示的分數",
+    "en_us": "%s has no scores to show"
+  },
+  {
+    "old_key": "commands.scoreboard.players.list.entity.entry",
+    "old_value": "%s: %s",
+    "new_key": "commands.scoreboard.players.list.entity.entry",
+    "new_value": "%s：%s",
+    "en_us": "%s: %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.operation.success.multiple",
+    "old_value": "已更新 %2$s 個實體嘅 %1$s",
+    "new_key": "commands.scoreboard.players.operation.success.multiple",
+    "new_value": "已更新 %2$s 個實體的 %1$s",
+    "en_us": "Updated %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.operation.success.single",
+    "old_value": "已將 %2$s 嘅 %1$s 設為 %3$s",
+    "new_key": "commands.scoreboard.players.operation.success.single",
+    "new_value": "已將 %2$s 的 %1$s 設為 %3$s",
+    "en_us": "Set %s for %s to %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.remove.success.multiple",
+    "old_value": "已將 %3$s 個實體嘅 %2$s 扣除 %1$s",
+    "new_key": "commands.scoreboard.players.remove.success.multiple",
+    "new_value": "已將 %3$s 個實體的 %2$s 扣除 %1$s",
+    "en_us": "Removed %s from %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.remove.success.single",
+    "old_value": "已將 %3$s 嘅 %2$s 扣除 %1$s（目前為 %4$s）",
+    "new_key": "commands.scoreboard.players.remove.success.single",
+    "new_value": "已將 %3$s 的 %2$s 扣除 %1$s（目前為 %4$s）",
+    "en_us": "Removed %s from %s for %s (now %s)"
+  },
+  {
+    "old_key": "commands.scoreboard.players.reset.all.multiple",
+    "old_value": "已重設 %s 個實體嘅所有分數",
+    "new_key": "commands.scoreboard.players.reset.all.multiple",
+    "new_value": "已重設 %s 個實體的所有分數",
+    "en_us": "Reset all scores for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.reset.all.single",
+    "old_value": "已重設 %s 嘅所有分數",
+    "new_key": "commands.scoreboard.players.reset.all.single",
+    "new_value": "已重設 %s 的所有分數",
+    "en_us": "Reset all scores for %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.reset.specific.multiple",
+    "old_value": "已重設 %2$s 個實體嘅 %1$s",
+    "new_key": "commands.scoreboard.players.reset.specific.multiple",
+    "new_value": "已重設 %2$s 個實體的 %1$s",
+    "en_us": "Reset %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.reset.specific.single",
+    "old_value": "已重設 %2$s 嘅 %1$s",
+    "new_key": "commands.scoreboard.players.reset.specific.single",
+    "new_value": "已重設 %2$s 的 %1$s",
+    "en_us": "Reset %s for %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.set.success.multiple",
+    "old_value": "已將 %2$s 個實體嘅 %1$s 設為 %3$s",
+    "new_key": "commands.scoreboard.players.set.success.multiple",
+    "new_value": "已將 %2$s 個實體的 %1$s 設為 %3$s",
+    "en_us": "Set %s for %s entities to %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.set.success.single",
+    "old_value": "已將 %2$s 嘅 %1$s 設為 %3$s",
+    "new_key": "commands.scoreboard.players.set.success.single",
+    "new_value": "已將 %2$s 的 %1$s 設為 %3$s",
+    "en_us": "Set %s for %s to %s"
+  },
+  {
+    "old_key": "commands.setblock.success",
+    "old_value": "已變更位於 %s, %s, %s 嘅方塊",
+    "new_key": "commands.setblock.success",
+    "new_value": "已變更位於 %s, %s, %s 的方塊",
+    "en_us": "Changed the block at %s, %s, %s"
+  },
+  {
+    "old_key": "commands.setworldspawn.success",
+    "old_value": "已經將世界重生點設成 %s, %s, %s [%s]",
+    "new_key": "commands.setworldspawn.success",
+    "new_value": "已將世界重生點設成 %s, %s, %s [%s]",
+    "en_us": "Set the world spawn point to %s, %s, %s [%s]"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.multiple",
+    "old_value": "已經將 %6$s 個玩家喺 %5$s 嘅重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "new_key": "commands.spawnpoint.success.multiple",
+    "new_value": "已將 %6$s 個玩家在 %5$s 的重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s players"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.single",
+    "old_value": "已經將 %6$s 喺 %5$s 嘅重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "new_key": "commands.spawnpoint.success.single",
+    "new_value": "已將 %6$s 在 %5$s 的重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
+  },
+  {
+    "old_key": "commands.stopsound.success.source.any",
+    "old_value": "已停止所有來自「%s」嘅音效",
+    "new_key": "commands.stopsound.success.source.any",
+    "new_value": "已停止所有來自「%s」的音效",
+    "en_us": "Stopped all '%s' sounds"
+  },
+  {
+    "old_key": "commands.stopsound.success.source.sound",
+    "old_value": "已停止音源 '%2$s' 嘅音效 '%1$s'",
+    "new_key": "commands.stopsound.success.source.sound",
+    "new_value": "已停止音源 '%2$s' 的音效 '%1$s'",
+    "en_us": "Stopped sound '%s' on source '%s'"
+  },
+  {
+    "old_key": "commands.summon.success",
+    "old_value": "已召喚新嘅 %s",
+    "new_key": "commands.summon.success",
+    "new_value": "已召喚新的 %s",
+    "en_us": "Summoned new %s"
+  },
+  {
+    "old_key": "commands.tag.list.multiple.empty",
+    "old_value": "依 %s 個實體上並無任何標籤",
+    "new_key": "commands.tag.list.multiple.empty",
+    "new_value": "%s 個實體上並無任何標籤",
+    "en_us": "There are no tags on the %s entities"
+  },
+  {
+    "old_key": "commands.tag.remove.failed",
+    "old_value": "對象並無依個標籤",
+    "new_key": "commands.tag.remove.failed",
+    "new_value": "對象並無此標籤",
+    "en_us": "Target does not have this tag"
+  },
+  {
+    "old_key": "commands.team.add.duplicate",
+    "old_value": "已經存在使用依個名稱嘅隊伍",
+    "new_key": "commands.team.add.duplicate",
+    "new_value": "已經存在使用此名稱的隊伍",
+    "en_us": "A team already exists by that name"
+  },
+  {
+    "old_key": "commands.team.option.collisionRule.success",
+    "old_value": "隊伍 %s 嘅碰撞規則依家係「%s」",
+    "new_key": "commands.team.option.collisionRule.success",
+    "new_value": "隊伍 %s 的碰撞規則目前為「%s」",
+    "en_us": "Collision rule for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.team.option.color.success",
+    "old_value": "已將隊伍 %s 嘅顏色更新為 %s",
+    "new_key": "commands.team.option.color.success",
+    "new_value": "已將隊伍 %s 的顏色更新為 %s",
+    "en_us": "Updated the color for team %s to %s"
+  },
+  {
+    "old_key": "commands.team.option.deathMessageVisibility.success",
+    "old_value": "隊伍 %s 嘅死亡訊息可見度依家係「%s」",
+    "new_key": "commands.team.option.deathMessageVisibility.success",
+    "new_value": "隊伍 %s 的死亡訊息可見度目前為「%s」",
+    "en_us": "Death message visibility for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.team.option.name.success",
+    "old_value": "已更新隊伍 %s 嘅名稱",
+    "new_key": "commands.team.option.name.success",
+    "new_value": "已更新隊伍 %s 的名稱",
+    "en_us": "Updated the name of team %s"
+  },
+  {
+    "old_key": "commands.team.option.nametagVisibility.success",
+    "old_value": "隊伍 %s 嘅名稱可見度依家係「%s」",
+    "new_key": "commands.team.option.nametagVisibility.success",
+    "new_value": "隊伍 %s 的名稱可見度目前為「%s」",
+    "en_us": "Nametag visibility for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
+    "old_value": "未進行任何變更。此隊伍已經無法發現隱身嘅隊友",
+    "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
+    "new_value": "未進行任何變更。此隊伍已經無法發現隱身的隊友",
+    "en_us": "Nothing changed. That team already can't see invisible teammates"
+  },
+  {
+    "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
+    "old_value": "未進行任何變更。此隊伍已經可以發現隱身嘅隊友",
+    "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
+    "new_value": "未進行任何變更。此隊伍已經可以發現隱身的隊友",
+    "en_us": "Nothing changed. That team can already see invisible teammates"
+  },
+  {
+    "old_key": "commands.team.option.seeFriendlyInvisibles.disabled",
+    "old_value": "隊伍 %s 不再可以發現隱身嘅隊友",
+    "new_key": "commands.team.option.seeFriendlyInvisibles.disabled",
+    "new_value": "隊伍 %s 不再可以發現隱身的隊友",
+    "en_us": "Team %s can no longer see invisible teammates"
+  },
+  {
+    "old_key": "commands.team.option.seeFriendlyInvisibles.enabled",
+    "old_value": "隊伍 %s 已經可以發現隱身嘅隊友",
+    "new_key": "commands.team.option.seeFriendlyInvisibles.enabled",
+    "new_value": "隊伍 %s 已經可以發現隱身的隊友",
+    "en_us": "Team %s can now see invisible teammates"
+  },
+  {
+    "old_key": "commands.time.set",
+    "old_value": "將時間設定為 %s",
+    "new_key": "commands.time.set",
+    "new_value": "已將時間設定為 %s",
+    "en_us": "Set the time to %s"
+  },
+  {
+    "old_key": "commands.title.cleared.multiple",
+    "old_value": "已清除 %s 個玩家嘅標題",
+    "new_key": "commands.title.cleared.multiple",
+    "new_value": "已清除 %s 個玩家的標題",
+    "en_us": "Cleared titles for %s players"
+  },
+  {
+    "old_key": "commands.title.cleared.single",
+    "old_value": "已清除 %s 嘅標題",
+    "new_key": "commands.title.cleared.single",
+    "new_value": "已清除 %s 的標題",
+    "en_us": "Cleared titles for %s"
+  },
+  {
+    "old_key": "commands.title.reset.multiple",
+    "old_value": "已重設 %s 個玩家嘅標題設定",
+    "new_key": "commands.title.reset.multiple",
+    "new_value": "已重設 %s 個玩家的標題設定",
+    "en_us": "Reset title options for %s players"
+  },
+  {
+    "old_key": "commands.title.reset.single",
+    "old_value": "已重設 %s 嘅標題設定",
+    "new_key": "commands.title.reset.single",
+    "new_value": "已重設 %s 的標題設定",
+    "en_us": "Reset title options for %s"
+  },
+  {
+    "old_key": "commands.title.show.actionbar.multiple",
+    "old_value": "已對 %s 個玩家顯示新嘅動作欄標題",
+    "new_key": "commands.title.show.actionbar.multiple",
+    "new_value": "已對 %s 個玩家顯示新的動作欄標題",
+    "en_us": "Showing new actionbar title for %s players"
+  },
+  {
+    "old_key": "commands.title.show.actionbar.single",
+    "old_value": "已對 %s 顯示新嘅動作欄標題",
+    "new_key": "commands.title.show.actionbar.single",
+    "new_value": "已對 %s 顯示新的動作欄標題",
+    "en_us": "Showing new actionbar title for %s"
+  },
+  {
+    "old_key": "commands.title.show.subtitle.multiple",
+    "old_value": "已對 %s 個玩家顯示新嘅副標題",
+    "new_key": "commands.title.show.subtitle.multiple",
+    "new_value": "已對 %s 個玩家顯示新的副標題",
+    "en_us": "Showing new subtitle for %s players"
+  },
+  {
+    "old_key": "commands.title.show.subtitle.single",
+    "old_value": "已對 %s 顯示新嘅副標題",
+    "new_key": "commands.title.show.subtitle.single",
+    "new_value": "已對 %s 顯示新的副標題",
+    "en_us": "Showing new subtitle for %s"
+  },
+  {
+    "old_key": "commands.title.show.title.multiple",
+    "old_value": "已對 %s 個玩家顯示新嘅標題",
+    "new_key": "commands.title.show.title.multiple",
+    "new_value": "已對 %s 個玩家顯示新的標題",
+    "en_us": "Showing new title for %s players"
+  },
+  {
+    "old_key": "commands.title.show.title.single",
+    "old_value": "已對 %s 顯示新嘅標題",
+    "new_key": "commands.title.show.title.single",
+    "new_value": "已對 %s 顯示新的標題",
+    "en_us": "Showing new title for %s"
+  },
+  {
+    "old_key": "commands.title.times.multiple",
+    "old_value": "已更改 %s 個玩家嘅標題顯示時間",
+    "new_key": "commands.title.times.multiple",
+    "new_value": "已變更%s 個玩家的標題顯示時間",
+    "en_us": "Changed title display times for %s players"
+  },
+  {
+    "old_key": "commands.title.times.single",
+    "old_value": "已更改 %s 嘅標題顯示時間",
+    "new_key": "commands.title.times.single",
+    "new_value": "已變更 %s 的標題顯示時間",
+    "en_us": "Changed title display times for %s"
+  },
+  {
+    "old_key": "commands.whitelist.none",
+    "old_value": "白名單入面並無玩家",
+    "new_key": "commands.whitelist.none",
+    "new_value": "白名單內並無玩家",
+    "en_us": "There are no whitelisted players"
+  },
+  {
+    "old_key": "commands.worldborder.damage.amount.success",
+    "old_value": "已將世界界限每秒嘅傷害設為每遠離一格增加 %s",
+    "new_key": "commands.worldborder.damage.amount.success",
+    "new_value": "已將世界界限每秒的傷害設為每遠離一格增加 %s",
+    "en_us": "Set the world border damage to %s per block each second"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "en_us": "Growing the world border to %s blocks wide over %s seconds"
+  },
+  {
+    "old_key": "container.isLocked",
+    "old_value": "%s 鎖咗！",
+    "new_key": "container.isLocked",
+    "new_value": "%s 已上鎖！",
+    "en_us": "%s is locked!"
+  },
+  {
+    "old_key": "container.shulkerBox.more",
+    "old_value": "仲有 %s 件物品⋯⋯",
+    "new_key": "container.shulkerBox.more",
+    "new_value": "還有 %s 件物品⋯⋯",
+    "en_us": "and %s more..."
+  },
+  {
+    "old_key": "createWorld.customize.buffet.biome",
+    "old_value": "請選擇一種生物群落",
+    "new_key": "createWorld.customize.buffet.biome",
+    "new_value": "請選擇一種生物羣落",
+    "en_us": "Please select a biome"
+  },
+  {
+    "old_key": "createWorld.customize.presets.select",
+    "old_value": "使用依個設定",
+    "new_key": "createWorld.customize.presets.select",
+    "new_value": "使用此設定",
+    "en_us": "Use Preset"
+  },
+  {
+    "old_key": "createWorld.customize.presets.share",
+    "old_value": "想同人哋分享你嘅預定設定？請使用下面嘅文字框！",
+    "new_key": "createWorld.customize.presets.share",
+    "new_value": "想與別人分享你的預定設定？請使用下面的文字框！",
+    "en_us": "Want to share your preset with someone? Use the box below!"
+  },
+  {
+    "old_key": "death.attack.anvil",
+    "old_value": "%1$s 被跌咗落來嘅鐵砧壓成肉餅",
+    "new_key": "death.attack.anvil",
+    "new_value": "%1$s 被跌落的鐵砧壓成肉餅",
+    "en_us": "%1$s was squashed by a falling anvil"
+  },
+  {
+    "old_key": "death.attack.arrow",
+    "old_value": "%1$s 被 %2$s 射死咗",
+    "new_key": "death.attack.arrow",
+    "new_value": "%1$s 被 %2$s 射死了",
+    "en_us": "%1$s was shot by %2$s"
+  },
+  {
+    "old_key": "death.attack.arrow.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 射死咗",
+    "new_key": "death.attack.arrow.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 射死了",
+    "en_us": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.badRespawnPoint.link",
+    "old_value": "特登嘅遊戲設計",
+    "new_key": "death.attack.badRespawnPoint.link",
+    "new_value": "刻意的遊戲設計",
+    "en_us": "Intentional Game Design"
+  },
+  {
+    "old_key": "death.attack.badRespawnPoint.message",
+    "old_value": "%1$s 被 %2$s 殺死咗",
+    "new_key": "death.attack.badRespawnPoint.message",
+    "new_value": "%1$s 被 %2$s 殺死了",
+    "en_us": "%1$s was killed by %2$s"
+  },
+  {
+    "old_key": "death.attack.cactus",
+    "old_value": "%1$s 被仙人掌拮死咗",
+    "new_key": "death.attack.cactus",
+    "new_value": "%1$s 被仙人掌刺死了",
+    "en_us": "%1$s was pricked to death"
+  },
+  {
+    "old_key": "death.attack.drown",
+    "old_value": "%1$s 浸死咗",
+    "new_key": "death.attack.drown",
+    "new_value": "%1$s 溺水身亡",
+    "en_us": "%1$s drowned"
+  },
+  {
+    "old_key": "death.attack.dryout",
+    "old_value": "%1$s 因為離水太耐而死",
+    "new_key": "death.attack.dryout",
+    "new_value": "%1$s 缺水而死",
+    "en_us": "%1$s died from dehydration"
+  },
+  {
+    "old_key": "death.attack.even_more_magic",
+    "old_value": "%1$s 被更可怕嘅神祕力量殺死咗",
+    "new_key": "death.attack.even_more_magic",
+    "new_value": "%1$s 被更可怕的神祕力量殺死了",
+    "en_us": "%1$s was killed by even more magic"
+  },
+  {
+    "old_key": "death.attack.explosion",
+    "old_value": "%1$s 炸到渣都冇得剩",
+    "new_key": "death.attack.explosion",
+    "new_value": "%1$s 被炸到飛起",
+    "en_us": "%1$s blew up"
+  },
+  {
+    "old_key": "death.attack.explosion.player",
+    "old_value": "%1$s 被 %2$s 炸到渣都冇得剩",
+    "new_key": "death.attack.explosion.player",
+    "new_value": "%1$s 被 %2$s 炸到飛起",
+    "en_us": "%1$s was blown up by %2$s"
+  },
+  {
+    "old_key": "death.attack.explosion.player.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 炸到渣都冇得剩",
+    "new_key": "death.attack.explosion.player.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 炸到飛起",
+    "en_us": "%1$s was blown up by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.fall",
+    "old_value": "%1$s 唔小心跌死咗",
+    "new_key": "death.attack.fall",
+    "new_value": "%1$s 失足落地",
+    "en_us": "%1$s hit the ground too hard"
+  },
+  {
+    "old_key": "death.attack.fallingBlock",
+    "old_value": "%1$s 被跌咗落來嘅方塊壓成肉餅",
+    "new_key": "death.attack.fallingBlock",
+    "new_value": "%1$s 被跌落的方塊壓成肉餅",
+    "en_us": "%1$s was squashed by a falling block"
+  },
+  {
+    "old_key": "death.attack.fallingStalactite",
+    "old_value": "%1$s 被跌落嚟嘅鐘乳石刺死咗",
+    "new_key": "death.attack.fallingStalactite",
+    "new_value": "%1$s 被跌落的鐘乳石刺死了",
+    "en_us": "%1$s was skewered by a falling stalactite"
+  },
+  {
+    "old_key": "death.attack.fireball",
+    "old_value": "%1$s 被 %2$s 嘅火球殺死咗",
+    "new_key": "death.attack.fireball",
+    "new_value": "%1$s 被 %2$s 的火球殺死了",
+    "en_us": "%1$s was fireballed by %2$s"
+  },
+  {
+    "old_key": "death.attack.fireball.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 發射嘅火球殺死咗",
+    "new_key": "death.attack.fireball.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 發射的火球殺死了",
+    "en_us": "%1$s was fireballed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.fireworks",
+    "old_value": "%1$s 結束咗燦爛嘅一生",
+    "new_key": "death.attack.fireworks",
+    "new_value": "%1$s 結束了燦爛的一生",
+    "en_us": "%1$s went off with a bang"
+  },
+  {
+    "old_key": "death.attack.fireworks.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 射出嘅煙花炸死咗",
+    "new_key": "death.attack.fireworks.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 射出的煙花炸死了",
+    "en_us": "%1$s went off with a bang due to a firework fired from %3$s by %2$s"
+  },
+  {
+    "old_key": "death.attack.flyIntoWall",
+    "old_value": "%1$s 撞死咗",
+    "new_key": "death.attack.flyIntoWall",
+    "new_value": "%1$s 撞死了",
+    "en_us": "%1$s experienced kinetic energy"
+  },
+  {
+    "old_key": "death.attack.freeze",
+    "old_value": "%1$s 凍死咗",
+    "new_key": "death.attack.freeze",
+    "new_value": "%1$s 凍死了",
+    "en_us": "%1$s froze to death"
+  },
+  {
+    "old_key": "death.attack.freeze.player",
+    "old_value": "%1$s 被 %2$s 凍死咗",
+    "new_key": "death.attack.freeze.player",
+    "new_value": "%1$s 被 %2$s 凍死了",
+    "en_us": "%1$s was frozen to death by %2$s"
+  },
+  {
+    "old_key": "death.attack.generic",
+    "old_value": "%1$s 死咗",
+    "new_key": "death.attack.generic",
+    "new_value": "%1$s 死了",
+    "en_us": "%1$s died"
+  },
+  {
+    "old_key": "death.attack.hotFloor",
+    "old_value": "%1$s 發覺地板係熔岩鋪嘅",
+    "new_key": "death.attack.hotFloor",
+    "new_value": "%1$s 發現地板是熔岩",
+    "en_us": "%1$s discovered the floor was lava"
+  },
+  {
+    "old_key": "death.attack.indirectMagic",
+    "old_value": "%1$s 被 %2$s 嘅神祕力量殺死咗",
+    "new_key": "death.attack.indirectMagic",
+    "new_value": "%1$s 被 %2$s 的神祕力量殺死了",
+    "en_us": "%1$s was killed by %2$s using magic"
+  },
+  {
+    "old_key": "death.attack.indirectMagic.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
+    "new_key": "death.attack.indirectMagic.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "en_us": "%1$s was killed by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.inFire",
+    "old_value": "%1$s 燒到熔咗",
+    "new_key": "death.attack.inFire",
+    "new_value": "%1$s 被燒成灰",
+    "en_us": "%1$s went up in flames"
+  },
+  {
+    "old_key": "death.attack.inWall",
+    "old_value": "%1$s 喺牆裏面窒息而亡",
+    "new_key": "death.attack.inWall",
+    "new_value": "%1$s 在牆裏面窒息而亡",
+    "en_us": "%1$s suffocated in a wall"
+  },
+  {
+    "old_key": "death.attack.lava",
+    "old_value": "%1$s 諗住喺熔岩入面游水",
+    "new_key": "death.attack.lava",
+    "new_value": "%1$s 試圖在熔岩內游泳",
+    "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lightningBolt",
+    "old_value": "%1$s 死於天打雷劈",
+    "new_key": "death.attack.lightningBolt",
+    "new_value": "%1$s 被閃電擊中",
+    "en_us": "%1$s was struck by lightning"
+  },
+  {
+    "old_key": "death.attack.mob",
+    "old_value": "%1$s 被 %2$s 殺死咗",
+    "new_key": "death.attack.mob",
+    "new_value": "%1$s 被 %2$s 殺死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.mob.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
+    "new_key": "death.attack.mob.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "en_us": "%1$s was slain by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.onFire",
+    "old_value": "%1$s 燒燶咗",
+    "new_key": "death.attack.onFire",
+    "new_value": "%1$s 燒糊了",
+    "en_us": "%1$s burned to death"
+  },
+  {
+    "old_key": "death.attack.outOfWorld",
+    "old_value": "%1$s 跌出咗世界",
+    "new_key": "death.attack.outOfWorld",
+    "new_value": "%1$s 跌出世界",
+    "en_us": "%1$s fell out of the world"
+  },
+  {
+    "old_key": "death.attack.player",
+    "old_value": "%1$s 被 %2$s 殺死咗",
+    "new_key": "death.attack.player",
+    "new_value": "%1$s 被 %2$s 殺死了",
+    "en_us": "%1$s was slain by %2$s"
+  },
+  {
+    "old_key": "death.attack.player.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
+    "new_key": "death.attack.player.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "en_us": "%1$s was slain by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.stalagmite",
+    "old_value": "%1$s 被石筍刺死咗",
+    "new_key": "death.attack.stalagmite",
+    "new_value": "%1$s 被石筍刺死了",
+    "en_us": "%1$s was impaled on a stalagmite"
+  },
+  {
+    "old_key": "death.attack.starve",
+    "old_value": "%1$s 變成咗餓鬼",
+    "new_key": "death.attack.starve",
+    "new_value": "%1$s 成了餓鬼",
+    "en_us": "%1$s starved to death"
+  },
+  {
+    "old_key": "death.attack.sting",
+    "old_value": "%1$s 被叮死咗",
+    "new_key": "death.attack.sting",
+    "new_value": "%1$s 被叮死了",
+    "en_us": "%1$s was stung to death"
+  },
+  {
+    "old_key": "death.attack.sting.player",
+    "old_value": "%1$s 被 %2$s 叮死咗",
+    "new_key": "death.attack.sting.player",
+    "new_value": "%1$s 被 %2$s 叮死了",
+    "en_us": "%1$s was stung to death by %2$s"
+  },
+  {
+    "old_key": "death.attack.sweetBerryBush",
+    "old_value": "%1$s 被甜莓灌木叢拮死咗",
+    "new_key": "death.attack.sweetBerryBush",
+    "new_value": "%1$s 被甜莓灌木叢刺死了",
+    "en_us": "%1$s was poked to death by a sweet berry bush"
+  },
+  {
+    "old_key": "death.attack.trident",
+    "old_value": "%1$s 被 %2$s 拮穿咗",
+    "new_key": "death.attack.trident",
+    "new_value": "%1$s 被 %2$s 刺穿了",
+    "en_us": "%1$s was impaled by %2$s"
+  },
+  {
+    "old_key": "death.attack.trident.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 拮穿咗",
+    "new_key": "death.attack.trident.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 刺穿了",
+    "en_us": "%1$s was impaled by %2$s with %3$s"
+  },
+  {
+    "old_key": "death.attack.wither",
+    "old_value": "%1$s 凋零咗",
+    "new_key": "death.attack.wither",
+    "new_value": "%1$s 凋零了",
+    "en_us": "%1$s withered away"
+  },
+  {
+    "old_key": "death.attack.witherSkull",
+    "old_value": "%1$s 被 %2$s 發射嘅頭顱射中咗",
+    "new_key": "death.attack.witherSkull",
+    "new_value": "%1$s 被 %2$s 發射的頭顱射中了",
+    "en_us": "%1$s was shot by a skull from %2$s"
+  },
+  {
+    "old_key": "death.fell.accident.generic",
+    "old_value": "%1$s 喺高處跌咗落嚟",
+    "new_key": "death.fell.accident.generic",
+    "new_value": "%1$s 從高處跌落",
+    "en_us": "%1$s fell from a high place"
+  },
+  {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s 喺梯上面跌咗落嚟",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s 在梯上面跌落",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
+    "old_key": "death.fell.accident.other_climbable",
+    "old_value": "%1$s 喺攀爬嗰陣跌咗落嚟",
+    "new_key": "death.fell.accident.other_climbable",
+    "new_value": "%1$s 攀爬時不慎跌落",
+    "en_us": "%1$s fell while climbing"
+  },
+  {
+    "old_key": "death.fell.accident.scaffolding",
+    "old_value": "%1$s 喺棚架上面跌咗落嚟",
+    "new_key": "death.fell.accident.scaffolding",
+    "new_value": "%1$s 在棚架上面不慎跌落",
+    "en_us": "%1$s fell off scaffolding"
+  },
+  {
+    "old_key": "death.fell.accident.twisting_vines",
+    "old_value": "%1$s 喺扭曲藤上面跌咗落嚟",
+    "new_key": "death.fell.accident.twisting_vines",
+    "new_value": "%1$s 在扭曲藤上面跌落",
+    "en_us": "%1$s fell off some twisting vines"
+  },
+  {
+    "old_key": "death.fell.accident.vines",
+    "old_value": "%1$s 喺藤蔓上面跌咗落嚟",
+    "new_key": "death.fell.accident.vines",
+    "new_value": "%1$s 在藤蔓上面跌落",
+    "en_us": "%1$s fell off some vines"
+  },
+  {
+    "old_key": "death.fell.accident.weeping_vines",
+    "old_value": "%1$s 喺哭泣藤上面跌咗落嚟",
+    "new_key": "death.fell.accident.weeping_vines",
+    "new_value": "%1$s 在哭泣藤上面跌落",
+    "en_us": "%1$s fell off some weeping vines"
+  },
+  {
+    "old_key": "death.fell.finish",
+    "old_value": "%1$s 跌傷後被 %2$s 殺咗",
+    "new_key": "death.fell.finish",
+    "new_value": "%1$s 跌傷後被 %2$s 了斷",
+    "en_us": "%1$s fell too far and was finished by %2$s"
+  },
+  {
+    "old_key": "death.fell.finish.item",
+    "old_value": "%1$s 跌成重傷後被 %2$s 用 %3$s 斬殺",
+    "new_key": "death.fell.finish.item",
+    "new_value": "%1$s 跌傷後被 %2$s 用 %3$s 了斷",
+    "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
+  },
+  {
+    "old_key": "deathScreen.quit.confirm",
+    "old_value": "你真係想離開遊戲？",
+    "new_key": "deathScreen.quit.confirm",
+    "new_value": "你確定要離開遊戲？",
+    "en_us": "Are you sure you want to quit?"
+  },
+  {
+    "old_key": "deathScreen.title",
+    "old_value": "你死咗！",
+    "new_key": "deathScreen.title",
+    "new_value": "你死了！",
+    "en_us": "You Died!"
+  },
+  {
+    "old_key": "debug.clear_chat.help",
+    "old_value": "F3 + D = 清除聊天記錄",
+    "new_key": "debug.clear_chat.help",
+    "new_value": "F3 + D = 清除聊天紀錄",
+    "en_us": "F3 + D = Clear chat"
+  },
+  {
+    "old_key": "debug.copy_location.message",
+    "old_value": "坐標已複製到剪貼簿",
+    "new_key": "debug.copy_location.message",
+    "new_value": "座標已複製到剪貼簿",
+    "en_us": "Copied location to clipboard"
+  },
+  {
+    "old_key": "debug.gamemodes.error",
+    "old_value": "你未擁有打開遊戲模式切換器嘅權限",
+    "new_key": "debug.gamemodes.error",
+    "new_value": "你未擁有打開遊戲模式切換器的權限",
+    "en_us": "Unable to open game mode switcher; no permission"
+  },
+  {
+    "old_key": "debug.inspect.help",
+    "old_value": "F3 + I = 將實體或方塊嘅數據複製到剪貼簿",
+    "new_key": "debug.inspect.help",
+    "new_value": "F3 + I = 將實體或方塊的數據複製到剪貼簿",
+    "en_us": "F3 + I = Copy entity or block data to clipboard"
+  },
+  {
+    "old_key": "demo.day.1",
+    "old_value": "依個試玩版只有 5 日遊戲內時間，畀心機喇！",
+    "new_key": "demo.day.1",
+    "new_value": "試玩版只有 5 日遊戲內時間。畀心機喇！",
+    "en_us": "This demo will last five game days. Do your best!"
+  },
+  {
+    "old_key": "demo.day.5",
+    "old_value": "今日係你遊戲入面嘅最後一日！",
+    "new_key": "demo.day.5",
+    "new_value": "今日為你遊戲內的最後一日！",
+    "en_us": "This is your last day!"
+  },
+  {
+    "old_key": "demo.day.6",
+    "old_value": "你已經渡過咗你嘅第五日試玩期，按下 %s 嚟為你嘅創作儲存一張擷圖。",
+    "new_key": "demo.day.6",
+    "new_value": "你已經渡過你的第五日試玩期，按下 %s 來為你的創作儲存一張擷圖。",
+    "en_us": "You have passed your fifth day. Use %s to save a screenshot of your creation."
+  },
+  {
+    "old_key": "demo.day.warning",
+    "old_value": "你嘅試玩時間即將結束",
+    "new_key": "demo.day.warning",
+    "new_value": "你的試玩時間即將結束",
+    "en_us": "Your time is almost up!"
+  },
+  {
+    "old_key": "demo.help.fullWrapped",
+    "old_value": "你可以喺遊戲入面試玩五日（大約係現實世界嘅 1 小時 40 分鐘）。睇下「進度」可以揾到有幫助嘅提示。祝你玩得開心！",
+    "new_key": "demo.help.fullWrapped",
+    "new_value": "你可以在遊戲中試玩五天（約為現實世界的 1 小時 40 分鐘）。在選單的「進度」選項中，可以找到一些有幫助的提示。希望你玩得開心！",
+    "en_us": "This demo will last 5 in-game days (about 1 hour and 40 minutes of real time). Check the advancements for hints! Have fun!"
+  },
+  {
+    "old_key": "demo.help.inventory",
+    "old_value": "使用 %1$s 鍵來打開你嘅物品欄",
+    "new_key": "demo.help.inventory",
+    "new_value": "使用 %1$s 鍵來打開你的物品欄",
+    "en_us": "Use the %1$s key to open your inventory"
+  },
+  {
+    "old_key": "demo.help.movement",
+    "old_value": "用 %1$s、%2$s、%3$s、%4$s 鍵同滑鼠來移動",
+    "new_key": "demo.help.movement",
+    "new_value": "用 %1$s、%2$s、%3$s、%4$s 鍵同滑鼠移動",
+    "en_us": "Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around"
+  },
+  {
+    "old_key": "demo.reminder",
+    "old_value": "試玩時間已經結束，請購買遊戲來繼續，或者重新開始一個新嘅世界！",
+    "new_key": "demo.reminder",
+    "new_value": "試玩時間已經結束，請購買遊戲來繼續，或者重新開始一個新的世界！",
+    "en_us": "The demo time has expired. Buy the game to continue or start a new world!"
+  },
+  {
+    "old_key": "difficulty.lock.question",
+    "old_value": "你真係要鎖定世界難易度？ 依個操作會將世界永久設為%1$s，並且無法再被更改。",
+    "new_key": "difficulty.lock.question",
+    "new_value": "你確定要鎖定世界難易度？ 此操作會將世界永久設為%1$s，並且無法再被更改。",
+    "en_us": "Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again."
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo.insufficientPrivileges",
+    "old_value": "多人遊戲已停用。請檢查你嘅 Microsoft 帳户設定。",
+    "new_key": "disconnect.loginFailedInfo.insufficientPrivileges",
+    "new_value": "多人遊戲已停用。請檢查你的 Microsoft 帳户設定。",
+    "en_us": "Multiplayer is disabled. Please check your Microsoft account settings."
+  },
+  {
+    "old_key": "effect.minecraft.hunger",
+    "old_value": "飢餓",
+    "new_key": "effect.minecraft.hunger",
+    "new_value": "饑餓",
+    "en_us": "Hunger"
+  },
+  {
+    "old_key": "entity.minecraft.egg",
+    "old_value": "掟出嘅雞蛋",
+    "new_key": "entity.minecraft.egg",
+    "new_value": "拋出的雞蛋",
+    "en_us": "Thrown Egg"
+  },
+  {
+    "old_key": "entity.minecraft.ender_pearl",
+    "old_value": "掟出嘅終界珍珠",
+    "new_key": "entity.minecraft.ender_pearl",
+    "new_value": "拋出的終界珍珠",
+    "en_us": "Thrown Ender Pearl"
+  },
+  {
+    "old_key": "entity.minecraft.experience_bottle",
+    "old_value": "掟出嘅附魔之瓶",
+    "new_key": "entity.minecraft.experience_bottle",
+    "new_value": "拋出的附魔之瓶",
+    "en_us": "Thrown Bottle o' Enchanting"
+  },
+  {
+    "old_key": "entity.minecraft.falling_block",
+    "old_value": "跌落嘅方塊",
+    "new_key": "entity.minecraft.falling_block",
+    "new_value": "跌落的方塊",
+    "en_us": "Falling Block"
+  },
+  {
+    "old_key": "entity.minecraft.glow_item_frame",
+    "old_value": "螢光物品展示框",
+    "new_key": "entity.minecraft.glow_item_frame",
+    "new_value": "熒光物品展示框",
+    "en_us": "Glow Item Frame"
+  },
+  {
+    "old_key": "entity.minecraft.glow_squid",
+    "old_value": "螢光墨魚",
+    "new_key": "entity.minecraft.glow_squid",
+    "new_value": "熒光墨魚",
+    "en_us": "Glow Squid"
+  },
+  {
+    "old_key": "entity.minecraft.pufferfish",
+    "old_value": "雞泡魚",
+    "new_key": "entity.minecraft.pufferfish",
+    "new_value": "河豚",
+    "en_us": "Pufferfish"
+  },
+  {
+    "old_key": "entity.minecraft.tnt",
+    "old_value": "點燃嘅 TNT",
+    "new_key": "entity.minecraft.tnt",
+    "new_value": "點燃的 TNT",
+    "en_us": "Primed TNT"
+  },
+  {
+    "old_key": "entity.minecraft.tropical_fish.predefined.9",
+    "old_value": "海鯡鯉",
+    "new_key": "entity.minecraft.tropical_fish.predefined.9",
+    "new_value": "海緋鯉",
+    "en_us": "Goatfish"
+  },
+  {
+    "old_key": "entity.minecraft.villager.farmer",
+    "old_value": "農民",
+    "new_key": "entity.minecraft.villager.farmer",
+    "new_value": "農夫",
+    "en_us": "Farmer"
+  },
+  {
+    "old_key": "entity.minecraft.villager.fisherman",
+    "old_value": "漁民",
+    "new_key": "entity.minecraft.villager.fisherman",
+    "new_value": "漁夫",
+    "en_us": "Fisherman"
+  },
+  {
+    "old_key": "entity.minecraft.zombie",
+    "old_value": "殭屍",
+    "new_key": "entity.minecraft.zombie",
+    "new_value": "喪屍",
+    "en_us": "Zombie"
+  },
+  {
+    "old_key": "entity.minecraft.zombie_horse",
+    "old_value": "殭屍馬",
+    "new_key": "entity.minecraft.zombie_horse",
+    "new_value": "喪屍馬",
+    "en_us": "Zombie Horse"
+  },
+  {
+    "old_key": "entity.minecraft.zombie_villager",
+    "old_value": "殭屍村民",
+    "new_key": "entity.minecraft.zombie_villager",
+    "new_value": "喪屍村民",
+    "en_us": "Zombie Villager"
+  },
+  {
+    "old_key": "entity.minecraft.zombified_piglin",
+    "old_value": "殭屍豬人",
+    "new_key": "entity.minecraft.zombified_piglin",
+    "new_value": "喪屍豬人",
+    "en_us": "Zombified Piglin"
+  },
+  {
+    "old_key": "gameMode.changed",
+    "old_value": "你嘅遊戲模式已更新為 %s",
+    "new_key": "gameMode.changed",
+    "new_value": "你的遊戲模式已更新為 %s",
+    "en_us": "Your game mode has been updated to %s"
+  },
+  {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "控制礦車（包括儲存物）、物品展示框、船之類嘅掉落物",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "控制礦車（包括儲存物）、物品展示框、船之類的掉落物。",
+    "en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc."
+  },
+  {
+    "old_key": "gamerule.doLimitedCrafting",
+    "old_value": "需要配方進行合成",
+    "new_key": "gamerule.doLimitedCrafting",
+    "new_value": "需要配方合成",
+    "en_us": "Require recipe for crafting"
+  },
+  {
+    "old_key": "gamerule.forgiveDeadPlayers.description",
+    "old_value": "當目標玩家喺附近死亡之後，被激嬲嘅中立生物將會息怒。",
+    "new_key": "gamerule.forgiveDeadPlayers.description",
+    "new_value": "當目標玩家在附近死亡之後，激怒的中立生物將會息怒。",
+    "en_us": "Angered neutral mobs stop being angry when the targeted player dies nearby."
+  },
+  {
+    "old_key": "gamerule.playersSleepingPercentage",
+    "old_value": "瞓覺百分比",
+    "new_key": "gamerule.playersSleepingPercentage",
+    "new_value": "睡覺百分比",
+    "en_us": "Sleep percentage"
+  },
+  {
+    "old_key": "gamerule.playersSleepingPercentage.description",
+    "old_value": "跳過夜晚所需嘅入睡玩家百分比。",
+    "new_key": "gamerule.playersSleepingPercentage.description",
+    "new_value": "跳過夜晚所需的入睡玩家百分比。",
+    "en_us": "The percentage of players who must be sleeping to skip the night."
+  },
+  {
+    "old_key": "gamerule.sendCommandFeedback",
+    "old_value": "回傳命令反饋",
+    "new_key": "gamerule.sendCommandFeedback",
+    "new_value": "回傳命令回饋",
+    "en_us": "Send command feedback"
+  },
+  {
+    "old_key": "gamerule.spectatorsGenerateChunks",
+    "old_value": "容許旁觀者生成地形",
+    "new_key": "gamerule.spectatorsGenerateChunks",
+    "new_value": "允許旁觀者生成地形",
+    "en_us": "Allow spectators to generate terrain"
+  },
+  {
+    "old_key": "gamerule.universalAnger.description",
+    "old_value": "被激嬲嘅中立生物會攻擊任何附近玩家，唔單只係激嬲佢哋嘅玩家。「原諒死亡玩家」停用嘅話會達致最佳效果。",
+    "new_key": "gamerule.universalAnger.description",
+    "new_value": "被激怒的中立生物會攻擊任何附近玩家，不只是激怒它們的玩家。「原諒死亡玩家」停用時則會達致最佳效果。",
+    "en_us": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled."
+  },
+  {
+    "old_key": "gui.recipebook.moreRecipes",
+    "old_value": "按右鍵以了解更多",
+    "new_key": "gui.recipebook.moreRecipes",
+    "new_value": "按右鍵以瞭解更多",
+    "en_us": "Right Click for More"
+  },
+  {
+    "old_key": "gui.socialInteractions.empty_blocked",
+    "old_value": "聊天頻道入面無任何被封鎖嘅玩家",
+    "new_key": "gui.socialInteractions.empty_blocked",
+    "new_value": "聊天頻道中無任何被封鎖的玩家",
+    "en_us": "No blocked players in chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.empty_hidden",
+    "old_value": "聊天頻道中並無任何被隱藏嘅玩家",
+    "new_key": "gui.socialInteractions.empty_hidden",
+    "new_value": "聊天頻道中無任何隱藏的玩家",
+    "en_us": "No players hidden in chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.hidden_in_chat",
+    "old_value": "%s 發出嘅訊息將會被隱藏",
+    "new_key": "gui.socialInteractions.hidden_in_chat",
+    "new_value": "%s 發出的訊息將會被隱藏",
+    "en_us": "Chat messages from %s will be hidden"
+  },
+  {
+    "old_key": "gui.socialInteractions.hide",
+    "old_value": "喺聊天欄入面隱藏",
+    "new_key": "gui.socialInteractions.hide",
+    "new_value": "隱藏於聊天欄內",
+    "en_us": "Hide in Chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.search_empty",
+    "old_value": "揾唔到有嗰個名嘅玩家",
+    "new_key": "gui.socialInteractions.search_empty",
+    "new_value": "無法找到有該名稱的玩家",
+    "en_us": "Couldn't find any players with that name"
+  },
+  {
+    "old_key": "gui.socialInteractions.server_label.single",
+    "old_value": "%s - %s 玩家",
+    "new_key": "gui.socialInteractions.server_label.single",
+    "new_value": "%s - %s 個玩家",
+    "en_us": "%s - %s player"
+  },
+  {
+    "old_key": "gui.socialInteractions.show",
+    "old_value": "喺聊天欄顯示",
+    "new_key": "gui.socialInteractions.show",
+    "new_value": "顯示於聊天欄內",
+    "en_us": "Show in Chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.shown_in_chat",
+    "old_value": "將會睇到由 %s 發出嘅訊息",
+    "new_key": "gui.socialInteractions.shown_in_chat",
+    "new_value": "%s 發出的訊息將會顯示",
+    "en_us": "Chat messages from %s will be shown"
+  },
+  {
+    "old_key": "gui.socialInteractions.status_blocked_offline",
+    "old_value": "已封鎖－離線",
+    "new_key": "gui.socialInteractions.status_blocked_offline",
+    "new_value": "已封鎖 - 離線",
+    "en_us": "Blocked - Offline"
+  },
+  {
+    "old_key": "gui.socialInteractions.title",
+    "old_value": "社群互動",
+    "new_key": "gui.socialInteractions.title",
+    "new_value": "社羣互動",
+    "en_us": "Social Interactions"
+  },
+  {
+    "old_key": "item.canPlace",
+    "old_value": "可放於：",
+    "new_key": "item.canPlace",
+    "new_value": "可放置於：",
+    "en_us": "Can be placed on:"
+  },
+  {
+    "old_key": "item.minecraft.debug_stick.empty",
+    "old_value": "%s 並無屬性",
+    "new_key": "item.minecraft.debug_stick.empty",
+    "new_value": "%s 沒有屬性",
+    "en_us": "%s has no properties"
+  },
+  {
+    "old_key": "item.minecraft.glow_berries",
+    "old_value": "螢光莓",
+    "new_key": "item.minecraft.glow_berries",
+    "new_value": "熒光莓",
+    "en_us": "Glow Berries"
+  },
+  {
+    "old_key": "item.minecraft.glow_ink_sac",
+    "old_value": "螢光墨囊",
+    "new_key": "item.minecraft.glow_ink_sac",
+    "new_value": "熒光墨囊",
+    "en_us": "Glow Ink Sac"
+  },
+  {
+    "old_key": "item.minecraft.glow_item_frame",
+    "old_value": "螢光物品展示框",
+    "new_key": "item.minecraft.glow_item_frame",
+    "new_value": "熒光物品展示框",
+    "en_us": "Glow Item Frame"
+  },
+  {
+    "old_key": "item.minecraft.glow_squid_spawn_egg",
+    "old_value": "螢光墨魚 生成蛋",
+    "new_key": "item.minecraft.glow_squid_spawn_egg",
+    "new_value": "熒光墨魚 生成蛋",
+    "en_us": "Glow Squid Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.empty",
+    "old_value": "滯留型不可合成嘅藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.empty",
+    "new_value": "滯留型不可合成的藥水",
+    "en_us": "Lingering Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.thick",
+    "old_value": "滯留型黏稠嘅藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.thick",
+    "new_value": "滯留型黏稠藥水",
+    "en_us": "Thick Lingering Potion"
+  },
+  {
+    "old_key": "item.minecraft.popped_chorus_fruit",
+    "old_value": "爆開嘅歌萊果",
+    "new_key": "item.minecraft.popped_chorus_fruit",
+    "new_value": "爆開的歌萊果",
+    "en_us": "Popped Chorus Fruit"
+  },
+  {
+    "old_key": "item.minecraft.potion.effect.empty",
+    "old_value": "不可合成嘅藥水",
+    "new_key": "item.minecraft.potion.effect.empty",
+    "new_value": "不可合成的藥水",
+    "en_us": "Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.pufferfish",
+    "old_value": "雞泡魚",
+    "new_key": "item.minecraft.pufferfish",
+    "new_value": "河豚",
+    "en_us": "Pufferfish"
+  },
+  {
+    "old_key": "item.minecraft.pufferfish_bucket",
+    "old_value": "雞泡魚桶",
+    "new_key": "item.minecraft.pufferfish_bucket",
+    "new_value": "河豚桶",
+    "en_us": "Bucket of Pufferfish"
+  },
+  {
+    "old_key": "item.minecraft.pufferfish_spawn_egg",
+    "old_value": "雞泡魚 生成蛋",
+    "new_key": "item.minecraft.pufferfish_spawn_egg",
+    "new_value": "河豚 生成蛋",
+    "en_us": "Pufferfish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.shears",
+    "old_value": "鉸剪",
+    "new_key": "item.minecraft.shears",
+    "new_value": "剪刀",
+    "en_us": "Shears"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.empty",
+    "old_value": "飛濺型不可合成嘅藥水",
+    "new_key": "item.minecraft.splash_potion.effect.empty",
+    "new_value": "飛濺型不可合成的藥水",
+    "en_us": "Splash Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.suspicious_stew",
+    "old_value": "可疑嘅燉湯",
+    "new_key": "item.minecraft.suspicious_stew",
+    "new_value": "可疑的燉湯",
+    "en_us": "Suspicious Stew"
+  },
+  {
+    "old_key": "item.minecraft.tipped_arrow.effect.empty",
+    "old_value": "不可合成嘅藥水箭",
+    "new_key": "item.minecraft.tipped_arrow.effect.empty",
+    "new_value": "不可合成的藥水箭",
+    "en_us": "Uncraftable Tipped Arrow"
+  },
+  {
+    "old_key": "item.minecraft.written_book",
+    "old_value": "寫好嘅書",
+    "new_key": "item.minecraft.written_book",
+    "new_value": "寫好的書",
+    "en_us": "Written Book"
+  },
+  {
+    "old_key": "item.minecraft.zoglin_spawn_egg",
+    "old_value": "豬屍獸 生怪蛋",
+    "new_key": "item.minecraft.zoglin_spawn_egg",
+    "new_value": "豬屍獸 生成蛋",
+    "en_us": "Zoglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_horse_spawn_egg",
+    "old_value": "殭屍馬 生成蛋",
+    "new_key": "item.minecraft.zombie_horse_spawn_egg",
+    "new_value": "喪屍馬 生成蛋",
+    "en_us": "Zombie Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_spawn_egg",
+    "old_value": "殭屍 生成蛋",
+    "new_key": "item.minecraft.zombie_spawn_egg",
+    "new_value": "喪屍 生成蛋",
+    "en_us": "Zombie Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_villager_spawn_egg",
+    "old_value": "殭屍村民 生成蛋",
+    "new_key": "item.minecraft.zombie_villager_spawn_egg",
+    "new_value": "喪屍村民 生成蛋",
+    "en_us": "Zombie Villager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombified_piglin_spawn_egg",
+    "old_value": "殭屍豬人 生成蛋",
+    "new_key": "item.minecraft.zombified_piglin_spawn_egg",
+    "new_value": "喪屍豬人 生成蛋",
+    "en_us": "Zombified Piglin Spawn Egg"
+  },
+  {
+    "old_key": "item.modifiers.mainhand",
+    "old_value": "喺慣用手時：",
+    "new_key": "item.modifiers.mainhand",
+    "new_value": "在慣用手時：",
+    "en_us": "When in Main Hand:"
+  },
+  {
+    "old_key": "item.modifiers.offhand",
+    "old_value": "喺非慣用手時：",
+    "new_key": "item.modifiers.offhand",
+    "new_value": "在非慣用手時：",
+    "en_us": "When in Off Hand:"
+  },
+  {
+    "old_key": "itemGroup.hotbar",
+    "old_value": "已儲存嘅快捷欄",
+    "new_key": "itemGroup.hotbar",
+    "new_value": "已儲存的快捷欄",
+    "en_us": "Saved Hotbars"
+  },
+  {
+    "old_key": "key.socialInteractions",
+    "old_value": "社群互動界面",
+    "new_key": "key.socialInteractions",
+    "new_value": "社羣互動界面",
+    "en_us": "Social Interactions Screen"
+  },
+  {
+    "old_key": "language.region",
+    "old_value": "香港",
+    "new_key": "language.region",
+    "new_value": "香港特別行政區",
+    "en_us": "United States"
+  },
+  {
+    "old_key": "lanServer.otherPlayers",
+    "old_value": "對其他玩家嘅設定",
+    "new_key": "lanServer.otherPlayers",
+    "new_value": "對其他玩家的設定",
+    "en_us": "Settings for Other Players"
+  },
+  {
+    "old_key": "lanServer.scanning",
+    "old_value": "正在喺你嘅 LAN 內尋找可供加入嘅遊戲",
+    "new_key": "lanServer.scanning",
+    "new_value": "正在在你的 LAN 內尋找可供加入的遊戲",
+    "en_us": "Scanning for games on your local network"
+  },
+  {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "驗證伺服器暫停服務，請稍後再試，唔好意思！",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "驗證伺服器暫停服務，請稍後再試，抱歉！",
+    "en_us": "Authentication servers are down. Please try again later, sorry!"
+  },
+  {
+    "old_key": "multiplayer.disconnect.banned",
+    "old_value": "你已經被依個伺服器封鎖。原因：",
+    "new_key": "multiplayer.disconnect.banned",
+    "new_value": "你已經被此伺服器封鎖。原因：",
+    "en_us": "You are banned from this server"
+  },
+  {
+    "old_key": "multiplayer.disconnect.banned_ip.expiration",
+    "old_value": "\n你嘅封鎖將於 %s 解除",
+    "new_key": "multiplayer.disconnect.banned_ip.expiration",
+    "new_value": "\n你的封鎖將於 %s 解除",
+    "en_us": "\nYour ban will be removed on %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.banned_ip.reason",
+    "old_value": "你嘅 IP 地址已經被依個伺服器封鎖。\n原因：%s",
+    "new_key": "multiplayer.disconnect.banned_ip.reason",
+    "new_value": "你的 IP 地址已經被此伺服器封鎖。\n原因：%s",
+    "en_us": "Your IP address is banned from this server.\nReason: %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.banned.expiration",
+    "old_value": "\n你嘅封鎖將於 %s 解除",
+    "new_key": "multiplayer.disconnect.banned.expiration",
+    "new_value": "\n你的封鎖將於 %s 解除",
+    "en_us": "\nYour ban will be removed on %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.banned.reason",
+    "old_value": "你已經被依個伺服器封鎖。\n原因：%s",
+    "new_key": "multiplayer.disconnect.banned.reason",
+    "new_value": "你已經被此伺服器封鎖。\n原因：%s",
+    "en_us": "You are banned from this server.\nReason: %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.duplicate_login",
+    "old_value": "你已經喺其他位置登入",
+    "new_key": "multiplayer.disconnect.duplicate_login",
+    "new_value": "你已經在其他位置登入",
+    "en_us": "You logged in from another location"
+  },
+  {
+    "old_key": "multiplayer.disconnect.flying",
+    "old_value": "依個伺服器未啟用飛行",
+    "new_key": "multiplayer.disconnect.flying",
+    "new_value": "此伺服器未啟用飛行",
+    "en_us": "Flying is not enabled on this server"
+  },
+  {
+    "old_key": "multiplayer.disconnect.idling",
+    "old_value": "你嘅閒置時間過長！",
+    "new_key": "multiplayer.disconnect.idling",
+    "new_value": "你的閒置時間過長！",
+    "en_us": "You have been idle for too long!"
+  },
+  {
+    "old_key": "multiplayer.disconnect.illegal_characters",
+    "old_value": "聊天欄中出現不允許嘅字符",
+    "new_key": "multiplayer.disconnect.illegal_characters",
+    "new_value": "聊天欄中出現不被允許的字符",
+    "en_us": "Illegal characters in chat"
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_packet",
+    "old_value": "伺服器傳送咗一個無效封包",
+    "new_key": "multiplayer.disconnect.invalid_packet",
+    "new_value": "伺服器傳送了一個無效封包",
+    "en_us": "Server sent an invalid packet"
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_player_data",
+    "old_value": "無效嘅玩家數據",
+    "new_key": "multiplayer.disconnect.invalid_player_data",
+    "new_value": "無效的玩家數據",
+    "en_us": "Invalid player data"
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_player_movement",
+    "old_value": "接收到無效嘅玩家移動封包",
+    "new_key": "multiplayer.disconnect.invalid_player_movement",
+    "new_value": "接收到無效的玩家移動封包",
+    "en_us": "Invalid move player packet received"
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_vehicle_movement",
+    "old_value": "接收到無效嘅交通工具移動封包",
+    "new_key": "multiplayer.disconnect.invalid_vehicle_movement",
+    "new_value": "接收到無效的交通工具移動封包",
+    "en_us": "Invalid move vehicle packet received"
+  },
+  {
+    "old_key": "multiplayer.disconnect.ip_banned",
+    "old_value": "你嘅 IP 地址已經被依個伺服器封鎖",
+    "new_key": "multiplayer.disconnect.ip_banned",
+    "new_value": "你的 IP 地址已經被此伺服器封鎖",
+    "en_us": "You have been IP banned from this server"
+  },
+  {
+    "old_key": "multiplayer.disconnect.missing_tags",
+    "old_value": "由伺服器端接收到嘅標籤組合並不完整。\n請聯絡伺服器管理員。",
+    "new_key": "multiplayer.disconnect.missing_tags",
+    "new_value": "由伺服器端接收到的標籤組合並不完整。\n請聯絡伺服器管理員。",
+    "en_us": "Incomplete set of tags received from server.\nPlease contact server operator."
+  },
+  {
+    "old_key": "multiplayer.disconnect.not_whitelisted",
+    "old_value": "你唔喺依個伺服器嘅白名單入面！",
+    "new_key": "multiplayer.disconnect.not_whitelisted",
+    "new_value": "你未加入到這個伺服器的白名單內！",
+    "en_us": "You are not white-listed on this server!"
+  },
+  {
+    "old_key": "multiplayer.disconnect.outdated_client",
+    "old_value": "用户端版本過舊！請使用 %s",
+    "new_key": "multiplayer.disconnect.outdated_client",
+    "new_value": "用户端版本不相容！請使用 %s",
+    "en_us": "Incompatible client! Please use %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.outdated_server",
+    "old_value": "用户端版本過舊！請使用 %s",
+    "new_key": "multiplayer.disconnect.outdated_server",
+    "new_value": "用户端版本不相容！請使用 %s",
+    "en_us": "Incompatible client! Please use %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.unexpected_query_response",
+    "old_value": "喺用户端接收到預期外嘅自訂數據",
+    "new_key": "multiplayer.disconnect.unexpected_query_response",
+    "new_value": "在用户端接收到預期外的自訂數據",
+    "en_us": "Unexpected custom data from client"
+  },
+  {
+    "old_key": "multiplayer.message_not_delivered",
+    "old_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
+    "new_key": "multiplayer.message_not_delivered",
+    "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
+    "en_us": "Can't deliver chat message, check server logs: %s"
+  },
+  {
+    "old_key": "multiplayer.player.joined",
+    "old_value": "%s 加入咗遊戲",
+    "new_key": "multiplayer.player.joined",
+    "new_value": "%s 加入了遊戲",
+    "en_us": "%s joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.joined.renamed",
+    "old_value": "%s（之前係 %s）加入咗遊戲",
+    "new_key": "multiplayer.player.joined.renamed",
+    "new_value": "%s（之前為 %s）加入了遊戲",
+    "en_us": "%s (formerly known as %s) joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.left",
+    "old_value": "%s 離開咗遊戲",
+    "new_key": "multiplayer.player.left",
+    "new_value": "%s 離開了遊戲",
+    "en_us": "%s left the game"
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "old_value": "伺服器需要使用所提供嘅資源包",
+    "new_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "new_value": "伺服器需要使用所提供的資源包",
+    "en_us": "Server requires a custom resource pack"
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.line1",
+    "old_value": "依個伺服器需要使用所提供嘅資源包。",
+    "new_key": "multiplayer.requiredTexturePrompt.line1",
+    "new_value": "此伺服器需要使用所提供的資源包。",
+    "en_us": "This server requires the use of a custom resource pack."
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.line2",
+    "old_value": "拒絕伺服器所提供嘅資源包將會中斷連線。",
+    "new_key": "multiplayer.requiredTexturePrompt.line2",
+    "new_value": "拒絕伺服器所提供的資源包將會中斷連線。",
+    "en_us": "Rejecting this custom resource pack will disconnect you from this server."
+  },
+  {
+    "old_key": "multiplayer.socialInteractions.not_available",
+    "old_value": "線上社群互動只會於多人地圖內提供",
+    "new_key": "multiplayer.socialInteractions.not_available",
+    "new_value": "線上社羣互動只會於多人地圖內提供",
+    "en_us": "Social Interactions are only available in Multiplayer worlds"
+  },
+  {
+    "old_key": "multiplayer.status.and_more",
+    "old_value": "⋯⋯同另外 %s 人⋯⋯",
+    "new_key": "multiplayer.status.and_more",
+    "new_value": "⋯⋯以及另外 %s 人⋯⋯",
+    "en_us": "... and %s more ..."
+  },
+  {
+    "old_key": "multiplayer.status.unrequested",
+    "old_value": "接收到未請求嘅資訊",
+    "new_key": "multiplayer.status.unrequested",
+    "new_value": "接收到未請求的資訊",
+    "en_us": "Received unrequested status"
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.failure.line2",
+    "old_value": "任何依賴自訂資源包嘅功能都有可能無法按預期工作",
+    "new_key": "multiplayer.texturePrompt.failure.line2",
+    "new_value": "任何依賴自訂資源包的功能都有可能無法按預期工作",
+    "en_us": "Any functionality that requires custom resources might not work as expected"
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.serverPrompt",
+    "old_value": "%s\n\n來自伺服器嘅訊息：\n%s",
+    "new_key": "multiplayer.texturePrompt.serverPrompt",
+    "new_value": "%s\n\n來自伺服器的訊息：\n%s",
+    "en_us": "%s\n\nMessage from server:\n%s"
+  },
+  {
+    "old_key": "multiplayerWarning.message",
+    "old_value": "警吿：線上遊戲由第三方伺服器提供，這些伺服器並非由 Mojang Studios 或 Microsoft 擁有、營運及監管。線上遊玩時，你可能會看到未經審核的聊天訊息或由用户創造的未必適合所有人的其他類型內容。",
+    "new_key": "multiplayerWarning.message",
+    "new_value": "警吿：線上遊戲由第三方伺服器提供，這些伺服器並非由 Mojang Studios 或 Microsoft 擁有、營運及監管。遊玩線上遊戲時，你可能會見到未經審核的聊天訊息或其他類型的用户創造內容，這些內容未必適合所有人。",
+    "en_us": "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone."
+  },
+  {
+    "old_key": "narrator.button.accessibility",
+    "old_value": "協助工具",
+    "new_key": "narrator.button.accessibility",
+    "new_value": "無障礙功能",
+    "en_us": "Accessibility"
+  },
+  {
+    "old_key": "narrator.controls.unbound",
+    "old_value": "未綁定 %s",
+    "new_key": "narrator.controls.unbound",
+    "new_value": "%s 未綁定",
+    "en_us": "%s is not bound"
+  },
+  {
+    "old_key": "narrator.position.list",
+    "old_value": "已選擇列表中嘅第 %s 項，共 %s 項",
+    "new_key": "narrator.position.list",
+    "new_value": "已選擇列表中的第 %s 項，共 %s 項",
+    "en_us": "Selected list row %s out of %s"
+  },
+  {
+    "old_key": "narrator.position.object_list",
+    "old_value": "已選擇第 %s 項螢幕控件 (共 %s 項)",
+    "new_key": "narrator.position.object_list",
+    "new_value": "已選擇第 %s 項螢幕控件（共 %s 項）",
+    "en_us": "Selected row element %s out of %s"
+  },
+  {
+    "old_key": "narrator.position.screen",
+    "old_value": "第 %s 項螢幕控件 (共 %s 項)",
+    "new_key": "narrator.position.screen",
+    "new_value": "第 %s 項螢幕控件（共 %s 項）",
+    "en_us": "Screen element %s out of %s"
+  },
+  {
+    "old_key": "narrator.screen.usage",
+    "old_value": "使用滑鼠指標或 Tab 鍵嚟選擇螢幕元素控件",
+    "new_key": "narrator.screen.usage",
+    "new_value": "使用滑鼠光標或 Tab 鍵來選擇螢幕元素控件",
+    "en_us": "Use mouse cursor or Tab button to select element"
+  },
+  {
+    "old_key": "optimizeWorld.confirm.description",
+    "old_value": "依個操作會嘗試用最新嘅遊戲資料格式嚟最佳化你嘅世界。睇情況可能會用到好長一段時間。完成之後，你嘅世界可能會更順暢，但唔會再相容於舊版遊戲。你真係要繼續？",
+    "new_key": "optimizeWorld.confirm.description",
+    "new_value": "此操作將會嘗試使用最新的遊戲資料格式儲存所有遊戲數據來最佳化你的世界。視情況可能會用上一段很長的時間。完成後，你的世界可能會更順暢，但將不再相容於舊版的遊戲。你確定要繼續？",
+    "en_us": "This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed?"
+  },
+  {
+    "old_key": "optimizeWorld.stage.finished",
+    "old_value": "正在完成⋯⋯",
+    "new_key": "optimizeWorld.stage.finished",
+    "new_value": "即將完成⋯⋯",
+    "en_us": "Finishing up..."
+  },
+  {
+    "old_key": "options.accessibility.link",
+    "old_value": "協助工具指南",
+    "new_key": "options.accessibility.link",
+    "new_value": "無障礙功能指南",
+    "en_us": "Accessibility Guide"
+  },
+  {
+    "old_key": "options.attack.crosshair",
+    "old_value": "十字準心",
+    "new_key": "options.attack.crosshair",
+    "new_value": "十字準星",
+    "en_us": "Crosshair"
+  },
+  {
+    "old_key": "options.biomeBlendRadius",
+    "old_value": "生物群落過渡距離",
+    "new_key": "options.biomeBlendRadius",
+    "new_value": "生物羣落過渡距離",
+    "en_us": "Biome Blend"
+  },
+  {
+    "old_key": "options.darkMojangStudiosBackgroundColor.tooltip",
+    "old_value": "將 Mojang Studios 載入畫面嘅背景顏色改成黑色。",
+    "new_key": "options.darkMojangStudiosBackgroundColor.tooltip",
+    "new_value": "將 Mojang Studios 載入畫面的背景顏色改成黑色。",
+    "en_us": "Changes the Mojang Studios loading screen background color to black."
+  },
+  {
+    "old_key": "options.generic_value",
+    "old_value": "%s: %s",
+    "new_key": "options.generic_value",
+    "new_value": "%s：%s",
+    "en_us": "%s: %s"
+  },
+  {
+    "old_key": "options.graphics.fabulous",
+    "old_value": "冇得彈！",
+    "new_key": "options.graphics.fabulous",
+    "new_value": "極佳！",
+    "en_us": "Fabulous!"
+  },
+  {
+    "old_key": "options.graphics.fabulous.tooltip",
+    "old_value": "「%s」畫質用影像着色器嚟描繪天氣、雲層，同埋水後面、透明方塊嘅粒子。\n不過，配搭流動裝置或者 4K 設備嗰陣有機會嚴重影響效能。",
+    "new_key": "options.graphics.fabulous.tooltip",
+    "new_value": "「%s」畫質用影像着色器來描繪天氣、雲層，以及水後面、透明方塊的粒子。\n不過，配搭流動裝置或者 4K 設備時可能會嚴重影響效能。",
+    "en_us": "%s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and water.\nThis may severely impact performance for portable devices and 4K displays."
+  },
+  {
+    "old_key": "options.graphics.fancy.tooltip",
+    "old_value": "「細緻」畫質平衡咗多數電腦嘅遊戲效能同畫面品質。\n天氣、雲層同埋粒子可能唔會喺透明方塊同水嘅後面顯示。",
+    "new_key": "options.graphics.fancy.tooltip",
+    "new_value": "「細緻」畫質平衡了多數電腦的遊戲效能與畫面品質。\n天氣、雲層同埋粒子可能不會在透明方塊與水的後面顯示。",
+    "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
+  },
+  {
+    "old_key": "options.graphics.fast.tooltip",
+    "old_value": "「流暢」畫質會減少雨粒同雪粒嘅可見數量。\n樹葉之類嘅方塊將唔再透明。",
+    "new_key": "options.graphics.fast.tooltip",
+    "new_value": "「流暢」畫質會減少雨粒同雪粒的可見數量。\n樹葉之類的方塊將不再透明。",
+    "en_us": "Fast graphics reduces the amount of visible rain and snow.\nTransparency effects are disabled for various blocks such as leaves."
+  },
+  {
+    "old_key": "options.graphics.warning.message",
+    "old_value": "檢測到顯示卡不支援 %s 畫質。\n\n不過你可以忽略，但如果你選擇 %s 畫質將唔會為你嘅顯示卡提供支援。",
+    "new_key": "options.graphics.warning.message",
+    "new_value": "檢測到顯示卡不支援 %s 畫質。\n\n不過你可以忽略，但若你選擇 %s 畫質將不會為你的顯示卡提供支援。",
+    "en_us": "Your graphics device is detected as unsupported for the %s graphics option.\n\nYou may ignore this and continue, however support will not be provided for your device if you choose to use %s graphics."
+  },
+  {
+    "old_key": "options.graphics.warning.title",
+    "old_value": "顯示卡未受支援",
+    "new_key": "options.graphics.warning.title",
+    "new_value": "顯示卡不受支援",
+    "en_us": "Graphics Device Unsupported"
+  },
+  {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "嘔心效果和地獄傳送門扭曲影像的強度。\n若設定為較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果。",
+    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
+  },
+  {
+    "old_key": "options.sounds",
+    "old_value": "音樂和音效⋯⋯",
+    "new_key": "options.sounds",
+    "new_value": "音樂與音效⋯⋯",
+    "en_us": "Music & Sounds..."
+  },
+  {
+    "old_key": "options.sounds.title",
+    "old_value": "音樂和音效選項",
+    "new_key": "options.sounds.title",
+    "new_value": "音樂與音效選項",
+    "en_us": "Music & Sound Options"
+  },
+  {
+    "old_key": "pack.copyFailure",
+    "old_value": "數據包複製失敗",
+    "new_key": "pack.copyFailure",
+    "new_value": "複製包失敗",
+    "en_us": "Failed to copy packs"
+  },
+  {
+    "old_key": "pack.dropConfirm",
+    "old_value": "你真係要將下列數據包新增至 Minecraft？",
+    "new_key": "pack.dropConfirm",
+    "new_value": "你確定要將下列包新增至 Minecraft？",
+    "en_us": "Do you want to add the following packs to Minecraft?"
+  },
+  {
+    "old_key": "pack.dropInfo",
+    "old_value": "拖動檔案至此視窗嚟新增數據包",
+    "new_key": "pack.dropInfo",
+    "new_value": "拖動檔案至此視窗來新增包",
+    "en_us": "Drag and drop files into this window to add packs"
+  },
+  {
+    "old_key": "pack.folderInfo",
+    "old_value": "（請將數據包放入此處）",
+    "new_key": "pack.folderInfo",
+    "new_value": "（請將包放入此處）",
+    "en_us": "(Place pack files here)"
+  },
+  {
+    "old_key": "pack.incompatible.confirm.new",
+    "old_value": "依個是為新版 Minecraft 製作嘅資源包，可能無法正常運作。",
+    "new_key": "pack.incompatible.confirm.new",
+    "new_value": "此包使用新版 Minecraft 製作，可能無法正常運作。",
+    "en_us": "This pack was made for a newer version of Minecraft and may not work correctly."
+  },
+  {
+    "old_key": "pack.incompatible.confirm.old",
+    "old_value": "依個是為舊版 Minecraft 製作嘅資源包，可能無法正常運作。",
+    "new_key": "pack.incompatible.confirm.old",
+    "new_value": "此包使用舊版 Minecraft 製作，可能無法正常運作。",
+    "en_us": "This pack was made for an older version of Minecraft and may no longer work correctly."
+  },
+  {
+    "old_key": "pack.incompatible.confirm.title",
+    "old_value": "你真係想載入依個資源包？",
+    "new_key": "pack.incompatible.confirm.title",
+    "new_value": "你確定要載入所選包？",
+    "en_us": "Are you sure you want to load this pack?"
+  },
+  {
+    "old_key": "pack.incompatible.new",
+    "old_value": "（適用於新版本嘅Minecraft）",
+    "new_key": "pack.incompatible.new",
+    "new_value": "（適用於新版本的Minecraft）",
+    "en_us": "(Made for a newer version of Minecraft)"
+  },
+  {
+    "old_key": "pack.incompatible.old",
+    "old_value": "（適用於舊版本嘅Minecraft）",
+    "new_key": "pack.incompatible.old",
+    "new_value": "（適用於舊版本的Minecraft）",
+    "en_us": "(Made for an older version of Minecraft)"
+  },
+  {
+    "old_key": "pack.openFolder",
+    "old_value": "打開數據包文件夾",
+    "new_key": "pack.openFolder",
+    "new_value": "打開包文件夾",
+    "en_us": "Open Pack Folder"
+  },
+  {
+    "old_key": "parsing.quote.escape",
+    "old_value": "引號字串內嘅跳脱序列 '\\%s' 無效",
+    "new_key": "parsing.quote.escape",
+    "new_value": "引號字串內的跳脱序列 '\\%s' 無效",
+    "en_us": "Invalid escape sequence '\\%s' in quoted string"
+  },
+  {
+    "old_key": "realms.missing.snapshot.error.text",
+    "old_value": "快照目前不支援 Realms",
+    "new_key": "realms.missing.snapshot.error.text",
+    "new_value": "快相目前不支援 Realms",
+    "en_us": "Realms is currently not supported in snapshots"
+  },
+  {
+    "old_key": "recipe.toast.description",
+    "old_value": "請檢查你嘅配方指南",
+    "new_key": "recipe.toast.description",
+    "new_value": "請檢查你的配方指南",
+    "en_us": "Check your recipe book"
+  },
+  {
+    "old_key": "resourcePack.broken_assets",
+    "old_value": "檢測到損壞嘅檔案資料",
+    "new_key": "resourcePack.broken_assets",
+    "new_value": "檢測到損壞的檔案資料",
+    "en_us": "BROKEN ASSETS DETECTED"
+  },
+  {
+    "old_key": "selectServer.deleteQuestion",
+    "old_value": "你真係要刪除依個伺服器？",
+    "new_key": "selectServer.deleteQuestion",
+    "new_value": "你確定要刪除所選伺服器？",
+    "en_us": "Are you sure you want to remove this server?"
+  },
+  {
+    "old_key": "selectServer.deleteWarning",
+    "old_value": "「%s」將會永遠消失！（非常耐！）",
+    "new_key": "selectServer.deleteWarning",
+    "new_value": "「%s」將會永遠消失！（非常久！）",
+    "en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.downgrade",
+    "old_value": "不支援降低世界嘅遊戲版本",
+    "new_key": "selectWorld.backupQuestion.downgrade",
+    "new_value": "不支援世界降級",
+    "en_us": "Downgrading a world is not supported"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.experimental",
+    "old_value": "不支援使用實驗性質設定嘅世界",
+    "new_key": "selectWorld.backupQuestion.experimental",
+    "new_value": "不支援使用實驗性質設定的世界",
+    "en_us": "Worlds using Experimental Settings are not supported"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.snapshot",
+    "old_value": "你真係想載入依個世界？",
+    "new_key": "selectWorld.backupQuestion.snapshot",
+    "new_value": "你確定要載入所選世界？",
+    "en_us": "Do you really want to load this world?"
+  },
+  {
+    "old_key": "selectWorld.backupWarning.customized",
+    "old_value": "唔好意思，依個版本嘅 Minecraft 並唔支援自訂世界。我哋仲可以完整載入依個世界，但任何新生成嘅區域唔會延用自訂設定。不便之處敬請諒解！",
+    "new_key": "selectWorld.backupWarning.customized",
+    "new_value": "抱歉，此 Minecraft 版本不支援自訂世界。你可以完整載入此世界，但任何新生成的區域不再延用自訂設定。不便之處敬請諒解！",
+    "en_us": "Unfortunately, we do not support customized worlds in this version of Minecraft. We can still load this world and keep everything the way it was, but any newly generated terrain will no longer be customized. We're sorry for the inconvenience!"
+  },
+  {
+    "old_key": "selectWorld.backupWarning.experimental",
+    "old_value": "依個世界使用咗隨時可能失效嘅實驗性設定。我哋無法保證可以正常載入或者運作。請小心謹慎！",
+    "new_key": "selectWorld.backupWarning.experimental",
+    "new_value": "此世界使用隨時可能失效的實驗性設定。我們無法保證可以正常載入或者運作。請小心謹慎！",
+    "en_us": "This world uses experimental settings that could stop working at any time. We cannot guarantee it will load or work. Here be dragons!"
+  },
+  {
+    "old_key": "selectWorld.create",
+    "old_value": "建立新嘅世界",
+    "new_key": "selectWorld.create",
+    "new_value": "建立新的世界",
+    "en_us": "Create New World"
+  },
+  {
+    "old_key": "selectWorld.deleteQuestion",
+    "old_value": "你真係要刪除依個世界存檔？",
+    "new_key": "selectWorld.deleteQuestion",
+    "new_value": "你確定要刪除所選世界存檔？",
+    "en_us": "Are you sure you want to delete this world?"
+  },
+  {
+    "old_key": "selectWorld.deleteWarning",
+    "old_value": "「%s」將會永遠消失！（非常耐！）",
+    "new_key": "selectWorld.deleteWarning",
+    "new_value": "「%s」將會永遠消失！（非常久！）",
+    "en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.futureworld.error.text",
+    "old_value": "試圖載入未來版本嘅世界時發生錯誤。依個操作本身就有風險，唔好意思無法載入。",
+    "new_key": "selectWorld.futureworld.error.text",
+    "new_value": "試圖載入未來版本的世界時發生錯誤。此操作本身就有風險，很抱歉無法載入。",
+    "en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work."
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line1",
+    "old_value": "同生存模式一樣，但唔可以",
+    "new_key": "selectWorld.gameMode.adventure.line1",
+    "new_value": "同生存模式一樣，但不可以",
+    "en_us": "Same as Survival Mode, but blocks can't"
+  },
+  {
+    "old_key": "selectWorld.gameMode.hardcore.line1",
+    "old_value": "同生存模式一樣，但難度鎖定為",
+    "new_key": "selectWorld.gameMode.hardcore.line1",
+    "new_value": "與生存模式一樣，但難度鎖定為",
+    "en_us": "Same as Survival Mode, locked at hardest"
+  },
+  {
+    "old_key": "selectWorld.gameMode.spectator.line1",
+    "old_value": "你可以睇但唔可以摸",
+    "new_key": "selectWorld.gameMode.spectator.line1",
+    "new_value": "你可以看但不可以觸摸",
+    "en_us": "You can look but don't touch"
+  },
+  {
+    "old_key": "selectWorld.gameMode.survival.line2",
+    "old_value": "等級、生命值與飢餓值",
+    "new_key": "selectWorld.gameMode.survival.line2",
+    "new_value": "等級、生命值與饑餓值",
+    "en_us": "levels, health and hunger"
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在嘅文件夾！",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法載入或存取遊戲世界存檔所在的文件夾！",
+    "en_us": "Unable to read or access folder where game worlds are saved!"
+  },
+  {
+    "old_key": "selectWorld.locked",
+    "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
+    "new_key": "selectWorld.locked",
+    "new_value": "被另一個開啟的 Minecraft 程式鎖定",
+    "en_us": "Locked by another running instance of Minecraft"
+  },
+  {
+    "old_key": "selectWorld.newWorld",
+    "old_value": "新嘅世界",
+    "new_key": "selectWorld.newWorld",
+    "new_value": "新的世界",
+    "en_us": "New World"
+  },
+  {
+    "old_key": "selectWorld.recreate.customized.text",
+    "old_value": "依個版本嘅 Minecraft 已經唔支援自訂世界。我哋可以嘗試利用相同嘅種子碼同埋屬性重新建立，但係所有自訂地形都會遺失。唔好意思同你帶來不便！",
+    "new_key": "selectWorld.recreate.customized.text",
+    "new_value": "此 Minecraft 版本不再支援自訂世界。你可以嘗試利用相同的種子碼與屬性重新建立，但所有自訂地形都會遺失。不便之處敬請諒解！",
+    "en_us": "Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience!"
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion1",
+    "old_value": "世界係以較新嘅版本儲存嘅，",
+    "new_key": "selectWorld.tooltip.fromNewerVersion1",
+    "new_value": "世界是以較新的版本儲存的，",
+    "en_us": "World was saved in a newer version,"
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "載入依個世界可能會出現問題！",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "載入此世界可能會出現問題！",
+    "en_us": "loading this world could cause problems!"
+  },
+  {
+    "old_key": "selectWorld.tooltip.snapshot2",
+    "old_value": "記得先備份依個世界。",
+    "new_key": "selectWorld.tooltip.snapshot2",
+    "new_value": "記得先備份此世界。",
+    "en_us": "before you load it in this snapshot."
+  },
+  {
+    "old_key": "selectWorld.versionQuestion",
+    "old_value": "你真係想載入依個世界？",
+    "new_key": "selectWorld.versionQuestion",
+    "new_value": "你確定要載入所選世界？",
+    "en_us": "Do you really want to load this world?"
+  },
+  {
+    "old_key": "selectWorld.versionWarning",
+    "old_value": "依個世界最後遊玩嘅版本為 %s，使用目前版本載入可能會導致損壞！",
+    "new_key": "selectWorld.versionWarning",
+    "new_value": "此世界最後遊玩版本為 %s，使用目前版本載入可能會導致損壞！",
+    "en_us": "This world was last played in version %s and loading it in this version could cause corruption!"
+  },
+  {
+    "old_key": "sleep.not_possible",
+    "old_value": "已經瞓着嘅玩家嘅數量未夠跳過夜晚",
+    "new_key": "sleep.not_possible",
+    "new_value": "已經睡覺的玩家的數量未夠跳過夜晚",
+    "en_us": "No amount of rest can pass this night"
+  },
+  {
+    "old_key": "sleep.players_sleeping",
+    "old_value": "%s/%s 名玩家瞓緊覺",
+    "new_key": "sleep.players_sleeping",
+    "new_value": "%s/%s 名玩家正在睡覺",
+    "en_us": "%s/%s players sleeping"
+  },
+  {
+    "old_key": "sleep.skipping_night",
+    "old_value": "瞓覺就會快啲天光",
+    "new_key": "sleep.skipping_night",
+    "new_value": "正在睡夢中度過今晚",
+    "en_us": "Sleeping through this night"
+  },
+  {
+    "old_key": "spectatorMenu.root.prompt",
+    "old_value": "按下任意鍵來選擇命令，再按一次依個鍵來使用",
+    "new_key": "spectatorMenu.root.prompt",
+    "new_value": "按下任意鍵來選擇命令，再按一次這個鍵來使用",
+    "en_us": "Press a key to select a command, and again to use it."
+  },
+  {
+    "old_key": "stat_type.minecraft.killed",
+    "old_value": "你殺死咗 %s 個 %s",
+    "new_key": "stat_type.minecraft.killed",
+    "new_value": "你殺死了 %s 個 %s",
+    "en_us": "You killed %s %s"
+  },
+  {
+    "old_key": "stat_type.minecraft.killed_by",
+    "old_value": "%s 殺咗你 %s 次",
+    "new_key": "stat_type.minecraft.killed_by",
+    "new_value": "%s 殺死了你 %s 次",
+    "en_us": "%s killed you %s time(s)"
+  },
+  {
+    "old_key": "stat.minecraft.damage_dealt_resisted",
+    "old_value": "造成傷害總量（被抵銷）",
+    "new_key": "stat.minecraft.damage_dealt_resisted",
+    "new_value": "造成傷害總量（被抵消）",
+    "en_us": "Damage Dealt (Resisted)"
+  },
+  {
+    "old_key": "structure_block.load_not_found",
+    "old_value": "並無名為 '%s' 嘅結構",
+    "new_key": "structure_block.load_not_found",
+    "new_value": "並無名為 '%s' 的結構",
+    "en_us": "Structure '%s' is not available"
+  },
+  {
+    "old_key": "structure_block.load_prepare",
+    "old_value": "結構 '%s' 嘅位置已準備就緒",
+    "new_key": "structure_block.load_prepare",
+    "new_value": "結構 '%s' 的位置已準備就緒",
+    "en_us": "Structure '%s' position prepared"
+  },
+  {
+    "old_key": "structure_block.load_success",
+    "old_value": "已經從 '%s' 載入結構",
+    "new_key": "structure_block.load_success",
+    "new_value": "已從 '%s' 載入結構",
+    "en_us": "Structure loaded from '%s'"
+  },
+  {
+    "old_key": "structure_block.save_success",
+    "old_value": "已經將結構儲存為 '%s'",
+    "new_key": "structure_block.save_success",
+    "new_value": "已將結構儲存為 '%s'",
+    "en_us": "Structure saved as '%s'"
+  },
+  {
+    "old_key": "structure_block.size_failure",
+    "old_value": "無法檢測結構大小。請添加同結構名稱對應嘅角落",
+    "new_key": "structure_block.size_failure",
+    "new_value": "無法檢測結構大小。請添加與結構名稱對應的角落",
+    "en_us": "Unable to detect structure size. Add corners with matching structure names"
+  },
+  {
+    "old_key": "structure_block.size_success",
+    "old_value": "已經成功檢測 '%s' 嘅大小",
+    "new_key": "structure_block.size_success",
+    "new_value": "已經成功檢測 '%s' 的大小",
+    "en_us": "Size successfully detected for '%s'"
+  },
+  {
+    "old_key": "subtitles.block.beehive.shear",
+    "old_value": "鉸剪刮嘢聲",
+    "new_key": "subtitles.block.beehive.shear",
+    "new_value": "剪刀刮削聲",
+    "en_us": "Shears scrape"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "發射器射出物品",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "物品被射出",
+    "en_us": "Dispensed item"
+  },
+  {
+    "old_key": "subtitles.block.honey_block.slide",
+    "old_value": "喺蜜糖塊上面滑落嚟",
+    "new_key": "subtitles.block.honey_block.slide",
+    "new_value": "在蜜糖塊上面滑落",
+    "en_us": "Sliding down a honey block"
+  },
+  {
+    "old_key": "subtitles.block.pumpkin.carve",
+    "old_value": "鉸剪雕刻",
+    "new_key": "subtitles.block.pumpkin.carve",
+    "new_value": "剪刀雕刻",
+    "en_us": "Shears carve"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.idle_air",
+    "old_value": "墨西哥蠑螈啾啾聲",
+    "new_key": "subtitles.entity.axolotl.idle_air",
+    "new_value": "墨西哥蠑螈鳴叫",
+    "en_us": "Axolotl chirps"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.idle_water",
+    "old_value": "墨西哥蠑螈啾啾聲",
+    "new_key": "subtitles.entity.axolotl.idle_water",
+    "new_value": "墨西哥蠑螈鳴叫",
+    "en_us": "Axolotl chirps"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.swim",
+    "old_value": "墨西哥蠑螈游水",
+    "new_key": "subtitles.entity.axolotl.swim",
+    "new_value": "墨西哥蠑螈游泳",
+    "en_us": "Axolotl swims"
+  },
+  {
+    "old_key": "subtitles.entity.cat.eat",
+    "old_value": "貓食嘢",
+    "new_key": "subtitles.entity.cat.eat",
+    "new_value": "貓進食",
+    "en_us": "Cat eats"
+  },
+  {
+    "old_key": "subtitles.entity.cow.milk",
+    "old_value": "牛被擳奶",
+    "new_key": "subtitles.entity.cow.milk",
+    "new_value": "牛被擠奶",
+    "en_us": "Cow gets milked"
+  },
+  {
+    "old_key": "subtitles.entity.dolphin.eat",
+    "old_value": "海豚食嘢",
+    "new_key": "subtitles.entity.dolphin.eat",
+    "new_value": "海豚進食",
+    "en_us": "Dolphin eats"
+  },
+  {
+    "old_key": "subtitles.entity.dolphin.swim",
+    "old_value": "海豚游水",
+    "new_key": "subtitles.entity.dolphin.swim",
+    "new_value": "海豚游泳",
+    "en_us": "Dolphin swims"
+  },
+  {
+    "old_key": "subtitles.entity.donkey.eat",
+    "old_value": "驢食嘢",
+    "new_key": "subtitles.entity.donkey.eat",
+    "new_value": "驢進食",
+    "en_us": "Donkey eats"
+  },
+  {
+    "old_key": "subtitles.entity.drowned.shoot",
+    "old_value": "沉屍掟出三叉戟",
+    "new_key": "subtitles.entity.drowned.shoot",
+    "new_value": "沉屍投擲三叉戟",
+    "en_us": "Drowned throws Trident"
+  },
+  {
+    "old_key": "subtitles.entity.drowned.swim",
+    "old_value": "沉屍游水",
+    "new_key": "subtitles.entity.drowned.swim",
+    "new_value": "沉屍游泳",
+    "en_us": "Drowned swims"
+  },
+  {
+    "old_key": "subtitles.entity.egg.throw",
+    "old_value": "雞蛋被掟出",
+    "new_key": "subtitles.entity.egg.throw",
+    "new_value": "雞蛋擲出",
+    "en_us": "Egg flies"
+  },
+  {
+    "old_key": "subtitles.entity.ender_eye.launch",
+    "old_value": "終界之眼被掟出",
+    "new_key": "subtitles.entity.ender_eye.launch",
+    "new_value": "終界之眼擲出",
+    "en_us": "Eye of Ender shoots"
+  },
+  {
+    "old_key": "subtitles.entity.ender_pearl.throw",
+    "old_value": "終界珍珠被掟出",
+    "new_key": "subtitles.entity.ender_pearl.throw",
+    "new_value": "終界珍珠擲出",
+    "en_us": "Ender Pearl flies"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.ambient",
+    "old_value": "終界使者吱吱斟",
+    "new_key": "subtitles.entity.enderman.ambient",
+    "new_value": "終界使者低鳴聲",
+    "en_us": "Enderman vwoops"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.stare",
+    "old_value": "終界使者大嗌",
+    "new_key": "subtitles.entity.enderman.stare",
+    "new_value": "終界使者大聲嘶吼",
+    "en_us": "Enderman cries out"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.teleport",
+    "old_value": "終界使者傳送",
+    "new_key": "subtitles.entity.enderman.teleport",
+    "new_value": "終界使者瞬移聲",
+    "en_us": "Enderman teleports"
+  },
+  {
+    "old_key": "subtitles.entity.evoker.ambient",
+    "old_value": "喚魔者吱吱斟",
+    "new_key": "subtitles.entity.evoker.ambient",
+    "new_value": "喚魔者低語",
+    "en_us": "Evoker murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.retrieve",
+    "old_value": "浮標收返",
+    "new_key": "subtitles.entity.fishing_bobber.retrieve",
+    "new_value": "浮標收回",
+    "en_us": "Bobber retrieved"
+  },
+  {
+    "old_key": "subtitles.entity.fox.aggro",
+    "old_value": "狐狸發嬲",
+    "new_key": "subtitles.entity.fox.aggro",
+    "new_value": "狐狸發怒",
+    "en_us": "Fox angers"
+  },
+  {
+    "old_key": "subtitles.entity.fox.bite",
+    "old_value": "狐狸咬嘢",
+    "new_key": "subtitles.entity.fox.bite",
+    "new_value": "狐狸啃咬",
+    "en_us": "Fox bites"
+  },
+  {
+    "old_key": "subtitles.entity.fox.eat",
+    "old_value": "狐狸食嘢",
+    "new_key": "subtitles.entity.fox.eat",
+    "new_value": "狐狸進食",
+    "en_us": "Fox eats"
+  },
+  {
+    "old_key": "subtitles.entity.fox.sniff",
+    "old_value": "狐狸聞嘢",
+    "new_key": "subtitles.entity.fox.sniff",
+    "new_value": "狐狸嗅聞",
+    "en_us": "Fox sniffs"
+  },
+  {
+    "old_key": "subtitles.entity.fox.spit",
+    "old_value": "狐狸吐嘢",
+    "new_key": "subtitles.entity.fox.spit",
+    "new_value": "狐狸吐出",
+    "en_us": "Fox spits"
+  },
+  {
+    "old_key": "subtitles.entity.generic.drink",
+    "old_value": "飲嘢聲",
+    "new_key": "subtitles.entity.generic.drink",
+    "new_value": "飲用聲",
+    "en_us": "Sipping"
+  },
+  {
+    "old_key": "subtitles.entity.generic.eat",
+    "old_value": "食嘢聲",
+    "new_key": "subtitles.entity.generic.eat",
+    "new_value": "進食聲",
+    "en_us": "Eating"
+  },
+  {
+    "old_key": "subtitles.entity.generic.swim",
+    "old_value": "游水",
+    "new_key": "subtitles.entity.generic.swim",
+    "new_value": "游泳",
+    "en_us": "Swimming"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.add_item",
+    "old_value": "螢光物品展示框被填充",
+    "new_key": "subtitles.entity.glow_item_frame.add_item",
+    "new_value": "熒光物品展示框被填充",
+    "en_us": "Glow Item Frame fills"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.place",
+    "old_value": "螢光物品展示框被放置",
+    "new_key": "subtitles.entity.glow_item_frame.place",
+    "new_value": "熒光物品展示框被放置",
+    "en_us": "Glow Item Frame placed"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.remove_item",
+    "old_value": "螢光物品展示框被清空",
+    "new_key": "subtitles.entity.glow_item_frame.remove_item",
+    "new_value": "熒光物品展示框被清空",
+    "en_us": "Glow Item Frame empties"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.rotate_item",
+    "old_value": "螢光物品展示框咔嚓聲",
+    "new_key": "subtitles.entity.glow_item_frame.rotate_item",
+    "new_value": "熒光物品展示框咔嚓聲",
+    "en_us": "Glow Item Frame clicks"
+  },
+  {
+    "old_key": "subtitles.entity.glow_squid.ambient",
+    "old_value": "螢光墨魚游水",
+    "new_key": "subtitles.entity.glow_squid.ambient",
+    "new_value": "熒光墨魚游泳",
+    "en_us": "Glow Squid swims"
+  },
+  {
+    "old_key": "subtitles.entity.glow_squid.death",
+    "old_value": "螢光墨魚死亡",
+    "new_key": "subtitles.entity.glow_squid.death",
+    "new_value": "熒光墨魚死亡",
+    "en_us": "Glow Squid dies"
+  },
+  {
+    "old_key": "subtitles.entity.glow_squid.hurt",
+    "old_value": "螢光墨魚受傷",
+    "new_key": "subtitles.entity.glow_squid.hurt",
+    "new_value": "熒光墨魚受傷",
+    "en_us": "Glow Squid hurts"
+  },
+  {
+    "old_key": "subtitles.entity.glow_squid.squirt",
+    "old_value": "螢光墨魚噴墨",
+    "new_key": "subtitles.entity.glow_squid.squirt",
+    "new_value": "熒光墨魚噴墨",
+    "en_us": "Glow Squid shoots ink"
+  },
+  {
+    "old_key": "subtitles.entity.goat.eat",
+    "old_value": "山羊食嘢",
+    "new_key": "subtitles.entity.goat.eat",
+    "new_value": "山羊進食",
+    "en_us": "Goat eats"
+  },
+  {
+    "old_key": "subtitles.entity.goat.milk",
+    "old_value": "山羊被擳奶",
+    "new_key": "subtitles.entity.goat.milk",
+    "new_value": "山羊被擠奶",
+    "en_us": "Goat gets milked"
+  },
+  {
+    "old_key": "subtitles.entity.goat.prepare_ram",
+    "old_value": "山羊𨂽腳",
+    "new_key": "subtitles.entity.goat.prepare_ram",
+    "new_value": "山羊踏腳",
+    "en_us": "Goat stomps"
+  },
+  {
+    "old_key": "subtitles.entity.goat.screaming.ambient",
+    "old_value": "山羊大嗌",
+    "new_key": "subtitles.entity.goat.screaming.ambient",
+    "new_value": "山羊大叫",
+    "en_us": "Goat bellows"
+  },
+  {
+    "old_key": "subtitles.entity.horse.eat",
+    "old_value": "馬食嘢",
+    "new_key": "subtitles.entity.horse.eat",
+    "new_value": "馬進食",
+    "en_us": "Horse eats"
+  },
+  {
+    "old_key": "subtitles.entity.husk.converted_to_zombie",
+    "old_value": "屍殼變成殭屍",
+    "new_key": "subtitles.entity.husk.converted_to_zombie",
+    "new_value": "屍殼變成喪屍",
+    "en_us": "Husk converts to Zombie"
+  },
+  {
+    "old_key": "subtitles.entity.illusioner.ambient",
+    "old_value": "幻術師吱吱斟",
+    "new_key": "subtitles.entity.illusioner.ambient",
+    "new_value": "幻術師低語",
+    "en_us": "Illusioner murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.illusioner.mirror_move",
+    "old_value": "幻術師分影",
+    "new_key": "subtitles.entity.illusioner.mirror_move",
+    "new_value": "幻術師分身",
+    "en_us": "Illusioner displaces"
+  },
+  {
+    "old_key": "subtitles.entity.item.break",
+    "old_value": "物品被損壞",
+    "new_key": "subtitles.entity.item.break",
+    "new_value": "物品損壞",
+    "en_us": "Item breaks"
+  },
+  {
+    "old_key": "subtitles.entity.llama.angry",
+    "old_value": "羊駝發嬲",
+    "new_key": "subtitles.entity.llama.angry",
+    "new_value": "羊駝發怒",
+    "en_us": "Llama bleats angrily"
+  },
+  {
+    "old_key": "subtitles.entity.llama.eat",
+    "old_value": "羊駝食嘢",
+    "new_key": "subtitles.entity.llama.eat",
+    "new_value": "羊駝進食",
+    "en_us": "Llama eats"
+  },
+  {
+    "old_key": "subtitles.entity.mooshroom.eat",
+    "old_value": "蘑菇牛食嘢",
+    "new_key": "subtitles.entity.mooshroom.eat",
+    "new_value": "蘑菇牛進食",
+    "en_us": "Mooshroom eats"
+  },
+  {
+    "old_key": "subtitles.entity.mooshroom.milk",
+    "old_value": "蘑菇牛被擳奶",
+    "new_key": "subtitles.entity.mooshroom.milk",
+    "new_value": "蘑菇牛被擠奶",
+    "en_us": "Mooshroom gets milked"
+  },
+  {
+    "old_key": "subtitles.entity.mooshroom.suspicious_milk",
+    "old_value": "蘑菇牛被可疑咁擳奶",
+    "new_key": "subtitles.entity.mooshroom.suspicious_milk",
+    "new_value": "蘑菇牛被擠出可疑的燉湯",
+    "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.mule.eat",
+    "old_value": "騾食嘢",
+    "new_key": "subtitles.entity.mule.eat",
+    "new_value": "騾進食",
+    "en_us": "Mule eats"
+  },
+  {
+    "old_key": "subtitles.entity.panda.aggressive_ambient",
+    "old_value": "熊貓發嬲",
+    "new_key": "subtitles.entity.panda.aggressive_ambient",
+    "new_value": "熊貓發怒",
+    "en_us": "Panda huffs"
+  },
+  {
+    "old_key": "subtitles.entity.panda.bite",
+    "old_value": "熊貓咬嘢",
+    "new_key": "subtitles.entity.panda.bite",
+    "new_value": "熊貓啃咬",
+    "en_us": "Panda bites"
+  },
+  {
+    "old_key": "subtitles.entity.panda.cant_breed",
+    "old_value": "熊貓喊聲",
+    "new_key": "subtitles.entity.panda.cant_breed",
+    "new_value": "熊貓哀鳴",
+    "en_us": "Panda bleats"
+  },
+  {
+    "old_key": "subtitles.entity.panda.eat",
+    "old_value": "熊貓食嘢",
+    "new_key": "subtitles.entity.panda.eat",
+    "new_value": "熊貓進食",
+    "en_us": "Panda eats"
+  },
+  {
+    "old_key": "subtitles.entity.panda.pre_sneeze",
+    "old_value": "熊貓鼻痕",
+    "new_key": "subtitles.entity.panda.pre_sneeze",
+    "new_value": "熊貓鼻癢",
+    "en_us": "Panda's nose tickles"
+  },
+  {
+    "old_key": "subtitles.entity.panda.sneeze",
+    "old_value": "熊貓打乞嗤",
+    "new_key": "subtitles.entity.panda.sneeze",
+    "new_value": "熊貓打噴嚏",
+    "en_us": "Panda sneezes"
+  },
+  {
+    "old_key": "subtitles.entity.panda.worried_ambient",
+    "old_value": "熊貓喊聲",
+    "new_key": "subtitles.entity.panda.worried_ambient",
+    "new_value": "熊貓嗚咽",
+    "en_us": "Panda whimpers"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.ambient",
+    "old_value": "鸚鵡講嘢",
+    "new_key": "subtitles.entity.parrot.ambient",
+    "new_value": "鸚鵡説話",
+    "en_us": "Parrot talks"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.eats",
+    "old_value": "鸚鵡食嘢",
+    "new_key": "subtitles.entity.parrot.eats",
+    "new_value": "鸚鵡進食",
+    "en_us": "Parrot eats"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.evoker",
+    "old_value": "鸚鵡吱吱斟",
+    "new_key": "subtitles.entity.parrot.imitate.evoker",
+    "new_value": "鸚鵡低語",
+    "en_us": "Parrot murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.illusioner",
+    "old_value": "鸚鵡吱吱斟",
+    "new_key": "subtitles.entity.parrot.imitate.illusioner",
+    "new_value": "鸚鵡低語",
+    "en_us": "Parrot murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.pillager",
+    "old_value": "鸚鵡吱吱斟",
+    "new_key": "subtitles.entity.parrot.imitate.pillager",
+    "new_value": "鸚鵡低語",
+    "en_us": "Parrot murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.vex",
+    "old_value": "鸚鵡發嬲",
+    "new_key": "subtitles.entity.parrot.imitate.vex",
+    "new_value": "鸚鵡發怒",
+    "en_us": "Parrot vexes"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.vindicator",
+    "old_value": "鸚鵡吱吱斟",
+    "new_key": "subtitles.entity.parrot.imitate.vindicator",
+    "new_value": "鸚鵡低語",
+    "en_us": "Parrot mutters"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.wither",
+    "old_value": "鸚鵡發嬲",
+    "new_key": "subtitles.entity.parrot.imitate.wither",
+    "new_value": "鸚鵡發怒",
+    "en_us": "Parrot angers"
+  },
+  {
+    "old_key": "subtitles.entity.phantom.bite",
+    "old_value": "夜魅咬嘢",
+    "new_key": "subtitles.entity.phantom.bite",
+    "new_value": "夜魅啃咬",
+    "en_us": "Phantom bites"
+  },
+  {
+    "old_key": "subtitles.entity.piglin_brute.angry",
+    "old_value": "殘暴豬人憤怒叫聲",
+    "new_key": "subtitles.entity.piglin_brute.angry",
+    "new_value": "殘暴豬人發怒叫聲",
+    "en_us": "Piglin Brute snorts angrily"
+  },
+  {
+    "old_key": "subtitles.entity.piglin_brute.converted_to_zombified",
+    "old_value": "殘暴豬人變成殭屍豬人",
+    "new_key": "subtitles.entity.piglin_brute.converted_to_zombified",
+    "new_value": "殘暴豬人變成喪屍豬人",
+    "en_us": "Piglin Brute converts to Zombified Piglin"
+  },
+  {
+    "old_key": "subtitles.entity.piglin.converted_to_zombified",
+    "old_value": "豬人變成殭屍豬人",
+    "new_key": "subtitles.entity.piglin.converted_to_zombified",
+    "new_value": "豬人變成喪屍豬人",
+    "en_us": "Piglin converts to Zombified Piglin"
+  },
+  {
+    "old_key": "subtitles.entity.pillager.ambient",
+    "old_value": "掠奪者吱吱斟",
+    "new_key": "subtitles.entity.pillager.ambient",
+    "new_value": "掠奪者低語",
+    "en_us": "Pillager murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "樽被掟出",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "樽被擲出",
+    "en_us": "Bottle thrown"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.blow_out",
+    "old_value": "雞泡魚消氣",
+    "new_key": "subtitles.entity.puffer_fish.blow_out",
+    "new_value": "河豚消氣",
+    "en_us": "Pufferfish deflates"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.blow_up",
+    "old_value": "雞泡魚充氣",
+    "new_key": "subtitles.entity.puffer_fish.blow_up",
+    "new_value": "河豚充氣",
+    "en_us": "Pufferfish inflates"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.death",
+    "old_value": "雞泡魚死亡",
+    "new_key": "subtitles.entity.puffer_fish.death",
+    "new_value": "河豚死亡",
+    "en_us": "Pufferfish dies"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.flop",
+    "old_value": "雞泡魚彈跳聲",
+    "new_key": "subtitles.entity.puffer_fish.flop",
+    "new_value": "河豚彈跳聲",
+    "en_us": "Pufferfish flops"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.hurt",
+    "old_value": "雞泡魚受傷",
+    "new_key": "subtitles.entity.puffer_fish.hurt",
+    "new_value": "河豚受傷",
+    "en_us": "Pufferfish hurts"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.sting",
+    "old_value": "雞泡魚針人",
+    "new_key": "subtitles.entity.puffer_fish.sting",
+    "new_value": "河豚針刺",
+    "en_us": "Pufferfish stings"
+  },
+  {
+    "old_key": "subtitles.entity.ravager.ambient",
+    "old_value": "劫毀獸吱吱斟",
+    "new_key": "subtitles.entity.ravager.ambient",
+    "new_value": "劫毀獸咕嚕聲",
+    "en_us": "Ravager grunts"
+  },
+  {
+    "old_key": "subtitles.entity.ravager.attack",
+    "old_value": "劫毀獸咬嘢",
+    "new_key": "subtitles.entity.ravager.attack",
+    "new_value": "劫毀獸啃咬",
+    "en_us": "Ravager bites"
+  },
+  {
+    "old_key": "subtitles.entity.skeleton_horse.swim",
+    "old_value": "骷髏骨馬游水",
+    "new_key": "subtitles.entity.skeleton_horse.swim",
+    "new_value": "骷髏骨馬游泳",
+    "en_us": "Skeleton Horse swims"
+  },
+  {
+    "old_key": "subtitles.entity.snowball.throw",
+    "old_value": "雪球被掟出",
+    "new_key": "subtitles.entity.snowball.throw",
+    "new_value": "雪球被擲出",
+    "en_us": "Snowball flies"
+  },
+  {
+    "old_key": "subtitles.entity.squid.ambient",
+    "old_value": "墨魚游水",
+    "new_key": "subtitles.entity.squid.ambient",
+    "new_value": "墨魚游泳",
+    "en_us": "Squid swims"
+  },
+  {
+    "old_key": "subtitles.entity.strider.eat",
+    "old_value": "熾足獸食嘢",
+    "new_key": "subtitles.entity.strider.eat",
+    "new_value": "熾足獸進食",
+    "en_us": "Strider eats"
+  },
+  {
+    "old_key": "subtitles.entity.strider.idle",
+    "old_value": "熾足獸啾啾聲",
+    "new_key": "subtitles.entity.strider.idle",
+    "new_value": "熾足獸鳴叫聲",
+    "en_us": "Strider chirps"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.ambient_land",
+    "old_value": "海龜啾啾聲",
+    "new_key": "subtitles.entity.turtle.ambient_land",
+    "new_value": "海龜鳴叫聲",
+    "en_us": "Turtle chirps"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.swim",
+    "old_value": "海龜游水",
+    "new_key": "subtitles.entity.turtle.swim",
+    "new_value": "海龜游泳",
+    "en_us": "Turtle swims"
+  },
+  {
+    "old_key": "subtitles.entity.vex.ambient",
+    "old_value": "惱鬼發嬲",
+    "new_key": "subtitles.entity.vex.ambient",
+    "new_value": "惱鬼發怒",
+    "en_us": "Vex vexes"
+  },
+  {
+    "old_key": "subtitles.entity.villager.ambient",
+    "old_value": "村民吱吱斟",
+    "new_key": "subtitles.entity.villager.ambient",
+    "new_value": "村民説話聲",
+    "en_us": "Villager mumbles"
+  },
+  {
+    "old_key": "subtitles.entity.villager.work_armorer",
+    "old_value": "製甲工匠工作",
+    "new_key": "subtitles.entity.villager.work_armorer",
+    "new_value": "盔甲工匠工作",
+    "en_us": "Armorer works"
+  },
+  {
+    "old_key": "subtitles.entity.villager.work_farmer",
+    "old_value": "農民工作",
+    "new_key": "subtitles.entity.villager.work_farmer",
+    "new_value": "農夫工作",
+    "en_us": "Farmer works"
+  },
+  {
+    "old_key": "subtitles.entity.vindicator.ambient",
+    "old_value": "衞道士吱吱斟",
+    "new_key": "subtitles.entity.vindicator.ambient",
+    "new_value": "衞道士低語聲",
+    "en_us": "Vindicator mutters"
+  },
+  {
+    "old_key": "subtitles.entity.wandering_trader.ambient",
+    "old_value": "流浪商人吱吱斟",
+    "new_key": "subtitles.entity.wandering_trader.ambient",
+    "new_value": "流浪商人説話聲",
+    "en_us": "Wandering Trader mumbles"
+  },
+  {
+    "old_key": "subtitles.entity.witch.throw",
+    "old_value": "女巫掟嘢",
+    "new_key": "subtitles.entity.witch.throw",
+    "new_value": "女巫投擲",
+    "en_us": "Witch throws"
+  },
+  {
+    "old_key": "subtitles.entity.wither.ambient",
+    "old_value": "凋零怪發嬲",
+    "new_key": "subtitles.entity.wither.ambient",
+    "new_value": "凋零怪發怒",
+    "en_us": "Wither angers"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_horse.ambient",
+    "old_value": "殭屍馬嘶叫聲",
+    "new_key": "subtitles.entity.zombie_horse.ambient",
+    "new_value": "喪屍馬嘶叫聲",
+    "en_us": "Zombie Horse cries"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_horse.death",
+    "old_value": "殭屍馬死亡",
+    "new_key": "subtitles.entity.zombie_horse.death",
+    "new_value": "喪屍馬死亡",
+    "en_us": "Zombie Horse dies"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_horse.hurt",
+    "old_value": "殭屍馬受傷",
+    "new_key": "subtitles.entity.zombie_horse.hurt",
+    "new_value": "喪屍馬受傷",
+    "en_us": "Zombie Horse hurts"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.ambient",
+    "old_value": "殭屍村民嘶叫聲",
+    "new_key": "subtitles.entity.zombie_villager.ambient",
+    "new_value": "喪屍村民嘶叫聲",
+    "en_us": "Zombie Villager groans"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.converted",
+    "old_value": "殭屍村民喊聲",
+    "new_key": "subtitles.entity.zombie_villager.converted",
+    "new_value": "喪屍村民哀嚎聲",
+    "en_us": "Zombie Villager vociferates"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.cure",
+    "old_value": "殭屍村民索鼻",
+    "new_key": "subtitles.entity.zombie_villager.cure",
+    "new_value": "喪屍村民抽鼻",
+    "en_us": "Zombie Villager snuffles"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.death",
+    "old_value": "殭屍村民死亡",
+    "new_key": "subtitles.entity.zombie_villager.death",
+    "new_value": "喪屍村民死亡",
+    "en_us": "Zombie Villager dies"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.hurt",
+    "old_value": "殭屍村民受傷",
+    "new_key": "subtitles.entity.zombie_villager.hurt",
+    "new_value": "喪屍村民受傷",
+    "en_us": "Zombie Villager hurts"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.ambient",
+    "old_value": "殭屍嘶叫聲",
+    "new_key": "subtitles.entity.zombie.ambient",
+    "new_value": "喪屍嘶叫聲",
+    "en_us": "Zombie groans"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.converted_to_drowned",
+    "old_value": "殭屍變成沉屍",
+    "new_key": "subtitles.entity.zombie.converted_to_drowned",
+    "new_value": "喪屍變成沉屍",
+    "en_us": "Zombie converts to Drowned"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.death",
+    "old_value": "殭屍死亡",
+    "new_key": "subtitles.entity.zombie.death",
+    "new_value": "喪屍死亡",
+    "en_us": "Zombie dies"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.hurt",
+    "old_value": "殭屍受傷",
+    "new_key": "subtitles.entity.zombie.hurt",
+    "new_value": "喪屍受傷",
+    "en_us": "Zombie hurts"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.infect",
+    "old_value": "殭屍感染",
+    "new_key": "subtitles.entity.zombie.infect",
+    "new_value": "喪屍感染",
+    "en_us": "Zombie infects"
+  },
+  {
+    "old_key": "subtitles.entity.zombified_piglin.ambient",
+    "old_value": "殭屍豬人叫聲",
+    "new_key": "subtitles.entity.zombified_piglin.ambient",
+    "new_value": "喪屍豬人叫聲",
+    "en_us": "Zombified Piglin grunts"
+  },
+  {
+    "old_key": "subtitles.entity.zombified_piglin.angry",
+    "old_value": "殭屍豬人憤怒叫聲",
+    "new_key": "subtitles.entity.zombified_piglin.angry",
+    "new_value": "喪屍豬人憤怒叫聲",
+    "en_us": "Zombified Piglin grunts angrily"
+  },
+  {
+    "old_key": "subtitles.entity.zombified_piglin.death",
+    "old_value": "殭屍豬人死亡",
+    "new_key": "subtitles.entity.zombified_piglin.death",
+    "new_value": "喪屍豬人死亡",
+    "en_us": "Zombified Piglin dies"
+  },
+  {
+    "old_key": "subtitles.entity.zombified_piglin.hurt",
+    "old_value": "殭屍豬人受傷",
+    "new_key": "subtitles.entity.zombified_piglin.hurt",
+    "new_value": "喪屍豬人受傷",
+    "en_us": "Zombified Piglin hurts"
+  },
+  {
+    "old_key": "subtitles.item.bucket.empty",
+    "old_value": "倒空鐵桶",
+    "new_key": "subtitles.item.bucket.empty",
+    "new_value": "清空鐵桶",
+    "en_us": "Bucket empties"
+  },
+  {
+    "old_key": "subtitles.item.glow_ink_sac.use",
+    "old_value": "螢光墨囊噴濺",
+    "new_key": "subtitles.item.glow_ink_sac.use",
+    "new_value": "熒光墨囊噴濺",
+    "en_us": "Glow Ink Sac splotches"
+  },
+  {
+    "old_key": "subtitles.item.shears.shear",
+    "old_value": "鉸剪咔嚓聲",
+    "new_key": "subtitles.item.shears.shear",
+    "new_value": "剪刀咔嚓聲",
+    "en_us": "Shears click"
+  },
+  {
+    "old_key": "subtitles.item.trident.throw",
+    "old_value": "三叉戟被掟出",
+    "new_key": "subtitles.item.trident.throw",
+    "new_value": "三叉戟被投擲",
+    "en_us": "Trident clangs"
+  },
+  {
+    "old_key": "title.multiplayer.disabled",
+    "old_value": "多人遊戲已停用。請檢查你嘅 Microsoft 帳户設定。",
+    "new_key": "title.multiplayer.disabled",
+    "new_value": "多人遊戲已停用。請檢查你的 Microsoft 帳户設定。",
+    "en_us": "Multiplayer is disabled. Please check your Microsoft account settings."
+  },
+  {
+    "old_key": "translation.test.complex",
+    "old_value": "前綴，%s%2$s 然後係 %s 同 %1$s 最後係 %s 仲有 %1$s！",
+    "new_key": "translation.test.complex",
+    "new_value": "前綴，%s%2$s 然後是 %s 和 %1$s 最後是 %s 還有 %1$s！",
+    "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
+  },
+  {
+    "old_key": "tutorial.find_tree.title",
+    "old_value": "發現一棵樹",
+    "new_key": "tutorial.find_tree.title",
+    "new_value": "找到一棵樹",
+    "en_us": "Find a tree"
+  },
+  {
+    "old_key": "tutorial.look.description",
+    "old_value": "使用滑鼠轉向",
+    "new_key": "tutorial.look.description",
+    "new_value": "用你的滑鼠轉向",
+    "en_us": "Use your mouse to turn"
+  },
+  {
+    "old_key": "tutorial.move.title",
+    "old_value": "用 %s、%s、%s 同 %s 來移動",
+    "new_key": "tutorial.move.title",
+    "new_value": "用 %s、%s、%s 與 %s 來移動",
+    "en_us": "Move with %s, %s, %s and %s"
+  },
+  {
+    "old_key": "tutorial.open_inventory.title",
+    "old_value": "打開你嘅物品欄",
+    "new_key": "tutorial.open_inventory.title",
+    "new_value": "打開你的物品欄",
+    "en_us": "Open your inventory"
+  },
+  {
+    "old_key": "tutorial.punch_tree.title",
+    "old_value": "斬樹",
+    "new_key": "tutorial.punch_tree.title",
+    "new_value": "砍伐這棵樹",
+    "en_us": "Destroy the tree"
+  },
+  {
+    "old_key": "tutorial.socialInteractions.title",
+    "old_value": "社群互動",
+    "new_key": "tutorial.socialInteractions.title",
+    "new_value": "社羣互動",
+    "en_us": "Social Interactions"
+  }
+]

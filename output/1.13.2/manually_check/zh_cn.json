@@ -1,0 +1,850 @@
+[
+  {
+    "old_key": "advancements.adventure.sleep_in_bed.description",
+    "old_value": "改变你的重生点",
+    "old_en_us": "Change your respawn point",
+    "new_key": "advancements.adventure.sleep_in_bed.description",
+    "new_value": "在床上睡觉以改变你的重生点",
+    "new_en_us": "Sleep in a Bed to change your respawn point"
+  },
+  {
+    "old_key": "advancements.nether.create_full_beacon.description",
+    "old_value": "让一个信标发挥最大功效",
+    "old_en_us": "Bring a beacon to full power",
+    "new_key": "advancements.nether.create_full_beacon.description",
+    "new_value": "让一座信标发挥最大功效",
+    "new_en_us": "Bring a Beacon to full power"
+  },
+  {
+    "old_key": "advancements.story.deflect_arrow.description",
+    "old_value": "用盾牌反弹一根箭",
+    "old_en_us": "Deflect an arrow with a shield",
+    "new_key": "advancements.story.deflect_arrow.description",
+    "new_value": "用盾牌反弹一个弹射物",
+    "new_en_us": "Deflect a projectile with a Shield"
+  },
+  {
+    "old_key": "advancements.story.form_obsidian.description",
+    "old_value": "创造并挖掘一块黑曜石",
+    "old_en_us": "Form and mine a block of Obsidian",
+    "new_key": "advancements.story.form_obsidian.description",
+    "new_value": "获得一块黑曜石",
+    "new_en_us": "Obtain a block of Obsidian"
+  },
+  {
+    "old_key": "advancements.story.lava_bucket.description",
+    "old_value": "用桶装点熔岩",
+    "old_en_us": "Fill a bucket with lava",
+    "new_key": "advancements.story.lava_bucket.description",
+    "new_value": "用铁桶装点熔岩",
+    "new_en_us": "Fill a Bucket with lava"
+  },
+  {
+    "old_key": "advancements.story.shiny_gear.title",
+    "old_value": "用钻石包裹我",
+    "old_en_us": "Cover Me With Diamonds",
+    "new_key": "advancements.story.shiny_gear.title",
+    "new_value": "钻石护体",
+    "new_en_us": "Cover Me with Diamonds"
+  },
+  {
+    "old_key": "argument.criteria.invalid",
+    "old_value": "未知的准则：'%s'",
+    "old_en_us": "Unknown criteria '%s'",
+    "new_key": "argument.criteria.invalid",
+    "new_value": "未知的准则“%s”",
+    "new_en_us": "Unknown criterion '%s'"
+  },
+  {
+    "old_key": "arguments.nbtpath.node.invalid",
+    "old_value": "无效的NBT路径，需要正确的成员名或索引",
+    "old_en_us": "Invalid NBT path, expected element name or index",
+    "new_key": "arguments.nbtpath.node.invalid",
+    "new_value": "无效的NBT路径元素",
+    "new_en_us": "Invalid NBT path element"
+  },
+  {
+    "old_key": "block.minecraft.redstone_wire",
+    "old_value": "红石粉",
+    "old_en_us": "Redstone Dust",
+    "new_key": "block.minecraft.redstone_wire",
+    "new_value": "红石线",
+    "new_en_us": "Redstone Wire"
+  },
+  {
+    "old_key": "block.minecraft.smooth_quartz",
+    "old_value": "平滑石英",
+    "old_en_us": "Smooth Quartz",
+    "new_key": "block.minecraft.smooth_quartz",
+    "new_value": "平滑石英块",
+    "new_en_us": "Smooth Quartz Block"
+  },
+  {
+    "old_key": "block.minecraft.spawner",
+    "old_value": "刷怪箱",
+    "old_en_us": "Spawner",
+    "new_key": "block.minecraft.spawner",
+    "new_value": "刷怪笼",
+    "new_en_us": "Monster Spawner"
+  },
+  {
+    "old_key": "build.tooHigh",
+    "old_value": "建筑高度限制是%s个方块",
+    "old_en_us": "Height limit for building is %s blocks",
+    "new_key": "build.tooHigh",
+    "new_value": "建筑高度限制是%s",
+    "new_en_us": "Height limit for building is %s"
+  },
+  {
+    "old_key": "command.unknown.command",
+    "old_value": "未知的命令",
+    "old_en_us": "Unknown command",
+    "new_key": "command.unknown.command",
+    "new_value": "未知或不完整的命令，错误见下",
+    "new_en_us": "Unknown or incomplete command, see below for error"
+  },
+  {
+    "old_key": "commands.banip.info",
+    "old_value": "此次封禁涉及%s个玩家：%s",
+    "old_en_us": "This ban affects %s players: %s",
+    "new_key": "commands.banip.info",
+    "new_value": "此次封禁涉及%s名玩家：%s",
+    "new_en_us": "This ban affects %s player(s): %s"
+  },
+  {
+    "old_key": "commands.debug.alreadyRunning",
+    "old_value": "调试分析器原已开启",
+    "old_en_us": "The debug profiler is already started",
+    "new_key": "commands.debug.alreadyRunning",
+    "new_value": "刻分析器原已开启",
+    "new_en_us": "The tick profiler is already started"
+  },
+  {
+    "old_key": "commands.debug.notRunning",
+    "old_value": "调试分析器尚未启动",
+    "old_en_us": "The debug profiler hasn't started",
+    "new_key": "commands.debug.notRunning",
+    "new_value": "尚未启动刻分析器",
+    "new_en_us": "The tick profiler hasn't started"
+  },
+  {
+    "old_key": "commands.debug.started",
+    "old_value": "开始调试分析",
+    "old_en_us": "Started debug profiling",
+    "new_key": "commands.debug.started",
+    "new_value": "已开始刻分析",
+    "new_en_us": "Started tick profiling"
+  },
+  {
+    "old_key": "commands.debug.stopped",
+    "old_value": "已停止调试分析，用时%s秒和%s刻（每秒%s刻）",
+    "old_en_us": "Stopped debug profiling after %s seconds and %s ticks (%s ticks per second)",
+    "new_key": "commands.debug.stopped",
+    "new_value": "已停止刻分析，用时%s秒和%s刻（每秒%s刻）",
+    "new_en_us": "Stopped tick profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
+  },
+  {
+    "old_key": "commands.fill.success",
+    "old_value": "成功地填充了%s个方块",
+    "old_en_us": "Successfully filled %s blocks",
+    "new_key": "commands.fill.success",
+    "new_value": "已成功填充%s个方块",
+    "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.modify.displayname",
+    "old_value": "记分项%s的显示名称已改为%s。",
+    "old_en_us": "Changed objective %s display name to %s",
+    "new_key": "commands.scoreboard.objectives.modify.displayname",
+    "new_value": "已将%s的显示名称更改为%s",
+    "new_en_us": "Changed the display name of %s to %s"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.modify.rendertype",
+    "old_value": "已更改记分项%s的显示类型",
+    "old_en_us": "Changed objective %s render type",
+    "new_key": "commands.scoreboard.objectives.modify.rendertype",
+    "new_value": "已更改记分项%s的渲染类型",
+    "new_en_us": "Changed the render type of objective %s"
+  },
+  {
+    "old_key": "commands.setworldspawn.success",
+    "old_value": "已将世界的出生点设置为%s, %s, %s",
+    "old_en_us": "Set the world spawn point to %s, %s, %s",
+    "new_key": "commands.setworldspawn.success",
+    "new_value": "已将世界的出生点设置为%s, %s, %s [%s]",
+    "new_en_us": "Set the world spawn point to %s, %s, %s [%s]"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.multiple",
+    "old_value": "已将%4$s名玩家的出生点设为%1$s, %2$s, %3$s",
+    "old_en_us": "Set spawn point to %s, %s, %s for %s players",
+    "new_key": "commands.spawnpoint.success.multiple",
+    "new_value": "已将%6$s名玩家的出生点设为%5$s中的%1$s, %2$s, %3$s [%4$s]",
+    "new_en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s players"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.single",
+    "old_value": "已将%4$s的出生点设为%1$s, %2$s, %3$s",
+    "old_en_us": "Set spawn point to %s, %s, %s for %s",
+    "new_key": "commands.spawnpoint.success.single",
+    "new_value": "已将%6$s的出生点设为%5$s中的%1$s, %2$s, %3$s [%4$s]",
+    "new_en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
+  },
+  {
+    "old_key": "commands.spreadplayers.failed.entities",
+    "old_value": "无法将%s个实体在%s, %s周围扩散（空间内实体数量过多 - 请尝试最多扩散%s个）",
+    "old_en_us": "Could not spread %s entities around %s, %s (too many entities for space - try using spread of at most %s)",
+    "new_key": "commands.spreadplayers.failed.entities",
+    "new_value": "%1$s个实体未能围绕%2$s, %3$s分散（空间过小而实体过多，请将分散间距设为%4$s以下）",
+    "new_en_us": "Could not spread %s entity/entities around %s, %s (too many entities for space - try using spread of at most %s)"
+  },
+  {
+    "old_key": "commands.spreadplayers.failed.teams",
+    "old_value": "无法将%s个队伍在%s, %s周围扩散（空间内实体数量过多 - 请尝试最多扩散%s个）",
+    "old_en_us": "Could not spread %s teams around %s, %s (too many entities for space - try using spread of at most %s)",
+    "new_key": "commands.spreadplayers.failed.teams",
+    "new_value": "%1$s支队伍未能围绕%2$s, %3$s分散（空间过小而实体过多，请将分散间距设为%4$s以下）",
+    "new_en_us": "Could not spread %s team(s) around %s, %s (too many entities for space - try using spread of at most %s)"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.entities",
+    "old_value": "已以%2$s, %3$s为中心分散了%1$s个玩家，平均距离为%4$s个方块",
+    "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.entities",
+    "new_value": "已将%s个实体围绕%s, %s分散，平均距离为%s个方块",
+    "new_en_us": "Spread %s entity/entities around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.teams",
+    "old_value": "已以%2$s, %3$s为中心分散了%1$s个队伍，平均距离为%4$s个方块",
+    "old_en_us": "Spread %s teams around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.teams",
+    "new_value": "已将%s支队伍围绕%s, %s分散，平均距离为%s个方块",
+    "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.team.list.teams.success",
+    "old_value": "共有%s个队伍：%s",
+    "old_en_us": "There are %s teams: %s",
+    "new_key": "commands.team.list.teams.success",
+    "new_value": "共有%s支队伍：%s",
+    "new_en_us": "There are %s team(s): %s"
+  },
+  {
+    "old_key": "commands.worldborder.damage.amount.success",
+    "old_value": "已将世界边界伤害时间设置为%s秒",
+    "old_en_us": "Set the world border damage time to %s seconds",
+    "new_key": "commands.worldborder.damage.amount.success",
+    "new_value": "已将世界边界的伤害设置为%s每秒每个方块",
+    "new_en_us": "Set the world border damage to %s per block each second"
+  },
+  {
+    "old_key": "commands.worldborder.damage.buffer.success",
+    "old_value": "已将世界边界伤害缓冲区设置为%s个方块",
+    "old_en_us": "Set the world border damage buffer to %s blocks",
+    "new_key": "commands.worldborder.damage.buffer.success",
+    "new_value": "已将世界边界的伤害缓冲区设置为%s个方块",
+    "new_en_us": "Set the world border damage buffer to %s block(s)"
+  },
+  {
+    "old_key": "commands.worldborder.get",
+    "old_value": "当前的世界边界宽度为%s个方块",
+    "old_en_us": "The world border is currently %s blocks wide",
+    "new_key": "commands.worldborder.get",
+    "new_value": "世界边界的当前宽度为%s个方块",
+    "new_en_us": "The world border is currently %s block(s) wide"
+  },
+  {
+    "old_key": "commands.worldborder.set.shrink",
+    "old_value": "正在将世界边界的宽度缩小为%s个方块，时间%s秒",
+    "old_en_us": "Shrinking the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.shrink",
+    "new_value": "正在将世界边界的宽度缩小为%s个方块，用时%s秒",
+    "new_en_us": "Shrinking the world border to %s block(s) wide over %s second(s)"
+  },
+  {
+    "old_key": "commands.worldborder.warning.distance.success",
+    "old_value": "已将世界边界警告距离设置为%s个方块",
+    "old_en_us": "Set the world border warning distance to %s blocks",
+    "new_key": "commands.worldborder.warning.distance.success",
+    "new_value": "已将世界边界的警告距离设置为%s个方块",
+    "new_en_us": "Set the world border warning distance to %s block(s)"
+  },
+  {
+    "old_key": "commands.worldborder.warning.time.success",
+    "old_value": "已将世界边界警告时间设置为%s秒",
+    "old_en_us": "Set the world border warning time to %s seconds",
+    "new_key": "commands.worldborder.warning.time.success",
+    "new_value": "已将世界边界的警告时间设置为%s秒",
+    "new_en_us": "Set the world border warning time to %s second(s)"
+  },
+  {
+    "old_key": "createWorld.customize.buffet.title",
+    "old_value": "自定义自选世界",
+    "old_en_us": "Buffet world customization",
+    "new_key": "createWorld.customize.buffet.title",
+    "new_value": "自定义单一生物群系",
+    "new_en_us": "Single Biome Customization"
+  },
+  {
+    "old_key": "death.attack.anvil.player",
+    "old_value": "%1$s在与%2$s战斗时被掉落的铁砧砸扁了",
+    "old_en_us": "%1$s was squashed by a falling anvil whilst fighting %2$s",
+    "new_key": "death.attack.anvil.player",
+    "new_value": "%1$s在与%2$s战斗时被下落的铁砧压扁了",
+    "new_en_us": "%1$s was squashed by a falling anvil while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.dragonBreath",
+    "old_value": "%1$s被龙之吐息所烤焦",
+    "old_en_us": "%1$s was roasted in dragon breath",
+    "new_key": "death.attack.dragonBreath",
+    "new_value": "%1$s被龙息烤熟了",
+    "new_en_us": "%1$s was roasted in dragon's breath"
+  },
+  {
+    "old_key": "death.attack.fall.player",
+    "old_value": "%1$s在逃离%2$s时落地过猛",
+    "old_en_us": "%1$s hit the ground too hard whilst trying to escape %2$s",
+    "new_key": "death.attack.fall.player",
+    "new_value": "%1$s在试图逃离%2$s时落地过猛",
+    "new_en_us": "%1$s hit the ground too hard while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.fallingBlock.player",
+    "old_value": "%1$s在与%2$s战斗时被掉落的方块砸扁了",
+    "old_en_us": "%1$s was squashed by a falling block whilst fighting %2$s",
+    "new_key": "death.attack.fallingBlock.player",
+    "new_value": "%1$s在与%2$s战斗时被下落的方块压扁了",
+    "new_en_us": "%1$s was squashed by a falling block while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.fireworks.player",
+    "old_value": "%1$s在与%2$s战斗时随着一声巨响中消失了",
+    "old_en_us": "%1$s went off with a bang whilst fighting %2$s",
+    "new_key": "death.attack.fireworks.player",
+    "new_value": "%1$s在与%2$s战斗时随着一声巨响消失了",
+    "new_en_us": "%1$s went off with a bang while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.inWall.player",
+    "old_value": "%1$s在与%2$s战斗时窒息而亡",
+    "old_en_us": "%1$s suffocated in a wall whilst fighting %2$s",
+    "new_key": "death.attack.inWall.player",
+    "new_value": "%1$s在与%2$s战斗时在墙里窒息而亡",
+    "new_en_us": "%1$s suffocated in a wall while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.message_too_long",
+    "old_value": "实际上，信息因为太长无法完整显示。抱歉！截断后的信息：%s",
+    "old_en_us": "Actually, message was too long to deliver fully. Sorry! Here's stripped version: %s",
+    "new_key": "death.attack.message_too_long",
+    "new_value": "抱歉！消息太长，无法完整显示。截断后的消息：%s",
+    "new_en_us": "Actually, the message was too long to deliver fully. Sorry! Here's a stripped version: %s"
+  },
+  {
+    "old_key": "death.attack.onFire.player",
+    "old_value": "%1$s在试图与%2$s战斗时被烤得酥脆",
+    "old_en_us": "%1$s was burnt to a crisp whilst fighting %2$s",
+    "new_key": "death.attack.onFire.player",
+    "new_value": "%1$s在与%2$s战斗时被烤得酥脆",
+    "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
+  },
+  {
+    "old_key": "deathScreen.titleScreen",
+    "old_value": "标题画面",
+    "old_en_us": "Title screen",
+    "new_key": "deathScreen.titleScreen",
+    "new_value": "标题屏幕",
+    "new_en_us": "Title Screen"
+  },
+  {
+    "old_key": "debug.creative_spectator.help",
+    "old_value": "F3 + N = 在创造和旁观模式间切换",
+    "old_en_us": "F3 + N = Cycle creative <-> spectator",
+    "new_key": "debug.creative_spectator.help",
+    "new_value": "F3 + N = 在上一个模式和旁观模式间切换",
+    "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
+  },
+  {
+    "old_key": "demo.day.1",
+    "old_value": "此试玩版只有5天游戏内时间，尽力而为吧！",
+    "old_en_us": "This demo will last five game days, do your best!",
+    "new_key": "demo.day.1",
+    "new_value": "此试玩版会在5个游戏日后结束，尽力而为吧！",
+    "new_en_us": "This demo will last five game days. Do your best!"
+  },
+  {
+    "old_key": "demo.day.6",
+    "old_value": "您已经度过了5天的试玩时间，按%s来为你的成果截图留念",
+    "old_en_us": "You have passed your fifth day, use %s to save a screenshot of your creation",
+    "new_key": "demo.day.6",
+    "new_value": "你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。",
+    "new_en_us": "You have passed your fifth day. Use %s to save a screenshot of your creation."
+  },
+  {
+    "old_key": "demo.help.fullWrapped",
+    "old_value": "这个试玩将会持续游戏内5天的时间(现实时间大约为1小时40分钟)。查看进度来获得提示！祝您玩得开心！",
+    "old_en_us": "This demo will last 5 ingame days (about 1 hour and 40 minutes of real time). Check the advancements for hints! Have fun!",
+    "new_key": "demo.help.fullWrapped",
+    "new_value": "这个试玩将会持续游戏内5天的时间（现实时间大约为1小时40分钟）。查看进度来获得提示！祝你玩得开心！",
+    "new_en_us": "This demo will last 5 in-game days (about 1 hour and 40 minutes of real time). Check the advancements for hints! Have fun!"
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo.serversUnavailable",
+    "old_value": "身份验证目前正在停机维护。",
+    "old_en_us": "The authentication servers are currently down for maintenance.",
+    "new_key": "disconnect.loginFailedInfo.serversUnavailable",
+    "new_value": "暂时无法连接到身份验证服务器，请稍后再试。",
+    "new_en_us": "The authentication servers are currently not reachable. Please try again."
+  },
+  {
+    "old_key": "entity.minecraft.spawner_minecart",
+    "old_value": "刷怪箱矿车",
+    "old_en_us": "Minecart with Spawner",
+    "new_key": "entity.minecraft.spawner_minecart",
+    "new_value": "刷怪笼矿车",
+    "new_en_us": "Minecart with Monster Spawner"
+  },
+  {
+    "old_key": "gameMode.hardcore",
+    "old_value": "极限模式！",
+    "old_en_us": "Hardcore Mode!",
+    "new_key": "gameMode.hardcore",
+    "new_value": "极限模式",
+    "new_en_us": "Hardcore Mode"
+  },
+  {
+    "old_key": "generator.customized",
+    "old_value": "自定义",
+    "old_en_us": "Customized",
+    "new_key": "generator.customized",
+    "new_value": "旧版自定义",
+    "new_en_us": "Old Customized"
+  },
+  {
+    "old_key": "gui.recipebook.moreRecipes",
+    "old_value": "右击以获取更多信息",
+    "old_en_us": "Right Click for more",
+    "new_key": "gui.recipebook.moreRecipes",
+    "new_value": "单击鼠标右键获取更多信息",
+    "new_en_us": "Right Click for More"
+  },
+  {
+    "old_key": "gui.toMenu",
+    "old_value": "回到服务器列表",
+    "old_en_us": "Back to server list",
+    "new_key": "gui.toMenu",
+    "new_value": "返回到服务器列表",
+    "new_en_us": "Back to Server List"
+  },
+  {
+    "old_key": "gui.toTitle",
+    "old_value": "回到标题画面",
+    "old_en_us": "Back to title screen",
+    "new_key": "gui.toTitle",
+    "new_value": "返回到标题屏幕",
+    "new_en_us": "Back to Title Screen"
+  },
+  {
+    "old_key": "inventory.hotbarInfo",
+    "old_value": "用%1$s+%2$s来保存工具栏",
+    "old_en_us": "Save toolbar with %1$s+%2$s",
+    "new_key": "inventory.hotbarInfo",
+    "new_value": "用%1$s+%2$s来保存快捷栏",
+    "new_en_us": "Save hotbar with %1$s+%2$s"
+  },
+  {
+    "old_key": "inventory.hotbarSaved",
+    "old_value": "已保存物品工具栏(用%1$s+%2$s来加载)",
+    "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
+    "new_key": "inventory.hotbarSaved",
+    "new_value": "已保存物品快捷栏（用%1$s+%2$s来加载）",
+    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+  },
+  {
+    "old_key": "item.minecraft.clay_ball",
+    "old_value": "粘土",
+    "old_en_us": "Clay",
+    "new_key": "item.minecraft.clay_ball",
+    "new_value": "黏土球",
+    "new_en_us": "Clay Ball"
+  },
+  {
+    "old_key": "item.minecraft.redstone",
+    "old_value": "红石",
+    "old_en_us": "Redstone",
+    "new_key": "item.minecraft.redstone",
+    "new_value": "红石粉",
+    "new_en_us": "Redstone Dust"
+  },
+  {
+    "old_key": "itemGroup.hotbar",
+    "old_value": "已保存的工具栏",
+    "old_en_us": "Saved Toolbars",
+    "new_key": "itemGroup.hotbar",
+    "new_value": "已保存的快捷栏",
+    "new_en_us": "Saved Hotbars"
+  },
+  {
+    "old_key": "itemGroup.redstone",
+    "old_value": "红石",
+    "old_en_us": "Redstone",
+    "new_key": "itemGroup.redstone",
+    "new_value": "红石方块",
+    "new_en_us": "Redstone Blocks"
+  },
+  {
+    "old_key": "itemGroup.tools",
+    "old_value": "工具",
+    "old_en_us": "Tools",
+    "new_key": "itemGroup.tools",
+    "new_value": "工具与实用物品",
+    "new_en_us": "Tools & Utilities"
+  },
+  {
+    "old_key": "key.loadToolbarActivator",
+    "old_value": "加载物品工具栏",
+    "old_en_us": "Load Toolbar Activator",
+    "new_key": "key.loadToolbarActivator",
+    "new_value": "加载快捷栏",
+    "new_en_us": "Load Hotbar Activator"
+  },
+  {
+    "old_key": "key.saveToolbarActivator",
+    "old_value": "保存物品工具栏",
+    "old_en_us": "Save Toolbar Activator",
+    "new_key": "key.saveToolbarActivator",
+    "new_value": "保存快捷栏",
+    "new_en_us": "Save Hotbar Activator"
+  },
+  {
+    "old_key": "menu.preparingSpawn",
+    "old_value": "准备生成区域中",
+    "old_en_us": "Preparing spawn area",
+    "new_key": "menu.preparingSpawn",
+    "new_value": "准备生成区域中：%s%%",
+    "new_en_us": "Preparing spawn area: %s%%"
+  },
+  {
+    "old_key": "merchant.deprecated",
+    "old_value": "交易一些其他东西来解锁！",
+    "old_en_us": "Trade something else to unlock!",
+    "new_key": "merchant.deprecated",
+    "new_value": "村民每天最多补货两次。",
+    "new_en_us": "Villagers restock up to two times per day."
+  },
+  {
+    "old_key": "multiplayer.disconnect.outdated_client",
+    "old_value": "客户端已过期！请使用%s",
+    "old_en_us": "Outdated client! Please use %s",
+    "new_key": "multiplayer.disconnect.outdated_client",
+    "new_value": "客户端不兼容！请使用%s",
+    "new_en_us": "Incompatible client! Please use %s"
+  },
+  {
+    "old_key": "multiplayer.disconnect.outdated_server",
+    "old_value": "服务器已过期！我仍在运行%s",
+    "old_en_us": "Outdated server! I'm still on %s",
+    "new_key": "multiplayer.disconnect.outdated_server",
+    "new_value": "客户端不兼容！请使用%s",
+    "new_en_us": "Incompatible client! Please use %s"
+  },
+  {
+    "old_key": "multiplayer.downloadingStats",
+    "old_value": "正在下载统计数据...",
+    "old_en_us": "Downloading statistics...",
+    "new_key": "multiplayer.downloadingStats",
+    "new_value": "正在获取统计信息…",
+    "new_en_us": "Retrieving statistics..."
+  },
+  {
+    "old_key": "multiplayer.message_not_delivered",
+    "old_value": "聊天消息无法发送，请检查服务器日志。截断后的消息：%s",
+    "old_en_us": "Can't deliver chat message starting with %s, check server logs",
+    "new_key": "multiplayer.message_not_delivered",
+    "new_value": "无法发送聊天消息，请检查服务器日志：%s",
+    "new_en_us": "Can't deliver chat message, check server logs: %s"
+  },
+  {
+    "old_key": "multiplayer.status.request_handled",
+    "old_value": "状态请求已被处理",
+    "old_en_us": "Status requst has been handled",
+    "new_key": "multiplayer.status.request_handled",
+    "new_value": "状态请求已处理",
+    "new_en_us": "Status request has been handled"
+  },
+  {
+    "old_key": "options.chat.opacity",
+    "old_value": "透明度",
+    "old_en_us": "Opacity",
+    "new_key": "options.chat.opacity",
+    "new_value": "聊天文本不透明度",
+    "new_en_us": "Chat Text Opacity"
+  },
+  {
+    "old_key": "options.chat.scale",
+    "old_value": "比例",
+    "old_en_us": "Scale",
+    "new_key": "options.chat.scale",
+    "new_value": "聊天文本大小",
+    "new_en_us": "Chat Text Size"
+  },
+  {
+    "old_key": "options.chat.title",
+    "old_value": "聊天设置...",
+    "old_en_us": "Chat Settings...",
+    "new_key": "options.chat.title",
+    "new_value": "聊天设置",
+    "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.narrator.chat",
+    "old_value": "复述聊天信息",
+    "old_en_us": "Narrates chat",
+    "new_key": "options.narrator.chat",
+    "new_value": "复述聊天消息",
+    "new_en_us": "Narrates Chat"
+  },
+  {
+    "old_key": "options.realmsNotifications",
+    "old_value": "Realms的通知",
+    "old_en_us": "Realms Notifications",
+    "new_key": "options.realmsNotifications",
+    "new_value": "Realms新闻与邀请",
+    "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.vsync",
+    "old_value": "使用垂直同步",
+    "old_en_us": "Use VSync",
+    "new_key": "options.vsync",
+    "new_value": "垂直同步",
+    "new_en_us": "VSync"
+  },
+  {
+    "old_key": "selectWorld.allowCommands",
+    "old_value": "允许作弊：",
+    "old_en_us": "Allow Cheats:",
+    "new_key": "selectWorld.allowCommands",
+    "new_value": "允许作弊",
+    "new_en_us": "Allow Cheats"
+  },
+  {
+    "old_key": "selectWorld.backupJoinConfirmButton",
+    "old_value": "备份并载入",
+    "old_en_us": "Backup and load",
+    "new_key": "selectWorld.backupJoinConfirmButton",
+    "new_value": "创建备份并加载",
+    "new_en_us": "Create Backup and Load"
+  },
+  {
+    "old_key": "selectWorld.bonusItems",
+    "old_value": "奖励箱：",
+    "old_en_us": "Bonus Chest:",
+    "new_key": "selectWorld.bonusItems",
+    "new_value": "奖励箱",
+    "new_en_us": "Bonus Chest"
+  },
+  {
+    "old_key": "selectWorld.futureworld.error.text",
+    "old_value": "当我们试图加载一份来自未来版本的世界时，发生了一些错误。这本就并非万无一失，很抱歉没能成功。",
+    "old_en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with, sorry it didn't work.",
+    "new_key": "selectWorld.futureworld.error.text",
+    "new_value": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
+    "new_en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work."
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line1",
+    "old_value": "与生存模式相同，但是方块",
+    "old_en_us": "Same as survival mode, but blocks can't",
+    "new_key": "selectWorld.gameMode.adventure.line1",
+    "new_value": "与生存模式相同，但无法",
+    "new_en_us": "Same as Survival Mode, but blocks can't"
+  },
+  {
+    "old_key": "selectWorld.mapFeatures",
+    "old_value": "生成建筑：",
+    "old_en_us": "Generate Structures:",
+    "new_key": "selectWorld.mapFeatures",
+    "new_value": "生成结构",
+    "new_en_us": "Generate Structures"
+  },
+  {
+    "old_key": "selectWorld.mapFeatures.info",
+    "old_value": "村庄、地牢等等",
+    "old_en_us": "Villages, dungeons etc",
+    "new_key": "selectWorld.mapFeatures.info",
+    "new_value": "村庄、沉船等",
+    "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "selectWorld.mapType",
+    "old_value": "世界类型：",
+    "old_en_us": "World Type:",
+    "new_key": "selectWorld.mapType",
+    "new_value": "世界类型",
+    "new_en_us": "World Type"
+  },
+  {
+    "old_key": "selectWorld.tooltip.snapshot1",
+    "old_value": "在你在这个快照中加载它之前，",
+    "old_en_us": "Don't forget to backup this world",
+    "new_key": "selectWorld.tooltip.snapshot1",
+    "new_value": "在这个快照中加载它之前，",
+    "new_en_us": "Don't forget to back up this world"
+  },
+  {
+    "old_key": "sign.edit",
+    "old_value": "修改告示牌信息",
+    "old_en_us": "Edit sign message",
+    "new_key": "sign.edit",
+    "new_value": "编辑告示牌消息",
+    "new_en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "stat.minecraft.time_since_rest",
+    "old_value": "距上次休息",
+    "old_en_us": "Since Last Rest",
+    "new_key": "stat.minecraft.time_since_rest",
+    "new_value": "自上次入眠",
+    "new_en_us": "Time Since Last Rest"
+  },
+  {
+    "old_key": "subtitles.block.iron_trapdoor.close",
+    "old_value": "活板门：打开",
+    "old_en_us": "Trapdoor opens",
+    "new_key": "subtitles.block.iron_trapdoor.close",
+    "new_value": "活板门：关闭",
+    "new_en_us": "Trapdoor closes"
+  },
+  {
+    "old_key": "subtitles.block.iron_trapdoor.open",
+    "old_value": "活板门：关闭",
+    "old_en_us": "Trapdoor closes",
+    "new_key": "subtitles.block.iron_trapdoor.open",
+    "new_value": "活板门：打开",
+    "new_en_us": "Trapdoor opens"
+  },
+  {
+    "old_key": "subtitles.block.shulker_box.close",
+    "old_value": "潜影贝：闭合",
+    "old_en_us": "Shulker closes",
+    "new_key": "subtitles.block.shulker_box.close",
+    "new_value": "潜影盒：关闭",
+    "new_en_us": "Shulker box closes"
+  },
+  {
+    "old_key": "subtitles.block.shulker_box.open",
+    "old_value": "潜影贝：开启",
+    "old_en_us": "Shulker opens",
+    "new_key": "subtitles.block.shulker_box.open",
+    "new_value": "潜影盒：开启",
+    "new_en_us": "Shulker box opens"
+  },
+  {
+    "old_key": "subtitles.entity.husk.converted_to_zombie",
+    "old_value": "尸壳：转变为僵尸",
+    "old_en_us": "Husk converted to Zombie",
+    "new_key": "subtitles.entity.husk.converted_to_zombie",
+    "new_value": "尸壳：转化为僵尸",
+    "new_en_us": "Husk converts to Zombie"
+  },
+  {
+    "old_key": "subtitles.entity.leash_knot.break",
+    "old_value": "栓绳结：被破坏",
+    "old_en_us": "Leash knot breaks",
+    "new_key": "subtitles.entity.leash_knot.break",
+    "new_value": "拴绳结：被破坏",
+    "new_en_us": "Leash Knot broken"
+  },
+  {
+    "old_key": "subtitles.entity.leash_knot.place",
+    "old_value": "栓绳结：被系上",
+    "old_en_us": "Leash knot tied",
+    "new_key": "subtitles.entity.leash_knot.place",
+    "new_value": "拴绳结：被系上",
+    "new_en_us": "Leash Knot tied"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
+    "old_value": "鹦鹉：弹跳",
+    "old_en_us": "Parrot flaps",
+    "new_key": "subtitles.entity.parrot.imitate.elder_guardian",
+    "new_value": "鹦鹉：低鸣",
+    "new_en_us": "Parrot moans"
+  },
+  {
+    "old_key": "subtitles.entity.polar_bear.ambient_baby",
+    "old_value": "北极熊：哼哼",
+    "old_en_us": "Polar Bear hums",
+    "new_key": "subtitles.entity.polar_bear.ambient_baby",
+    "new_value": "幼年北极熊：哼哼",
+    "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.shulker_bullet.hit",
+    "old_value": "潜影贝导弹：爆炸",
+    "old_en_us": "Shulker bullet explodes",
+    "new_key": "subtitles.entity.shulker_bullet.hit",
+    "new_value": "潜影弹：爆炸",
+    "new_en_us": "Shulker Bullet explodes"
+  },
+  {
+    "old_key": "subtitles.entity.shulker_bullet.hurt",
+    "old_value": "潜影贝导弹：被毁",
+    "old_en_us": "Shulker bullet breaks",
+    "new_key": "subtitles.entity.shulker_bullet.hurt",
+    "new_value": "潜影弹：碎裂",
+    "new_en_us": "Shulker Bullet breaks"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.death_baby",
+    "old_value": "小海龟：死亡",
+    "old_en_us": "Turtle baby dies",
+    "new_key": "subtitles.entity.turtle.death_baby",
+    "new_value": "幼年海龟：死亡",
+    "new_en_us": "Baby Turtle dies"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.hurt_baby",
+    "old_value": "小海龟：受伤",
+    "old_en_us": "Turtle baby hurts",
+    "new_key": "subtitles.entity.turtle.hurt_baby",
+    "new_value": "幼年海龟：受伤",
+    "new_en_us": "Baby Turtle hurts"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.shamble_baby",
+    "old_value": "小海龟：爬行",
+    "old_en_us": "Turtle baby shambles",
+    "new_key": "subtitles.entity.turtle.shamble_baby",
+    "new_value": "幼年海龟：爬行",
+    "new_en_us": "Baby Turtle shambles"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.converted",
+    "old_value": "僵尸村民：绝望之吼",
+    "old_en_us": "Zombie vociferates",
+    "new_key": "subtitles.entity.zombie_villager.converted",
+    "new_value": "僵尸村民：哀嚎",
+    "new_en_us": "Zombie Villager vociferates"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.converted_to_drowned",
+    "old_value": "僵尸：变为溺尸",
+    "old_en_us": "Zombie converted to Drowned",
+    "new_key": "subtitles.entity.zombie.converted_to_drowned",
+    "new_value": "僵尸：转化为溺尸",
+    "new_en_us": "Zombie converts to Drowned"
+  },
+  {
+    "old_key": "subtitles.item.axe.strip",
+    "old_value": "原木：被剥皮",
+    "old_en_us": "Debarking log",
+    "new_key": "subtitles.item.axe.strip",
+    "new_value": "斧：削皮",
+    "new_en_us": "Axe strips"
+  }
+]

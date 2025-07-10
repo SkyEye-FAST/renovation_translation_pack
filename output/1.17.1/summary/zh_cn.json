@@ -1,0 +1,1976 @@
+[
+  {
+    "old_key": "advancements.adventure.honey_block_slide.description",
+    "old_value": "跳入蜂蜜块以缓解摔落",
+    "new_key": "advancements.adventure.honey_block_slide.description",
+    "new_value": "跳入蜂蜜块以缓冲摔落",
+    "en_us": "Jump into a Honey Block to break your fall"
+  },
+  {
+    "old_key": "advancements.adventure.sniper_duel.description",
+    "old_value": "从50米开外击杀一只骷髅",
+    "new_key": "advancements.adventure.sniper_duel.description",
+    "new_value": "从至少50米外射杀一只骷髅",
+    "en_us": "Kill a Skeleton from at least 50 meters away"
+  },
+  {
+    "old_key": "advancements.end.levitate.description",
+    "old_value": "利用潜影贝的攻击向上漂浮50个方块",
+    "new_key": "advancements.end.levitate.description",
+    "new_value": "利用潜影贝的攻击向上飘浮50个方块",
+    "en_us": "Levitate up 50 blocks from the attacks of a Shulker"
+  },
+  {
+    "old_key": "advancements.husbandry.wax_off.description",
+    "old_value": "给铜块脱蜡！",
+    "new_key": "advancements.husbandry.wax_off.description",
+    "new_value": "给铜质方块脱蜡！",
+    "en_us": "Scrape Wax off of a Copper block!"
+  },
+  {
+    "old_key": "advancements.husbandry.wax_on.description",
+    "old_value": "将蜜脾涂到铜块上！",
+    "new_key": "advancements.husbandry.wax_on.description",
+    "new_value": "将蜜脾涂到铜质方块上！",
+    "en_us": "Apply Honeycomb to a Copper block!"
+  },
+  {
+    "old_key": "advancements.story.enchant_item.description",
+    "old_value": "在附魔台里附魔一样物品",
+    "new_key": "advancements.story.enchant_item.description",
+    "new_value": "用附魔台附魔一样物品",
+    "en_us": "Enchant an item at an Enchanting Table"
+  },
+  {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "en_us": "Command blocks are not enabled on this server"
+  },
+  {
+    "old_key": "advMode.setCommand.success",
+    "old_value": "成功设置：%s",
+    "new_key": "advMode.setCommand.success",
+    "new_value": "成功设置命令：%s",
+    "en_us": "Command set: %s"
+  },
+  {
+    "old_key": "argument.angle.incomplete",
+    "old_value": "不完整（需要1个角度）",
+    "new_key": "argument.angle.incomplete",
+    "new_value": "不完整（应有1个角度）",
+    "en_us": "Incomplete (expected 1 angle)"
+  },
+  {
+    "old_key": "argument.block.id.invalid",
+    "old_value": "未知的方块类型'%s'",
+    "new_key": "argument.block.id.invalid",
+    "new_value": "未知的方块类型“%s”",
+    "en_us": "Unknown block type '%s'"
+  },
+  {
+    "old_key": "argument.block.property.duplicate",
+    "old_value": "'%s'属性只能给%s设置一次",
+    "new_key": "argument.block.property.duplicate",
+    "new_value": "“%s”属性只能给%s设置一次",
+    "en_us": "Property '%s' can only be set once for block %s"
+  },
+  {
+    "old_key": "argument.block.property.invalid",
+    "old_value": "%1$s的%3$s属性不能被设为'%2$s'",
+    "new_key": "argument.block.property.invalid",
+    "new_value": "%1$s的%3$s属性不能被设为“%2$s”",
+    "en_us": "Block %s does not accept '%s' for %s property"
+  },
+  {
+    "old_key": "argument.block.property.novalue",
+    "old_value": "%s上必须要有'%s'属性",
+    "new_key": "argument.block.property.novalue",
+    "new_value": "方块%s上的属性“%s”必须要有值",
+    "en_us": "Expected value for property '%s' on block %s"
+  },
+  {
+    "old_key": "argument.block.property.unknown",
+    "old_value": "方块%s没有属性'%s'",
+    "new_key": "argument.block.property.unknown",
+    "new_value": "方块%s没有属性“%s”",
+    "en_us": "Block %s does not have property '%s'"
+  },
+  {
+    "old_key": "argument.color.invalid",
+    "old_value": "未知的颜色'%s'",
+    "new_key": "argument.color.invalid",
+    "new_value": "未知的颜色“%s”",
+    "en_us": "Unknown color '%s'"
+  },
+  {
+    "old_key": "argument.criteria.invalid",
+    "old_value": "未知的准则：'%s'",
+    "new_key": "argument.criteria.invalid",
+    "new_value": "未知的准则“%s”",
+    "en_us": "Unknown criterion '%s'"
+  },
+  {
+    "old_key": "argument.dimension.invalid",
+    "old_value": "未知的维度'%s'",
+    "new_key": "argument.dimension.invalid",
+    "new_value": "未知的维度“%s”",
+    "en_us": "Unknown dimension '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.inapplicable",
+    "old_value": "'%s'选项不适用于这里",
+    "new_key": "argument.entity.options.inapplicable",
+    "new_value": "“%s”选项不适用于这里",
+    "en_us": "Option '%s' isn't applicable here"
+  },
+  {
+    "old_key": "argument.entity.options.mode.invalid",
+    "old_value": "无效或未知的游戏模式'%s'",
+    "new_key": "argument.entity.options.mode.invalid",
+    "new_value": "无效或未知的游戏模式“%s”",
+    "en_us": "Invalid or unknown game mode '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.predicate.description",
+    "old_value": "自定义战利品表条件",
+    "new_key": "argument.entity.options.predicate.description",
+    "new_value": "自定义谓词",
+    "en_us": "Custom predicate"
+  },
+  {
+    "old_key": "argument.entity.options.sort.irreversible",
+    "old_value": "无效或未知的排序类型'%s'",
+    "new_key": "argument.entity.options.sort.irreversible",
+    "new_value": "无效或未知的排序类型“%s”",
+    "en_us": "Invalid or unknown sort type '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.type.invalid",
+    "old_value": "无效或未知的实体类型'%s'",
+    "new_key": "argument.entity.options.type.invalid",
+    "new_value": "无效或未知的实体类型“%s”",
+    "en_us": "Invalid or unknown entity type '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.unknown",
+    "old_value": "未知的选项'%s'",
+    "new_key": "argument.entity.options.unknown",
+    "new_value": "未知的选项“%s”",
+    "en_us": "Unknown option '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.valueless",
+    "old_value": "选项'%s'需要有值",
+    "new_key": "argument.entity.options.valueless",
+    "new_value": "选项“%s”应有值",
+    "en_us": "Expected value for option '%s'"
+  },
+  {
+    "old_key": "argument.entity.selector.unknown",
+    "old_value": "未知的选择器类型'%s'",
+    "new_key": "argument.entity.selector.unknown",
+    "new_value": "未知的选择器类型“%s”",
+    "en_us": "Unknown selector type '%s'"
+  },
+  {
+    "old_key": "argument.item.id.invalid",
+    "old_value": "未知的物品'%s'",
+    "new_key": "argument.item.id.invalid",
+    "new_value": "未知的物品“%s”",
+    "en_us": "Unknown item '%s'"
+  },
+  {
+    "old_key": "argument.literal.incorrect",
+    "old_value": "需要字面量%s",
+    "new_key": "argument.literal.incorrect",
+    "new_value": "应为字面量%s",
+    "en_us": "Expected literal %s"
+  },
+  {
+    "old_key": "argument.nbt.array.invalid",
+    "old_value": "无效的数组类型'%s'",
+    "new_key": "argument.nbt.array.invalid",
+    "new_value": "无效的数组类型“%s”",
+    "en_us": "Invalid array type '%s'"
+  },
+  {
+    "old_key": "argument.player.entities",
+    "old_value": "只有玩家会受此命令的影响，但提供的选择器包括其它实体",
+    "new_key": "argument.player.entities",
+    "new_value": "只有玩家会受此命令的影响，但提供的选择器包括其他实体",
+    "en_us": "Only players may be affected by this command, but the provided selector includes entities"
+  },
+  {
+    "old_key": "argument.pos.missing.double",
+    "old_value": "需要一个坐标",
+    "new_key": "argument.pos.missing.double",
+    "new_value": "应为一个坐标",
+    "en_us": "Expected a coordinate"
+  },
+  {
+    "old_key": "argument.pos.missing.int",
+    "old_value": "需要一个方块的位置",
+    "new_key": "argument.pos.missing.int",
+    "new_value": "应为一个方块的位置",
+    "en_us": "Expected a block position"
+  },
+  {
+    "old_key": "argument.pos.outofworld",
+    "old_value": "该位置在这世界之外！",
+    "new_key": "argument.pos.outofworld",
+    "new_value": "该位置已超出此世界！",
+    "en_us": "That position is out of this world!"
+  },
+  {
+    "old_key": "argument.pos2d.incomplete",
+    "old_value": "不完整（需要2个坐标）",
+    "new_key": "argument.pos2d.incomplete",
+    "new_value": "不完整（应有2个坐标）",
+    "en_us": "Incomplete (expected 2 coordinates)"
+  },
+  {
+    "old_key": "argument.pos3d.incomplete",
+    "old_value": "不完整（需要3个坐标）",
+    "new_key": "argument.pos3d.incomplete",
+    "new_value": "不完整（应有3个坐标）",
+    "en_us": "Incomplete (expected 3 coordinates)"
+  },
+  {
+    "old_key": "argument.range.empty",
+    "old_value": "需要值或取值范围",
+    "new_key": "argument.range.empty",
+    "new_value": "应为值或取值范围",
+    "en_us": "Expected value or range of values"
+  },
+  {
+    "old_key": "argument.rotation.incomplete",
+    "old_value": "不完整（需要2个坐标）",
+    "new_key": "argument.rotation.incomplete",
+    "new_value": "不完整（应有2个坐标）",
+    "en_us": "Incomplete (expected 2 coordinates)"
+  },
+  {
+    "old_key": "argument.scoreboardDisplaySlot.invalid",
+    "old_value": "未知的显示位置'%s'",
+    "new_key": "argument.scoreboardDisplaySlot.invalid",
+    "new_value": "未知的显示位置“%s”",
+    "en_us": "Unknown display slot '%s'"
+  },
+  {
+    "old_key": "arguments.block.tag.unknown",
+    "old_value": "未知的方块标签'%s'",
+    "new_key": "arguments.block.tag.unknown",
+    "new_value": "未知的方块标签“%s”",
+    "en_us": "Unknown block tag '%s'"
+  },
+  {
+    "old_key": "arguments.function.tag.unknown",
+    "old_value": "未知的函数标签'%s'",
+    "new_key": "arguments.function.tag.unknown",
+    "new_value": "未知的函数标签“%s”",
+    "en_us": "Unknown function tag '%s'"
+  },
+  {
+    "old_key": "arguments.item.tag.unknown",
+    "old_value": "未知的物品标签'%s'",
+    "new_key": "arguments.item.tag.unknown",
+    "new_value": "未知的物品标签“%s”",
+    "en_us": "Unknown item tag '%s'"
+  },
+  {
+    "old_key": "arguments.objective.notFound",
+    "old_value": "未知的记分项'%s'",
+    "new_key": "arguments.objective.notFound",
+    "new_value": "未知的记分项“%s”",
+    "en_us": "Unknown scoreboard objective '%s'"
+  },
+  {
+    "old_key": "arguments.objective.readonly",
+    "old_value": "记分项'%s'为只读类型",
+    "new_key": "arguments.objective.readonly",
+    "new_value": "记分项“%s”为只读类型",
+    "en_us": "Scoreboard objective '%s' is read-only"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'"
+  },
+  {
+    "old_key": "attribute.name.generic.luck",
+    "old_value": "幸运",
+    "new_key": "attribute.name.generic.luck",
+    "new_value": "幸运值",
+    "en_us": "Luck"
+  },
+  {
+    "old_key": "biome.minecraft.eroded_badlands",
+    "old_value": "被风蚀的恶地",
+    "new_key": "biome.minecraft.eroded_badlands",
+    "new_value": "风蚀恶地",
+    "en_us": "Eroded Badlands"
+  },
+  {
+    "old_key": "biome.minecraft.ice_spikes",
+    "old_value": "冰刺平原",
+    "new_key": "biome.minecraft.ice_spikes",
+    "new_value": "冰刺之地",
+    "en_us": "Ice Spikes"
+  },
+  {
+    "old_key": "biome.minecraft.snowy_beach",
+    "old_value": "积雪的沙滩",
+    "new_key": "biome.minecraft.snowy_beach",
+    "new_value": "积雪沙滩",
+    "en_us": "Snowy Beach"
+  },
+  {
+    "old_key": "biome.minecraft.snowy_taiga",
+    "old_value": "积雪的针叶林",
+    "new_key": "biome.minecraft.snowy_taiga",
+    "new_value": "积雪针叶林",
+    "en_us": "Snowy Taiga"
+  },
+  {
+    "old_key": "block.minecraft.banner.gradient_up.blue",
+    "old_value": "蓝色自下渐变",
+    "new_key": "block.minecraft.banner.gradient_up.blue",
+    "new_value": "蓝色自下渐淡",
+    "en_us": "Blue Base Gradient"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.gray",
+    "old_value": "灰色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.gray",
+    "new_value": "顶灰三角",
+    "en_us": "Gray Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.light_blue",
+    "old_value": "淡蓝色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.light_blue",
+    "new_value": "顶淡蓝三角",
+    "en_us": "Light Blue Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.lime",
+    "old_value": "黄绿色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.lime",
+    "new_value": "顶黄绿三角",
+    "en_us": "Lime Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.magenta",
+    "old_value": "品红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.magenta",
+    "new_value": "顶品红三角",
+    "en_us": "Magenta Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.orange",
+    "old_value": "橙色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.orange",
+    "new_value": "顶橙三角",
+    "en_us": "Orange Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.pink",
+    "old_value": "粉红色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.pink",
+    "new_value": "顶粉红三角",
+    "en_us": "Pink Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.white",
+    "old_value": "白色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.white",
+    "new_value": "顶白三角",
+    "en_us": "White Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.yellow",
+    "old_value": "黄色顶三角",
+    "new_key": "block.minecraft.banner.triangle_top.yellow",
+    "new_value": "顶黄三角",
+    "en_us": "Yellow Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.carved_pumpkin",
+    "old_value": "雕刻过的南瓜",
+    "new_key": "block.minecraft.carved_pumpkin",
+    "new_value": "雕刻南瓜",
+    "en_us": "Carved Pumpkin"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_deepslate",
+    "old_value": "錾制深板岩",
+    "new_key": "block.minecraft.chiseled_deepslate",
+    "new_value": "雕纹深板岩",
+    "en_us": "Chiseled Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_nether_bricks",
+    "old_value": "錾制下界砖块",
+    "new_key": "block.minecraft.chiseled_nether_bricks",
+    "new_value": "雕纹下界砖块",
+    "en_us": "Chiseled Nether Bricks"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_polished_blackstone",
+    "old_value": "錾制磨制黑石",
+    "new_key": "block.minecraft.chiseled_polished_blackstone",
+    "new_value": "雕纹磨制黑石",
+    "en_us": "Chiseled Polished Blackstone"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_quartz_block",
+    "old_value": "錾制石英块",
+    "new_key": "block.minecraft.chiseled_quartz_block",
+    "new_value": "雕纹石英块",
+    "en_us": "Chiseled Quartz Block"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_red_sandstone",
+    "old_value": "錾制红砂岩",
+    "new_key": "block.minecraft.chiseled_red_sandstone",
+    "new_value": "雕纹红砂岩",
+    "en_us": "Chiseled Red Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_sandstone",
+    "old_value": "錾制砂岩",
+    "new_key": "block.minecraft.chiseled_sandstone",
+    "new_value": "雕纹砂岩",
+    "en_us": "Chiseled Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_stone_bricks",
+    "old_value": "錾制石砖",
+    "new_key": "block.minecraft.chiseled_stone_bricks",
+    "new_value": "雕纹石砖",
+    "en_us": "Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.clay",
+    "old_value": "黏土块",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "block.minecraft.hay_block",
+    "old_value": "干草块",
+    "new_key": "block.minecraft.hay_block",
+    "new_value": "干草捆",
+    "en_us": "Hay Bale"
+  },
+  {
+    "old_key": "block.minecraft.infested_chiseled_stone_bricks",
+    "old_value": "被虫蚀的錾制石砖",
+    "new_key": "block.minecraft.infested_chiseled_stone_bricks",
+    "new_value": "虫蚀雕纹石砖",
+    "en_us": "Infested Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_cobblestone",
+    "old_value": "被虫蚀的圆石",
+    "new_key": "block.minecraft.infested_cobblestone",
+    "new_value": "虫蚀圆石",
+    "en_us": "Infested Cobblestone"
+  },
+  {
+    "old_key": "block.minecraft.infested_cracked_stone_bricks",
+    "old_value": "被虫蚀的裂纹石砖",
+    "new_key": "block.minecraft.infested_cracked_stone_bricks",
+    "new_value": "虫蚀裂纹石砖",
+    "en_us": "Infested Cracked Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_deepslate",
+    "old_value": "被虫蚀的深板岩",
+    "new_key": "block.minecraft.infested_deepslate",
+    "new_value": "虫蚀深板岩",
+    "en_us": "Infested Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.infested_mossy_stone_bricks",
+    "old_value": "被虫蚀的苔石砖",
+    "new_key": "block.minecraft.infested_mossy_stone_bricks",
+    "new_value": "虫蚀苔石砖",
+    "en_us": "Infested Mossy Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.infested_stone",
+    "old_value": "被虫蚀的石头",
+    "new_key": "block.minecraft.infested_stone",
+    "new_value": "虫蚀石头",
+    "en_us": "Infested Stone"
+  },
+  {
+    "old_key": "block.minecraft.infested_stone_bricks",
+    "old_value": "被虫蚀的石砖",
+    "new_key": "block.minecraft.infested_stone_bricks",
+    "new_value": "虫蚀石砖",
+    "en_us": "Infested Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.moss_carpet",
+    "old_value": "苔藓地毯",
+    "new_key": "block.minecraft.moss_carpet",
+    "new_value": "覆地苔藓",
+    "en_us": "Moss Carpet"
+  },
+  {
+    "old_key": "block.minecraft.mycelium",
+    "old_value": "菌丝",
+    "new_key": "block.minecraft.mycelium",
+    "new_value": "菌丝体",
+    "en_us": "Mycelium"
+  },
+  {
+    "old_key": "block.minecraft.ominous_banner",
+    "old_value": "灾厄旗帜",
+    "new_key": "block.minecraft.ominous_banner",
+    "new_value": "不祥旗帜",
+    "en_us": "Ominous Banner"
+  },
+  {
+    "old_key": "block.minecraft.potted_wither_rose",
+    "old_value": "凋零玫瑰盆栽",
+    "new_key": "block.minecraft.potted_wither_rose",
+    "new_value": "凋灵玫瑰盆栽",
+    "en_us": "Potted Wither Rose"
+  },
+  {
+    "old_key": "block.minecraft.waxed_copper_block",
+    "old_value": "涂蜡铜块",
+    "new_key": "block.minecraft.waxed_copper_block",
+    "new_value": "涂蜡的铜块",
+    "en_us": "Waxed Block of Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper",
+    "old_value": "涂蜡切制铜块",
+    "new_key": "block.minecraft.waxed_cut_copper",
+    "new_value": "涂蜡的切制铜块",
+    "en_us": "Waxed Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper_slab",
+    "old_value": "涂蜡切制铜台阶",
+    "new_key": "block.minecraft.waxed_cut_copper_slab",
+    "new_value": "涂蜡的切制铜台阶",
+    "en_us": "Waxed Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_cut_copper_stairs",
+    "old_value": "涂蜡切制铜楼梯",
+    "new_key": "block.minecraft.waxed_cut_copper_stairs",
+    "new_value": "涂蜡的切制铜楼梯",
+    "en_us": "Waxed Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_copper",
+    "old_value": "斑驳的涂蜡铜块",
+    "new_key": "block.minecraft.waxed_exposed_copper",
+    "new_value": "涂蜡的斑驳铜块",
+    "en_us": "Waxed Exposed Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper",
+    "old_value": "斑驳的涂蜡切制铜块",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper",
+    "new_value": "涂蜡的斑驳切制铜块",
+    "en_us": "Waxed Exposed Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper_slab",
+    "old_value": "斑驳的涂蜡切制铜台阶",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper_slab",
+    "new_value": "涂蜡的斑驳切制铜台阶",
+    "en_us": "Waxed Exposed Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_exposed_cut_copper_stairs",
+    "old_value": "斑驳的涂蜡切制铜楼梯",
+    "new_key": "block.minecraft.waxed_exposed_cut_copper_stairs",
+    "new_value": "涂蜡的斑驳切制铜楼梯",
+    "en_us": "Waxed Exposed Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_copper",
+    "old_value": "氧化的涂蜡铜块",
+    "new_key": "block.minecraft.waxed_oxidized_copper",
+    "new_value": "涂蜡的氧化铜块",
+    "en_us": "Waxed Oxidized Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper",
+    "old_value": "氧化的涂蜡切制铜块",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper",
+    "new_value": "涂蜡的氧化切制铜块",
+    "en_us": "Waxed Oxidized Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper_slab",
+    "old_value": "氧化的涂蜡切制铜台阶",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper_slab",
+    "new_value": "涂蜡的氧化切制铜台阶",
+    "en_us": "Waxed Oxidized Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_oxidized_cut_copper_stairs",
+    "old_value": "氧化的涂蜡切制铜楼梯",
+    "new_key": "block.minecraft.waxed_oxidized_cut_copper_stairs",
+    "new_value": "涂蜡的氧化切制铜楼梯",
+    "en_us": "Waxed Oxidized Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_copper",
+    "old_value": "锈蚀的涂蜡铜块",
+    "new_key": "block.minecraft.waxed_weathered_copper",
+    "new_value": "涂蜡的锈蚀铜块",
+    "en_us": "Waxed Weathered Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper",
+    "old_value": "锈蚀的涂蜡切制铜块",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper",
+    "new_value": "涂蜡的锈蚀切制铜块",
+    "en_us": "Waxed Weathered Cut Copper"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper_slab",
+    "old_value": "锈蚀的涂蜡切制铜台阶",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper_slab",
+    "new_value": "涂蜡的锈蚀切制铜台阶",
+    "en_us": "Waxed Weathered Cut Copper Slab"
+  },
+  {
+    "old_key": "block.minecraft.waxed_weathered_cut_copper_stairs",
+    "old_value": "锈蚀的涂蜡切制铜楼梯",
+    "new_key": "block.minecraft.waxed_weathered_cut_copper_stairs",
+    "new_value": "涂蜡的锈蚀切制铜楼梯",
+    "en_us": "Waxed Weathered Cut Copper Stairs"
+  },
+  {
+    "old_key": "block.minecraft.wheat",
+    "old_value": "小麦",
+    "new_key": "block.minecraft.wheat",
+    "new_value": "小麦植株",
+    "en_us": "Wheat Crops"
+  },
+  {
+    "old_key": "block.minecraft.wither_rose",
+    "old_value": "凋零玫瑰",
+    "new_key": "block.minecraft.wither_rose",
+    "new_value": "凋灵玫瑰",
+    "en_us": "Wither Rose"
+  },
+  {
+    "old_key": "book.pageIndicator",
+    "old_value": "页面：%1$s/%2$s",
+    "new_key": "book.pageIndicator",
+    "new_value": "第%1$s页/共%2$s页",
+    "en_us": "Page %1$s of %2$s"
+  },
+  {
+    "old_key": "chat.copy.click",
+    "old_value": "单击复制到剪切板",
+    "new_key": "chat.copy.click",
+    "new_value": "单击复制到剪贴板",
+    "en_us": "Click to Copy to Clipboard"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你确定你要打开以下网页？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你确定要打开以下网页？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "你想要打开这个链接或复制到你的剪贴板吗？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "你想要打开这个链接或将其复制到你的剪贴板吗？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "永远不要打开从你不信任的人得到的链接！",
+    "new_key": "chat.link.warning",
+    "new_value": "永远不要打开你不信任的人提供的链接！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "command.context.parse_error",
+    "old_value": "在第%2$s个字符处发现%1$s：%3$s",
+    "new_key": "command.context.parse_error",
+    "new_value": "%s，位于第%s个字符：%s",
+    "en_us": "%s at position %s: %s"
+  },
+  {
+    "old_key": "commands.advancement.criterionNotFound",
+    "old_value": "进度%1$s并不包含条件'%2$s'",
+    "new_key": "commands.advancement.criterionNotFound",
+    "new_value": "进度%1$s并不包含条件“%2$s”",
+    "en_us": "The advancement %1$s does not contain the criterion '%2$s'"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.many.failure",
+    "old_value": "无法将进度%2$s的达成条件'%1$s'赋予%3$s名玩家，因为他们已达成此条件",
+    "new_key": "commands.advancement.grant.criterion.to.many.failure",
+    "new_value": "无法将进度%2$s的达成条件“%1$s”赋予%3$s名玩家，因为他们已达成此条件",
+    "en_us": "Couldn't grant criterion '%s' of advancement %s to %s players as they already have it"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.many.success",
+    "old_value": "已将进度%2$s的达成条件'%1$s'赋予%3$s名玩家",
+    "new_key": "commands.advancement.grant.criterion.to.many.success",
+    "new_value": "已将进度%2$s的达成条件“%1$s”赋予%3$s名玩家",
+    "en_us": "Granted criterion '%s' of advancement %s to %s players"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.one.failure",
+    "old_value": "无法将进度%2$s的达成条件'%1$s'赋予%3$s，因为该玩家已达成此条件",
+    "new_key": "commands.advancement.grant.criterion.to.one.failure",
+    "new_value": "无法将进度%2$s的达成条件“%1$s”赋予%3$s，因为该玩家已达成此条件",
+    "en_us": "Couldn't grant criterion '%s' of advancement %s to %s as they already have it"
+  },
+  {
+    "old_key": "commands.advancement.grant.criterion.to.one.success",
+    "old_value": "已将进度%2$s的达成条件'%1$s'赋予%3$s",
+    "new_key": "commands.advancement.grant.criterion.to.one.success",
+    "new_value": "已将进度%2$s的达成条件“%1$s”赋予%3$s",
+    "en_us": "Granted criterion '%s' of advancement %s to %s"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "old_value": "无法撤销%3$s名玩家关于进度%2$s的达成条件'%1$s'，因为该玩家并未达成此条件",
+    "new_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "new_value": "无法撤销%3$s名玩家关于进度%2$s的达成条件“%1$s”，因为他们并未达成此条件",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s players as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.many.success",
+    "old_value": "已撤销%3$s名玩家关于进度%2$s的达成条件'%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.many.success",
+    "new_value": "已撤销%3$s名玩家关于进度%2$s的达成条件“%1$s”",
+    "en_us": "Revoked criterion '%s' of advancement %s from %s players"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.one.failure",
+    "old_value": "无法撤销%3$s关于进度%2$s的达成条件'%1$s'，因为该玩家并未达成此条件",
+    "new_key": "commands.advancement.revoke.criterion.to.one.failure",
+    "new_value": "无法撤销%3$s关于进度%2$s的达成条件“%1$s”，因为该玩家并未达成此条件",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s as they don't have it"
+  },
+  {
+    "old_key": "commands.advancement.revoke.criterion.to.one.success",
+    "old_value": "已撤销%3$s关于进度%2$s的达成条件'%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.one.success",
+    "new_value": "已撤销%3$s关于进度%2$s的达成条件“%1$s”",
+    "en_us": "Revoked criterion '%s' of advancement %s from %s"
+  },
+  {
+    "old_key": "commands.bossbar.create.failed",
+    "old_value": "ID为'%s'的Boss栏已经存在",
+    "new_key": "commands.bossbar.create.failed",
+    "new_value": "ID为“%s”的Boss栏已经存在",
+    "en_us": "A bossbar already exists with the ID '%s'"
+  },
+  {
+    "old_key": "commands.bossbar.unknown",
+    "old_value": "不存在ID为'%s'的Boss栏",
+    "new_key": "commands.bossbar.unknown",
+    "new_value": "不存在ID为“%s”的Boss栏",
+    "en_us": "No bossbar exists with the ID '%s'"
+  },
+  {
+    "old_key": "commands.clone.failed",
+    "old_value": "没有方块被复制",
+    "new_key": "commands.clone.failed",
+    "new_value": "未复制任何方块",
+    "en_us": "No blocks were cloned"
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "需要列表，却发现了：%s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "应为列表，实际为：%s",
+    "en_us": "Expected list, got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "需要对象，却发现了：%s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "应为对象，实际为：%s",
+    "en_us": "Expected object, got: %s"
+  },
+  {
+    "old_key": "commands.datapack.disable.failed",
+    "old_value": "数据包'%s'并未启用！",
+    "new_key": "commands.datapack.disable.failed",
+    "new_value": "数据包“%s”并未启用！",
+    "en_us": "Pack '%s' is not enabled!"
+  },
+  {
+    "old_key": "commands.datapack.enable.failed",
+    "old_value": "数据包'%s'原已启用！",
+    "new_key": "commands.datapack.enable.failed",
+    "new_value": "数据包“%s”已经启用！",
+    "en_us": "Pack '%s' is already enabled!"
+  },
+  {
+    "old_key": "commands.datapack.unknown",
+    "old_value": "未知的数据包'%s'",
+    "new_key": "commands.datapack.unknown",
+    "new_value": "未知的数据包 “%s”",
+    "en_us": "Unknown data pack '%s'"
+  },
+  {
+    "old_key": "commands.experience.query.points",
+    "old_value": "%s拥有%s点经验值",
+    "new_key": "commands.experience.query.points",
+    "new_value": "%s拥有%s点经验",
+    "en_us": "%s has %s experience points"
+  },
+  {
+    "old_key": "commands.gamemode.success.other",
+    "old_value": "将%s的游戏模式改为%s",
+    "new_key": "commands.gamemode.success.other",
+    "new_value": "已将%s的游戏模式改为%s",
+    "en_us": "Set %s's game mode to %s"
+  },
+  {
+    "old_key": "commands.gamemode.success.self",
+    "old_value": "你的游戏模式已被设置为%s ",
+    "new_key": "commands.gamemode.success.self",
+    "new_value": "已将自己的游戏模式设置为%s",
+    "en_us": "Set own game mode to %s"
+  },
+  {
+    "old_key": "commands.item.target.no_changed.known_item",
+    "old_value": "没有在%2$s槽位接受了物品%1$s的目标",
+    "new_key": "commands.item.target.no_changed.known_item",
+    "new_value": "没有对象在%2$s槽位接受了物品%1$s",
+    "en_us": "No targets accepted item %s into slot %s"
+  },
+  {
+    "old_key": "commands.item.target.no_changes",
+    "old_value": "没有在%s槽位接受了物品的目标",
+    "new_key": "commands.item.target.no_changes",
+    "new_value": "没有对象在%s槽位接受了物品",
+    "en_us": "No targets accepted item into slot %s"
+  },
+  {
+    "old_key": "commands.item.target.no_such_slot",
+    "old_value": "目标没有%s槽位",
+    "new_key": "commands.item.target.no_such_slot",
+    "new_value": "对象没有%s槽位",
+    "en_us": "The target does not have slot %s"
+  },
+  {
+    "old_key": "commands.op.failed",
+    "old_value": "无变化，该玩家已是管理员",
+    "new_key": "commands.op.failed",
+    "new_value": "无变化，此玩家已是管理员",
+    "en_us": "Nothing changed. The player already is an operator"
+  },
+  {
+    "old_key": "commands.perf.alreadyRunning",
+    "old_value": "性能分析器原已开启",
+    "new_key": "commands.perf.alreadyRunning",
+    "new_value": "性能分析器已在运行",
+    "en_us": "The performance profiler is already started"
+  },
+  {
+    "old_key": "commands.perf.started",
+    "old_value": "已开始时长为10秒的性能分析测试（使用'/perf stop'以提前结束）",
+    "new_key": "commands.perf.started",
+    "new_value": "已开始时长为10秒的性能分析测试（使用“/perf stop”以提前结束）",
+    "en_us": "Started 10 second performance profiling run (use '/perf stop' to stop early)"
+  },
+  {
+    "old_key": "commands.save.failed",
+    "old_value": "无法保存游戏（硬盘空间是否足够？）",
+    "new_key": "commands.save.failed",
+    "new_value": "无法保存游戏（磁盘空间是否足够？）",
+    "en_us": "Unable to save the game (is there enough disk space?)"
+  },
+  {
+    "old_key": "commands.scoreboard.players.remove.success.multiple",
+    "old_value": "将%3$s个实体的%2$s分数减少%1$s",
+    "new_key": "commands.scoreboard.players.remove.success.multiple",
+    "new_value": "已将%3$s个实体的%2$s分数减少%1$s",
+    "en_us": "Removed %s from %s for %s entities"
+  },
+  {
+    "old_key": "commands.scoreboard.players.remove.success.single",
+    "old_value": "将%3$s的%2$s减少了%1$s（现在是%4$s）",
+    "new_key": "commands.scoreboard.players.remove.success.single",
+    "new_value": "已将%3$s的%2$s减少%1$s（现在是%4$s）",
+    "en_us": "Removed %s from %s for %s (now %s)"
+  },
+  {
+    "old_key": "commands.seed.success",
+    "old_value": "种子: %s",
+    "new_key": "commands.seed.success",
+    "new_value": "种子：%s",
+    "en_us": "Seed: %s"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.multiple",
+    "old_value": "已将%6$s名玩家在%5$s的出生点设为%1$s, %2$s, %3$s [%4$s]",
+    "new_key": "commands.spawnpoint.success.multiple",
+    "new_value": "已将%6$s名玩家的出生点设为%5$s中的%1$s, %2$s, %3$s [%4$s]",
+    "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s players"
+  },
+  {
+    "old_key": "commands.spawnpoint.success.single",
+    "old_value": "已将%6$s在%5$s的出生点设为%1$s, %2$s, %3$s [%4$s]",
+    "new_key": "commands.spawnpoint.success.single",
+    "new_value": "已将%6$s的出生点设为%5$s中的%1$s, %2$s, %3$s [%4$s]",
+    "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
+  },
+  {
+    "old_key": "commands.stopsound.success.source.any",
+    "old_value": "已停止播放所有'%s'的音效",
+    "new_key": "commands.stopsound.success.source.any",
+    "new_value": "已停止播放所有“%s”的声音",
+    "en_us": "Stopped all '%s' sounds"
+  },
+  {
+    "old_key": "commands.stopsound.success.source.sound",
+    "old_value": "已停止资源为'%2$s'的声音'%1$s'",
+    "new_key": "commands.stopsound.success.source.sound",
+    "new_value": "已停止播放来源为“%2$s”的音效“%1$s”",
+    "en_us": "Stopped sound '%s' on source '%s'"
+  },
+  {
+    "old_key": "commands.stopsound.success.sourceless.any",
+    "old_value": "已停止所有声音",
+    "new_key": "commands.stopsound.success.sourceless.any",
+    "new_value": "已停止播放所有声音",
+    "en_us": "Stopped all sounds"
+  },
+  {
+    "old_key": "commands.stopsound.success.sourceless.sound",
+    "old_value": "已停止声音'%s'",
+    "new_key": "commands.stopsound.success.sourceless.sound",
+    "new_value": "已停止播放声音“%s”",
+    "en_us": "Stopped sound '%s'"
+  },
+  {
+    "old_key": "commands.tag.add.success.multiple",
+    "old_value": "已为%2$s个实体添加了标签'%1$s'",
+    "new_key": "commands.tag.add.success.multiple",
+    "new_value": "已为%2$s个实体添加了标签“%1$s”",
+    "en_us": "Added tag '%s' to %s entities"
+  },
+  {
+    "old_key": "commands.tag.add.success.single",
+    "old_value": "已为%2$s添加了标签'%1$s'",
+    "new_key": "commands.tag.add.success.single",
+    "new_value": "已为%2$s添加了标签“%1$s”",
+    "en_us": "Added tag '%s' to %s"
+  },
+  {
+    "old_key": "commands.tag.remove.success.multiple",
+    "old_value": "已移除%2$s个实体的标签'%1$s'",
+    "new_key": "commands.tag.remove.success.multiple",
+    "new_value": "已移除%2$s个实体的标签“%1$s”",
+    "en_us": "Removed tag '%s' from %s entities"
+  },
+  {
+    "old_key": "commands.tag.remove.success.single",
+    "old_value": "已移除%2$s的标签'%1$s'",
+    "new_key": "commands.tag.remove.success.single",
+    "new_value": "已移除%2$s的标签“%1$s”",
+    "en_us": "Removed tag '%s' from %s"
+  },
+  {
+    "old_key": "commands.team.option.name.unchanged",
+    "old_value": "无变化。此队伍本就为该名称。",
+    "new_key": "commands.team.option.name.unchanged",
+    "new_value": "无变化，此队伍本就为该名称",
+    "en_us": "Nothing changed. That team already has that name"
+  },
+  {
+    "old_key": "commands.teleport.success.location.single",
+    "old_value": "已将%s传送到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.single",
+    "new_value": "已将%s传送至%s, %s, %s",
+    "en_us": "Teleported %s to %s, %s, %s"
+  },
+  {
+    "old_key": "commands.time.query",
+    "old_value": "目前时间为%s",
+    "new_key": "commands.time.query",
+    "new_value": "当前时间为%s",
+    "en_us": "The time is %s"
+  },
+  {
+    "old_key": "commands.time.set",
+    "old_value": "将时间设为%s",
+    "new_key": "commands.time.set",
+    "new_value": "已将时间设为%s",
+    "en_us": "Set the time to %s"
+  },
+  {
+    "old_key": "commands.title.show.actionbar.multiple",
+    "old_value": "正在向%s名玩家显示新的快捷栏标题",
+    "new_key": "commands.title.show.actionbar.multiple",
+    "new_value": "正在向%s名玩家显示新的动作栏标题",
+    "en_us": "Showing new actionbar title for %s players"
+  },
+  {
+    "old_key": "commands.title.show.actionbar.single",
+    "old_value": "正在向%s显示新的快捷栏标题",
+    "new_key": "commands.title.show.actionbar.single",
+    "new_value": "正在向%s显示新的动作栏标题",
+    "en_us": "Showing new actionbar title for %s"
+  },
+  {
+    "old_key": "commands.trigger.failed.invalid",
+    "old_value": "你只能触发'trigger'类型的记分项",
+    "new_key": "commands.trigger.failed.invalid",
+    "new_value": "你只能触发“trigger”类型的记分项",
+    "en_us": "You can only trigger objectives that are 'trigger' type"
+  },
+  {
+    "old_key": "createWorld.customize.flat.tile",
+    "old_value": "此层的材料",
+    "new_key": "createWorld.customize.flat.tile",
+    "new_value": "各层的材料",
+    "en_us": "Layer Material"
+  },
+  {
+    "old_key": "dataPack.validation.working",
+    "old_value": "正在验证已选的数据包…",
+    "new_key": "dataPack.validation.working",
+    "new_value": "正在验证选中的数据包…",
+    "en_us": "Validating selected data packs..."
+  },
+  {
+    "old_key": "death.attack.anvil",
+    "old_value": "%1$s被坠落的铁砧压扁了",
+    "new_key": "death.attack.anvil",
+    "new_value": "%1$s被下落的铁砧压扁了",
+    "en_us": "%1$s was squashed by a falling anvil"
+  },
+  {
+    "old_key": "death.attack.fallingStalactite",
+    "old_value": "%1$s被坠落的钟乳石刺穿了",
+    "new_key": "death.attack.fallingStalactite",
+    "new_value": "%1$s被下落的钟乳石刺穿了",
+    "en_us": "%1$s was skewered by a falling stalactite"
+  },
+  {
+    "old_key": "debug.crash.message",
+    "old_value": "F3 + C已被按下。除非释放按键否则这将让游戏崩溃。",
+    "new_key": "debug.crash.message",
+    "new_value": "F3 + C已被按下。若不放开按键则会使游戏崩溃。",
+    "en_us": "F3 + C is held down. This will crash the game unless released."
+  },
+  {
+    "old_key": "debug.crash.warning",
+    "old_value": "在%s秒后崩溃…",
+    "new_key": "debug.crash.warning",
+    "new_value": "将在%s秒后崩溃…",
+    "en_us": "Crashing in %s..."
+  },
+  {
+    "old_key": "demo.help.movement",
+    "old_value": "按%1$s，%2$s，%3$s，%4$s以及鼠标来移动",
+    "new_key": "demo.help.movement",
+    "new_value": "使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动",
+    "en_us": "Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "使用鼠标来查看四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "使用鼠标来环顾四周",
+    "en_us": "Look around using the mouse"
+  },
+  {
+    "old_key": "demo.help.movementShort",
+    "old_value": "通过按下%1$s，%2$s，%3$s，%4$s来移动",
+    "new_key": "demo.help.movementShort",
+    "new_value": "通过按下%1$s、%2$s、%3$s、%4$s来移动",
+    "en_us": "Move by pressing the %1$s, %2$s, %3$s, %4$s keys"
+  },
+  {
+    "old_key": "effect.minecraft.fire_resistance",
+    "old_value": "防火",
+    "new_key": "effect.minecraft.fire_resistance",
+    "new_value": "抗火",
+    "en_us": "Fire Resistance"
+  },
+  {
+    "old_key": "effect.minecraft.speed",
+    "old_value": "速度",
+    "new_key": "effect.minecraft.speed",
+    "new_value": "迅捷",
+    "en_us": "Speed"
+  },
+  {
+    "old_key": "enchantment.minecraft.feather_falling",
+    "old_value": "摔落保护",
+    "new_key": "enchantment.minecraft.feather_falling",
+    "new_value": "摔落缓冲",
+    "en_us": "Feather Falling"
+  },
+  {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落。",
+    "en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc."
+  },
+  {
+    "old_key": "gamerule.forgiveDeadPlayers.description",
+    "old_value": "愤怒的中立型生物将在其目标玩家于附近死亡后息怒。",
+    "new_key": "gamerule.forgiveDeadPlayers.description",
+    "new_value": "愤怒的中立生物将在其目标玩家于附近死亡后息怒。",
+    "en_us": "Angered neutral mobs stop being angry when the targeted player dies nearby."
+  },
+  {
+    "old_key": "gamerule.playersSleepingPercentage",
+    "old_value": "入睡比例",
+    "new_key": "gamerule.playersSleepingPercentage",
+    "new_value": "入睡占比",
+    "en_us": "Sleep percentage"
+  },
+  {
+    "old_key": "gamerule.universalAnger.description",
+    "old_value": "愤怒的中立型生物将攻击附近的所有玩家，而不限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。",
+    "new_key": "gamerule.universalAnger.description",
+    "new_value": "愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。",
+    "en_us": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled."
+  },
+  {
+    "old_key": "gui.recipebook.moreRecipes",
+    "old_value": "右击以获取更多信息",
+    "new_key": "gui.recipebook.moreRecipes",
+    "new_value": "单击鼠标右键获取更多信息",
+    "en_us": "Right Click for More"
+  },
+  {
+    "old_key": "item.minecraft.bucket",
+    "old_value": "桶",
+    "new_key": "item.minecraft.bucket",
+    "new_value": "铁桶",
+    "en_us": "Bucket"
+  },
+  {
+    "old_key": "item.minecraft.debug_stick.update",
+    "old_value": "将\"%s\"设为%s",
+    "new_key": "item.minecraft.debug_stick.update",
+    "new_value": "“%s”设为%s",
+    "en_us": "\"%s\" to %s"
+  },
+  {
+    "old_key": "item.minecraft.firework_star.shape.burst",
+    "old_value": "爆裂状",
+    "new_key": "item.minecraft.firework_star.shape.burst",
+    "new_value": "喷发状",
+    "en_us": "Burst"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.awkward",
+    "old_value": "滞留型粗制药水",
+    "new_key": "item.minecraft.lingering_potion.effect.awkward",
+    "new_value": "滞留型粗制的药水",
+    "en_us": "Awkward Lingering Potion"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.awkward",
+    "old_value": "喷溅型粗制药水",
+    "new_key": "item.minecraft.splash_potion.effect.awkward",
+    "new_value": "喷溅型粗制的药水",
+    "en_us": "Awkward Splash Potion"
+  },
+  {
+    "old_key": "item.minecraft.suspicious_stew",
+    "old_value": "迷之炖菜",
+    "new_key": "item.minecraft.suspicious_stew",
+    "new_value": "谜之炖菜",
+    "en_us": "Suspicious Stew"
+  },
+  {
+    "old_key": "item.unbreakable",
+    "old_value": "无法损坏",
+    "new_key": "item.unbreakable",
+    "new_value": "无法破坏",
+    "en_us": "Unbreakable"
+  },
+  {
+    "old_key": "key.keyboard.backspace",
+    "old_value": "退格",
+    "new_key": "key.keyboard.backspace",
+    "new_value": "Backspace",
+    "en_us": "Backspace"
+  },
+  {
+    "old_key": "language.region",
+    "old_value": "中国",
+    "new_key": "language.region",
+    "new_value": "中国大陆",
+    "en_us": "United States"
+  },
+  {
+    "old_key": "lanServer.start",
+    "old_value": "创造一个局域网世界",
+    "new_key": "lanServer.start",
+    "new_value": "创建局域网世界",
+    "en_us": "Start LAN World"
+  },
+  {
+    "old_key": "multiplayer.disconnect.generic",
+    "old_value": "连接中止",
+    "new_key": "multiplayer.disconnect.generic",
+    "new_value": "连接中断",
+    "en_us": "Disconnected"
+  },
+  {
+    "old_key": "multiplayer.disconnect.not_whitelisted",
+    "old_value": "你未被此服务器列入白名单！",
+    "new_key": "multiplayer.disconnect.not_whitelisted",
+    "new_value": "你不在此服务器的白名单中！",
+    "en_us": "You are not white-listed on this server!"
+  },
+  {
+    "old_key": "multiplayer.downloadingStats",
+    "old_value": "统计信息获取中…",
+    "new_key": "multiplayer.downloadingStats",
+    "new_value": "正在获取统计信息…",
+    "en_us": "Retrieving statistics..."
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.line2",
+    "old_value": "拒绝使用该自定义资源包将会断开你与该服务器间的连接。",
+    "new_key": "multiplayer.requiredTexturePrompt.line2",
+    "new_value": "拒绝使用该自定义资源包将会断开你与该服务器的连接。",
+    "en_us": "Rejecting this custom resource pack will disconnect you from this server."
+  },
+  {
+    "old_key": "multiplayer.status.quitting",
+    "old_value": "退出",
+    "new_key": "multiplayer.status.quitting",
+    "new_value": "正在退出",
+    "en_us": "Quitting"
+  },
+  {
+    "old_key": "multiplayerWarning.message",
+    "old_value": "警告：在线游戏由非Mojang Studios或Microsoft拥有、运作和监督的第三方服务器提供。 在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他不一定适合所有人的用户生成内容。",
+    "new_key": "multiplayerWarning.message",
+    "new_value": "警告：在线游戏由第三方服务器提供，不由Mojang Studios或Microsoft拥有、运营和监督。 在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他用户生成内容，而这些内容可能不适合所有人。",
+    "en_us": "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone."
+  },
+  {
+    "old_key": "narration.button.usage.focused",
+    "old_value": "按下Enter键以激活",
+    "new_key": "narration.button.usage.focused",
+    "new_value": "按下Enter键激活",
+    "en_us": "Press Enter to activate"
+  },
+  {
+    "old_key": "narration.checkbox.usage.focused",
+    "old_value": "按下回车键以切换",
+    "new_key": "narration.checkbox.usage.focused",
+    "new_value": "按下Enter键切换",
+    "en_us": "Press Enter to toggle"
+  },
+  {
+    "old_key": "narration.component_list.usage",
+    "old_value": "按下Tab键移动到下一屏幕控件",
+    "new_key": "narration.component_list.usage",
+    "new_value": "按下Tab键移动到下一个屏幕控件",
+    "en_us": "Press Tab to navigate to next element"
+  },
+  {
+    "old_key": "narration.cycle_button.usage.focused",
+    "old_value": "按下Enter键以切换到%s",
+    "new_key": "narration.cycle_button.usage.focused",
+    "new_value": "按下Enter键切换到%s",
+    "en_us": "Press Enter to switch to %s"
+  },
+  {
+    "old_key": "narration.selection.usage",
+    "old_value": "按下上键或下键以移动到另一项",
+    "new_key": "narration.selection.usage",
+    "new_value": "使用上下方向键移动到另一项",
+    "en_us": "Press up and down buttons to move to another entry"
+  },
+  {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "按下键盘左键或键盘右键以更改数值",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "使用左右方向键更改数值",
+    "en_us": "Press left or right keyboard buttons to change value"
+  },
+  {
+    "old_key": "narration.slider.usage.hovered",
+    "old_value": "拖动滑块以更改数值",
+    "new_key": "narration.slider.usage.hovered",
+    "new_value": "拖动滑块更改数值",
+    "en_us": "Drag slider to change value"
+  },
+  {
+    "old_key": "narrator.button.difficulty_lock",
+    "old_value": "难度锁",
+    "new_key": "narrator.button.difficulty_lock",
+    "new_value": "难度锁定",
+    "en_us": "Difficulty lock"
+  },
+  {
+    "old_key": "narrator.position.screen",
+    "old_value": "屏幕控件，第%s个，共%s个",
+    "new_key": "narrator.position.screen",
+    "new_value": "第%s个屏幕控件，共%s个",
+    "en_us": "Screen element %s out of %s"
+  },
+  {
+    "old_key": "narrator.select.world",
+    "old_value": "已选择%s，上次游玩：%s，%s，%s，版本：%s",
+    "new_key": "narrator.select.world",
+    "new_value": "已选择%s，上次进入游戏：%s，%s，%s，版本：%s",
+    "en_us": "Selected %s, last played: %s, %s, %s, version: %s"
+  },
+  {
+    "old_key": "optimizeWorld.info.converted",
+    "old_value": "更新的区块：%s",
+    "new_key": "optimizeWorld.info.converted",
+    "new_value": "已更新的区块数：%s",
+    "en_us": "Upgraded chunks: %s"
+  },
+  {
+    "old_key": "optimizeWorld.info.skipped",
+    "old_value": "忽略的区块：%s",
+    "new_key": "optimizeWorld.info.skipped",
+    "new_value": "已忽略的区块数：%s",
+    "en_us": "Skipped chunks: %s"
+  },
+  {
+    "old_key": "optimizeWorld.info.total",
+    "old_value": "总计区块：%s",
+    "new_key": "optimizeWorld.info.total",
+    "new_value": "总区块数：%s",
+    "en_us": "Total chunks: %s"
+  },
+  {
+    "old_key": "optimizeWorld.stage.upgrading",
+    "old_value": "更新所有区块中…",
+    "new_key": "optimizeWorld.stage.upgrading",
+    "new_value": "升级所有区块中…",
+    "en_us": "Upgrading all chunks..."
+  },
+  {
+    "old_key": "options.biomeBlendRadius.3",
+    "old_value": "3x3（快）",
+    "new_key": "options.biomeBlendRadius.3",
+    "new_value": "3×3（快）",
+    "en_us": "3x3 (Fast)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.5",
+    "old_value": "5x5（普通）",
+    "new_key": "options.biomeBlendRadius.5",
+    "new_value": "5×5（普通）",
+    "en_us": "5x5 (Normal)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.7",
+    "old_value": "7x7（高）",
+    "new_key": "options.biomeBlendRadius.7",
+    "new_value": "7×7（高）",
+    "en_us": "7x7 (High)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.9",
+    "old_value": "9x9（很高）",
+    "new_key": "options.biomeBlendRadius.9",
+    "new_value": "9×9（很高）",
+    "en_us": "9x9 (Very High)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.11",
+    "old_value": "11x11（极高）",
+    "new_key": "options.biomeBlendRadius.11",
+    "new_value": "11×11（极高）",
+    "en_us": "11x11 (Extreme)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.13",
+    "old_value": "13x13（显著）",
+    "new_key": "options.biomeBlendRadius.13",
+    "new_value": "13×13（显著）",
+    "en_us": "13x13 (Showoff)"
+  },
+  {
+    "old_key": "options.biomeBlendRadius.15",
+    "old_value": "15x15（最高）",
+    "new_key": "options.biomeBlendRadius.15",
+    "new_value": "15×15（最高）",
+    "en_us": "15x15 (Maximum)"
+  },
+  {
+    "old_key": "options.controls",
+    "old_value": "控制…",
+    "new_key": "options.controls",
+    "new_value": "按键控制…",
+    "en_us": "Controls..."
+  },
+  {
+    "old_key": "options.graphics.fast.tooltip",
+    "old_value": "流畅画质将减少可见的雨雪数量。\n树叶等方块的透明效果将被禁用。",
+    "new_key": "options.graphics.fast.tooltip",
+    "new_value": "流畅画质将减少雨雪的可见数量。\n树叶等方块的透明效果将被禁用。",
+    "en_us": "Fast graphics reduces the amount of visible rain and snow.\nTransparency effects are disabled for various blocks such as leaves."
+  },
+  {
+    "old_key": "options.mipmapLevels",
+    "old_value": "Mipmap 级别",
+    "new_key": "options.mipmapLevels",
+    "new_value": "Mipmap级别",
+    "en_us": "Mipmap Levels"
+  },
+  {
+    "old_key": "options.modelPart.jacket",
+    "old_value": "衣物",
+    "new_key": "options.modelPart.jacket",
+    "new_value": "外套",
+    "en_us": "Jacket"
+  },
+  {
+    "old_key": "options.off.composed",
+    "old_value": "%s：关闭",
+    "new_key": "options.off.composed",
+    "new_value": "%s：关",
+    "en_us": "%s: OFF"
+  },
+  {
+    "old_key": "options.on.composed",
+    "old_value": "%s：开启",
+    "new_key": "options.on.composed",
+    "new_value": "%s：开",
+    "en_us": "%s: ON"
+  },
+  {
+    "old_key": "parsing.bool.expected",
+    "old_value": "需要布尔型",
+    "new_key": "parsing.bool.expected",
+    "new_value": "应为布尔型",
+    "en_us": "Expected boolean"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
+  },
+  {
+    "old_key": "parsing.double.expected",
+    "old_value": "需要双精度浮点型",
+    "new_key": "parsing.double.expected",
+    "new_value": "应为双精度浮点型",
+    "en_us": "Expected double"
+  },
+  {
+    "old_key": "parsing.double.invalid",
+    "old_value": "无效的双精度浮点型数据'%s'",
+    "new_key": "parsing.double.invalid",
+    "new_value": "无效的双精度浮点型数据“%s”",
+    "en_us": "Invalid double '%s'"
+  },
+  {
+    "old_key": "parsing.expected",
+    "old_value": "需要'%s'",
+    "new_key": "parsing.expected",
+    "new_value": "缺少“%s”",
+    "en_us": "Expected '%s'"
+  },
+  {
+    "old_key": "parsing.float.expected",
+    "old_value": "需要浮点型",
+    "new_key": "parsing.float.expected",
+    "new_value": "应为浮点型",
+    "en_us": "Expected float"
+  },
+  {
+    "old_key": "parsing.float.invalid",
+    "old_value": "无效的浮点型数据'%s'",
+    "new_key": "parsing.float.invalid",
+    "new_value": "无效的浮点型数据“%s”",
+    "en_us": "Invalid float '%s'"
+  },
+  {
+    "old_key": "parsing.int.expected",
+    "old_value": "需要整型",
+    "new_key": "parsing.int.expected",
+    "new_value": "应为整型",
+    "en_us": "Expected integer"
+  },
+  {
+    "old_key": "parsing.int.invalid",
+    "old_value": "无效的整型数据'%s'",
+    "new_key": "parsing.int.invalid",
+    "new_value": "无效的整型数据“%s”",
+    "en_us": "Invalid integer '%s'"
+  },
+  {
+    "old_key": "parsing.long.expected",
+    "old_value": "需要长整型",
+    "new_key": "parsing.long.expected",
+    "new_value": "应为长整型",
+    "en_us": "Expected long"
+  },
+  {
+    "old_key": "parsing.long.invalid",
+    "old_value": "无效的长整型数据'%s'",
+    "new_key": "parsing.long.invalid",
+    "new_value": "无效的长整型数据“%s”",
+    "en_us": "Invalid long '%s'"
+  },
+  {
+    "old_key": "parsing.quote.escape",
+    "old_value": "双引号内的字符串包含无效的转义序列'\\%s'",
+    "new_key": "parsing.quote.escape",
+    "new_value": "引号内的字符串包含无效的转义序列“\\%s”",
+    "en_us": "Invalid escape sequence '\\%s' in quoted string"
+  },
+  {
+    "old_key": "parsing.quote.expected.end",
+    "old_value": "字符串的双引号不成对",
+    "new_key": "parsing.quote.expected.end",
+    "new_value": "字符串引号不成对",
+    "en_us": "Unclosed quoted string"
+  },
+  {
+    "old_key": "parsing.quote.expected.start",
+    "old_value": "字符串的开头需要双引号",
+    "new_key": "parsing.quote.expected.start",
+    "new_value": "字符串开端应有引号",
+    "en_us": "Expected quote to start a string"
+  },
+  {
+    "old_key": "predicate.unknown",
+    "old_value": "未知的战利品表条件：%s",
+    "new_key": "predicate.unknown",
+    "new_value": "未知的谓词：%s",
+    "en_us": "Unknown predicate: %s"
+  },
+  {
+    "old_key": "resourcePack.broken_assets",
+    "old_value": "检测到损坏的资源文件",
+    "new_key": "resourcePack.broken_assets",
+    "new_value": "检测到损坏的资产",
+    "en_us": "BROKEN ASSETS DETECTED"
+  },
+  {
+    "old_key": "resourcepack.downloading",
+    "old_value": "正在下载资源包中",
+    "new_key": "resourcepack.downloading",
+    "new_value": "正在下载资源包",
+    "en_us": "Downloading Resource Pack"
+  },
+  {
+    "old_key": "selectServer.deleteWarning",
+    "old_value": "“%s”将会永久失去！（真的很久！）",
+    "new_key": "selectServer.deleteWarning",
+    "new_value": "“%s”将会永久消失！（真的很久！）",
+    "en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.backupJoinConfirmButton",
+    "old_value": "创建备份并载入",
+    "new_key": "selectWorld.backupJoinConfirmButton",
+    "new_value": "创建备份并加载",
+    "en_us": "Create Backup and Load"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.experimental",
+    "old_value": "使用“实验性设置”的世界已不受支持",
+    "new_key": "selectWorld.backupQuestion.experimental",
+    "new_value": "使用“实验性设置”的世界不受支持",
+    "en_us": "Worlds using Experimental Settings are not supported"
+  },
+  {
+    "old_key": "selectWorld.futureworld.error.text",
+    "old_value": "当我们试图加载一份来自未来版本的世界时，发生了一些错误。这本就并非万无一失，很抱歉没能成功。",
+    "new_key": "selectWorld.futureworld.error.text",
+    "new_value": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
+    "en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work."
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line1",
+    "old_value": "与生存模式相同，但是方块",
+    "new_key": "selectWorld.gameMode.adventure.line1",
+    "new_value": "与生存模式相同，但无法",
+    "en_us": "Same as Survival Mode, but blocks can't"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "不能被添加或者移除",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "放置或者移除方块",
+    "en_us": "be added or removed"
+  },
+  {
+    "old_key": "selectWorld.mapFeatures",
+    "old_value": "生成建筑",
+    "new_key": "selectWorld.mapFeatures",
+    "new_value": "生成结构",
+    "en_us": "Generate Structures"
+  },
+  {
+    "old_key": "selectWorld.tooltip.snapshot1",
+    "old_value": "你在这个快照中加载它之前，",
+    "new_key": "selectWorld.tooltip.snapshot1",
+    "new_value": "在这个快照中加载它之前，",
+    "en_us": "Don't forget to back up this world"
+  },
+  {
+    "old_key": "sign.edit",
+    "old_value": "修改告示牌消息",
+    "new_key": "sign.edit",
+    "new_value": "编辑告示牌消息",
+    "en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "slot.unknown",
+    "old_value": "未知的槽位'%s'",
+    "new_key": "slot.unknown",
+    "new_value": "未知的槽位“%s”",
+    "en_us": "Unknown slot '%s'"
+  },
+  {
+    "old_key": "stat_type.minecraft.killed",
+    "old_value": "你杀死了%s只%s",
+    "new_key": "stat_type.minecraft.killed",
+    "new_value": "你杀死了%s个%s",
+    "en_us": "You killed %s %s"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_anvil",
+    "old_value": "与铁砧互动次数",
+    "new_key": "stat.minecraft.interact_with_anvil",
+    "new_value": "与铁砧交互次数",
+    "en_us": "Interactions with Anvil"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_beacon",
+    "old_value": "与信标互动次数",
+    "new_key": "stat.minecraft.interact_with_beacon",
+    "new_value": "与信标交互次数",
+    "en_us": "Interactions with Beacon"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_blast_furnace",
+    "old_value": "与高炉互动次数",
+    "new_key": "stat.minecraft.interact_with_blast_furnace",
+    "new_value": "与高炉交互次数",
+    "en_us": "Interactions with Blast Furnace"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_brewingstand",
+    "old_value": "与酿造台互动次数",
+    "new_key": "stat.minecraft.interact_with_brewingstand",
+    "new_value": "与酿造台交互次数",
+    "en_us": "Interactions with Brewing Stand"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_campfire",
+    "old_value": "与营火互动次数",
+    "new_key": "stat.minecraft.interact_with_campfire",
+    "new_value": "与营火交互次数",
+    "en_us": "Interactions with Campfire"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_cartography_table",
+    "old_value": "与制图台互动次数",
+    "new_key": "stat.minecraft.interact_with_cartography_table",
+    "new_value": "与制图台交互次数",
+    "en_us": "Interactions with Cartography Table"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_crafting_table",
+    "old_value": "与工作台互动次数",
+    "new_key": "stat.minecraft.interact_with_crafting_table",
+    "new_value": "与工作台交互次数",
+    "en_us": "Interactions with Crafting Table"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_furnace",
+    "old_value": "与熔炉互动次数",
+    "new_key": "stat.minecraft.interact_with_furnace",
+    "new_value": "与熔炉交互次数",
+    "en_us": "Interactions with Furnace"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_grindstone",
+    "old_value": "与砂轮互动次数",
+    "new_key": "stat.minecraft.interact_with_grindstone",
+    "new_value": "与砂轮交互次数",
+    "en_us": "Interactions with Grindstone"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_lectern",
+    "old_value": "与讲台互动次数",
+    "new_key": "stat.minecraft.interact_with_lectern",
+    "new_value": "与讲台交互次数",
+    "en_us": "Interactions with Lectern"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_loom",
+    "old_value": "与织布机互动次数",
+    "new_key": "stat.minecraft.interact_with_loom",
+    "new_value": "与织布机交互次数",
+    "en_us": "Interactions with Loom"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_smithing_table",
+    "old_value": "与锻造台互动次数",
+    "new_key": "stat.minecraft.interact_with_smithing_table",
+    "new_value": "与锻造台交互次数",
+    "en_us": "Interactions with Smithing Table"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_smoker",
+    "old_value": "与烟熏炉互动次数",
+    "new_key": "stat.minecraft.interact_with_smoker",
+    "new_value": "与烟熏炉交互次数",
+    "en_us": "Interactions with Smoker"
+  },
+  {
+    "old_key": "stat.minecraft.interact_with_stonecutter",
+    "old_value": "与切石机互动次数",
+    "new_key": "stat.minecraft.interact_with_stonecutter",
+    "new_value": "与切石机交互次数",
+    "en_us": "Interactions with Stonecutter"
+  },
+  {
+    "old_key": "structure_block.invalid_structure_name",
+    "old_value": "无效的结构名'%s'",
+    "new_key": "structure_block.invalid_structure_name",
+    "new_value": "无效的结构名“%s”",
+    "en_us": "Invalid structure name '%s'"
+  },
+  {
+    "old_key": "structure_block.load_not_found",
+    "old_value": "不存在名为'%s'的结构 ",
+    "new_key": "structure_block.load_not_found",
+    "new_value": "不存在名为“%s”的结构 ",
+    "en_us": "Structure '%s' is not available"
+  },
+  {
+    "old_key": "structure_block.load_prepare",
+    "old_value": "结构'%s'的加载位置已就绪",
+    "new_key": "structure_block.load_prepare",
+    "new_value": "结构“%s”的加载位置已就绪",
+    "en_us": "Structure '%s' position prepared"
+  },
+  {
+    "old_key": "structure_block.load_success",
+    "old_value": "成功从'%s'中加载结构",
+    "new_key": "structure_block.load_success",
+    "new_value": "成功从“%s”中加载结构",
+    "en_us": "Structure loaded from '%s'"
+  },
+  {
+    "old_key": "structure_block.mode.save",
+    "old_value": "储存模式",
+    "new_key": "structure_block.mode.save",
+    "new_value": "保存模式",
+    "en_us": "Save"
+  },
+  {
+    "old_key": "structure_block.save_failure",
+    "old_value": "无法保存结构'%s'",
+    "new_key": "structure_block.save_failure",
+    "new_value": "无法保存结构“%s”",
+    "en_us": "Unable to save structure '%s'"
+  },
+  {
+    "old_key": "structure_block.save_success",
+    "old_value": "成功将结构保存为'%s'",
+    "new_key": "structure_block.save_success",
+    "new_value": "成功将结构保存为“%s”",
+    "en_us": "Structure saved as '%s'"
+  },
+  {
+    "old_key": "structure_block.size_failure",
+    "old_value": "无法检测结构尺寸。请放置与结构名称对应的角落结构方块",
+    "new_key": "structure_block.size_failure",
+    "new_value": "无法检测结构大小。请放置与结构名称对应的角落结构方块",
+    "en_us": "Unable to detect structure size. Add corners with matching structure names"
+  },
+  {
+    "old_key": "structure_block.size_success",
+    "old_value": "'%s'的尺寸已成功检测",
+    "new_key": "structure_block.size_success",
+    "new_value": "“%s”的大小已成功检测",
+    "en_us": "Size successfully detected for '%s'"
+  },
+  {
+    "old_key": "subtitles.block.anvil.land",
+    "old_value": "铁砧：着地",
+    "new_key": "subtitles.block.anvil.land",
+    "new_value": "铁砧：着陆",
+    "en_us": "Anvil landed"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "发射器：发射物品",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "物品：被射出",
+    "en_us": "Dispensed item"
+  },
+  {
+    "old_key": "subtitles.entity.bee.sting",
+    "old_value": "蜜蜂：蛰",
+    "new_key": "subtitles.entity.bee.sting",
+    "new_value": "蜜蜂：刺蛰",
+    "en_us": "Bee stings"
+  },
+  {
+    "old_key": "subtitles.entity.firework_rocket.blast",
+    "old_value": "烟花：爆炸",
+    "new_key": "subtitles.entity.firework_rocket.blast",
+    "new_value": "烟花：爆裂",
+    "en_us": "Firework blasts"
+  },
+  {
+    "old_key": "subtitles.entity.firework_rocket.twinkle",
+    "old_value": "烟火：闪烁",
+    "new_key": "subtitles.entity.firework_rocket.twinkle",
+    "new_value": "烟花：闪烁",
+    "en_us": "Firework twinkles"
+  },
+  {
+    "old_key": "subtitles.entity.illusioner.mirror_move",
+    "old_value": "幻术师：替换",
+    "new_key": "subtitles.entity.illusioner.mirror_move",
+    "new_value": "幻术师：分影",
+    "en_us": "Illusioner displaces"
+  },
+  {
+    "old_key": "subtitles.entity.illusioner.prepare_mirror",
+    "old_value": "幻术师：准备镜像法术",
+    "new_key": "subtitles.entity.illusioner.prepare_mirror",
+    "new_value": "幻术师：准备分影法术",
+    "en_us": "Illusioner prepares mirror image"
+  },
+  {
+    "old_key": "subtitles.entity.item.break",
+    "old_value": "物品：被破坏",
+    "new_key": "subtitles.entity.item.break",
+    "new_value": "物品：损坏",
+    "en_us": "Item breaks"
+  },
+  {
+    "old_key": "subtitles.entity.mooshroom.suspicious_milk",
+    "old_value": "哞菇：被可疑地挤奶",
+    "new_key": "subtitles.entity.mooshroom.suspicious_milk",
+    "new_value": "哞菇：被挤出谜之炖菜",
+    "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.shulker.close",
+    "old_value": "潜影贝：关闭",
+    "new_key": "subtitles.entity.shulker.close",
+    "new_value": "潜影贝：闭合",
+    "en_us": "Shulker closes"
+  },
+  {
+    "old_key": "subtitles.entity.squid.ambient",
+    "old_value": "鱿鱼：游动",
+    "new_key": "subtitles.entity.squid.ambient",
+    "new_value": "鱿鱼：游泳",
+    "en_us": "Squid swims"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.swim",
+    "old_value": "海龟：游动",
+    "new_key": "subtitles.entity.turtle.swim",
+    "new_value": "海龟：游泳",
+    "en_us": "Turtle swims"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_gold",
+    "old_value": "黄金盔甲：叮当",
+    "new_key": "subtitles.item.armor.equip_gold",
+    "new_value": "金盔甲：叮当",
+    "en_us": "Gold armor clinks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_iron",
+    "old_value": "铁质盔甲：铿锵",
+    "new_key": "subtitles.item.armor.equip_iron",
+    "new_value": "铁盔甲：铿锵",
+    "en_us": "Iron armor clanks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_leather",
+    "old_value": "皮革护甲：摩擦",
+    "new_key": "subtitles.item.armor.equip_leather",
+    "new_value": "皮革盔甲：摩擦",
+    "en_us": "Leather armor rustles"
+  },
+  {
+    "old_key": "subtitles.item.bucket.empty",
+    "old_value": "桶：倒空",
+    "new_key": "subtitles.item.bucket.empty",
+    "new_value": "铁桶：倒空",
+    "en_us": "Bucket empties"
+  },
+  {
+    "old_key": "subtitles.item.bucket.fill",
+    "old_value": "桶：装满",
+    "new_key": "subtitles.item.bucket.fill",
+    "new_value": "铁桶：装满",
+    "en_us": "Bucket fills"
+  },
+  {
+    "old_key": "subtitles.item.flintandsteel.use",
+    "old_value": "打火石：生火",
+    "new_key": "subtitles.item.flintandsteel.use",
+    "new_value": "打火石：点火",
+    "en_us": "Flint and Steel click"
+  },
+  {
+    "old_key": "subtitles.item.shears.shear",
+    "old_value": "剪刀：剪断",
+    "new_key": "subtitles.item.shears.shear",
+    "new_value": "剪刀：咔嚓",
+    "en_us": "Shears click"
+  },
+  {
+    "old_key": "team.notFound",
+    "old_value": "未知的队伍'%s'",
+    "new_key": "team.notFound",
+    "new_value": "未知的队伍“%s”",
+    "en_us": "Unknown team '%s'"
+  },
+  {
+    "old_key": "tutorial.bundleInsert.description",
+    "old_value": "右击收纳物品",
+    "new_key": "tutorial.bundleInsert.description",
+    "new_value": "单击鼠标右键收纳物品",
+    "en_us": "Right Click to add items"
+  },
+  {
+    "old_key": "tutorial.look.title",
+    "old_value": "观察四周",
+    "new_key": "tutorial.look.title",
+    "new_value": "环顾四周",
+    "en_us": "Look around"
+  }
+]

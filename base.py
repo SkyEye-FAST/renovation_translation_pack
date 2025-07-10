@@ -23,14 +23,54 @@ OUTPUT_DIR: Final[Path] = CURRENT_PATH / "output"
 
 # Configuration for supported Minecraft versions, their translation formats, and language variants
 VERSION_CONFIG: Final[dict[str, dict[str, str | list[str]]]] = {
-    "1.7.10": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
-    "1.8.9": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
-    "1.9.4": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
-    "1.10.2": {"format": "lang", "source": "en_US", "variants": ["zh_CN", "zh_TW"]},
-    "1.11.2": {"format": "lang", "source": "en_us", "variants": ["zh_cn", "zh_tw"]},
-    "1.12.2": {"format": "lang", "source": "en_us", "variants": ["zh_cn", "zh_tw"]},
-    "1.13.2": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_tw"]},
-    "1.14.4": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_tw"]},
+    "1.7.10": {
+        "format": "lang",
+        "source": "en_US",
+        "variants": ["zh_CN", "zh_TW"],
+        "extra_variants": ["zh_HK", "lzh"],
+    },
+    "1.8.9": {
+        "format": "lang",
+        "source": "en_US",
+        "variants": ["zh_CN", "zh_TW"],
+        "extra_variants": ["zh_HK", "lzh"],
+    },
+    "1.9.4": {
+        "format": "lang",
+        "source": "en_US",
+        "variants": ["zh_CN", "zh_TW"],
+        "extra_variants": ["zh_HK", "lzh"],
+    },
+    "1.10.2": {
+        "format": "lang",
+        "source": "en_US",
+        "variants": ["zh_CN", "zh_TW"],
+        "extra_variants": ["zh_HK", "lzh"],
+    },
+    "1.11.2": {
+        "format": "lang",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_tw"],
+        "extra_variants": ["zh_hk", "lzh"],
+    },
+    "1.12.2": {
+        "format": "lang",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_tw"],
+        "extra_variants": ["zh_hk", "lzh"],
+    },
+    "1.13.2": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_tw"],
+        "extra_variants": ["zh_hk", "lzh"],
+    },
+    "1.14.4": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_tw"],
+        "extra_variants": ["zh_hk", "lzh"],
+    },
     "1.15.2": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
     "1.16.5": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
     "1.17.1": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},

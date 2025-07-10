@@ -1,0 +1,858 @@
+[
+  {
+    "old_key": "advancements.adventure.walk_on_powder_snow_with_leather_boots.description",
+    "old_value": "喺幼雪上面行⋯⋯但係唔好陷入去",
+    "old_en_us": "Walk on Powder Snow...without sinking in it",
+    "new_key": "advancements.adventure.walk_on_powder_snow_with_leather_boots.description",
+    "new_value": "在幼雪上面步行⋯⋯但不要陷進去",
+    "new_en_us": "Walk on Powder Snow... without sinking in it"
+  },
+  {
+    "old_key": "advancements.husbandry.make_a_sign_glow.description",
+    "old_value": "令指示牌上面嘅文字發光",
+    "old_en_us": "Make the text of a Sign glow",
+    "new_key": "advancements.husbandry.make_a_sign_glow.description",
+    "new_value": "令任意種類的指示牌上面的文字發光",
+    "new_en_us": "Make the text of any kind of sign glow"
+  },
+  {
+    "old_key": "advancements.husbandry.safely_harvest_honey.description",
+    "old_value": "使用營火喺唔激嬲蜜蜂嘅情況下用玻璃樽喺蜂箱入面攞到蜂蜜",
+    "old_en_us": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the Bees",
+    "new_key": "advancements.husbandry.safely_harvest_honey.description",
+    "new_value": "使用營火在不激怒蜜蜂的情況下用玻璃樽從蜂巢中取得蜜糖",
+    "new_en_us": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees"
+  },
+  {
+    "old_key": "advancements.husbandry.silk_touch_nest.description",
+    "old_value": "使用絲綢之觸嚟搬運裝住 3 隻蜜蜂嘅蜂巢",
+    "old_en_us": "Move a Bee Nest, with 3 Bees inside, using Silk Touch",
+    "new_key": "advancements.husbandry.silk_touch_nest.description",
+    "new_value": "用絲綢之觸搬運裝有 3 隻蜜蜂的蜂巢或蜂箱",
+    "new_en_us": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch"
+  },
+  {
+    "old_key": "argument.entity.options.gamemode.description",
+    "old_value": "玩家嘅遊戲模式",
+    "old_en_us": "Players with gamemode",
+    "new_key": "argument.entity.options.gamemode.description",
+    "new_value": "玩家的遊戲模式",
+    "new_en_us": "Players with game mode"
+  },
+  {
+    "old_key": "argument.time.invalid_tick_count",
+    "old_value": "刻數不可為負數",
+    "old_en_us": "Tick count must be non-negative",
+    "new_key": "argument.time.invalid_tick_count",
+    "new_value": "刻數必須為非負數",
+    "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "block.minecraft.spawner",
+    "old_value": "生成籠",
+    "old_en_us": "Spawner",
+    "new_key": "block.minecraft.spawner",
+    "new_value": "生怪籠",
+    "new_en_us": "Monster Spawner"
+  },
+  {
+    "old_key": "chat.disabled.launcher",
+    "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
+    "old_en_us": "Chat disabled by launcher option. Cannot send message",
+    "new_key": "chat.disabled.launcher",
+    "new_value": "啟動器選項已停用聊天功能。無法傳送訊息。",
+    "new_en_us": "Chat disabled by launcher option. Cannot send message."
+  },
+  {
+    "old_key": "chat.disabled.options",
+    "old_value": "用户端設定已停用聊天功能",
+    "old_en_us": "Chat disabled in client options",
+    "new_key": "chat.disabled.options",
+    "new_value": "用户端設定已停用聊天功能。",
+    "new_en_us": "Chat disabled in client options."
+  },
+  {
+    "old_key": "chat.disabled.profile",
+    "old_value": "聊天功能受到帳户設定限制。再次按下「%s」以獲得更多資訊",
+    "old_en_us": "Chat not allowed by account settings. Press '%s' again for more information",
+    "new_key": "chat.disabled.profile",
+    "new_value": "聊天功能受到帳户設定限制。再次按下「%s」以獲得更多資訊。",
+    "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
+  },
+  {
+    "old_key": "chat.tag.modified",
+    "old_value": "此訊息已被伺服器修改。",
+    "old_en_us": "This message has been modified by the server.",
+    "new_key": "chat.tag.modified",
+    "new_value": "訊息被伺服器變更。原文：",
+    "new_en_us": "Message modified by the server. Original:"
+  },
+  {
+    "old_key": "chat.tag.not_secure",
+    "old_value": "此訊息唔安全，即可能被伺服器修改過",
+    "old_en_us": "This message is not secure, which means that it might have been modified by the server",
+    "new_key": "chat.tag.not_secure",
+    "new_value": "未驗證訊息。無法舉報。",
+    "new_en_us": "Unverified message. Cannot be reported."
+  },
+  {
+    "old_key": "commands.banip.info",
+    "old_value": "本次封鎖作用於 %s 個玩家 ：%s",
+    "old_en_us": "This ban affects %s players: %s",
+    "new_key": "commands.banip.info",
+    "new_value": "本次封鎖作用於 %s 個玩家：%s",
+    "new_en_us": "This ban affects %s player(s): %s"
+  },
+  {
+    "old_key": "commands.bossbar.get.players.some",
+    "old_value": "自訂 Boss 狀態條 %s 目前有 %s 位玩家喺線上：%s",
+    "old_en_us": "Custom bossbar %s has %s players currently online: %s",
+    "new_key": "commands.bossbar.get.players.some",
+    "new_value": "自訂 Boss 狀態條 %s 目前有 %s 位玩家在線上：%s",
+    "new_en_us": "Custom bossbar %s has %s player(s) currently online: %s"
+  },
+  {
+    "old_key": "commands.bossbar.list.bars.some",
+    "old_value": "已啟用嘅 %s 個自訂 Boss 狀態條為：%s",
+    "old_en_us": "There are %s custom bossbars active: %s",
+    "new_key": "commands.bossbar.list.bars.some",
+    "new_value": "已啟用的 %s 個自訂 Boss 狀態條為：%s",
+    "new_en_us": "There are %s custom bossbar(s) active: %s"
+  },
+  {
+    "old_key": "commands.clear.success.multiple",
+    "old_value": "已刪除 %2$s 個玩家嘅 %1$s 個物品",
+    "old_en_us": "Removed %s items from %s players",
+    "new_key": "commands.clear.success.multiple",
+    "new_value": "已刪除 %2$s 個玩家的 %1$s 個物品",
+    "new_en_us": "Removed %s item(s) from %s players"
+  },
+  {
+    "old_key": "commands.clear.success.single",
+    "old_value": "已刪除玩家 %2$s 嘅 %1$s 個物品",
+    "old_en_us": "Removed %s items from player %s",
+    "new_key": "commands.clear.success.single",
+    "new_value": "已刪除玩家 %2$s 的 %1$s 個物品",
+    "new_en_us": "Removed %s item(s) from player %s"
+  },
+  {
+    "old_key": "commands.datapack.list.available.success",
+    "old_value": "有 %s 個可用嘅數據包：%s",
+    "old_en_us": "There are %s data packs available: %s",
+    "new_key": "commands.datapack.list.available.success",
+    "new_value": "有 %s 個可用的數據包：%s",
+    "new_en_us": "There are %s data pack(s) available: %s"
+  },
+  {
+    "old_key": "commands.datapack.list.enabled.success",
+    "old_value": "有 %s 個啟用嘅數據包：%s",
+    "old_en_us": "There are %s data packs enabled: %s",
+    "new_key": "commands.datapack.list.enabled.success",
+    "new_value": "有 %s 個啟用的數據包：%s",
+    "new_en_us": "There are %s data pack(s) enabled: %s"
+  },
+  {
+    "old_key": "commands.debug.stopped",
+    "old_value": "已停止持續 %s 秒（%s 刻）嘅刻點分析器（每秒 %s 刻）",
+    "old_en_us": "Stopped tick profiling after %s seconds and %s ticks (%s ticks per second)",
+    "new_key": "commands.debug.stopped",
+    "new_value": "已停止持續 %s 秒（%s 刻）的刻點分析器（每秒 %s 刻）",
+    "new_en_us": "Stopped tick profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
+  },
+  {
+    "old_key": "commands.fill.success",
+    "old_value": "成功填充 %s 個方塊",
+    "old_en_us": "Successfully filled %s blocks",
+    "new_key": "commands.fill.success",
+    "new_value": "已成功填充 %s 個方塊",
+    "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.perf.stopped",
+    "old_value": "已停止效能分析，共耗時 %s 秒或 %s 刻（每秒 %s 刻）",
+    "old_en_us": "Stopped performance profiling after %s seconds and %s ticks (%s ticks per second)",
+    "new_key": "commands.perf.stopped",
+    "new_value": "已停止效能分析，共耗時 %s 秒與 %s 刻（每秒 %s 刻）",
+    "new_en_us": "Stopped performance profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
+  },
+  {
+    "old_key": "commands.recipe.take.success.multiple",
+    "old_value": "已移除 %2$s 個玩家嘅 %1$s 條合成配方",
+    "old_en_us": "Took %s recipes from %s players",
+    "new_key": "commands.recipe.take.success.multiple",
+    "new_value": "已移除 %2$s 個玩家的 %1$s 條合成配方",
+    "new_en_us": "Took %s recipe(s) from %s players"
+  },
+  {
+    "old_key": "commands.recipe.take.success.single",
+    "old_value": "已移除 %2$s 嘅 %1$s 條配方",
+    "old_en_us": "Took %s recipes from %s",
+    "new_key": "commands.recipe.take.success.single",
+    "new_value": "已移除 %2$s 的 %1$s 條配方",
+    "new_en_us": "Took %s recipe(s) from %s"
+  },
+  {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "已移除 %s 個 ID 喺 %s 嘅計劃",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除 ID 為 %2$s 的 %1$s 個計劃",
+    "new_en_us": "Removed %s schedule(s) with id %s"
+  },
+  {
+    "old_key": "commands.schedule.created.function",
+    "old_value": "已將函數 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
+    "old_en_us": "Scheduled function '%s' in %s ticks at gametime %s",
+    "new_key": "commands.schedule.created.function",
+    "new_value": "已將函數 '%s' 計劃於 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_en_us": "Scheduled function '%s' in %s tick(s) at gametime %s"
+  },
+  {
+    "old_key": "commands.schedule.created.tag",
+    "old_value": "已將標籤 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
+    "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
+    "new_key": "commands.schedule.created.tag",
+    "new_value": "已將標籤 '%s' 計劃在 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
+  },
+  {
+    "old_key": "commands.spreadplayers.failed.entities",
+    "old_value": "未能將 %s 個實體分散至（%s, %s）周圍（空間中實體過多 – 請嘗試將分散範圍調整為至多 %s 格）",
+    "old_en_us": "Could not spread %s entities around %s, %s (too many entities for space - try using spread of at most %s)",
+    "new_key": "commands.spreadplayers.failed.entities",
+    "new_value": "未能將 %s 個實體分散至 %s, %s 周圍（空間中實體過多 – 請嘗試將分散範圍調整為至多 %s 格）",
+    "new_en_us": "Could not spread %s entity/entities around %s, %s (too many entities for space - try using spread of at most %s)"
+  },
+  {
+    "old_key": "commands.spreadplayers.failed.teams",
+    "old_value": "未能將 %s 個隊伍分散至（%s, %s）周圍（空間中實體過多 – 請嘗試將分散範圍調整為至多 %s 格）",
+    "old_en_us": "Could not spread %s teams around %s, %s (too many entities for space - try using spread of at most %s)",
+    "new_key": "commands.spreadplayers.failed.teams",
+    "new_value": "未能將 %s 個隊伍分散至 %s, %s 周圍（空間中實體過多 – 請嘗試將分散範圍調整為至多 %s 格）",
+    "new_en_us": "Could not spread %s team(s) around %s, %s (too many entities for space - try using spread of at most %s)"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.entities",
+    "old_value": "已將 %s 個玩家分散喺（%s, %s）附近，每個隊伍之間嘅平均距離為 %s 格",
+    "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.entities",
+    "new_value": "已將 %s 個實體分散在 %s, %s 附近，每個隊伍之間的平均距離為 %s 格",
+    "new_en_us": "Spread %s entity/entities around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.teams",
+    "old_value": "已將 %s 個隊伍分散喺 %s, %s 附近，每個隊伍之間嘅平均距離為 %s 格",
+    "old_en_us": "Spread %s teams around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.teams",
+    "new_value": "已將 %s 個隊伍分散在 %s, %s 附近，每個隊伍之間的平均距離為 %s 格",
+    "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.whitelist.list",
+    "old_value": "白名單入面一共有 %s 名玩家：%s",
+    "old_en_us": "There are %s whitelisted players: %s",
+    "new_key": "commands.whitelist.list",
+    "new_value": "白名單內一共有 %s 名玩家：%s",
+    "new_en_us": "There are %s whitelisted player(s): %s"
+  },
+  {
+    "old_key": "commands.worldborder.set.shrink",
+    "old_value": "正在將世界界限嘅寬度縮窄到 %s 個方塊，時間 %s 秒",
+    "old_en_us": "Shrinking the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.shrink",
+    "new_value": "正在將世界界限的寬度縮窄到 %s 個方塊，時間 %s 秒",
+    "new_en_us": "Shrinking the world border to %s block(s) wide over %s second(s)"
+  },
+  {
+    "old_key": "createWorld.customize.buffet.title",
+    "old_value": "自訂自助式世界",
+    "old_en_us": "Buffet world customization",
+    "new_key": "createWorld.customize.buffet.title",
+    "new_value": "自訂單一生物羣落",
+    "new_en_us": "Single Biome Customization"
+  },
+  {
+    "old_key": "createWorld.customize.presets.list",
+    "old_value": "另外，你都可以選擇我哋預先製作嘅設定！",
+    "old_en_us": "Alternatively, here's some we made earlier!",
+    "new_key": "createWorld.customize.presets.list",
+    "new_value": "另外，你亦可以選擇我們預先製作的設定！",
+    "new_en_us": "Alternatively, here are some we made earlier!"
+  },
+  {
+    "old_key": "datapackFailure.title",
+    "old_value": "因為你選擇嘅數據包有問題，所以無法載入世界。\n你可以嘗試只用原版嘅數據包（「安全模式」），或者返去主畫面自己修復。",
+    "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
+    "new_key": "datapackFailure.title",
+    "new_value": "你選擇的數據包有問題，導致無法載入世界。\n你可以嘗試只載入原版數據包（「安全模式」），或者返回主畫面手動修復。",
+    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
+  },
+  {
+    "old_key": "death.attack.anvil.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時被跌咗落來嘅鐵砧壓成肉餅",
+    "old_en_us": "%1$s was squashed by a falling anvil whilst fighting %2$s",
+    "new_key": "death.attack.anvil.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被跌落的鐵砧壓成肉餅",
+    "new_en_us": "%1$s was squashed by a falling anvil while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.cactus.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時被仙人掌拮死咗",
+    "old_en_us": "%1$s walked into a cactus whilst trying to escape %2$s",
+    "new_key": "death.attack.cactus.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時被仙人掌刺死了",
+    "new_en_us": "%1$s walked into a cactus while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.dragonBreath",
+    "old_value": "%1$s 被龍之吐息燒燶咗",
+    "old_en_us": "%1$s was roasted in dragon breath",
+    "new_key": "death.attack.dragonBreath",
+    "new_value": "%1$s 被龍之吐息燒焦了",
+    "new_en_us": "%1$s was roasted in dragon's breath"
+  },
+  {
+    "old_key": "death.attack.dragonBreath.player",
+    "old_value": "%1$s 被 %2$s 嘅龍之吐息燒燶咗",
+    "old_en_us": "%1$s was roasted in dragon breath by %2$s",
+    "new_key": "death.attack.dragonBreath.player",
+    "new_value": "%1$s 被 %2$s 的龍之吐息燒焦了",
+    "new_en_us": "%1$s was roasted in dragon's breath by %2$s"
+  },
+  {
+    "old_key": "death.attack.drown.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時浸死咗",
+    "old_en_us": "%1$s drowned whilst trying to escape %2$s",
+    "new_key": "death.attack.drown.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時溺水身亡",
+    "new_en_us": "%1$s drowned while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.dryout.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時因為離水太耐而死",
+    "old_en_us": "%1$s died from dehydration whilst trying to escape %2$s",
+    "new_key": "death.attack.dryout.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時死於缺水",
+    "new_en_us": "%1$s died from dehydration while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.fall.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時唔小心跌死咗",
+    "old_en_us": "%1$s hit the ground too hard whilst trying to escape %2$s",
+    "new_key": "death.attack.fall.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時失足落地",
+    "new_en_us": "%1$s hit the ground too hard while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.fallingBlock.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時被跌咗落來嘅方塊壓成肉餅",
+    "old_en_us": "%1$s was squashed by a falling block whilst fighting %2$s",
+    "new_key": "death.attack.fallingBlock.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被跌落的方塊壓成肉餅",
+    "new_en_us": "%1$s was squashed by a falling block while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.fallingStalactite.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時被跌落嚟嘅鐘乳石刺死咗",
+    "old_en_us": "%1$s was skewered by a falling stalactite whilst fighting %2$s",
+    "new_key": "death.attack.fallingStalactite.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被跌落的鐘乳石刺死了",
+    "new_en_us": "%1$s was skewered by a falling stalactite while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.fireworks.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時結束咗燦爛嘅一生",
+    "old_en_us": "%1$s went off with a bang whilst fighting %2$s",
+    "new_key": "death.attack.fireworks.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時結束了燦爛的一生",
+    "new_en_us": "%1$s went off with a bang while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.flyIntoWall.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時撞死咗",
+    "old_en_us": "%1$s experienced kinetic energy whilst trying to escape %2$s",
+    "new_key": "death.attack.flyIntoWall.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時撞死了",
+    "new_en_us": "%1$s experienced kinetic energy while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.hotFloor.player",
+    "old_value": "%1$s 因為 %2$s 而行入咗危險地帶",
+    "old_en_us": "%1$s walked into danger zone due to %2$s",
+    "new_key": "death.attack.hotFloor.player",
+    "new_value": "%1$s 因 %2$s 而步入危險地帶",
+    "new_en_us": "%1$s walked into the danger zone due to %2$s"
+  },
+  {
+    "old_key": "death.attack.inFire.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時行咗入火堆",
+    "old_en_us": "%1$s walked into fire whilst fighting %2$s",
+    "new_key": "death.attack.inFire.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被燒成灰",
+    "new_en_us": "%1$s walked into fire while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.inWall.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時窒息而亡",
+    "old_en_us": "%1$s suffocated in a wall whilst fighting %2$s",
+    "new_key": "death.attack.inWall.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時窒息而亡",
+    "new_en_us": "%1$s suffocated in a wall while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.lightningBolt.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時死於天打雷劈",
+    "old_en_us": "%1$s was struck by lightning whilst fighting %2$s",
+    "new_key": "death.attack.lightningBolt.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被閃電擊中",
+    "new_en_us": "%1$s was struck by lightning while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.magic.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時被神祕力量殺死咗",
+    "old_en_us": "%1$s was killed by magic whilst trying to escape %2$s",
+    "new_key": "death.attack.magic.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時被神祕力量殺死了",
+    "new_en_us": "%1$s was killed by magic while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.message_too_long",
+    "old_value": "唔好意思！死亡訊息太長，無法完整顯示。依個係截短後嘅版本：%s",
+    "old_en_us": "Actually, message was too long to deliver fully. Sorry! Here's stripped version: %s",
+    "new_key": "death.attack.message_too_long",
+    "new_value": "抱歉！死亡訊息太長，無法完整顯示。此為截短後的版本：%s",
+    "new_en_us": "Actually, the message was too long to deliver fully. Sorry! Here's a stripped version: %s"
+  },
+  {
+    "old_key": "death.attack.onFire.item",
+    "old_value": "%1$s 同手持 %3$s 嘅 %2$s 戰鬥時燒燶咗",
+    "old_en_us": "%1$s was burnt to a crisp whilst fighting %2$s wielding %3$s",
+    "new_key": "death.attack.onFire.item",
+    "new_value": "%1$s 與手持 %3$s 的 %2$s 戰鬥時被燒糊了",
+    "new_en_us": "%1$s was burned to a crisp while fighting %2$s wielding %3$s"
+  },
+  {
+    "old_key": "death.attack.onFire.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時燒燶咗",
+    "old_en_us": "%1$s was burnt to a crisp whilst fighting %2$s",
+    "new_key": "death.attack.onFire.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被燒糊了",
+    "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.sonic_boom.item",
+    "old_value": "%1$s 試圖逃離手持 %3$s 嘅 %2$s 時被一道音波尖嘯抹殺咗",
+    "old_en_us": "%1$s was obliterated by a sonically-charged shriek whilst trying to escape %2$s wielding %3$s",
+    "new_key": "death.attack.sonic_boom.item",
+    "new_value": "%1$s 試圖逃離手持 %3$s 的 %2$s 時被一道音波尖嘯抹殺了",
+    "new_en_us": "%1$s was obliterated by a sonically-charged shriek while trying to escape %2$s wielding %3$s"
+  },
+  {
+    "old_key": "death.attack.sonic_boom.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時被一道音波尖嘯抹殺咗",
+    "old_en_us": "%1$s was obliterated by a sonically-charged shriek whilst trying to escape %2$s",
+    "new_key": "death.attack.sonic_boom.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時被一道音波尖嘯抹殺了",
+    "new_en_us": "%1$s was obliterated by a sonically-charged shriek while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.stalagmite.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時被石筍刺死咗",
+    "old_en_us": "%1$s was impaled on a stalagmite whilst fighting %2$s",
+    "new_key": "death.attack.stalagmite.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時被石筍刺死了",
+    "new_en_us": "%1$s was impaled on a stalagmite while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.starve.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時變做餓鬼",
+    "old_en_us": "%1$s starved to death whilst fighting %2$s",
+    "new_key": "death.attack.starve.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時成了餓鬼",
+    "new_en_us": "%1$s starved to death while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.sweetBerryBush.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時被甜莓灌木叢拮死咗",
+    "old_en_us": "%1$s was poked to death by a sweet berry bush whilst trying to escape %2$s",
+    "new_key": "death.attack.sweetBerryBush.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時被甜莓灌木叢刺死了",
+    "new_en_us": "%1$s was poked to death by a sweet berry bush while trying to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.wither.player",
+    "old_value": "%1$s 同 %2$s 戰鬥時凋零咗",
+    "old_en_us": "%1$s withered away whilst fighting %2$s",
+    "new_key": "death.attack.wither.player",
+    "new_value": "%1$s 與 %2$s 戰鬥時凋零了",
+    "new_en_us": "%1$s withered away while fighting %2$s"
+  },
+  {
+    "old_key": "debug.creative_spectator.error",
+    "old_value": "你未擁有切換遊戲模式嘅權限",
+    "old_en_us": "Unable to switch gamemode; no permission",
+    "new_key": "debug.creative_spectator.error",
+    "new_value": "你未擁有切換遊戲模式的權限",
+    "new_en_us": "Unable to switch game mode; no permission"
+  },
+  {
+    "old_key": "debug.creative_spectator.help",
+    "old_value": "F3 + N = 喺上一個模式同旁觀模式之間切換",
+    "old_en_us": "F3 + N = Cycle previous gamemode <-> spectator",
+    "new_key": "debug.creative_spectator.help",
+    "new_value": "F3 + N = 在上一個模式同旁觀模式之間切換",
+    "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
+  },
+  {
+    "old_key": "entity.minecraft.spawner_minecart",
+    "old_value": "生成籠礦車",
+    "old_en_us": "Minecart with Spawner",
+    "new_key": "entity.minecraft.spawner_minecart",
+    "new_value": "生怪籠礦車",
+    "new_en_us": "Minecart with Monster Spawner"
+  },
+  {
+    "old_key": "gameMode.hardcore",
+    "old_value": "極限模式！",
+    "old_en_us": "Hardcore Mode!",
+    "new_key": "gameMode.hardcore",
+    "new_value": "極限模式",
+    "new_en_us": "Hardcore Mode"
+  },
+  {
+    "old_key": "gamerule.doLimitedCrafting.description",
+    "old_value": "如果啟用，玩家將只能夠使用已經解鎖嘅配方嚟進行合成",
+    "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
+    "new_key": "gamerule.doLimitedCrafting.description",
+    "new_value": "若啟用，玩家將只能夠合成已解鎖的配方。",
+    "new_en_us": "If enabled, players will be able to craft only unlocked recipes."
+  },
+  {
+    "old_key": "gamerule.doMobLoot.description",
+    "old_value": "控制生物資源跌落，包含經驗球",
+    "old_en_us": "Controls resource drops from mobs, including experience orbs",
+    "new_key": "gamerule.doMobLoot.description",
+    "new_value": "控制生物資源跌落，包含經驗球。",
+    "new_en_us": "Controls resource drops from mobs, including experience orbs."
+  },
+  {
+    "old_key": "gamerule.doMobSpawning.description",
+    "old_value": "部分實體可能會有特殊規則",
+    "old_en_us": "Some entities might have separate rules",
+    "new_key": "gamerule.doMobSpawning.description",
+    "new_value": "部份實體可能會有特殊規則。",
+    "new_en_us": "Some entities might have separate rules."
+  },
+  {
+    "old_key": "gamerule.doTileDrops.description",
+    "old_value": "控制方塊資源跌落，包含經驗球",
+    "old_en_us": "Controls resource drops from blocks, including experience orbs",
+    "new_key": "gamerule.doTileDrops.description",
+    "new_value": "控制方塊資源跌落，包含經驗球。",
+    "new_en_us": "Controls resource drops from blocks, including experience orbs."
+  },
+  {
+    "old_key": "gamerule.maxCommandChainLength.description",
+    "old_value": "套用於連鎖型命令方塊及函數",
+    "old_en_us": "Applies to command block chains and functions",
+    "new_key": "gamerule.maxCommandChainLength.description",
+    "new_value": "套用於連鎖型命令方塊及函數。",
+    "new_en_us": "Applies to command block chains and functions."
+  },
+  {
+    "old_key": "gamerule.reducedDebugInfo.description",
+    "old_value": "限制除錯畫面內容",
+    "old_en_us": "Limits contents of debug screen",
+    "new_key": "gamerule.reducedDebugInfo.description",
+    "new_value": "限制除錯畫面內容。",
+    "new_en_us": "Limits contents of debug screen."
+  },
+  {
+    "old_key": "gui.abuseReport.reason.defamation_impersonation_false_information",
+    "old_value": "誹謗、冒充他人或發佈虛假資訊",
+    "old_en_us": "Defamation, impersonation, or false information",
+    "new_key": "gui.abuseReport.reason.defamation_impersonation_false_information",
+    "new_value": "誹謗",
+    "new_en_us": "Defamation"
+  },
+  {
+    "old_key": "gui.abuseReport.reason.defamation_impersonation_false_information.description",
+    "old_value": "有人以利用或誤導他人為目的，損害他人名譽、冒充他人或散佈虛假資訊。",
+    "old_en_us": "Someone is damaging someone else's reputation, pretending to be someone they're not, or sharing false information with the aim to exploit or mislead others.",
+    "new_key": "gui.abuseReport.reason.defamation_impersonation_false_information.description",
+    "new_value": "有人以利用或誤導他人為目的，損害你或他人名譽，例如散佈虛假資訊。",
+    "new_en_us": "Someone is damaging your or someone else's reputation, for example sharing false information with the aim to exploit or mislead others."
+  },
+  {
+    "old_key": "gui.abuseReport.reason.imminent_harm",
+    "old_value": "即將發生嘅危險 — 威脅傷害他人",
+    "old_en_us": "Imminent harm - Threat to harm others",
+    "new_key": "gui.abuseReport.reason.imminent_harm",
+    "new_value": "威脅傷害他人",
+    "new_en_us": "Threat of harm to others"
+  },
+  {
+    "old_key": "gui.abuseReport.reason.self_harm_or_suicide",
+    "old_value": "即將發生嘅危險 — 自殘或自殺",
+    "old_en_us": "Imminent harm - Self-harm or suicide",
+    "new_key": "gui.abuseReport.reason.self_harm_or_suicide",
+    "new_value": "自殘或自殺",
+    "new_en_us": "Self-harm or suicide"
+  },
+  {
+    "old_key": "gui.banned.description.permanent",
+    "old_value": "你嘅帳户已被永久封鎖，無法進行多人遊戲或加入 Realms。",
+    "old_en_us": "Your account is permanently banned, which means you can’t play online or join Realms.",
+    "new_key": "gui.banned.description.permanent",
+    "new_value": "你的帳户已被永久封鎖，無法進行多人遊戲或加入 Realms。",
+    "new_en_us": "Your account is permanently banned, which means you can't play online or join Realms."
+  },
+  {
+    "old_key": "gui.chatReport.comments",
+    "old_value": "留言編輯欄",
+    "old_en_us": "Comments edit box",
+    "new_key": "gui.chatReport.comments",
+    "new_value": "留言",
+    "new_en_us": "Comments"
+  },
+  {
+    "old_key": "gui.chatReport.report_sent_msg",
+    "old_value": "我哋已經成功收到你嘅舉報。多謝！\n\n我哋嘅團隊將會盡早審閱此舉報。",
+    "old_en_us": "We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.",
+    "new_key": "gui.chatReport.report_sent_msg",
+    "new_value": "我們已經成功收到你的舉報。多謝！\n\n我們的團隊將會盡早審閱此舉報。",
+    "new_en_us": "We've successfully received your report. Thank you!\n\nOur team will review it as soon as possible."
+  },
+  {
+    "old_key": "gui.chatReport.title",
+    "old_value": "舉報玩家",
+    "old_en_us": "Report Player",
+    "new_key": "gui.chatReport.title",
+    "new_value": "舉報玩家聊天",
+    "new_en_us": "Report Player Chat"
+  },
+  {
+    "old_key": "gui.chatSelection.fold",
+    "old_value": "已隱藏 %s 則無關訊息",
+    "old_en_us": "%s unrelated messages hidden",
+    "new_key": "gui.chatSelection.fold",
+    "new_value": "已隱藏 %s 條訊息",
+    "new_en_us": "%s message(s) hidden"
+  },
+  {
+    "old_key": "itemGroup.redstone",
+    "old_value": "紅石",
+    "old_en_us": "Redstone",
+    "new_key": "itemGroup.redstone",
+    "new_value": "紅石方塊",
+    "new_en_us": "Redstone Blocks"
+  },
+  {
+    "old_key": "itemGroup.tools",
+    "old_value": "工具",
+    "old_en_us": "Tools",
+    "new_key": "itemGroup.tools",
+    "new_value": "工具與實用物品",
+    "new_en_us": "Tools & Utilities"
+  },
+  {
+    "old_key": "key.swapOffhand",
+    "old_value": "交換雙手嘅物品",
+    "old_en_us": "Swap Item With Offhand",
+    "new_key": "key.swapOffhand",
+    "new_value": "雙手物品對換",
+    "new_en_us": "Swap Item With Off Hand"
+  },
+  {
+    "old_key": "options.accessibility.title",
+    "old_value": "協助工具設定⋯⋯",
+    "old_en_us": "Accessibility Settings...",
+    "new_key": "options.accessibility.title",
+    "new_value": "無障礙功能設定⋯⋯",
+    "new_en_us": "Accessibility Settings"
+  },
+  {
+    "old_key": "options.chat.title",
+    "old_value": "聊天設定⋯⋯",
+    "old_en_us": "Chat Settings...",
+    "new_key": "options.chat.title",
+    "new_value": "聊天設定",
+    "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.directionalAudio.off.tooltip",
+    "old_value": "經典立體聲效果",
+    "old_en_us": "Classic Stereo sound",
+    "new_key": "options.directionalAudio.off.tooltip",
+    "new_value": "經典立體聲效果。",
+    "new_en_us": "Classic Stereo sound."
+  },
+  {
+    "old_key": "options.graphics.warning.accept",
+    "old_value": "於不支援狀態下繼續",
+    "old_en_us": "Continue without Support",
+    "new_key": "options.graphics.warning.accept",
+    "new_value": "在不支援的狀態下繼續",
+    "new_en_us": "Continue Without Support"
+  },
+  {
+    "old_key": "options.graphics.warning.cancel",
+    "old_value": "帶我返上一頁",
+    "old_en_us": "Take me Back",
+    "new_key": "options.graphics.warning.cancel",
+    "new_value": "帶我回上一頁",
+    "new_en_us": "Take Me Back"
+  },
+  {
+    "old_key": "options.hideMatchedNames.tooltip",
+    "old_value": "第三方伺服器可能會傳送非標準格式嘅聊天訊息。\n啟用依個選項後，將會根據發言者嘅名稱嚟隱藏玩家。",
+    "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
+    "new_key": "options.hideMatchedNames.tooltip",
+    "new_value": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",
+    "new_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
+  },
+  {
+    "old_key": "options.realmsNotifications",
+    "old_value": "Realms 通知",
+    "old_en_us": "Realms Notifications",
+    "new_key": "options.realmsNotifications",
+    "new_value": "Realms 新聞及邀請",
+    "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "outOfMemory.message",
+    "old_value": "Minecraft 已耗盡記憶體。\n\n可能係因為遊戲有漏洞，或者分配於 JVM 嘅記憶體唔夠多。\n\n為防止世界損壞，已結束目前遊戲。我哋已嘗試清除記憶體，令你可以返到主畫面並繼續遊玩，但可能唔會有作用。\n\n如果你再次見到依條訊息，請重新啟動遊戲。",
+    "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
+    "new_key": "outOfMemory.message",
+    "new_value": "Minecraft 已耗盡記憶體。\n\n可能是因為遊戲有漏洞，或者分配於 JVM 的記憶體太少。\n\n為防止存檔損壞，已結束目前遊戲。我們已嘗試清除記憶體，令你可以回到主畫面並繼續遊玩，但可能不會有作用。\n\n若你再次見到此訊息，請重新啟動遊戲。",
+    "new_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again."
+  },
+  {
+    "old_key": "resourcePack.vanilla.description",
+    "old_value": "Minecraft 預設資源包",
+    "old_en_us": "The default resources for Minecraft",
+    "new_key": "resourcePack.vanilla.description",
+    "new_value": "Minecraft 預設的外觀與環境效果",
+    "new_en_us": "The default look and feel of Minecraft"
+  },
+  {
+    "old_key": "selectWorld.backupWarning.downgrade",
+    "old_value": "依個世界最後喺 %s 版本遊玩，而你依家玩緊嘅係 %s 版本。降低世界嘅遊戲版本可能會導致存檔損壞，我哋唔肯定個世界會唔會崩潰或 load 唔 load 得到。如果你依然想繼續，唔該先備份依個存檔！",
+    "old_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup!",
+    "new_key": "selectWorld.backupWarning.downgrade",
+    "new_value": "此世界最後於 %s 版本遊玩，而你目前遊玩 %s 版本。降低世界的遊戲版本可能會導致存檔損壞，我們無法確定世界是否會崩潰或是否可以載入。若你想繼續，請先備份存檔。",
+    "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
+  },
+  {
+    "old_key": "selectWorld.backupWarning.snapshot",
+    "old_value": "此世界最後遊玩版本為 %s，你當前版本為 %s。請先備份以避免世界損壞！",
+    "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
+    "new_key": "selectWorld.backupWarning.snapshot",
+    "new_value": "此世界最後於 %s 版本遊玩，而你目前遊玩 %s 版本。請先備份以避免世界損壞。",
+    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions."
+  },
+  {
+    "old_key": "selectWorld.mapFeatures.info",
+    "old_value": "村莊、地牢等等",
+    "old_en_us": "Villages, dungeons etc.",
+    "new_key": "selectWorld.mapFeatures.info",
+    "new_value": "村莊、沉船之類",
+    "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "structure_block.mode_info.corner",
+    "old_value": "角落模式 ─ 位置及大小標記",
+    "old_en_us": "Corner Mode - Placement and Size Marker",
+    "new_key": "structure_block.mode_info.corner",
+    "new_value": "角落模式 - 位置及大小記號",
+    "new_en_us": "Corner Mode - Placement and size marker"
+  },
+  {
+    "old_key": "structure_block.mode_info.data",
+    "old_value": "數據模式 ─ 遊戲邏輯標記",
+    "old_en_us": "Data mode - Game Logic Marker",
+    "new_key": "structure_block.mode_info.data",
+    "new_value": "資料模式 - 遊戲邏輯記號",
+    "new_en_us": "Data Mode - Game logic marker"
+  },
+  {
+    "old_key": "structure_block.mode_info.load",
+    "old_value": "載入模式 ─ 載入檔案",
+    "old_en_us": "Load mode - Load from File",
+    "new_key": "structure_block.mode_info.load",
+    "new_value": "載入模式 - 從檔案載入",
+    "new_en_us": "Load Mode - Load from file"
+  },
+  {
+    "old_key": "structure_block.mode_info.save",
+    "old_value": "儲存模式 ─ 寫入檔案",
+    "old_en_us": "Save Mode - Write to File",
+    "new_key": "structure_block.mode_info.save",
+    "new_value": "儲存模式 - 寫入檔案",
+    "new_en_us": "Save Mode - Write to file"
+  },
+  {
+    "old_key": "subtitles.block.respawn_anchor.ambient",
+    "old_value": "傳送門響聲",
+    "old_en_us": "Portal whooshes",
+    "new_key": "subtitles.block.respawn_anchor.ambient",
+    "new_value": "重生錨響聲",
+    "new_en_us": "Respawn Anchor whooshes"
+  },
+  {
+    "old_key": "subtitles.block.sculk_sensor.clicking",
+    "old_value": "沉靈傳感器開始振動",
+    "old_en_us": "Sculk Sensor starts clicking",
+    "new_key": "subtitles.block.sculk_sensor.clicking",
+    "new_value": "沉靈傳感器振動",
+    "new_en_us": "Sculk Sensor clicks"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.break",
+    "old_value": "螢光物品展示框被破壞",
+    "old_en_us": "Glow Item Frame breaks",
+    "new_key": "subtitles.entity.glow_item_frame.break",
+    "new_value": "熒光物品展示框被破壞",
+    "new_en_us": "Glow Item Frame broken"
+  },
+  {
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "畫被破壞",
+    "old_en_us": "Painting breaks",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "畫被取下",
+    "new_en_us": "Painting broken"
+  },
+  {
+    "old_key": "subtitles.entity.polar_bear.ambient_baby",
+    "old_value": "北極熊喘氣聲",
+    "old_en_us": "Polar Bear hums",
+    "new_key": "subtitles.entity.polar_bear.ambient_baby",
+    "new_value": "幼年北極熊喘氣聲",
+    "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.death_baby",
+    "old_value": "細海龜死亡",
+    "old_en_us": "Turtle baby dies",
+    "new_key": "subtitles.entity.turtle.death_baby",
+    "new_value": "幼年海龜死亡",
+    "new_en_us": "Baby Turtle dies"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.hurt_baby",
+    "old_value": "細海龜受傷",
+    "old_en_us": "Turtle baby hurts",
+    "new_key": "subtitles.entity.turtle.hurt_baby",
+    "new_value": "幼年海龜受傷",
+    "new_en_us": "Baby Turtle hurts"
+  },
+  {
+    "old_key": "subtitles.entity.turtle.shamble_baby",
+    "old_value": "細海龜爬行",
+    "old_en_us": "Turtle baby shambles",
+    "new_key": "subtitles.entity.turtle.shamble_baby",
+    "new_value": "幼年海龜爬行",
+    "new_en_us": "Baby Turtle shambles"
+  }
+]

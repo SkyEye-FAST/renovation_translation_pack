@@ -1,0 +1,426 @@
+[
+  {
+    "old_key": "advancements.husbandry.axolotl_in_a_bucket.description",
+    "old_value": "用桶捕获一只美西螈",
+    "old_en_us": "Catch an axolotl in a bucket",
+    "new_key": "advancements.husbandry.axolotl_in_a_bucket.description",
+    "new_value": "用铁桶捕获一只美西螈",
+    "new_en_us": "Catch an Axolotl in a Bucket"
+  },
+  {
+    "old_key": "advancements.husbandry.make_a_sign_glow.description",
+    "old_value": "让告示牌的文本发光",
+    "old_en_us": "Make the text of a sign glow",
+    "new_key": "advancements.husbandry.make_a_sign_glow.description",
+    "new_value": "让任意种类告示牌上的文本发光",
+    "new_en_us": "Make the text of any kind of sign glow"
+  },
+  {
+    "old_key": "advancements.husbandry.silk_touch_nest.description",
+    "old_value": "用精准采集移动住着3只蜜蜂的蜂巢",
+    "old_en_us": "Move a Bee Nest, with 3 bees inside, using Silk Touch",
+    "new_key": "advancements.husbandry.silk_touch_nest.description",
+    "new_value": "用精准采集移动住着3只蜜蜂的蜂巢或蜂箱",
+    "new_en_us": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch"
+  },
+  {
+    "old_key": "advancements.nether.create_beacon.description",
+    "old_value": "建造并放置一座信标",
+    "old_en_us": "Construct and place a beacon",
+    "new_key": "advancements.nether.create_beacon.description",
+    "new_value": "建造并放置一个信标",
+    "new_en_us": "Construct and place a Beacon"
+  },
+  {
+    "old_key": "advancements.story.deflect_arrow.description",
+    "old_value": "用盾反弹一个弹射物",
+    "old_en_us": "Deflect a projectile with a shield",
+    "new_key": "advancements.story.deflect_arrow.description",
+    "new_value": "用盾牌反弹一个弹射物",
+    "new_en_us": "Deflect a projectile with a Shield"
+  },
+  {
+    "old_key": "advancements.story.lava_bucket.description",
+    "old_value": "用桶装点熔岩",
+    "old_en_us": "Fill a bucket with lava",
+    "new_key": "advancements.story.lava_bucket.description",
+    "new_value": "用铁桶装点熔岩",
+    "new_en_us": "Fill a Bucket with lava"
+  },
+  {
+    "old_key": "argument.time.invalid_tick_count",
+    "old_value": "刻的计数必须为非负数",
+    "old_en_us": "Tick count must be non-negative",
+    "new_key": "argument.time.invalid_tick_count",
+    "new_value": "刻数必须为非负数",
+    "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "chat.disabled.launcher",
+    "old_value": "聊天在启动器选项中被禁用。无法发送消息",
+    "old_en_us": "Chat disabled by launcher option. Cannot send message",
+    "new_key": "chat.disabled.launcher",
+    "new_value": "聊天在启动器选项中被禁用。无法发送消息。",
+    "new_en_us": "Chat disabled by launcher option. Cannot send message."
+  },
+  {
+    "old_key": "chat.disabled.options",
+    "old_value": "聊天在客户端选项中被禁用",
+    "old_en_us": "Chat disabled in client options",
+    "new_key": "chat.disabled.options",
+    "new_value": "聊天在客户端选项中被禁用。",
+    "new_en_us": "Chat disabled in client options."
+  },
+  {
+    "old_key": "chat.disabled.profile",
+    "old_value": "聊天在账户设置中被禁用。无法发送消息",
+    "old_en_us": "Chat not allowed by account settings. Cannot send message",
+    "new_key": "chat.disabled.profile",
+    "new_value": "聊天在账户设置中被禁用。再按一次“%s”以获取更多信息。",
+    "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
+  },
+  {
+    "old_key": "commands.debug.function.success.single",
+    "old_value": "已追踪函数'%2$s'内的%1$s条命令至输出文件%3$s",
+    "old_en_us": "Traced %s commands from function '%s' to output file %s",
+    "new_key": "commands.debug.function.success.single",
+    "new_value": "已追踪函数“%2$s”内的%1$s条命令至输出文件%3$s",
+    "new_en_us": "Traced %s command(s) from function '%s' to output file %s"
+  },
+  {
+    "old_key": "commands.fill.success",
+    "old_value": "成功地填充了%s个方块",
+    "old_en_us": "Successfully filled %s blocks",
+    "new_key": "commands.fill.success",
+    "new_value": "已成功填充%s个方块",
+    "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.schedule.created.function",
+    "old_value": "已将函数'%s'计划在%s刻后，即游戏时间%s时执行",
+    "old_en_us": "Scheduled function '%s' in %s ticks at gametime %s",
+    "new_key": "commands.schedule.created.function",
+    "new_value": "已将函数“%s”计划在%s刻后，即游戏时间%s时执行",
+    "new_en_us": "Scheduled function '%s' in %s tick(s) at gametime %s"
+  },
+  {
+    "old_key": "commands.schedule.created.tag",
+    "old_value": "已将标签'%s'计划在%s刻后，即游戏时间%s时执行",
+    "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
+    "new_key": "commands.schedule.created.tag",
+    "new_value": "已将标签“%s”计划在%s刻后，即游戏时间%s时执行",
+    "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.entities",
+    "old_value": "已将%1$s名玩家围绕%2$s, %3$s分散，平均距离为%4$s个方块",
+    "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.entities",
+    "new_value": "已将%s个实体围绕%s, %s分散，平均距离为%s个方块",
+    "new_en_us": "Spread %s entity/entities around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.spreadplayers.success.teams",
+    "old_value": "已将%1$s支队伍围绕%2$s, %3$s分散，平均距离为%4$s个方块",
+    "old_en_us": "Spread %s teams around %s, %s with an average distance of %s blocks apart",
+    "new_key": "commands.spreadplayers.success.teams",
+    "new_value": "已将%s支队伍围绕%s, %s分散，平均距离为%s个方块",
+    "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.worldborder.damage.buffer.success",
+    "old_value": "已将世界边界伤害缓冲区设置为%s个方块",
+    "old_en_us": "Set the world border damage buffer to %s blocks",
+    "new_key": "commands.worldborder.damage.buffer.success",
+    "new_value": "已将世界边界的伤害缓冲区设置为%s个方块",
+    "new_en_us": "Set the world border damage buffer to %s block(s)"
+  },
+  {
+    "old_key": "commands.worldborder.get",
+    "old_value": "当前的世界边界宽度为%s个方块",
+    "old_en_us": "The world border is currently %s blocks wide",
+    "new_key": "commands.worldborder.get",
+    "new_value": "世界边界的当前宽度为%s个方块",
+    "new_en_us": "The world border is currently %s block(s) wide"
+  },
+  {
+    "old_key": "commands.worldborder.set.shrink",
+    "old_value": "正在将世界边界的宽度缩小为%s个方块，时间%s秒",
+    "old_en_us": "Shrinking the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.shrink",
+    "new_value": "正在将世界边界的宽度缩小为%s个方块，用时%s秒",
+    "new_en_us": "Shrinking the world border to %s block(s) wide over %s second(s)"
+  },
+  {
+    "old_key": "commands.worldborder.warning.distance.success",
+    "old_value": "已将世界边界警告距离设置为%s个方块",
+    "old_en_us": "Set the world border warning distance to %s blocks",
+    "new_key": "commands.worldborder.warning.distance.success",
+    "new_value": "已将世界边界的警告距离设置为%s个方块",
+    "new_en_us": "Set the world border warning distance to %s block(s)"
+  },
+  {
+    "old_key": "commands.worldborder.warning.time.success",
+    "old_value": "已将世界边界警告时间设置为%s秒",
+    "old_en_us": "Set the world border warning time to %s seconds",
+    "new_key": "commands.worldborder.warning.time.success",
+    "new_value": "已将世界边界的警告时间设置为%s秒",
+    "new_en_us": "Set the world border warning time to %s second(s)"
+  },
+  {
+    "old_key": "createWorld.customize.buffet.title",
+    "old_value": "自定义自选世界",
+    "old_en_us": "Buffet world customization",
+    "new_key": "createWorld.customize.buffet.title",
+    "new_value": "自定义单一生物群系",
+    "new_en_us": "Single Biome Customization"
+  },
+  {
+    "old_key": "death.attack.anvil.player",
+    "old_value": "%1$s在与%2$s战斗时被坠落的铁砧压扁了",
+    "old_en_us": "%1$s was squashed by a falling anvil whilst fighting %2$s",
+    "new_key": "death.attack.anvil.player",
+    "new_value": "%1$s在与%2$s战斗时被下落的铁砧压扁了",
+    "new_en_us": "%1$s was squashed by a falling anvil while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.fallingStalactite.player",
+    "old_value": "%1$s在与%2$s战斗时被坠落的钟乳石刺穿了",
+    "old_en_us": "%1$s was skewered by a falling stalactite whilst fighting %2$s",
+    "new_key": "death.attack.fallingStalactite.player",
+    "new_value": "%1$s在与%2$s战斗时被下落的钟乳石刺穿了",
+    "new_en_us": "%1$s was skewered by a falling stalactite while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.fireworks.player",
+    "old_value": "%1$s在与%2$s战斗时随着一声巨响中消失了",
+    "old_en_us": "%1$s went off with a bang whilst fighting %2$s",
+    "new_key": "death.attack.fireworks.player",
+    "new_value": "%1$s在与%2$s战斗时随着一声巨响消失了",
+    "new_en_us": "%1$s went off with a bang while fighting %2$s"
+  },
+  {
+    "old_key": "death.attack.inFire.player",
+    "old_value": "%1$s在与%2$s战斗时踏入了火中",
+    "old_en_us": "%1$s walked into fire whilst fighting %2$s",
+    "new_key": "death.attack.inFire.player",
+    "new_value": "%1$s在与%2$s战斗时不慎走入了火中",
+    "new_en_us": "%1$s walked into fire while fighting %2$s"
+  },
+  {
+    "old_key": "gameMode.hardcore",
+    "old_value": "极限模式！",
+    "old_en_us": "Hardcore Mode!",
+    "new_key": "gameMode.hardcore",
+    "new_value": "极限模式",
+    "new_en_us": "Hardcore Mode"
+  },
+  {
+    "old_key": "gamerule.doLimitedCrafting.description",
+    "old_value": "若启用，玩家只能使用已解锁的配方合成",
+    "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
+    "new_key": "gamerule.doLimitedCrafting.description",
+    "new_value": "若启用，玩家只能使用已解锁的配方合成。",
+    "new_en_us": "If enabled, players will be able to craft only unlocked recipes."
+  },
+  {
+    "old_key": "gamerule.doMobLoot.description",
+    "old_value": "控制生物死亡后是否掉落资源，包括经验球",
+    "old_en_us": "Controls resource drops from mobs, including experience orbs",
+    "new_key": "gamerule.doMobLoot.description",
+    "new_value": "控制生物死亡后是否掉落资源，包括经验球。",
+    "new_en_us": "Controls resource drops from mobs, including experience orbs."
+  },
+  {
+    "old_key": "gamerule.doMobSpawning.description",
+    "old_value": "一些实体可能有其特定的规则",
+    "old_en_us": "Some entities might have separate rules",
+    "new_key": "gamerule.doMobSpawning.description",
+    "new_value": "一些实体可能有其特定的规则。",
+    "new_en_us": "Some entities might have separate rules."
+  },
+  {
+    "old_key": "gamerule.doTileDrops.description",
+    "old_value": "控制破坏方块后是否掉落资源，包括经验球",
+    "old_en_us": "Controls resource drops from blocks, including experience orbs",
+    "new_key": "gamerule.doTileDrops.description",
+    "new_value": "控制破坏方块后是否掉落资源，包括经验球。",
+    "new_en_us": "Controls resource drops from blocks, including experience orbs."
+  },
+  {
+    "old_key": "gamerule.maxCommandChainLength.description",
+    "old_value": "应用于命令方块链和函数",
+    "old_en_us": "Applies to command block chains and functions",
+    "new_key": "gamerule.maxCommandChainLength.description",
+    "new_value": "应用于命令方块链和函数。",
+    "new_en_us": "Applies to command block chains and functions."
+  },
+  {
+    "old_key": "gamerule.reducedDebugInfo.description",
+    "old_value": "限制调试屏幕内容",
+    "old_en_us": "Limits contents of debug screen",
+    "new_key": "gamerule.reducedDebugInfo.description",
+    "new_value": "限制调试屏幕内容。",
+    "new_en_us": "Limits contents of debug screen."
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.hide",
+    "old_value": "隐藏%s的聊天消息",
+    "old_en_us": "Hide messages from %s in chat",
+    "new_key": "gui.socialInteractions.tooltip.hide",
+    "new_value": "隐藏消息",
+    "new_en_us": "Hide messages"
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.show",
+    "old_value": "显示%s的聊天消息",
+    "old_en_us": "Show messages from %s in chat",
+    "new_key": "gui.socialInteractions.tooltip.show",
+    "new_value": "显示消息",
+    "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "itemGroup.redstone",
+    "old_value": "红石",
+    "old_en_us": "Redstone",
+    "new_key": "itemGroup.redstone",
+    "new_value": "红石方块",
+    "new_en_us": "Redstone Blocks"
+  },
+  {
+    "old_key": "itemGroup.tools",
+    "old_value": "工具",
+    "old_en_us": "Tools",
+    "new_key": "itemGroup.tools",
+    "new_value": "工具与实用物品",
+    "new_en_us": "Tools & Utilities"
+  },
+  {
+    "old_key": "narration.suggestion",
+    "old_value": "选中了%2$s项建议中的第%1$s项：%3$s",
+    "old_en_us": "Selected suggestion %d out of %d: %s",
+    "new_key": "narration.suggestion",
+    "new_value": "已选中%2$s项建议中的第%1$s项：%3$s",
+    "new_en_us": "Selected suggestion %s out of %s: %s"
+  },
+  {
+    "old_key": "narration.suggestion.tooltip",
+    "old_value": "选中了%2$s项建议中的第%1$s项：%3$s（%4$s）",
+    "old_en_us": "Selected suggestion %d out of %d: %s (%s)",
+    "new_key": "narration.suggestion.tooltip",
+    "new_value": "已选中%2$s项建议中的第%1$s项：%3$s（%4$s）",
+    "new_en_us": "Selected suggestion %s out of %s: %s (%s)"
+  },
+  {
+    "old_key": "options.accessibility.title",
+    "old_value": "辅助功能设置…",
+    "old_en_us": "Accessibility Settings...",
+    "new_key": "options.accessibility.title",
+    "new_value": "辅助功能设置",
+    "new_en_us": "Accessibility Settings"
+  },
+  {
+    "old_key": "options.chat.title",
+    "old_value": "聊天设置…",
+    "old_en_us": "Chat Settings...",
+    "new_key": "options.chat.title",
+    "new_value": "聊天设置",
+    "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.fovEffectScale.tooltip",
+    "old_value": "控制速度和缓慢状态效果改变视场角的程度。",
+    "old_en_us": "Controls how much the field of view can change with speed effects.",
+    "new_key": "options.fovEffectScale.tooltip",
+    "new_value": "控制游戏机制效果改变视场角的程度。",
+    "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.realmsNotifications",
+    "old_value": "Realms的通知",
+    "old_en_us": "Realms Notifications",
+    "new_key": "options.realmsNotifications",
+    "new_value": "Realms新闻与邀请",
+    "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "resourcePack.vanilla.description",
+    "old_value": "Minecraft的默认资源包",
+    "old_en_us": "The default resources for Minecraft",
+    "new_key": "resourcePack.vanilla.description",
+    "new_value": "Minecraft的默认观感",
+    "new_en_us": "The default look and feel of Minecraft"
+  },
+  {
+    "old_key": "selectWorld.backupWarning.downgrade",
+    "old_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。降低世界的游戏版本可能会导致存档损坏——我们无法保证它可以被加载和运行。如果你仍要继续，请备份该存档！",
+    "old_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup!",
+    "new_key": "selectWorld.backupWarning.downgrade",
+    "new_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。降低世界的游戏版本可能会导致存档损坏，我们无法保证它可以被加载和运行。如果你仍要继续，请备份该存档。",
+    "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
+  },
+  {
+    "old_key": "selectWorld.backupWarning.snapshot",
+    "old_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。请备份你的世界，以防世界崩溃！",
+    "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
+    "new_key": "selectWorld.backupWarning.snapshot",
+    "new_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。请备份你的世界，以防世界崩溃。",
+    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions."
+  },
+  {
+    "old_key": "selectWorld.mapFeatures.info",
+    "old_value": "村庄、地牢等等",
+    "old_en_us": "Villages, dungeons etc.",
+    "new_key": "selectWorld.mapFeatures.info",
+    "new_value": "村庄、沉船等",
+    "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "structure_block.mode_info.save",
+    "old_value": "储存模式 — 写入文件",
+    "old_en_us": "Save Mode - Write to File",
+    "new_key": "structure_block.mode_info.save",
+    "new_value": "保存模式 — 写入文件",
+    "new_en_us": "Save Mode - Write to file"
+  },
+  {
+    "old_key": "subtitles.block.respawn_anchor.ambient",
+    "old_value": "传送门：呼啸",
+    "old_en_us": "Portal whooshes",
+    "new_key": "subtitles.block.respawn_anchor.ambient",
+    "new_value": "重生锚：呼啸",
+    "new_en_us": "Respawn Anchor whooshes"
+  },
+  {
+    "old_key": "subtitles.block.sculk_sensor.clicking",
+    "old_value": "幽匿感测体：惊动",
+    "old_en_us": "Sculk Sensor starts clicking",
+    "new_key": "subtitles.block.sculk_sensor.clicking",
+    "new_value": "幽匿感测体：颤动",
+    "new_en_us": "Sculk Sensor clicks"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
+    "old_value": "鹦鹉：弹跳",
+    "old_en_us": "Parrot flaps",
+    "new_key": "subtitles.entity.parrot.imitate.elder_guardian",
+    "new_value": "鹦鹉：低鸣",
+    "new_en_us": "Parrot moans"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.piglin_brute",
+    "old_value": "鹦鹉：大声哼叫",
+    "old_en_us": "Parrot snorts mightily",
+    "new_key": "subtitles.entity.parrot.imitate.piglin_brute",
+    "new_value": "鹦鹉：哼叫",
+    "new_en_us": "Parrot snorts"
+  },
+  {
+    "old_key": "subtitles.entity.polar_bear.ambient_baby",
+    "old_value": "北极熊：哼哼",
+    "old_en_us": "Polar Bear hums",
+    "new_key": "subtitles.entity.polar_bear.ambient_baby",
+    "new_value": "幼年北极熊：哼哼",
+    "new_en_us": "Baby Polar Bear hums"
+  }
+]

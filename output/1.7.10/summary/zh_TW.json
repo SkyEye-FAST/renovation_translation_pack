@@ -1,0 +1,2459 @@
+[
+  {
+    "old_key": "addServer.resourcePack",
+    "old_value": "伺服端資源包",
+    "new_key": "addServer.resourcePack",
+    "new_value": "伺服器資源包",
+    "en_us": "Server Resource Packs"
+  },
+  {
+    "old_key": "addServer.resourcePack",
+    "old_value": "伺服端資源包",
+    "new_key": "addServer.resourcePack",
+    "new_value": "伺服器資源包",
+    "en_us": "Server Resource Packs"
+  },
+  {
+    "old_key": "addServer.resourcePack.disabled",
+    "old_value": "已禁用",
+    "new_key": "addServer.resourcePack.disabled",
+    "new_value": "已停用",
+    "en_us": "Disabled"
+  },
+  {
+    "old_key": "addServer.resourcePack.disabled",
+    "old_value": "已禁用",
+    "new_key": "addServer.resourcePack.disabled",
+    "new_value": "已停用",
+    "en_us": "Disabled"
+  },
+  {
+    "old_key": "advMode.notAllowed",
+    "old_value": "必須是創造模式中的伺服器工作人員",
+    "new_key": "advMode.notAllowed",
+    "new_value": "必須是創造模式中的管理員",
+    "en_us": "Must be an opped player in creative mode"
+  },
+  {
+    "old_key": "advMode.notAllowed",
+    "old_value": "必須是創造模式中的伺服器工作人員",
+    "new_key": "advMode.notAllowed",
+    "new_value": "必須是創造模式中的管理員",
+    "en_us": "Must be an opped player in creative mode"
+  },
+  {
+    "old_key": "advMode.previousOutput",
+    "old_value": "預覽輸出",
+    "new_key": "advMode.previousOutput",
+    "new_value": "先前輸出",
+    "en_us": "Previous Output"
+  },
+  {
+    "old_key": "advMode.previousOutput",
+    "old_value": "預覽輸出",
+    "new_key": "advMode.previousOutput",
+    "new_value": "先前輸出",
+    "en_us": "Previous Output"
+  },
+  {
+    "old_key": "advMode.setCommand",
+    "old_value": "設置指令方塊的指令",
+    "new_key": "advMode.setCommand",
+    "new_value": "設定指令方塊的指令",
+    "en_us": "Set Console Command for Block"
+  },
+  {
+    "old_key": "advMode.setCommand",
+    "old_value": "設置指令方塊的指令",
+    "new_key": "advMode.setCommand",
+    "new_value": "設定指令方塊的指令",
+    "en_us": "Set Console Command for Block"
+  },
+  {
+    "old_key": "book.finalizeButton",
+    "old_value": "署名並完成此書",
+    "new_key": "book.finalizeButton",
+    "new_value": "署名並完成",
+    "en_us": "Sign and Close"
+  },
+  {
+    "old_key": "book.finalizeButton",
+    "old_value": "署名並完成此書",
+    "new_key": "book.finalizeButton",
+    "new_value": "署名並完成",
+    "en_us": "Sign and Close"
+  },
+  {
+    "old_key": "book.finalizeWarning",
+    "old_value": "注意！當您在這本書簽署後，將無法修改書中內容。",
+    "new_key": "book.finalizeWarning",
+    "new_value": "注意！當您在這本書署名後，將無法再修改書中內容。",
+    "en_us": "Note! When you sign the book, it will no longer be editable."
+  },
+  {
+    "old_key": "book.finalizeWarning",
+    "old_value": "注意！當您在這本書簽署後，將無法修改書中內容。",
+    "new_key": "book.finalizeWarning",
+    "new_value": "注意！當您在這本書署名後，將無法再修改書中內容。",
+    "en_us": "Note! When you sign the book, it will no longer be editable."
+  },
+  {
+    "old_key": "chat.cannotSend",
+    "old_value": "無法發出聊天信息",
+    "new_key": "chat.cannotSend",
+    "new_value": "無法傳送聊天訊息",
+    "en_us": "Cannot send chat message"
+  },
+  {
+    "old_key": "chat.cannotSend",
+    "old_value": "無法發出聊天信息",
+    "new_key": "chat.cannotSend",
+    "new_value": "無法傳送聊天訊息",
+    "en_us": "Cannot send chat message"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你確定你要打開以下網頁嗎？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你確定要開啟以下網頁嗎？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirm",
+    "old_value": "你確定你要打開以下網頁嗎？",
+    "new_key": "chat.link.confirm",
+    "new_value": "你確定要開啟以下網頁嗎？",
+    "en_us": "Are you sure you want to open the following website?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "確定要打開此連結或複製到剪貼簿嗎？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "確定要開啟此連結或將它複製到剪貼簿嗎？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "確定要打開此連結或複製到剪貼簿嗎？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "確定要開啟此連結或將它複製到剪貼簿嗎？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "千萬不要打開任何你不信任的人給你的網址!",
+    "new_key": "chat.link.warning",
+    "new_value": "千萬不要開啟任何你不信任的人所提供的連結！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "chat.link.warning",
+    "old_value": "千萬不要打開任何你不信任的人給你的網址!",
+    "new_key": "chat.link.warning",
+    "new_value": "千萬不要開啟任何你不信任的人所提供的連結！",
+    "en_us": "Never open links from people that you don't trust!"
+  },
+  {
+    "old_key": "connect.authorizing",
+    "old_value": "登入中…",
+    "new_key": "connect.authorizing",
+    "new_value": "登入中...",
+    "en_us": "Logging in..."
+  },
+  {
+    "old_key": "connect.authorizing",
+    "old_value": "登入中…",
+    "new_key": "connect.authorizing",
+    "new_value": "登入中...",
+    "en_us": "Logging in..."
+  },
+  {
+    "old_key": "connect.connecting",
+    "old_value": "正在連線到伺服器…",
+    "new_key": "connect.connecting",
+    "new_value": "正在連線到伺服器...",
+    "en_us": "Connecting to the server..."
+  },
+  {
+    "old_key": "connect.connecting",
+    "old_value": "正在連線到伺服器…",
+    "new_key": "connect.connecting",
+    "new_value": "正在連線到伺服器...",
+    "en_us": "Connecting to the server..."
+  },
+  {
+    "old_key": "container.repair",
+    "old_value": "修復 & 命名",
+    "new_key": "container.repair",
+    "new_value": "修復與命名",
+    "en_us": "Repair & Name"
+  },
+  {
+    "old_key": "container.repair",
+    "old_value": "修復 & 命名",
+    "new_key": "container.repair",
+    "new_value": "修復與命名",
+    "en_us": "Repair & Name"
+  },
+  {
+    "old_key": "controls.reset",
+    "old_value": "重置",
+    "new_key": "controls.reset",
+    "new_value": "重設",
+    "en_us": "Reset"
+  },
+  {
+    "old_key": "controls.reset",
+    "old_value": "重置",
+    "new_key": "controls.reset",
+    "new_value": "重設",
+    "en_us": "Reset"
+  },
+  {
+    "old_key": "controls.resetAll",
+    "old_value": "全部重置",
+    "new_key": "controls.resetAll",
+    "new_value": "重設按鍵",
+    "en_us": "Reset Keys"
+  },
+  {
+    "old_key": "controls.resetAll",
+    "old_value": "全部重置",
+    "new_key": "controls.resetAll",
+    "new_value": "重設按鍵",
+    "en_us": "Reset Keys"
+  },
+  {
+    "old_key": "createWorld.customize.flat.removeLayer",
+    "old_value": "刪除地層",
+    "new_key": "createWorld.customize.flat.removeLayer",
+    "new_value": "移除地層",
+    "en_us": "Remove Layer"
+  },
+  {
+    "old_key": "createWorld.customize.flat.removeLayer",
+    "old_value": "刪除地層",
+    "new_key": "createWorld.customize.flat.removeLayer",
+    "new_value": "移除地層",
+    "en_us": "Remove Layer"
+  },
+  {
+    "old_key": "createWorld.customize.flat.tile",
+    "old_value": "地層材料",
+    "new_key": "createWorld.customize.flat.tile",
+    "new_value": "地層組成",
+    "en_us": "Layer Material"
+  },
+  {
+    "old_key": "createWorld.customize.flat.tile",
+    "old_value": "地層材料",
+    "new_key": "createWorld.customize.flat.tile",
+    "new_value": "地層組成",
+    "en_us": "Layer Material"
+  },
+  {
+    "old_key": "createWorld.customize.presets",
+    "old_value": "預設方案",
+    "new_key": "createWorld.customize.presets",
+    "new_value": "方案集",
+    "en_us": "Presets"
+  },
+  {
+    "old_key": "createWorld.customize.presets",
+    "old_value": "預設方案",
+    "new_key": "createWorld.customize.presets",
+    "new_value": "方案集",
+    "en_us": "Presets"
+  },
+  {
+    "old_key": "createWorld.customize.presets.select",
+    "old_value": "使用預設地形",
+    "new_key": "createWorld.customize.presets.select",
+    "new_value": "使用此方案",
+    "en_us": "Use Preset"
+  },
+  {
+    "old_key": "createWorld.customize.presets.select",
+    "old_value": "使用預設地形",
+    "new_key": "createWorld.customize.presets.select",
+    "new_value": "使用此方案",
+    "en_us": "Use Preset"
+  },
+  {
+    "old_key": "createWorld.customize.presets.title",
+    "old_value": "選擇預設地形",
+    "new_key": "createWorld.customize.presets.title",
+    "new_value": "選擇一種方案",
+    "en_us": "Select a Preset"
+  },
+  {
+    "old_key": "createWorld.customize.presets.title",
+    "old_value": "選擇預設地形",
+    "new_key": "createWorld.customize.presets.title",
+    "new_value": "選擇一種方案",
+    "en_us": "Select a Preset"
+  },
+  {
+    "old_key": "death.attack.drown",
+    "old_value": "%1$s溺死了",
+    "new_key": "death.attack.drown",
+    "new_value": "%1$s 溺死了",
+    "en_us": "%1$s drowned"
+  },
+  {
+    "old_key": "death.attack.drown",
+    "old_value": "%1$s溺死了",
+    "new_key": "death.attack.drown",
+    "new_value": "%1$s 溺死了",
+    "en_us": "%1$s drowned"
+  },
+  {
+    "old_key": "death.attack.explosion",
+    "old_value": "%1$s被炸飛了",
+    "new_key": "death.attack.explosion",
+    "new_value": "%1$s 被炸飛了",
+    "en_us": "%1$s blew up"
+  },
+  {
+    "old_key": "death.attack.explosion",
+    "old_value": "%1$s被炸飛了",
+    "new_key": "death.attack.explosion",
+    "new_value": "%1$s 被炸飛了",
+    "en_us": "%1$s blew up"
+  },
+  {
+    "old_key": "death.attack.generic",
+    "old_value": "%1$s 已死亡",
+    "new_key": "death.attack.generic",
+    "new_value": "%1$s 死亡",
+    "en_us": "%1$s died"
+  },
+  {
+    "old_key": "death.attack.generic",
+    "old_value": "%1$s 已死亡",
+    "new_key": "death.attack.generic",
+    "new_value": "%1$s 死亡",
+    "en_us": "%1$s died"
+  },
+  {
+    "old_key": "death.attack.inFire",
+    "old_value": "%1$s在火焰中昇天",
+    "new_key": "death.attack.inFire",
+    "new_value": "%1$s 在火焰中昇天",
+    "en_us": "%1$s went up in flames"
+  },
+  {
+    "old_key": "death.attack.inFire",
+    "old_value": "%1$s在火焰中昇天",
+    "new_key": "death.attack.inFire",
+    "new_value": "%1$s 在火焰中昇天",
+    "en_us": "%1$s went up in flames"
+  },
+  {
+    "old_key": "death.attack.inWall",
+    "old_value": "%1$s在牆壁裡窒息",
+    "new_key": "death.attack.inWall",
+    "new_value": "%1$s 在牆壁裡窒息",
+    "en_us": "%1$s suffocated in a wall"
+  },
+  {
+    "old_key": "death.attack.inWall",
+    "old_value": "%1$s在牆壁裡窒息",
+    "new_key": "death.attack.inWall",
+    "new_value": "%1$s 在牆壁裡窒息",
+    "en_us": "%1$s suffocated in a wall"
+  },
+  {
+    "old_key": "death.attack.lava",
+    "old_value": "%1$s 想在岩漿裡游泳",
+    "new_key": "death.attack.lava",
+    "new_value": "%1$s 試圖在熔岩中游泳",
+    "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lava",
+    "old_value": "%1$s 想在岩漿裡游泳",
+    "new_key": "death.attack.lava",
+    "new_value": "%1$s 試圖在熔岩中游泳",
+    "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lava.player",
+    "old_value": "%1$s 為了逃離 %2$s 的追殺而跳入岩漿",
+    "new_key": "death.attack.lava.player",
+    "new_value": "%1$s 跳入熔岩試圖逃離 %2$s 的追殺",
+    "en_us": "%1$s tried to swim in lava to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.lava.player",
+    "old_value": "%1$s 為了逃離 %2$s 的追殺而跳入岩漿",
+    "new_key": "death.attack.lava.player",
+    "new_value": "%1$s 跳入熔岩試圖逃離 %2$s 的追殺",
+    "en_us": "%1$s tried to swim in lava to escape %2$s"
+  },
+  {
+    "old_key": "death.attack.wither",
+    "old_value": "%1$s 凋零至死了",
+    "new_key": "death.attack.wither",
+    "new_value": "%1$s 凋零了",
+    "en_us": "%1$s withered away"
+  },
+  {
+    "old_key": "death.attack.wither",
+    "old_value": "%1$s 凋零至死了",
+    "new_key": "death.attack.wither",
+    "new_value": "%1$s 凋零了",
+    "en_us": "%1$s withered away"
+  },
+  {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s 從梯子上摔了下來",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s 從梯子上摔落",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s 從梯子上摔了下來",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s 從梯子上摔落",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
+    "old_key": "death.fell.accident.vines",
+    "old_value": "%1$s 從藤蔓上摔了下來",
+    "new_key": "death.fell.accident.vines",
+    "new_value": "%1$s 從藤蔓上摔落",
+    "en_us": "%1$s fell off some vines"
+  },
+  {
+    "old_key": "death.fell.accident.vines",
+    "old_value": "%1$s 從藤蔓上摔了下來",
+    "new_key": "death.fell.accident.vines",
+    "new_value": "%1$s 從藤蔓上摔落",
+    "en_us": "%1$s fell off some vines"
+  },
+  {
+    "old_key": "death.fell.assist",
+    "old_value": "%1$s 被 %2$s 推下懸崖",
+    "new_key": "death.fell.assist",
+    "new_value": "%1$s 被 %2$s 擊落",
+    "en_us": "%1$s was doomed to fall by %2$s"
+  },
+  {
+    "old_key": "death.fell.assist",
+    "old_value": "%1$s 被 %2$s 推下懸崖",
+    "new_key": "death.fell.assist",
+    "new_value": "%1$s 被 %2$s 擊落",
+    "en_us": "%1$s was doomed to fall by %2$s"
+  },
+  {
+    "old_key": "death.fell.assist.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 打下懸崖",
+    "new_key": "death.fell.assist.item",
+    "new_value": "%1$s 被 %2$s 以 %3$s 擊落",
+    "en_us": "%1$s was doomed to fall by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.assist.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 打下懸崖",
+    "new_key": "death.fell.assist.item",
+    "new_value": "%1$s 被 %2$s 以 %3$s 擊落",
+    "en_us": "%1$s was doomed to fall by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.finish.item",
+    "old_value": "%1$s 摔的太重後被 %2$s 用 %3$s 補了尾刀",
+    "new_key": "death.fell.finish.item",
+    "new_value": "%1$s 摔傷後被 %2$s 以 %3$s 擊殺",
+    "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.fell.finish.item",
+    "old_value": "%1$s 摔的太重後被 %2$s 用 %3$s 補了尾刀",
+    "new_key": "death.fell.finish.item",
+    "new_value": "%1$s 摔傷後被 %2$s 以 %3$s 擊殺",
+    "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
+  },
+  {
+    "old_key": "deathScreen.quit.confirm",
+    "old_value": "你確定要退出了嗎？",
+    "new_key": "deathScreen.quit.confirm",
+    "new_value": "你確定要退出了嗎？",
+    "en_us": "Are you sure you want to quit?"
+  },
+  {
+    "old_key": "deathScreen.quit.confirm",
+    "old_value": "你確定要退出了嗎？",
+    "new_key": "deathScreen.quit.confirm",
+    "new_value": "你確定要退出了嗎？",
+    "en_us": "Are you sure you want to quit?"
+  },
+  {
+    "old_key": "demo.day.warning",
+    "old_value": "你的時間即將用盡！",
+    "new_key": "demo.day.warning",
+    "new_value": "你的時間即將結束！",
+    "en_us": "Your time is almost up!"
+  },
+  {
+    "old_key": "demo.day.warning",
+    "old_value": "你的時間即將用盡！",
+    "new_key": "demo.day.warning",
+    "new_value": "你的時間即將結束！",
+    "en_us": "Your time is almost up!"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "移動滑鼠來查看四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "使用滑鼠以查看四周",
+    "en_us": "Look around using the mouse"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "移動滑鼠來查看四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "使用滑鼠以查看四周",
+    "en_us": "Look around using the mouse"
+  },
+  {
+    "old_key": "demo.help.title",
+    "old_value": "Minecraft試玩模式",
+    "new_key": "demo.help.title",
+    "new_value": "Minecraft 試玩模式",
+    "en_us": "Minecraft Demo Mode"
+  },
+  {
+    "old_key": "demo.help.title",
+    "old_value": "Minecraft試玩模式",
+    "new_key": "demo.help.title",
+    "new_value": "Minecraft 試玩模式",
+    "en_us": "Minecraft Demo Mode"
+  },
+  {
+    "old_key": "disconnect.spam",
+    "old_value": "因垃圾訊息被踢出",
+    "new_key": "disconnect.spam",
+    "new_value": "因為濫發訊息被踢出",
+    "en_us": "Kicked for spamming"
+  },
+  {
+    "old_key": "disconnect.spam",
+    "old_value": "因垃圾訊息被踢出",
+    "new_key": "disconnect.spam",
+    "new_value": "因為濫發訊息被踢出",
+    "en_us": "Kicked for spamming"
+  },
+  {
+    "old_key": "enchantment.arrowKnockback",
+    "old_value": "擊退",
+    "new_key": "enchantment.minecraft.punch",
+    "new_value": "衝擊",
+    "en_us": "Punch"
+  },
+  {
+    "old_key": "enchantment.arrowKnockback",
+    "old_value": "擊退",
+    "new_key": "enchantment.minecraft.punch",
+    "new_value": "衝擊",
+    "en_us": "Punch"
+  },
+  {
+    "old_key": "enchantment.protect.explosion",
+    "old_value": "防爆",
+    "new_key": "enchantment.minecraft.blast_protection",
+    "new_value": "爆炸保護",
+    "en_us": "Blast Protection"
+  },
+  {
+    "old_key": "enchantment.protect.explosion",
+    "old_value": "防爆",
+    "new_key": "enchantment.minecraft.blast_protection",
+    "new_value": "爆炸保護",
+    "en_us": "Blast Protection"
+  },
+  {
+    "old_key": "enchantment.protect.fire",
+    "old_value": "抗火性",
+    "new_key": "enchantment.minecraft.fire_protection",
+    "new_value": "火焰保護",
+    "en_us": "Fire Protection"
+  },
+  {
+    "old_key": "enchantment.protect.fire",
+    "old_value": "抗火性",
+    "new_key": "enchantment.minecraft.fire_protection",
+    "new_value": "火焰保護",
+    "en_us": "Fire Protection"
+  },
+  {
+    "old_key": "enchantment.protect.projectile",
+    "old_value": "防彈",
+    "new_key": "enchantment.minecraft.projectile_protection",
+    "new_value": "投射物保護",
+    "en_us": "Projectile Protection"
+  },
+  {
+    "old_key": "enchantment.protect.projectile",
+    "old_value": "防彈",
+    "new_key": "enchantment.minecraft.projectile_protection",
+    "new_value": "投射物保護",
+    "en_us": "Projectile Protection"
+  },
+  {
+    "old_key": "enchantment.waterWorker",
+    "old_value": "水中挖掘",
+    "new_key": "enchantment.minecraft.aqua_affinity",
+    "new_value": "親水性",
+    "en_us": "Aqua Affinity"
+  },
+  {
+    "old_key": "enchantment.waterWorker",
+    "old_value": "水中挖掘",
+    "new_key": "enchantment.minecraft.aqua_affinity",
+    "new_value": "親水性",
+    "en_us": "Aqua Affinity"
+  },
+  {
+    "old_key": "entity.Cow.name",
+    "old_value": "乳牛",
+    "new_key": "entity.minecraft.cow",
+    "new_value": "牛",
+    "en_us": "Cow"
+  },
+  {
+    "old_key": "entity.Cow.name",
+    "old_value": "乳牛",
+    "new_key": "entity.minecraft.cow",
+    "new_value": "牛",
+    "en_us": "Cow"
+  },
+  {
+    "old_key": "entity.LavaSlime.name",
+    "old_value": "熔岩史萊姆",
+    "new_key": "entity.minecraft.magma_cube",
+    "new_value": "岩漿立方怪",
+    "en_us": "Magma Cube"
+  },
+  {
+    "old_key": "entity.LavaSlime.name",
+    "old_value": "熔岩史萊姆",
+    "new_key": "entity.minecraft.magma_cube",
+    "new_value": "岩漿立方怪",
+    "en_us": "Magma Cube"
+  },
+  {
+    "old_key": "entity.Ozelot.name",
+    "old_value": "野貓",
+    "new_key": "entity.minecraft.ocelot",
+    "new_value": "山貓",
+    "en_us": "Ocelot"
+  },
+  {
+    "old_key": "entity.Ozelot.name",
+    "old_value": "野貓",
+    "new_key": "entity.minecraft.ocelot",
+    "new_value": "山貓",
+    "en_us": "Ocelot"
+  },
+  {
+    "old_key": "entity.Squid.name",
+    "old_value": "烏賊",
+    "new_key": "entity.minecraft.squid",
+    "new_value": "魷魚",
+    "en_us": "Squid"
+  },
+  {
+    "old_key": "entity.Squid.name",
+    "old_value": "烏賊",
+    "new_key": "entity.minecraft.squid",
+    "new_value": "魷魚",
+    "en_us": "Squid"
+  },
+  {
+    "old_key": "entity.WitherBoss.name",
+    "old_value": "凋靈",
+    "new_key": "entity.minecraft.wither",
+    "new_value": "凋零怪",
+    "en_us": "Wither"
+  },
+  {
+    "old_key": "entity.WitherBoss.name",
+    "old_value": "凋靈",
+    "new_key": "entity.minecraft.wither",
+    "new_value": "凋零怪",
+    "en_us": "Wither"
+  },
+  {
+    "old_key": "item.bucketLava.name",
+    "old_value": "岩漿桶",
+    "new_key": "item.minecraft.lava_bucket",
+    "new_value": "熔岩桶",
+    "en_us": "Lava Bucket"
+  },
+  {
+    "old_key": "item.bucketLava.name",
+    "old_value": "岩漿桶",
+    "new_key": "item.minecraft.lava_bucket",
+    "new_value": "熔岩桶",
+    "en_us": "Lava Bucket"
+  },
+  {
+    "old_key": "item.dyePowder.lime.name",
+    "old_value": "淺綠染料",
+    "new_key": "item.minecraft.lime_dye",
+    "new_value": "淺綠色染料",
+    "en_us": "Lime Dye"
+  },
+  {
+    "old_key": "item.dyePowder.lime.name",
+    "old_value": "淺綠染料",
+    "new_key": "item.minecraft.lime_dye",
+    "new_value": "淺綠色染料",
+    "en_us": "Lime Dye"
+  },
+  {
+    "old_key": "item.dyePowder.orange.name",
+    "old_value": "橘色染料",
+    "new_key": "item.minecraft.orange_dye",
+    "new_value": "橙色染料",
+    "en_us": "Orange Dye"
+  },
+  {
+    "old_key": "item.dyePowder.orange.name",
+    "old_value": "橘色染料",
+    "new_key": "item.minecraft.orange_dye",
+    "new_value": "橙色染料",
+    "en_us": "Orange Dye"
+  },
+  {
+    "old_key": "item.dyed",
+    "old_value": "染色的",
+    "new_key": "item.dyed",
+    "new_value": "已染色",
+    "en_us": "Dyed"
+  },
+  {
+    "old_key": "item.dyed",
+    "old_value": "染色的",
+    "new_key": "item.dyed",
+    "new_value": "已染色",
+    "en_us": "Dyed"
+  },
+  {
+    "old_key": "item.fireworksCharge.lime",
+    "old_value": "黃綠色",
+    "new_key": "item.minecraft.firework_star.lime",
+    "new_value": "淺綠色",
+    "en_us": "Lime"
+  },
+  {
+    "old_key": "item.fireworksCharge.lime",
+    "old_value": "黃綠色",
+    "new_key": "item.minecraft.firework_star.lime",
+    "new_value": "淺綠色",
+    "en_us": "Lime"
+  },
+  {
+    "old_key": "item.fireworksCharge.orange",
+    "old_value": "橘色",
+    "new_key": "item.minecraft.firework_star.orange",
+    "new_value": "橙色",
+    "en_us": "Orange"
+  },
+  {
+    "old_key": "item.fireworksCharge.orange",
+    "old_value": "橘色",
+    "new_key": "item.minecraft.firework_star.orange",
+    "new_value": "橙色",
+    "en_us": "Orange"
+  },
+  {
+    "old_key": "item.fish.salmon.cooked.name",
+    "old_value": "熟鮭魚片",
+    "new_key": "item.minecraft.cooked_salmon",
+    "new_value": "烤鮭魚",
+    "en_us": "Cooked Salmon"
+  },
+  {
+    "old_key": "item.fish.salmon.cooked.name",
+    "old_value": "熟鮭魚片",
+    "new_key": "item.minecraft.cooked_salmon",
+    "new_value": "烤鮭魚",
+    "en_us": "Cooked Salmon"
+  },
+  {
+    "old_key": "item.hoeIron.name",
+    "old_value": "鐵製鋤頭",
+    "new_key": "item.minecraft.iron_hoe",
+    "new_value": "鐵鋤",
+    "en_us": "Iron Hoe"
+  },
+  {
+    "old_key": "item.hoeIron.name",
+    "old_value": "鐵製鋤頭",
+    "new_key": "item.minecraft.iron_hoe",
+    "new_value": "鐵鋤",
+    "en_us": "Iron Hoe"
+  },
+  {
+    "old_key": "item.magmaCream.name",
+    "old_value": "熔岩球",
+    "new_key": "item.minecraft.magma_cream",
+    "new_value": "岩漿球",
+    "en_us": "Magma Cream"
+  },
+  {
+    "old_key": "item.magmaCream.name",
+    "old_value": "熔岩球",
+    "new_key": "item.minecraft.magma_cream",
+    "new_value": "岩漿球",
+    "en_us": "Magma Cream"
+  },
+  {
+    "old_key": "item.minecartChest.name",
+    "old_value": "運輸礦車",
+    "new_key": "item.minecraft.chest_minecart",
+    "new_value": "儲物箱礦車",
+    "en_us": "Minecart with Chest"
+  },
+  {
+    "old_key": "item.minecartChest.name",
+    "old_value": "運輸礦車",
+    "new_key": "item.minecraft.chest_minecart",
+    "new_value": "儲物箱礦車",
+    "en_us": "Minecart with Chest"
+  },
+  {
+    "old_key": "item.minecartFurnace.name",
+    "old_value": "動力礦車",
+    "new_key": "item.minecraft.furnace_minecart",
+    "new_value": "熔爐礦車",
+    "en_us": "Minecart with Furnace"
+  },
+  {
+    "old_key": "item.minecartFurnace.name",
+    "old_value": "動力礦車",
+    "new_key": "item.minecraft.furnace_minecart",
+    "new_value": "熔爐礦車",
+    "en_us": "Minecart with Furnace"
+  },
+  {
+    "old_key": "item.minecartTnt.name",
+    "old_value": "TNT礦車",
+    "new_key": "item.minecraft.tnt_minecart",
+    "new_value": "TNT 礦車",
+    "en_us": "Minecart with TNT"
+  },
+  {
+    "old_key": "item.minecartTnt.name",
+    "old_value": "TNT礦車",
+    "new_key": "item.minecraft.tnt_minecart",
+    "new_value": "TNT 礦車",
+    "en_us": "Minecart with TNT"
+  },
+  {
+    "old_key": "item.netherbrick.name",
+    "old_value": "地獄磚",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "地獄磚頭",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "tile.netherBrick.name",
+    "old_value": "地獄磚",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "地獄磚頭",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "item.netherbrick.name",
+    "old_value": "地獄磚",
+    "new_key": "item.minecraft.nether_brick",
+    "new_value": "地獄磚頭",
+    "en_us": "Nether Brick"
+  },
+  {
+    "old_key": "item.unbreakable",
+    "old_value": "無法破壞的",
+    "new_key": "item.unbreakable",
+    "new_value": "無法破壞",
+    "en_us": "Unbreakable"
+  },
+  {
+    "old_key": "item.unbreakable",
+    "old_value": "無法破壞的",
+    "new_key": "item.unbreakable",
+    "new_value": "無法破壞",
+    "en_us": "Unbreakable"
+  },
+  {
+    "old_key": "itemGroup.buildingBlocks",
+    "old_value": "建材類",
+    "new_key": "itemGroup.buildingBlocks",
+    "new_value": "建築方塊",
+    "en_us": "Building Blocks"
+  },
+  {
+    "old_key": "itemGroup.buildingBlocks",
+    "old_value": "建材類",
+    "new_key": "itemGroup.buildingBlocks",
+    "new_value": "建築方塊",
+    "en_us": "Building Blocks"
+  },
+  {
+    "old_key": "itemGroup.combat",
+    "old_value": "戰鬥用類",
+    "new_key": "itemGroup.combat",
+    "new_value": "戰鬥",
+    "en_us": "Combat"
+  },
+  {
+    "old_key": "itemGroup.combat",
+    "old_value": "戰鬥用類",
+    "new_key": "itemGroup.combat",
+    "new_value": "戰鬥",
+    "en_us": "Combat"
+  },
+  {
+    "old_key": "itemGroup.inventory",
+    "old_value": "生存模式背包",
+    "new_key": "itemGroup.inventory",
+    "new_value": "生存模式物品欄",
+    "en_us": "Survival Inventory"
+  },
+  {
+    "old_key": "itemGroup.inventory",
+    "old_value": "生存模式背包",
+    "new_key": "itemGroup.inventory",
+    "new_value": "生存模式物品欄",
+    "en_us": "Survival Inventory"
+  },
+  {
+    "old_key": "key.attack",
+    "old_value": "攻擊/破壞",
+    "new_key": "key.attack",
+    "new_value": "攻擊／破壞",
+    "en_us": "Attack/Destroy"
+  },
+  {
+    "old_key": "key.attack",
+    "old_value": "攻擊/破壞",
+    "new_key": "key.attack",
+    "new_value": "攻擊／破壞",
+    "en_us": "Attack/Destroy"
+  },
+  {
+    "old_key": "key.categories.gameplay",
+    "old_value": "游戲機制",
+    "new_key": "key.categories.gameplay",
+    "new_value": "遊戲控制",
+    "en_us": "Gameplay"
+  },
+  {
+    "old_key": "key.categories.gameplay",
+    "old_value": "游戲機制",
+    "new_key": "key.categories.gameplay",
+    "new_value": "遊戲控制",
+    "en_us": "Gameplay"
+  },
+  {
+    "old_key": "key.categories.misc",
+    "old_value": "其他",
+    "new_key": "key.categories.misc",
+    "new_value": "雜項",
+    "en_us": "Miscellaneous"
+  },
+  {
+    "old_key": "key.categories.misc",
+    "old_value": "其他",
+    "new_key": "key.categories.misc",
+    "new_value": "雜項",
+    "en_us": "Miscellaneous"
+  },
+  {
+    "old_key": "key.categories.movement",
+    "old_value": "腳色控制",
+    "new_key": "key.categories.movement",
+    "new_value": "角色移動",
+    "en_us": "Movement"
+  },
+  {
+    "old_key": "key.categories.movement",
+    "old_value": "腳色控制",
+    "new_key": "key.categories.movement",
+    "new_value": "角色移動",
+    "en_us": "Movement"
+  },
+  {
+    "old_key": "key.chat",
+    "old_value": "開啟聊天視窗",
+    "new_key": "key.chat",
+    "new_value": "開啟聊天欄",
+    "en_us": "Open Chat"
+  },
+  {
+    "old_key": "key.chat",
+    "old_value": "開啟聊天視窗",
+    "new_key": "key.chat",
+    "new_value": "開啟聊天欄",
+    "en_us": "Open Chat"
+  },
+  {
+    "old_key": "key.fullscreen",
+    "old_value": "切換全屏幕",
+    "new_key": "key.fullscreen",
+    "new_value": "切換全螢幕",
+    "en_us": "Toggle Fullscreen"
+  },
+  {
+    "old_key": "key.fullscreen",
+    "old_value": "切換全屏幕",
+    "new_key": "key.fullscreen",
+    "new_value": "切換全螢幕",
+    "en_us": "Toggle Fullscreen"
+  },
+  {
+    "old_key": "key.hotbar.1",
+    "old_value": "物品欄1",
+    "new_key": "key.hotbar.1",
+    "new_value": "快捷欄 1",
+    "en_us": "Hotbar Slot 1"
+  },
+  {
+    "old_key": "key.hotbar.1",
+    "old_value": "物品欄1",
+    "new_key": "key.hotbar.1",
+    "new_value": "快捷欄 1",
+    "en_us": "Hotbar Slot 1"
+  },
+  {
+    "old_key": "key.hotbar.2",
+    "old_value": "物品欄2",
+    "new_key": "key.hotbar.2",
+    "new_value": "快捷欄 2",
+    "en_us": "Hotbar Slot 2"
+  },
+  {
+    "old_key": "key.hotbar.2",
+    "old_value": "物品欄2",
+    "new_key": "key.hotbar.2",
+    "new_value": "快捷欄 2",
+    "en_us": "Hotbar Slot 2"
+  },
+  {
+    "old_key": "key.hotbar.3",
+    "old_value": "物品欄3",
+    "new_key": "key.hotbar.3",
+    "new_value": "快捷欄 3",
+    "en_us": "Hotbar Slot 3"
+  },
+  {
+    "old_key": "key.hotbar.3",
+    "old_value": "物品欄3",
+    "new_key": "key.hotbar.3",
+    "new_value": "快捷欄 3",
+    "en_us": "Hotbar Slot 3"
+  },
+  {
+    "old_key": "key.hotbar.4",
+    "old_value": "物品欄4",
+    "new_key": "key.hotbar.4",
+    "new_value": "快捷欄 4",
+    "en_us": "Hotbar Slot 4"
+  },
+  {
+    "old_key": "key.hotbar.4",
+    "old_value": "物品欄4",
+    "new_key": "key.hotbar.4",
+    "new_value": "快捷欄 4",
+    "en_us": "Hotbar Slot 4"
+  },
+  {
+    "old_key": "key.hotbar.5",
+    "old_value": "物品欄5",
+    "new_key": "key.hotbar.5",
+    "new_value": "快捷欄 5",
+    "en_us": "Hotbar Slot 5"
+  },
+  {
+    "old_key": "key.hotbar.5",
+    "old_value": "物品欄5",
+    "new_key": "key.hotbar.5",
+    "new_value": "快捷欄 5",
+    "en_us": "Hotbar Slot 5"
+  },
+  {
+    "old_key": "key.hotbar.6",
+    "old_value": "物品欄6",
+    "new_key": "key.hotbar.6",
+    "new_value": "快捷欄 6",
+    "en_us": "Hotbar Slot 6"
+  },
+  {
+    "old_key": "key.hotbar.6",
+    "old_value": "物品欄6",
+    "new_key": "key.hotbar.6",
+    "new_value": "快捷欄 6",
+    "en_us": "Hotbar Slot 6"
+  },
+  {
+    "old_key": "key.hotbar.7",
+    "old_value": "物品欄7",
+    "new_key": "key.hotbar.7",
+    "new_value": "快捷欄 7",
+    "en_us": "Hotbar Slot 7"
+  },
+  {
+    "old_key": "key.hotbar.7",
+    "old_value": "物品欄7",
+    "new_key": "key.hotbar.7",
+    "new_value": "快捷欄 7",
+    "en_us": "Hotbar Slot 7"
+  },
+  {
+    "old_key": "key.hotbar.8",
+    "old_value": "物品欄8",
+    "new_key": "key.hotbar.8",
+    "new_value": "快捷欄 8",
+    "en_us": "Hotbar Slot 8"
+  },
+  {
+    "old_key": "key.hotbar.8",
+    "old_value": "物品欄8",
+    "new_key": "key.hotbar.8",
+    "new_value": "快捷欄 8",
+    "en_us": "Hotbar Slot 8"
+  },
+  {
+    "old_key": "key.hotbar.9",
+    "old_value": "物品欄9",
+    "new_key": "key.hotbar.9",
+    "new_value": "快捷欄 9",
+    "en_us": "Hotbar Slot 9"
+  },
+  {
+    "old_key": "key.hotbar.9",
+    "old_value": "物品欄9",
+    "new_key": "key.hotbar.9",
+    "new_value": "快捷欄 9",
+    "en_us": "Hotbar Slot 9"
+  },
+  {
+    "old_key": "key.mouseButton",
+    "old_value": "滑鼠 %1$s",
+    "new_key": "key.mouse",
+    "new_value": "滑鼠鍵 %1$s",
+    "en_us": "Button %1$s"
+  },
+  {
+    "old_key": "key.playerlist",
+    "old_value": "玩家列表",
+    "new_key": "key.playerlist",
+    "new_value": "列出玩家",
+    "en_us": "List Players"
+  },
+  {
+    "old_key": "key.playerlist",
+    "old_value": "玩家列表",
+    "new_key": "key.playerlist",
+    "new_value": "列出玩家",
+    "en_us": "List Players"
+  },
+  {
+    "old_key": "key.screenshot",
+    "old_value": "截取畫面",
+    "new_key": "key.screenshot",
+    "new_value": "擷取螢幕畫面",
+    "en_us": "Take Screenshot"
+  },
+  {
+    "old_key": "key.screenshot",
+    "old_value": "截取畫面",
+    "new_key": "key.screenshot",
+    "new_value": "擷取螢幕畫面",
+    "en_us": "Take Screenshot"
+  },
+  {
+    "old_key": "key.use",
+    "old_value": "使用物品/放置方塊",
+    "new_key": "key.use",
+    "new_value": "使用物品／放置方塊",
+    "en_us": "Use Item/Place Block"
+  },
+  {
+    "old_key": "key.use",
+    "old_value": "使用物品/放置方塊",
+    "new_key": "key.use",
+    "new_value": "使用物品／放置方塊",
+    "en_us": "Use Item/Place Block"
+  },
+  {
+    "old_key": "lanServer.scanning",
+    "old_value": "正在您的區網內尋找可供加入的遊戲",
+    "new_key": "lanServer.scanning",
+    "new_value": "正在您的區域網路內尋找可供加入的遊戲",
+    "en_us": "Scanning for games on your local network"
+  },
+  {
+    "old_key": "lanServer.scanning",
+    "old_value": "正在您的區網內尋找可供加入的遊戲",
+    "new_key": "lanServer.scanning",
+    "new_value": "正在您的區域網路內尋找可供加入的遊戲",
+    "en_us": "Scanning for games on your local network"
+  },
+  {
+    "old_key": "lanServer.start",
+    "old_value": "建立局域網世界",
+    "new_key": "lanServer.start",
+    "new_value": "開始區網世界",
+    "en_us": "Start LAN World"
+  },
+  {
+    "old_key": "lanServer.start",
+    "old_value": "建立局域網世界",
+    "new_key": "lanServer.start",
+    "new_value": "開始區網世界",
+    "en_us": "Start LAN World"
+  },
+  {
+    "old_key": "lanServer.title",
+    "old_value": "局域網世界",
+    "new_key": "lanServer.title",
+    "new_value": "區網世界",
+    "en_us": "LAN World"
+  },
+  {
+    "old_key": "lanServer.title",
+    "old_value": "局域網世界",
+    "new_key": "lanServer.title",
+    "new_value": "區網世界",
+    "en_us": "LAN World"
+  },
+  {
+    "old_key": "menu.online",
+    "old_value": "威廉與境界",
+    "new_key": "menu.online",
+    "new_value": "Minecraft Realms",
+    "en_us": "Minecraft Realms"
+  },
+  {
+    "old_key": "menu.online",
+    "old_value": "威廉與境界",
+    "new_key": "menu.online",
+    "new_value": "Minecraft Realms",
+    "en_us": "Minecraft Realms"
+  },
+  {
+    "old_key": "menu.options",
+    "old_value": "選項…",
+    "new_key": "menu.options",
+    "new_value": "選項...",
+    "en_us": "Options..."
+  },
+  {
+    "old_key": "menu.options",
+    "old_value": "選項…",
+    "new_key": "menu.options",
+    "new_value": "選項...",
+    "en_us": "Options..."
+  },
+  {
+    "old_key": "menu.playdemo",
+    "old_value": "試玩",
+    "new_key": "menu.playdemo",
+    "new_value": "遊玩試玩世界",
+    "en_us": "Play Demo World"
+  },
+  {
+    "old_key": "menu.playdemo",
+    "old_value": "試玩",
+    "new_key": "menu.playdemo",
+    "new_value": "遊玩試玩世界",
+    "en_us": "Play Demo World"
+  },
+  {
+    "old_key": "menu.resetdemo",
+    "old_value": "重置試玩的世界",
+    "new_key": "menu.resetdemo",
+    "new_value": "重設試玩世界",
+    "en_us": "Reset Demo World"
+  },
+  {
+    "old_key": "menu.resetdemo",
+    "old_value": "重置試玩的世界",
+    "new_key": "menu.resetdemo",
+    "new_value": "重設試玩世界",
+    "en_us": "Reset Demo World"
+  },
+  {
+    "old_key": "menu.shareToLan",
+    "old_value": "公開至局域網",
+    "new_key": "menu.shareToLan",
+    "new_value": "在區網上公開",
+    "en_us": "Open to LAN"
+  },
+  {
+    "old_key": "menu.shareToLan",
+    "old_value": "公開至局域網",
+    "new_key": "menu.shareToLan",
+    "new_value": "在區網上公開",
+    "en_us": "Open to LAN"
+  },
+  {
+    "old_key": "multiplayer.player.joined.renamed",
+    "old_value": "%s（之前是 %s）加入遊戲",
+    "new_key": "multiplayer.player.joined.renamed",
+    "new_value": "%s （之前是 %s）加入了遊戲",
+    "en_us": "%s (formerly known as %s) joined the game"
+  },
+  {
+    "old_key": "multiplayer.player.joined.renamed",
+    "old_value": "%s（之前是 %s）加入遊戲",
+    "new_key": "multiplayer.player.joined.renamed",
+    "new_value": "%s （之前是 %s）加入了遊戲",
+    "en_us": "%s (formerly known as %s) joined the game"
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.line1",
+    "old_value": "此伺服器建議使用該伺服器所提供的資源包。",
+    "new_key": "multiplayer.texturePrompt.line1",
+    "new_value": "此伺服器建議使用其自訂的資源包。",
+    "en_us": "This server recommends the use of a custom resource pack."
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.line1",
+    "old_value": "此伺服器建議使用該伺服器所提供的資源包。",
+    "new_key": "multiplayer.texturePrompt.line1",
+    "new_value": "此伺服器建議使用其自訂的資源包。",
+    "en_us": "This server recommends the use of a custom resource pack."
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.line2",
+    "old_value": "你想要下載並且自動安裝嗎？",
+    "new_key": "multiplayer.texturePrompt.line2",
+    "new_value": "您是否希望它自動下載並安裝？",
+    "en_us": "Would you like to download and install it automagically?"
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.line2",
+    "old_value": "你想要下載並且自動安裝嗎？",
+    "new_key": "multiplayer.texturePrompt.line2",
+    "new_value": "您是否希望它自動下載並安裝？",
+    "en_us": "Would you like to download and install it automagically?"
+  },
+  {
+    "old_key": "options.ao",
+    "old_value": "柔和化照明效果",
+    "new_key": "options.ao",
+    "new_value": "柔和光源",
+    "en_us": "Smooth Lighting"
+  },
+  {
+    "old_key": "options.ao",
+    "old_value": "柔和化照明效果",
+    "new_key": "options.ao",
+    "new_value": "柔和光源",
+    "en_us": "Smooth Lighting"
+  },
+  {
+    "old_key": "options.chat.visibility.full",
+    "old_value": "顯示全部",
+    "new_key": "options.chat.visibility.full",
+    "new_value": "顯示",
+    "en_us": "Shown"
+  },
+  {
+    "old_key": "options.chat.visibility.full",
+    "old_value": "顯示全部",
+    "new_key": "options.chat.visibility.full",
+    "new_value": "顯示",
+    "en_us": "Shown"
+  },
+  {
+    "old_key": "options.controls",
+    "old_value": "按鍵設定…",
+    "new_key": "options.controls",
+    "new_value": "按鍵設定...",
+    "en_us": "Controls..."
+  },
+  {
+    "old_key": "options.controls",
+    "old_value": "按鍵設定…",
+    "new_key": "options.controls",
+    "new_value": "按鍵設定...",
+    "en_us": "Controls..."
+  },
+  {
+    "old_key": "options.forceUnicodeFont",
+    "old_value": "強制使用Unicode字符",
+    "new_key": "options.forceUnicodeFont",
+    "new_value": "強制使用 Unicode 字型",
+    "en_us": "Force Unicode Font"
+  },
+  {
+    "old_key": "options.forceUnicodeFont",
+    "old_value": "強制使用Unicode字符",
+    "new_key": "options.forceUnicodeFont",
+    "new_value": "強制使用 Unicode 字型",
+    "en_us": "Force Unicode Font"
+  },
+  {
+    "old_key": "options.fov",
+    "old_value": "廣角視野",
+    "new_key": "options.fov",
+    "new_value": "視角廣度",
+    "en_us": "FOV"
+  },
+  {
+    "old_key": "options.fov",
+    "old_value": "廣角視野",
+    "new_key": "options.fov",
+    "new_value": "視角廣度",
+    "en_us": "FOV"
+  },
+  {
+    "old_key": "options.fov.min",
+    "old_value": "普通",
+    "new_key": "options.fov.min",
+    "new_value": "正常",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "options.fov.min",
+    "old_value": "普通",
+    "new_key": "options.fov.min",
+    "new_value": "正常",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "options.framerateLimit",
+    "old_value": "FPS 限制",
+    "new_key": "options.framerateLimit",
+    "new_value": "最大 FPS",
+    "en_us": "Max Framerate"
+  },
+  {
+    "old_key": "options.framerateLimit",
+    "old_value": "FPS 限制",
+    "new_key": "options.framerateLimit",
+    "new_value": "最大 FPS",
+    "en_us": "Max Framerate"
+  },
+  {
+    "old_key": "options.graphics.fancy",
+    "old_value": "畫質優先",
+    "new_key": "options.graphics.fancy",
+    "new_value": "精緻",
+    "en_us": "Fancy"
+  },
+  {
+    "old_key": "options.graphics.fancy",
+    "old_value": "畫質優先",
+    "new_key": "options.graphics.fancy",
+    "new_value": "精緻",
+    "en_us": "Fancy"
+  },
+  {
+    "old_key": "options.graphics.fast",
+    "old_value": "性能優先",
+    "new_key": "options.graphics.fast",
+    "new_value": "流暢",
+    "en_us": "Fast"
+  },
+  {
+    "old_key": "options.graphics.fast",
+    "old_value": "性能優先",
+    "new_key": "options.graphics.fast",
+    "new_value": "流暢",
+    "en_us": "Fast"
+  },
+  {
+    "old_key": "options.mipmapLevels",
+    "old_value": "多精度材質（Mipmap）等級",
+    "new_key": "options.mipmapLevels",
+    "new_value": "Mipmap 等級",
+    "en_us": "Mipmap Levels"
+  },
+  {
+    "old_key": "options.mipmapLevels",
+    "old_value": "多精度材質（Mipmap）等級",
+    "new_key": "options.mipmapLevels",
+    "new_value": "Mipmap 等級",
+    "en_us": "Mipmap Levels"
+  },
+  {
+    "old_key": "options.particles.all",
+    "old_value": "最高",
+    "new_key": "options.particles.all",
+    "new_value": "全部",
+    "en_us": "All"
+  },
+  {
+    "old_key": "options.particles.all",
+    "old_value": "最高",
+    "new_key": "options.particles.all",
+    "new_value": "全部",
+    "en_us": "All"
+  },
+  {
+    "old_key": "options.renderClouds",
+    "old_value": "雲塊",
+    "new_key": "options.renderClouds",
+    "new_value": "雲",
+    "en_us": "Clouds"
+  },
+  {
+    "old_key": "options.renderClouds",
+    "old_value": "雲塊",
+    "new_key": "options.renderClouds",
+    "new_value": "雲",
+    "en_us": "Clouds"
+  },
+  {
+    "old_key": "options.renderDistance",
+    "old_value": "視野距離",
+    "new_key": "options.renderDistance",
+    "new_value": "顯示距離",
+    "en_us": "Render Distance"
+  },
+  {
+    "old_key": "options.renderDistance",
+    "old_value": "視野距離",
+    "new_key": "options.renderDistance",
+    "new_value": "顯示距離",
+    "en_us": "Render Distance"
+  },
+  {
+    "old_key": "options.resourcepack",
+    "old_value": "資源包...",
+    "new_key": "options.resourcepack",
+    "new_value": "資源包...",
+    "en_us": "Resource Packs..."
+  },
+  {
+    "old_key": "options.resourcepack",
+    "old_value": "資源包...",
+    "new_key": "options.resourcepack",
+    "new_value": "資源包...",
+    "en_us": "Resource Packs..."
+  },
+  {
+    "old_key": "options.sensitivity",
+    "old_value": "滑鼠靈敏度",
+    "new_key": "options.sensitivity",
+    "new_value": "靈敏度",
+    "en_us": "Sensitivity"
+  },
+  {
+    "old_key": "options.sensitivity",
+    "old_value": "滑鼠靈敏度",
+    "new_key": "options.sensitivity",
+    "new_value": "靈敏度",
+    "en_us": "Sensitivity"
+  },
+  {
+    "old_key": "options.sensitivity.max",
+    "old_value": "超高速!!!",
+    "new_key": "options.sensitivity.max",
+    "new_value": "超高速！！！",
+    "en_us": "HYPERSPEED!!!"
+  },
+  {
+    "old_key": "options.sensitivity.max",
+    "old_value": "超高速!!!",
+    "new_key": "options.sensitivity.max",
+    "new_value": "超高速！！！",
+    "en_us": "HYPERSPEED!!!"
+  },
+  {
+    "old_key": "options.sounds",
+    "old_value": "音樂和音效",
+    "new_key": "options.sounds",
+    "new_value": "音樂和音效...",
+    "en_us": "Music & Sounds..."
+  },
+  {
+    "old_key": "options.sounds",
+    "old_value": "音樂和音效",
+    "new_key": "options.sounds",
+    "new_value": "音樂和音效...",
+    "en_us": "Music & Sounds..."
+  },
+  {
+    "old_key": "options.video",
+    "old_value": "顯示設定…",
+    "new_key": "options.video",
+    "new_value": "顯示設定...",
+    "en_us": "Video Settings..."
+  },
+  {
+    "old_key": "options.video",
+    "old_value": "顯示設定…",
+    "new_key": "options.video",
+    "new_value": "顯示設定...",
+    "en_us": "Video Settings..."
+  },
+  {
+    "old_key": "screenshot.failure",
+    "old_value": "無法儲存截圖： %s",
+    "new_key": "screenshot.failure",
+    "new_value": "無法儲存螢幕擷取畫面：%s",
+    "en_us": "Couldn't save screenshot: %s"
+  },
+  {
+    "old_key": "screenshot.failure",
+    "old_value": "無法儲存截圖： %s",
+    "new_key": "screenshot.failure",
+    "new_value": "無法儲存螢幕擷取畫面：%s",
+    "en_us": "Couldn't save screenshot: %s"
+  },
+  {
+    "old_key": "screenshot.success",
+    "old_value": "已截圖存檔為 %s",
+    "new_key": "screenshot.success",
+    "new_value": "已儲存螢幕擷取畫面為 %s",
+    "en_us": "Saved screenshot as %s"
+  },
+  {
+    "old_key": "screenshot.success",
+    "old_value": "已截圖存檔為 %s",
+    "new_key": "screenshot.success",
+    "new_value": "已儲存螢幕擷取畫面為 %s",
+    "en_us": "Saved screenshot as %s"
+  },
+  {
+    "old_key": "selectServer.deleteQuestion",
+    "old_value": "確定要刪除這個伺服器嗎？",
+    "new_key": "selectServer.deleteQuestion",
+    "new_value": "你確定要移除這個伺服器嗎？",
+    "en_us": "Are you sure you want to remove this server?"
+  },
+  {
+    "old_key": "selectServer.deleteQuestion",
+    "old_value": "確定要刪除這個伺服器嗎？",
+    "new_key": "selectServer.deleteQuestion",
+    "new_value": "你確定要移除這個伺服器嗎？",
+    "en_us": "Are you sure you want to remove this server?"
+  },
+  {
+    "old_key": "selectServer.hiddenAddress",
+    "old_value": "(隱藏)",
+    "new_key": "selectServer.hiddenAddress",
+    "new_value": "（隱藏）",
+    "en_us": "(Hidden)"
+  },
+  {
+    "old_key": "selectServer.hiddenAddress",
+    "old_value": "(隱藏)",
+    "new_key": "selectServer.hiddenAddress",
+    "new_value": "（隱藏）",
+    "en_us": "(Hidden)"
+  },
+  {
+    "old_key": "selectWorld.create",
+    "old_value": "創建新世界",
+    "new_key": "selectWorld.create",
+    "new_value": "建立新的世界",
+    "en_us": "Create New World"
+  },
+  {
+    "old_key": "selectWorld.create",
+    "old_value": "創建新世界",
+    "new_key": "selectWorld.create",
+    "new_value": "建立新的世界",
+    "en_us": "Create New World"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "被增加或移除",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "增加或移除方塊",
+    "en_us": "be added or removed"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "被增加或移除",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "增加或移除方塊",
+    "en_us": "be added or removed"
+  },
+  {
+    "old_key": "selectWorld.gameMode.creative.line1",
+    "old_value": "無限資源、自由飛行、",
+    "new_key": "selectWorld.gameMode.creative.line1",
+    "new_value": "無限資源、自由飛行，",
+    "en_us": "Unlimited resources, free flying and"
+  },
+  {
+    "old_key": "selectWorld.gameMode.creative.line1",
+    "old_value": "無限資源、自由飛行、",
+    "new_key": "selectWorld.gameMode.creative.line1",
+    "new_value": "無限資源、自由飛行，",
+    "en_us": "Unlimited resources, free flying and"
+  },
+  {
+    "old_key": "selectWorld.gameMode.creative.line2",
+    "old_value": "並且能夠瞬間破壞方塊",
+    "new_key": "selectWorld.gameMode.creative.line2",
+    "new_value": "而且能夠瞬間破壞方塊",
+    "en_us": "destroy blocks instantly"
+  },
+  {
+    "old_key": "selectWorld.gameMode.creative.line2",
+    "old_value": "並且能夠瞬間破壞方塊",
+    "new_key": "selectWorld.gameMode.creative.line2",
+    "new_value": "而且能夠瞬間破壞方塊",
+    "en_us": "destroy blocks instantly"
+  },
+  {
+    "old_key": "selectWorld.gameMode.hardcore.line2",
+    "old_value": "並且只有一次生命",
+    "new_key": "selectWorld.gameMode.hardcore.line2",
+    "new_value": "最高難度，而且只有一次生命",
+    "en_us": "difficulty, and one life only"
+  },
+  {
+    "old_key": "selectWorld.gameMode.hardcore.line2",
+    "old_value": "並且只有一次生命",
+    "new_key": "selectWorld.gameMode.hardcore.line2",
+    "new_value": "最高難度，而且只有一次生命",
+    "en_us": "difficulty, and one life only"
+  },
+  {
+    "old_key": "selectWorld.mapType.normal",
+    "old_value": "普通",
+    "new_key": "selectWorld.mapType.normal",
+    "new_value": "正常",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "selectWorld.mapType.normal",
+    "old_value": "普通",
+    "new_key": "selectWorld.mapType.normal",
+    "new_value": "正常",
+    "en_us": "Normal"
+  },
+  {
+    "old_key": "selectWorld.moreWorldOptions",
+    "old_value": "更多世界選項…",
+    "new_key": "selectWorld.moreWorldOptions",
+    "new_value": "更多世界選項...",
+    "en_us": "More World Options..."
+  },
+  {
+    "old_key": "selectWorld.moreWorldOptions",
+    "old_value": "更多世界選項…",
+    "new_key": "selectWorld.moreWorldOptions",
+    "new_value": "更多世界選項...",
+    "en_us": "More World Options..."
+  },
+  {
+    "old_key": "selectWorld.recreate",
+    "old_value": "重新創造",
+    "new_key": "selectWorld.recreate",
+    "new_value": "重新建立",
+    "en_us": "Re-Create"
+  },
+  {
+    "old_key": "selectWorld.recreate",
+    "old_value": "重新創造",
+    "new_key": "selectWorld.recreate",
+    "new_value": "重新建立",
+    "en_us": "Re-Create"
+  },
+  {
+    "old_key": "soundCategory.ambient",
+    "old_value": "環境音效/環境",
+    "new_key": "soundCategory.ambient",
+    "new_value": "環境音效／環境",
+    "en_us": "Ambient/Environment"
+  },
+  {
+    "old_key": "soundCategory.ambient",
+    "old_value": "環境音效/環境",
+    "new_key": "soundCategory.ambient",
+    "new_value": "環境音效／環境",
+    "en_us": "Ambient/Environment"
+  },
+  {
+    "old_key": "stat.animalsBred",
+    "old_value": "養殖動物次數",
+    "new_key": "stat.minecraft.animals_bred",
+    "new_value": "動物繁殖數",
+    "en_us": "Animals Bred"
+  },
+  {
+    "old_key": "stat.climbOneCm",
+    "old_value": "攀爬高度",
+    "new_key": "stat.minecraft.climb_one_cm",
+    "new_value": "攀爬距離",
+    "en_us": "Distance Climbed"
+  },
+  {
+    "old_key": "stat.damageDealt",
+    "old_value": "傷害總量",
+    "new_key": "stat.minecraft.damage_dealt",
+    "new_value": "造成傷害總量",
+    "en_us": "Damage Dealt"
+  },
+  {
+    "old_key": "stat.damageTaken",
+    "old_value": "總承受傷害量",
+    "new_key": "stat.minecraft.damage_taken",
+    "new_value": "承受傷害總量",
+    "en_us": "Damage Taken"
+  },
+  {
+    "old_key": "stat.entityKilledBy.none",
+    "old_value": "你沒有被%s 殺死過",
+    "new_key": "stat_type.minecraft.killed_by.none",
+    "new_value": "你沒有被%s殺死過",
+    "en_us": "You have never been killed by %s"
+  },
+  {
+    "old_key": "tile.bed.occupied",
+    "old_value": "這張床已有人使用",
+    "new_key": "block.minecraft.bed.occupied",
+    "new_value": "這張床已被占用",
+    "en_us": "This bed is occupied"
+  },
+  {
+    "old_key": "tile.bed.occupied",
+    "old_value": "這張床已有人使用",
+    "new_key": "block.minecraft.bed.occupied",
+    "new_value": "這張床已被占用",
+    "en_us": "This bed is occupied"
+  },
+  {
+    "old_key": "tile.blockCoal.name",
+    "old_value": "煤炭磚",
+    "new_key": "block.minecraft.coal_block",
+    "new_value": "煤炭方塊",
+    "en_us": "Block of Coal"
+  },
+  {
+    "old_key": "tile.blockCoal.name",
+    "old_value": "煤炭磚",
+    "new_key": "block.minecraft.coal_block",
+    "new_value": "煤炭方塊",
+    "en_us": "Block of Coal"
+  },
+  {
+    "old_key": "tile.blockDiamond.name",
+    "old_value": "鑽石磚",
+    "new_key": "block.minecraft.diamond_block",
+    "new_value": "鑽石方塊",
+    "en_us": "Block of Diamond"
+  },
+  {
+    "old_key": "tile.blockDiamond.name",
+    "old_value": "鑽石磚",
+    "new_key": "block.minecraft.diamond_block",
+    "new_value": "鑽石方塊",
+    "en_us": "Block of Diamond"
+  },
+  {
+    "old_key": "tile.blockEmerald.name",
+    "old_value": "綠寶石磚",
+    "new_key": "block.minecraft.emerald_block",
+    "new_value": "綠寶石方塊",
+    "en_us": "Block of Emerald"
+  },
+  {
+    "old_key": "tile.blockEmerald.name",
+    "old_value": "綠寶石磚",
+    "new_key": "block.minecraft.emerald_block",
+    "new_value": "綠寶石方塊",
+    "en_us": "Block of Emerald"
+  },
+  {
+    "old_key": "tile.blockGold.name",
+    "old_value": "金磚",
+    "new_key": "block.minecraft.gold_block",
+    "new_value": "黃金方塊",
+    "en_us": "Block of Gold"
+  },
+  {
+    "old_key": "tile.blockGold.name",
+    "old_value": "金磚",
+    "new_key": "block.minecraft.gold_block",
+    "new_value": "黃金方塊",
+    "en_us": "Block of Gold"
+  },
+  {
+    "old_key": "tile.blockIron.name",
+    "old_value": "鐵磚",
+    "new_key": "block.minecraft.iron_block",
+    "new_value": "鐵方塊",
+    "en_us": "Block of Iron"
+  },
+  {
+    "old_key": "tile.blockIron.name",
+    "old_value": "鐵磚",
+    "new_key": "block.minecraft.iron_block",
+    "new_value": "鐵方塊",
+    "en_us": "Block of Iron"
+  },
+  {
+    "old_key": "tile.blockRedstone.name",
+    "old_value": "紅石磚",
+    "new_key": "block.minecraft.redstone_block",
+    "new_value": "紅石方塊",
+    "en_us": "Block of Redstone"
+  },
+  {
+    "old_key": "tile.blockRedstone.name",
+    "old_value": "紅石磚",
+    "new_key": "block.minecraft.redstone_block",
+    "new_value": "紅石方塊",
+    "en_us": "Block of Redstone"
+  },
+  {
+    "old_key": "tile.clay.name",
+    "old_value": "黏土塊",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "tile.clay.name",
+    "old_value": "黏土塊",
+    "new_key": "block.minecraft.clay",
+    "new_value": "黏土",
+    "en_us": "Clay"
+  },
+  {
+    "old_key": "tile.cloth.lightBlue.name",
+    "old_value": "淺藍羊毛",
+    "new_key": "block.minecraft.light_blue_wool",
+    "new_value": "淺藍色羊毛",
+    "en_us": "Light Blue Wool"
+  },
+  {
+    "old_key": "tile.cloth.lightBlue.name",
+    "old_value": "淺藍羊毛",
+    "new_key": "block.minecraft.light_blue_wool",
+    "new_value": "淺藍色羊毛",
+    "en_us": "Light Blue Wool"
+  },
+  {
+    "old_key": "tile.cloth.lime.name",
+    "old_value": "淺綠羊毛",
+    "new_key": "block.minecraft.lime_wool",
+    "new_value": "淺綠色羊毛",
+    "en_us": "Lime Wool"
+  },
+  {
+    "old_key": "tile.cloth.lime.name",
+    "old_value": "淺綠羊毛",
+    "new_key": "block.minecraft.lime_wool",
+    "new_value": "淺綠色羊毛",
+    "en_us": "Lime Wool"
+  },
+  {
+    "old_key": "tile.cloth.magenta.name",
+    "old_value": "桃紅羊毛",
+    "new_key": "block.minecraft.magenta_wool",
+    "new_value": "洋紅色羊毛",
+    "en_us": "Magenta Wool"
+  },
+  {
+    "old_key": "tile.cloth.magenta.name",
+    "old_value": "桃紅羊毛",
+    "new_key": "block.minecraft.magenta_wool",
+    "new_value": "洋紅色羊毛",
+    "en_us": "Magenta Wool"
+  },
+  {
+    "old_key": "tile.cloth.orange.name",
+    "old_value": "橘色羊毛",
+    "new_key": "block.minecraft.orange_wool",
+    "new_value": "橙色羊毛",
+    "en_us": "Orange Wool"
+  },
+  {
+    "old_key": "tile.cloth.orange.name",
+    "old_value": "橘色羊毛",
+    "new_key": "block.minecraft.orange_wool",
+    "new_value": "橙色羊毛",
+    "en_us": "Orange Wool"
+  },
+  {
+    "old_key": "tile.cloth.pink.name",
+    "old_value": "粉紅羊毛",
+    "new_key": "block.minecraft.pink_wool",
+    "new_value": "粉紅色羊毛",
+    "en_us": "Pink Wool"
+  },
+  {
+    "old_key": "tile.cloth.pink.name",
+    "old_value": "粉紅羊毛",
+    "new_key": "block.minecraft.pink_wool",
+    "new_value": "粉紅色羊毛",
+    "en_us": "Pink Wool"
+  },
+  {
+    "old_key": "tile.cobbleWall.mossy.name",
+    "old_value": "青苔石牆",
+    "new_key": "block.minecraft.mossy_cobblestone_wall",
+    "new_value": "青苔鵝卵石牆",
+    "en_us": "Mossy Cobblestone Wall"
+  },
+  {
+    "old_key": "tile.cobbleWall.mossy.name",
+    "old_value": "青苔石牆",
+    "new_key": "block.minecraft.mossy_cobblestone_wall",
+    "new_value": "青苔鵝卵石牆",
+    "en_us": "Mossy Cobblestone Wall"
+  },
+  {
+    "old_key": "tile.detectorRail.name",
+    "old_value": "壓力鐵軌",
+    "new_key": "block.minecraft.detector_rail",
+    "new_value": "感測鐵軌",
+    "en_us": "Detector Rail"
+  },
+  {
+    "old_key": "tile.detectorRail.name",
+    "old_value": "壓力鐵軌",
+    "new_key": "block.minecraft.detector_rail",
+    "new_value": "感測鐵軌",
+    "en_us": "Detector Rail"
+  },
+  {
+    "old_key": "tile.fenceIron.name",
+    "old_value": "鐵欄杆",
+    "new_key": "block.minecraft.iron_bars",
+    "new_value": "鐵柵欄",
+    "en_us": "Iron Bars"
+  },
+  {
+    "old_key": "tile.fenceIron.name",
+    "old_value": "鐵欄杆",
+    "new_key": "block.minecraft.iron_bars",
+    "new_value": "鐵柵欄",
+    "en_us": "Iron Bars"
+  },
+  {
+    "old_key": "tile.flower2.tulipOrange.name",
+    "old_value": "橘色鬱金香",
+    "new_key": "block.minecraft.orange_tulip",
+    "new_value": "橙色鬱金香",
+    "en_us": "Orange Tulip"
+  },
+  {
+    "old_key": "tile.flower2.tulipOrange.name",
+    "old_value": "橘色鬱金香",
+    "new_key": "block.minecraft.orange_tulip",
+    "new_value": "橙色鬱金香",
+    "en_us": "Orange Tulip"
+  },
+  {
+    "old_key": "tile.lava.name",
+    "old_value": "岩漿",
+    "new_key": "block.minecraft.lava",
+    "new_value": "熔岩",
+    "en_us": "Lava"
+  },
+  {
+    "old_key": "tile.lava.name",
+    "old_value": "岩漿",
+    "new_key": "block.minecraft.lava",
+    "new_value": "熔岩",
+    "en_us": "Lava"
+  },
+  {
+    "old_key": "tile.melon.name",
+    "old_value": "西瓜磚",
+    "new_key": "block.minecraft.melon",
+    "new_value": "西瓜",
+    "en_us": "Melon"
+  },
+  {
+    "old_key": "tile.melon.name",
+    "old_value": "西瓜磚",
+    "new_key": "block.minecraft.melon",
+    "new_value": "西瓜",
+    "en_us": "Melon"
+  },
+  {
+    "old_key": "tile.netherFence.name",
+    "old_value": "地獄柵欄",
+    "new_key": "block.minecraft.nether_brick_fence",
+    "new_value": "地獄磚柵欄",
+    "en_us": "Nether Brick Fence"
+  },
+  {
+    "old_key": "tile.netherFence.name",
+    "old_value": "地獄柵欄",
+    "new_key": "block.minecraft.nether_brick_fence",
+    "new_value": "地獄磚柵欄",
+    "en_us": "Nether Brick Fence"
+  },
+  {
+    "old_key": "tile.quartzBlock.chiseled.name",
+    "old_value": "浮雕石英磚",
+    "new_key": "block.minecraft.chiseled_quartz_block",
+    "new_value": "浮雕石英方塊",
+    "en_us": "Chiseled Quartz Block"
+  },
+  {
+    "old_key": "tile.quartzBlock.chiseled.name",
+    "old_value": "浮雕石英磚",
+    "new_key": "block.minecraft.chiseled_quartz_block",
+    "new_value": "浮雕石英方塊",
+    "en_us": "Chiseled Quartz Block"
+  },
+  {
+    "old_key": "tile.quartzBlock.default.name",
+    "old_value": "石英磚",
+    "new_key": "block.minecraft.quartz_block",
+    "new_value": "石英方塊",
+    "en_us": "Block of Quartz"
+  },
+  {
+    "old_key": "tile.quartzBlock.default.name",
+    "old_value": "石英磚",
+    "new_key": "block.minecraft.quartz_block",
+    "new_value": "石英方塊",
+    "en_us": "Block of Quartz"
+  },
+  {
+    "old_key": "tile.stainedGlass.magenta.name",
+    "old_value": "桃紅色玻璃",
+    "new_key": "block.minecraft.magenta_stained_glass",
+    "new_value": "洋紅色玻璃",
+    "en_us": "Magenta Stained Glass"
+  },
+  {
+    "old_key": "tile.stainedGlass.magenta.name",
+    "old_value": "桃紅色玻璃",
+    "new_key": "block.minecraft.magenta_stained_glass",
+    "new_value": "洋紅色玻璃",
+    "en_us": "Magenta Stained Glass"
+  },
+  {
+    "old_key": "tile.stainedGlass.orange.name",
+    "old_value": "橘色玻璃",
+    "new_key": "block.minecraft.orange_stained_glass",
+    "new_value": "橙色玻璃",
+    "en_us": "Orange Stained Glass"
+  },
+  {
+    "old_key": "tile.stainedGlass.orange.name",
+    "old_value": "橘色玻璃",
+    "new_key": "block.minecraft.orange_stained_glass",
+    "new_value": "橙色玻璃",
+    "en_us": "Orange Stained Glass"
+  },
+  {
+    "old_key": "tile.stairsSandStone.name",
+    "old_value": "砂岩樓梯",
+    "new_key": "block.minecraft.sandstone_stairs",
+    "new_value": "砂岩階梯",
+    "en_us": "Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stairsSandStone.name",
+    "old_value": "砂岩樓梯",
+    "new_key": "block.minecraft.sandstone_stairs",
+    "new_value": "砂岩階梯",
+    "en_us": "Sandstone Stairs"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.cracked.name",
+    "old_value": "裂石磚",
+    "new_key": "block.minecraft.cracked_stone_bricks",
+    "new_value": "裂紋石磚",
+    "en_us": "Cracked Stone Bricks"
+  },
+  {
+    "old_key": "tile.stonebricksmooth.cracked.name",
+    "old_value": "裂石磚",
+    "new_key": "block.minecraft.cracked_stone_bricks",
+    "new_value": "裂紋石磚",
+    "en_us": "Cracked Stone Bricks"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.magenta.name",
+    "old_value": "洋紅玻璃片",
+    "new_key": "block.minecraft.magenta_stained_glass_pane",
+    "new_value": "洋紅色玻璃片",
+    "en_us": "Magenta Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.magenta.name",
+    "old_value": "洋紅玻璃片",
+    "new_key": "block.minecraft.magenta_stained_glass_pane",
+    "new_value": "洋紅色玻璃片",
+    "en_us": "Magenta Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.orange.name",
+    "old_value": "橘色玻璃片",
+    "new_key": "block.minecraft.orange_stained_glass_pane",
+    "new_value": "橙色玻璃片",
+    "en_us": "Orange Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.orange.name",
+    "old_value": "橘色玻璃片",
+    "new_key": "block.minecraft.orange_stained_glass_pane",
+    "new_value": "橙色玻璃片",
+    "en_us": "Orange Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.pink.name",
+    "old_value": "粉紅玻璃片",
+    "new_key": "block.minecraft.pink_stained_glass_pane",
+    "new_value": "粉紅色玻璃片",
+    "en_us": "Pink Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.pink.name",
+    "old_value": "粉紅玻璃片",
+    "new_key": "block.minecraft.pink_stained_glass_pane",
+    "new_value": "粉紅色玻璃片",
+    "en_us": "Pink Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.silver.name",
+    "old_value": "淡灰玻璃片",
+    "new_key": "block.minecraft.light_gray_stained_glass_pane",
+    "new_value": "淺灰色玻璃片",
+    "en_us": "Light Gray Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.thinStainedGlass.silver.name",
+    "old_value": "淡灰玻璃片",
+    "new_key": "block.minecraft.light_gray_stained_glass_pane",
+    "new_value": "淺灰色玻璃片",
+    "en_us": "Light Gray Stained Glass Pane"
+  },
+  {
+    "old_key": "tile.woolCarpet.lime.name",
+    "old_value": "萊姆綠地毯",
+    "new_key": "block.minecraft.lime_carpet",
+    "new_value": "淺綠色地毯",
+    "en_us": "Lime Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.lime.name",
+    "old_value": "萊姆綠地毯",
+    "new_key": "block.minecraft.lime_carpet",
+    "new_value": "淺綠色地毯",
+    "en_us": "Lime Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.magenta.name",
+    "old_value": "洋紅地毯",
+    "new_key": "block.minecraft.magenta_carpet",
+    "new_value": "洋紅色地毯",
+    "en_us": "Magenta Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.magenta.name",
+    "old_value": "洋紅地毯",
+    "new_key": "block.minecraft.magenta_carpet",
+    "new_value": "洋紅色地毯",
+    "en_us": "Magenta Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.orange.name",
+    "old_value": "橘色地毯",
+    "new_key": "block.minecraft.orange_carpet",
+    "new_value": "橙色地毯",
+    "en_us": "Orange Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.orange.name",
+    "old_value": "橘色地毯",
+    "new_key": "block.minecraft.orange_carpet",
+    "new_value": "橙色地毯",
+    "en_us": "Orange Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.pink.name",
+    "old_value": "粉紅地毯",
+    "new_key": "block.minecraft.pink_carpet",
+    "new_value": "粉紅色地毯",
+    "en_us": "Pink Carpet"
+  },
+  {
+    "old_key": "tile.woolCarpet.pink.name",
+    "old_value": "粉紅地毯",
+    "new_key": "block.minecraft.pink_carpet",
+    "new_value": "粉紅色地毯",
+    "en_us": "Pink Carpet"
+  },
+  {
+    "old_key": "translation.test.complex",
+    "old_value": "前期修正 的 2$ s 再次 %s 和 %1$s 最後 %s 和 %1$s 再次 ！",
+    "new_key": "translation.test.complex",
+    "new_value": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!",
+    "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
+  },
+  {
+    "old_key": "translation.test.complex",
+    "old_value": "前期修正 的 2$ s 再次 %s 和 %1$s 最後 %s 和 %1$s 再次 ！",
+    "new_key": "translation.test.complex",
+    "new_value": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!",
+    "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
+  },
+  {
+    "old_key": "translation.test.invalid",
+    "old_value": "% 你好",
+    "new_key": "translation.test.invalid",
+    "new_value": " % 你好",
+    "en_us": "hi %"
+  },
+  {
+    "old_key": "translation.test.invalid",
+    "old_value": "% 你好",
+    "new_key": "translation.test.invalid",
+    "new_value": " % 你好",
+    "en_us": "hi %"
+  },
+  {
+    "old_key": "translation.test.none",
+    "old_value": "世界，你好！",
+    "new_key": "translation.test.none",
+    "new_value": "你好，世界！",
+    "en_us": "Hello, world!"
+  },
+  {
+    "old_key": "translation.test.none",
+    "old_value": "世界，你好！",
+    "new_key": "translation.test.none",
+    "new_value": "你好，世界！",
+    "en_us": "Hello, world!"
+  },
+  {
+    "old_key": "tile.log.acacia.name",
+    "old_value": "相思原木",
+    "new_key": "block.minecraft.acacia_wood",
+    "new_value": "相思木塊",
+    "en_us": "Acacia Wood"
+  },
+  {
+    "old_key": "tile.log.birch.name",
+    "old_value": "樺木原木",
+    "new_key": "block.minecraft.birch_wood",
+    "new_value": "樺木塊",
+    "en_us": "Birch Wood"
+  },
+  {
+    "old_key": "tile.log.big_oak.name",
+    "old_value": "黑橡木原木",
+    "new_key": "block.minecraft.dark_oak_wood",
+    "new_value": "黑橡木塊",
+    "en_us": "Dark Oak Wood"
+  },
+  {
+    "old_key": "tile.log.jungle.name",
+    "old_value": "叢林原木",
+    "new_key": "block.minecraft.jungle_wood",
+    "new_value": "叢林木塊",
+    "en_us": "Jungle Wood"
+  },
+  {
+    "old_key": "tile.log.oak.name",
+    "old_value": "橡木原木",
+    "new_key": "block.minecraft.oak_wood",
+    "new_value": "橡木塊",
+    "en_us": "Oak Wood"
+  },
+  {
+    "old_key": "item.skull.player.name",
+    "old_value": "%s的頭顱",
+    "new_key": "block.minecraft.player_head.named",
+    "new_value": "%s 的頭顱",
+    "en_us": "%s's Head"
+  },
+  {
+    "old_key": "tile.log.spruce.name",
+    "old_value": "杉木原木",
+    "new_key": "block.minecraft.spruce_wood",
+    "new_value": "杉木塊",
+    "en_us": "Spruce Wood"
+  },
+  {
+    "old_key": "tile.stairsStone.name",
+    "old_value": "石樓梯",
+    "new_key": "block.minecraft.stone_stairs",
+    "new_value": "石頭階梯",
+    "en_us": "Stone Stairs"
+  },
+  {
+    "old_key": "item.skull.wither.name",
+    "old_value": "凋靈骷髏頭顱",
+    "new_key": "block.minecraft.wither_skeleton_skull",
+    "new_value": "凋零骷髏頭顱",
+    "en_us": "Wither Skeleton Skull"
+  },
+  {
+    "old_key": "commands.gamemode.success.other",
+    "old_value": "將 %s 的遊戲模式切換為 %s",
+    "new_key": "commands.gamemode.success.other",
+    "new_value": "已將 %s 的遊戲模式切換為 %s",
+    "en_us": "Set %s's game mode to %s"
+  },
+  {
+    "old_key": "commands.gamemode.success.self",
+    "old_value": "將自己的遊戲模式切換至 %s 。",
+    "new_key": "commands.gamemode.success.self",
+    "new_value": "已將自己的遊戲模式切換為 %s",
+    "en_us": "Set own game mode to %s"
+  },
+  {
+    "old_key": "commands.message.display.incoming",
+    "old_value": "%s 悄悄對您說： %s",
+    "new_key": "commands.message.display.incoming",
+    "new_value": "%s 悄悄對您說：%s",
+    "en_us": "%s whispers to you: %s"
+  },
+  {
+    "old_key": "commands.message.display.outgoing",
+    "old_value": "您悄悄對%s說：%s",
+    "new_key": "commands.message.display.outgoing",
+    "new_value": "您悄悄對 %s 說：%s",
+    "en_us": "You whisper to %s: %s"
+  },
+  {
+    "old_key": "commands.publish.failed",
+    "old_value": "無法將此本機遊戲公開",
+    "new_key": "commands.publish.failed",
+    "new_value": "無法公開遊戲至區域網",
+    "en_us": "Unable to host local game"
+  },
+  {
+    "old_key": "commands.publish.started",
+    "old_value": "已在 %s 網路埠上發佈本機遊戲",
+    "new_key": "commands.publish.started",
+    "new_value": "已在 %s 連接埠上發布本機遊戲",
+    "en_us": "Local game hosted on port %s"
+  },
+  {
+    "old_key": "commands.whitelist.add.success",
+    "old_value": "將 %s 加入白名單",
+    "new_key": "commands.whitelist.add.success",
+    "new_value": "已新增 %s 到白名單",
+    "en_us": "Added %s to the whitelist"
+  },
+  {
+    "old_key": "commands.whitelist.reloaded",
+    "old_value": "重新讀取白名單",
+    "new_key": "commands.whitelist.reloaded",
+    "new_value": "已重新載入白名單",
+    "en_us": "Reloaded the whitelist"
+  },
+  {
+    "old_key": "commands.whitelist.remove.success",
+    "old_value": "將 %s 從白名單中移除",
+    "new_key": "commands.whitelist.remove.success",
+    "new_value": "已將 %s 從白名單中移除",
+    "en_us": "Removed %s from the whitelist"
+  }
+]

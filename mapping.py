@@ -28,6 +28,8 @@ PREFIX_MAP: list[tuple[str, str | tuple[str, ...]]] = [
     ("enchantment.minecraft.", "enchantment."),
 ]
 
+mappings = json.loads((DATA_DIR / "mapping.json").read_text(encoding="utf-8"))
+
 
 async def load_lang_file(file_paths: list[Path]) -> list[LanguageData]:
     """Load multiple .json or .lang files into dictionaries asynchronously.
@@ -72,70 +74,72 @@ async def load_lang_file(file_paths: list[Path]) -> list[LanguageData]:
 
 def map_new_to_old_keys(
     sources: tuple[LanguageData, LanguageData], format_type: str
-) -> LanguageMap:
-    """Map new translation keys to old ones based on identical source language values.
+) -> tuple[LanguageMap, LanguageMap]:
+    """Map new translation keys to old ones, split by whether the original text matches.
 
     Args:
-        sources (tuple[LanguageData, LanguageData]): Tuple of (new_source, old_source) translations.
-        format_type (str): Format of old translation file (`lang` or `json`).
+        sources (tuple[LanguageData, LanguageData]): Tuple containing new and old translation data.
+        format_type (str): Format of the translation files, either "json" or "lang".
 
     Returns:
-        LanguageMap: A dictionary mapping new keys to lists of corresponding old keys.
+        (same_map, diff_map):
+            same_map: Mapping of keys where the original text is the same.
+            diff_map: Mapping of keys where the original text is different.
     """
     new_source, old_source = sources
 
-    def check_key_format(new_key: str, old_key: str) -> bool:
-        """Check if the new translation key and old translation key are compatible in format.
+    same_map: LanguageMap = {}
+    diff_map: LanguageMap = {}
 
-        Args:
-            new_key (str): The translation key from the new version.
-            old_key (str): The translation key from the old version.
+    if format_type == "json":
+        for new_key, new_val in new_source.items():
+            if new_key in old_source:
+                if old_source[new_key] == new_val:
+                    same_map.setdefault(new_key, []).append(new_key)
+                else:
+                    diff_map.setdefault(new_key, []).append(new_key)
+        return same_map, diff_map
 
-        Returns:
-            bool: True if the keys are considered format-compatible, False otherwise.
-        """
-        if format_type == "json":
-            return new_key == old_key
+    # 1. Direct mapping
+    for old_key, new_key in mappings.items():
+        if new_key in new_source and old_key in old_source:
+            if new_source[new_key] == old_source[old_key]:
+                same_map.setdefault(new_key, []).append(old_key)
+            else:
+                diff_map.setdefault(new_key, []).append(old_key)
 
-        # For .lang, allow mapping if prefix rules match or keys are identical
-        return (
-            any(
-                new_key.startswith(new_prefix)
-                and (
-                    old_key.startswith(old_prefix)
-                    if isinstance(old_prefix, str)
-                    else any(old_key.startswith(p) for p in old_prefix)
-                )
-                for new_prefix, old_prefix in PREFIX_MAP
-            )
-            or new_key == old_key
-        )
-
-    # Build a mapping from translation value to old keys
-    value_to_old_key: LanguageMap = {}
-    for k, v in old_source.items():
-        value_to_old_key.setdefault(v, []).append(k)
-
-    mapping: LanguageMap = {}
-    value_set = set(value_to_old_key.keys())
-
-    # For each new key, find matching old keys by value and format
+    # 2. Prefix-related mappings
     for new_key, new_val in new_source.items():
-        if new_val in value_set:
-            for old_key in value_to_old_key[new_val]:
-                if check_key_format(new_key, old_key):
-                    mapping.setdefault(new_key, []).append(old_key)
-    return mapping
+        for old_key, old_val in old_source.items():
+            if new_val == old_val:
+                for new_prefix, old_prefix in PREFIX_MAP:
+                    if new_key.startswith(new_prefix):
+                        if isinstance(old_prefix, str):
+                            if old_key.startswith(old_prefix):
+                                same_map.setdefault(new_key, []).append(old_key)
+                        else:
+                            if any(old_key.startswith(p) for p in old_prefix):
+                                same_map.setdefault(new_key, []).append(old_key)
+                if new_key == old_key:
+                    same_map.setdefault(new_key, []).append(old_key)
+    return same_map, diff_map
 
 
 async def find_changed_translations(
-    source: tuple[Path, Path], target: tuple[Path, Path]
+    source: tuple[Path, Path],
+    target: tuple[Path, Path],
+    manually_check_path: Path | None = None,
+    summary_path: Path | None = None,
 ) -> LanguageData:
     """Find translations that changed between versions asynchronously.
 
     Args:
         source (tuple[Path, Path]): Paths to (new_source, old_source) translation files.
         target (tuple[Path, Path]): Paths to (new_target, old_target) translation files.
+        manually_check_path (Path | None): Path to save entries that require manual checking,
+            or None to skip saving.
+        summary_path (Path | None): Path to save summary entries (original text same but
+            translation different), or None to skip saving.
 
     Returns:
         LanguageData: Dictionary of old keys and their updated translations.
@@ -147,19 +151,71 @@ async def find_changed_translations(
     new_source, new_target, old_source, old_target = await load_lang_file(all_files)
 
     old_format = "lang" if old_source_path.suffix == ".lang" else "json"
-    mapping = map_new_to_old_keys((new_source, old_source), old_format)
+    same_map, diff_map = map_new_to_old_keys((new_source, old_source), old_format)
     result: LanguageData = {}
-    for new_key, old_keys in mapping.items():
+    manually_check: list = []
+    summary: list = []
+
+    # Original text same
+    for new_key, old_keys in same_map.items():
         new_translation = new_target.get(new_key)
+        new_en_us = new_source.get(new_key)
         for old_key in old_keys:
             old_translation = old_target.get(old_key)
-            # Only record changed translations
             if (
                 new_translation is not None
                 and old_translation is not None
                 and new_translation != old_translation
             ):
+                summary.append(
+                    {
+                        "old_key": old_key,
+                        "old_value": old_translation,
+                        "new_key": new_key,
+                        "new_value": new_translation,
+                        "en_us": new_en_us,
+                    }
+                )
                 result[old_key] = new_translation
+
+    # Original text different
+    for new_key, old_keys in diff_map.items():
+        new_translation = new_target.get(new_key)
+        new_en_us = new_source.get(new_key)
+        for old_key in old_keys:
+            old_translation = old_target.get(old_key)
+            old_en_us = old_source.get(old_key)
+            if (
+                new_translation is not None
+                and old_translation is not None
+                and new_translation != old_translation
+            ):
+                manually_check.append(
+                    {
+                        "old_key": old_key,
+                        "old_value": old_translation,
+                        "old_en_us": old_en_us,
+                        "new_key": new_key,
+                        "new_value": new_translation,
+                        "new_en_us": new_en_us,
+                    }
+                )
+                result[old_key] = new_translation
+
+    if manually_check_path is not None and manually_check:
+        async with aiofiles.open(manually_check_path, "w", encoding="utf-8", newline="\n") as f:
+            content = json.dumps(
+                manually_check,
+                option=json.OPT_INDENT_2,
+            ).decode("utf-8")
+            await f.write(content)
+    if summary_path is not None and summary:
+        async with aiofiles.open(summary_path, "w", encoding="utf-8", newline="\n") as f:
+            content = json.dumps(
+                summary,
+                option=json.OPT_INDENT_2,
+            ).decode("utf-8")
+            await f.write(content)
     return result
 
 
@@ -221,16 +277,24 @@ async def process_version(version: str) -> None:
             Path(f"{version_data_dir}/{variant}{format_suffix}"),
         ]
 
-        # Find changed translations for this variant
-        changed = await find_changed_translations(
-            source=(files[0], files[1]), target=(files[2], files[3])
-        )
-
         output_path = version_output_dir / f"{variant}{format_suffix}"
+        manually_check_dir = version_output_dir / "manually_check"
+        manually_check_dir.mkdir(parents=True, exist_ok=True)
+        manually_check_path = manually_check_dir / f"{variant}.json"
+        summary_dir = version_output_dir / "summary"
+        summary_dir.mkdir(parents=True, exist_ok=True)
+        summary_path = summary_dir / f"{variant}.json"
+
+        changed = await find_changed_translations(
+            source=(files[0], files[1]),
+            target=(files[2], files[3]),
+            manually_check_path=manually_check_path,
+            summary_path=summary_path,
+        )
         if format_suffix == ".lang":
-            tasks.append(save_lang_file(changed, output_path))
+            tasks.append(asyncio.create_task(save_lang_file(changed, output_path)))
         else:
-            tasks.append(save_json_file(changed, output_path))
+            tasks.append(asyncio.create_task(save_json_file(changed, output_path)))
 
     await asyncio.gather(*tasks)
     elapsed_time = time.time() - start_time

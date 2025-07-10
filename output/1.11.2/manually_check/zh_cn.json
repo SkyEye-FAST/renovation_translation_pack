@@ -1,0 +1,978 @@
+[
+  {
+    "old_key": "build.tooHigh",
+    "old_value": "建筑高度限制是%s个方块",
+    "old_en_us": "Height limit for building is %s blocks",
+    "new_key": "build.tooHigh",
+    "new_value": "建筑高度限制是%s",
+    "new_en_us": "Height limit for building is %s"
+  },
+  {
+    "old_key": "death.attack.dragonBreath",
+    "old_value": "%1$s被龙之吐息所烤焦",
+    "old_en_us": "%1$s was roasted in dragon breath",
+    "new_key": "death.attack.dragonBreath",
+    "new_value": "%1$s被龙息烤熟了",
+    "new_en_us": "%1$s was roasted in dragon's breath"
+  },
+  {
+    "old_key": "death.attack.onFire.player",
+    "old_value": "%1$s在试图与%2$s战斗时被烤得酥脆",
+    "old_en_us": "%1$s was burnt to a crisp whilst fighting %2$s",
+    "new_key": "death.attack.onFire.player",
+    "new_value": "%1$s在与%2$s战斗时被烤得酥脆",
+    "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
+  },
+  {
+    "old_key": "deathScreen.titleScreen",
+    "old_value": "标题画面",
+    "old_en_us": "Title screen",
+    "new_key": "deathScreen.titleScreen",
+    "new_value": "标题屏幕",
+    "new_en_us": "Title Screen"
+  },
+  {
+    "old_key": "debug.creative_spectator.help",
+    "old_value": "F3 + N = 在创造和旁观模式间切换",
+    "old_en_us": "F3 + N = Cycle creative <-> spectator",
+    "new_key": "debug.creative_spectator.help",
+    "new_value": "F3 + N = 在上一个模式和旁观模式间切换",
+    "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
+  },
+  {
+    "old_key": "demo.day.1",
+    "old_value": "此试玩版只有5天游戏内时间，尽力而为吧！",
+    "old_en_us": "This demo will last five game days, do your best!",
+    "new_key": "demo.day.1",
+    "new_value": "此试玩版会在5个游戏日后结束，尽力而为吧！",
+    "new_en_us": "This demo will last five game days. Do your best!"
+  },
+  {
+    "old_key": "demo.day.6",
+    "old_value": "您已经度过了5天的试玩时间，按F2来截图留念",
+    "old_en_us": "You have passed your fifth day, use F2 to save a screenshot of your creation",
+    "new_key": "demo.day.6",
+    "new_value": "你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。",
+    "new_en_us": "You have passed your fifth day. Use %s to save a screenshot of your creation."
+  },
+  {
+    "old_key": "demo.help.fullWrapped",
+    "old_value": "这个试玩将会持续游戏内5天的时间（现实时间大约为1小时40分钟）。查看成就来获得提示！祝您玩得开心！",
+    "old_en_us": "This demo will last 5 ingame days (about 1 hour and 40 minutes of real time). Check the achievements for hints! Have fun!",
+    "new_key": "demo.help.fullWrapped",
+    "new_value": "这个试玩将会持续游戏内5天的时间（现实时间大约为1小时40分钟）。查看进度来获得提示！祝你玩得开心！",
+    "new_en_us": "This demo will last 5 in-game days (about 1 hour and 40 minutes of real time). Check the advancements for hints! Have fun!"
+  },
+  {
+    "old_key": "demo.help.movement",
+    "old_value": "按%1$s，%2$s，%3$s，%4$s以及鼠标来移动",
+    "old_en_us": "Use %1$s, %2$s, %3$s, %4$s and the mouse to move around",
+    "new_key": "demo.help.movement",
+    "new_value": "使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动",
+    "new_en_us": "Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around"
+  },
+  {
+    "old_key": "demo.help.movementShort",
+    "old_value": "通过按下%1$s，%2$s，%3$s，%4$s来移动",
+    "old_en_us": "Move by pressing %1$s, %2$s, %3$s, %4$s",
+    "new_key": "demo.help.movementShort",
+    "new_value": "通过按下%1$s、%2$s、%3$s、%4$s来移动",
+    "new_en_us": "Move by pressing the %1$s, %2$s, %3$s, %4$s keys"
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo",
+    "old_value": "登入失败：%s",
+    "old_en_us": "Failed to login: %s",
+    "new_key": "disconnect.loginFailedInfo",
+    "new_value": "登录失败：%s",
+    "new_en_us": "Failed to log in: %s"
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo.invalidSession",
+    "old_value": "无效的会话（请尝试重启你的游戏）",
+    "old_en_us": "Invalid session (Try restarting your game)",
+    "new_key": "disconnect.loginFailedInfo.invalidSession",
+    "new_value": "无效会话（请尝试重启游戏及启动器）",
+    "new_en_us": "Invalid session (Try restarting your game and the launcher)"
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo.serversUnavailable",
+    "old_value": "身份验证目前正在停机维护。",
+    "old_en_us": "The authentication servers are currently down for maintenance.",
+    "new_key": "disconnect.loginFailedInfo.serversUnavailable",
+    "new_value": "暂时无法连接到身份验证服务器，请稍后再试。",
+    "new_en_us": "The authentication servers are currently not reachable. Please try again."
+  },
+  {
+    "old_key": "entity.PrimedTnt.name",
+    "old_value": "TNT方块",
+    "old_en_us": "Block of TNT",
+    "new_key": "entity.minecraft.tnt",
+    "new_value": "被激活的TNT",
+    "new_en_us": "Primed TNT"
+  },
+  {
+    "old_key": "entity.Villager.tool",
+    "old_value": "工具商",
+    "old_en_us": "Tool Smith",
+    "new_key": "entity.minecraft.villager.toolsmith",
+    "new_value": "工具匠",
+    "new_en_us": "Toolsmith"
+  },
+  {
+    "old_key": "entity.Villager.weapon",
+    "old_value": "武器商",
+    "old_en_us": "Weapon Smith",
+    "new_key": "entity.minecraft.villager.weaponsmith",
+    "new_value": "武器匠",
+    "new_en_us": "Weaponsmith"
+  },
+  {
+    "old_key": "gameMode.hardcore",
+    "old_value": "极限模式！",
+    "old_en_us": "Hardcore Mode!",
+    "new_key": "gameMode.hardcore",
+    "new_value": "极限模式",
+    "new_en_us": "Hardcore Mode"
+  },
+  {
+    "old_key": "generator.customized",
+    "old_value": "自定义",
+    "old_en_us": "Customized",
+    "new_key": "generator.customized",
+    "new_value": "旧版自定义",
+    "new_en_us": "Old Customized"
+  },
+  {
+    "old_key": "gui.toMenu",
+    "old_value": "回到服务器列表",
+    "old_en_us": "Back to server list",
+    "new_key": "gui.toMenu",
+    "new_value": "返回到服务器列表",
+    "new_en_us": "Back to Server List"
+  },
+  {
+    "old_key": "gui.toTitle",
+    "old_value": "回到标题画面",
+    "old_en_us": "Back to title screen",
+    "new_key": "gui.toTitle",
+    "new_value": "返回到标题屏幕",
+    "new_en_us": "Back to Title Screen"
+  },
+  {
+    "old_key": "item.clay.name",
+    "old_value": "粘土",
+    "old_en_us": "Clay",
+    "new_key": "item.minecraft.clay_ball",
+    "new_value": "黏土球",
+    "new_en_us": "Clay Ball"
+  },
+  {
+    "old_key": "item.dyePowder.green.name",
+    "old_value": "仙人掌绿",
+    "old_en_us": "Cactus Green",
+    "new_key": "item.minecraft.green_dye",
+    "new_value": "绿色染料",
+    "new_en_us": "Green Dye"
+  },
+  {
+    "old_key": "item.dyePowder.red.name",
+    "old_value": "玫瑰红",
+    "old_en_us": "Rose Red",
+    "new_key": "item.minecraft.red_dye",
+    "new_value": "红色染料",
+    "new_en_us": "Red Dye"
+  },
+  {
+    "old_key": "item.dyePowder.yellow.name",
+    "old_value": "蒲公英黄",
+    "old_en_us": "Dandelion Yellow",
+    "new_key": "item.minecraft.yellow_dye",
+    "new_value": "黄色染料",
+    "new_en_us": "Yellow Dye"
+  },
+  {
+    "old_key": "item.fish.clownfish.raw.name",
+    "old_value": "小丑鱼",
+    "old_en_us": "Clownfish",
+    "new_key": "item.minecraft.tropical_fish",
+    "new_value": "热带鱼",
+    "new_en_us": "Tropical Fish"
+  },
+  {
+    "old_key": "item.fish.cod.cooked.name",
+    "old_value": "熟鱼",
+    "old_en_us": "Cooked Fish",
+    "new_key": "item.minecraft.cooked_cod",
+    "new_value": "熟鳕鱼",
+    "new_en_us": "Cooked Cod"
+  },
+  {
+    "old_key": "item.fish.cod.raw.name",
+    "old_value": "生鱼",
+    "old_en_us": "Raw Fish",
+    "new_key": "item.minecraft.cod",
+    "new_value": "生鳕鱼",
+    "new_en_us": "Raw Cod"
+  },
+  {
+    "old_key": "item.map.name",
+    "old_value": "地图",
+    "old_en_us": "Map",
+    "new_key": "item.minecraft.map",
+    "new_value": "空地图",
+    "new_en_us": "Empty Map"
+  },
+  {
+    "old_key": "item.melon.name",
+    "old_value": "西瓜",
+    "old_en_us": "Melon",
+    "new_key": "item.minecraft.melon_slice",
+    "new_value": "西瓜片",
+    "new_en_us": "Melon Slice"
+  },
+  {
+    "old_key": "item.milk.name",
+    "old_value": "牛奶",
+    "old_en_us": "Milk",
+    "new_key": "item.minecraft.milk_bucket",
+    "new_value": "奶桶",
+    "new_en_us": "Milk Bucket"
+  },
+  {
+    "old_key": "item.redstone.name",
+    "old_value": "红石",
+    "old_en_us": "Redstone",
+    "new_key": "item.minecraft.redstone",
+    "new_value": "红石粉",
+    "new_en_us": "Redstone Dust"
+  },
+  {
+    "old_key": "item.skull.player.name",
+    "old_value": "%s的头",
+    "old_en_us": "%s's Head",
+    "new_key": "block.minecraft.player_head",
+    "new_value": "玩家的头",
+    "new_en_us": "Player Head"
+  },
+  {
+    "old_key": "item.speckledMelon.name",
+    "old_value": "闪烁的西瓜",
+    "old_en_us": "Glistering Melon",
+    "new_key": "item.minecraft.glistering_melon_slice",
+    "new_value": "闪烁的西瓜片",
+    "new_en_us": "Glistering Melon Slice"
+  },
+  {
+    "old_key": "itemGroup.redstone",
+    "old_value": "红石",
+    "old_en_us": "Redstone",
+    "new_key": "itemGroup.redstone",
+    "new_value": "红石方块",
+    "new_en_us": "Redstone Blocks"
+  },
+  {
+    "old_key": "itemGroup.tools",
+    "old_value": "工具",
+    "old_en_us": "Tools",
+    "new_key": "itemGroup.tools",
+    "new_value": "工具与实用物品",
+    "new_en_us": "Tools & Utilities"
+  },
+  {
+    "old_key": "multiplayer.downloadingStats",
+    "old_value": "正在下载统计和成就中…",
+    "old_en_us": "Downloading statistics & achievements...",
+    "new_key": "multiplayer.downloadingStats",
+    "new_value": "正在获取统计信息…",
+    "new_en_us": "Retrieving statistics..."
+  },
+  {
+    "old_key": "multiplayer.downloadingTerrain",
+    "old_value": "加载地形中",
+    "old_en_us": "Loading terrain",
+    "new_key": "multiplayer.downloadingTerrain",
+    "new_value": "加载地形中…",
+    "new_en_us": "Loading terrain..."
+  },
+  {
+    "old_key": "options.chat.opacity",
+    "old_value": "透明度",
+    "old_en_us": "Opacity",
+    "new_key": "options.chat.opacity",
+    "new_value": "聊天文本不透明度",
+    "new_en_us": "Chat Text Opacity"
+  },
+  {
+    "old_key": "options.chat.scale",
+    "old_value": "比例",
+    "old_en_us": "Scale",
+    "new_key": "options.chat.scale",
+    "new_value": "聊天文本大小",
+    "new_en_us": "Chat Text Size"
+  },
+  {
+    "old_key": "options.chat.title",
+    "old_value": "聊天设置...",
+    "old_en_us": "Chat Settings...",
+    "new_key": "options.chat.title",
+    "new_value": "聊天设置",
+    "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.realmsNotifications",
+    "old_value": "Realms的通知",
+    "old_en_us": "Realms Notifications",
+    "new_key": "options.realmsNotifications",
+    "new_value": "Realms新闻与邀请",
+    "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.vsync",
+    "old_value": "使用垂直同步",
+    "old_en_us": "Use VSync",
+    "new_key": "options.vsync",
+    "new_value": "垂直同步",
+    "new_en_us": "VSync"
+  },
+  {
+    "old_key": "selectServer.deleteWarning",
+    "old_value": "将会永久失去！（真的很久！）",
+    "old_en_us": "will be lost forever! (A long time!)",
+    "new_key": "selectServer.deleteWarning",
+    "new_value": "“%s”将会永久消失！（真的很久！）",
+    "new_en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.allowCommands",
+    "old_value": "允许作弊：",
+    "old_en_us": "Allow Cheats:",
+    "new_key": "selectWorld.allowCommands",
+    "new_value": "允许作弊",
+    "new_en_us": "Allow Cheats"
+  },
+  {
+    "old_key": "selectWorld.allowCommands.info",
+    "old_value": "像/gamemode、/xp的指令",
+    "old_en_us": "Commands like /gamemode, /xp",
+    "new_key": "selectWorld.allowCommands.info",
+    "new_value": "例如/gamemode、/experience等命令",
+    "new_en_us": "Commands like /gamemode, /experience"
+  },
+  {
+    "old_key": "selectWorld.bonusItems",
+    "old_value": "奖励箱：",
+    "old_en_us": "Bonus Chest:",
+    "new_key": "selectWorld.bonusItems",
+    "new_value": "奖励箱",
+    "new_en_us": "Bonus Chest"
+  },
+  {
+    "old_key": "selectWorld.deleteWarning",
+    "old_value": "将会永久失去！（真的很久！）",
+    "old_en_us": "will be lost forever! (A long time!)",
+    "new_key": "selectWorld.deleteWarning",
+    "new_value": "“%s”将会永久消失！（真的很久！）",
+    "new_en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.edit.openFolder",
+    "old_value": "打开文件夹",
+    "old_en_us": "Open Folder",
+    "new_key": "selectWorld.edit.openFolder",
+    "new_value": "打开世界文件夹",
+    "new_en_us": "Open World Folder"
+  },
+  {
+    "old_key": "selectWorld.edit.save",
+    "old_value": "保存世界",
+    "old_en_us": "Save World",
+    "new_key": "selectWorld.edit.save",
+    "new_value": "保存",
+    "new_en_us": "Save"
+  },
+  {
+    "old_key": "selectWorld.gameMode.adventure.line1",
+    "old_value": "与生存模式相同，但是方块",
+    "old_en_us": "Same as survival mode, but blocks can't",
+    "new_key": "selectWorld.gameMode.adventure.line1",
+    "new_value": "与生存模式相同，但无法",
+    "new_en_us": "Same as Survival Mode, but blocks can't"
+  },
+  {
+    "old_key": "selectWorld.mapFeatures",
+    "old_value": "生成建筑：",
+    "old_en_us": "Generate Structures:",
+    "new_key": "selectWorld.mapFeatures",
+    "new_value": "生成结构",
+    "new_en_us": "Generate Structures"
+  },
+  {
+    "old_key": "selectWorld.mapFeatures.info",
+    "old_value": "村庄、地牢等等",
+    "old_en_us": "Villages, dungeons etc",
+    "new_key": "selectWorld.mapFeatures.info",
+    "new_value": "村庄、沉船等",
+    "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "selectWorld.mapType",
+    "old_value": "世界类型：",
+    "old_en_us": "World Type:",
+    "new_key": "selectWorld.mapType",
+    "new_value": "世界类型",
+    "new_en_us": "World Type"
+  },
+  {
+    "old_key": "selectWorld.tooltip.snapshot1",
+    "old_value": "不要忘记去备份这个世界！",
+    "old_en_us": "Don't forget to backup this world",
+    "new_key": "selectWorld.tooltip.snapshot1",
+    "new_value": "在这个快照中加载它之前，",
+    "new_en_us": "Don't forget to back up this world"
+  },
+  {
+    "old_key": "selectWorld.versionWarning",
+    "old_value": "此世界是在'%s'版本中保存的，在此版本中加载可能会导致数据损坏！",
+    "old_en_us": "This world was saved in version '%s' and loading it in this version could cause corruption!",
+    "new_key": "selectWorld.versionWarning",
+    "new_value": "此世界上次是在%s版本中打开的，在此版本中加载可能会导致数据损坏！",
+    "new_en_us": "This world was last played in version %s and loading it in this version could cause corruption!"
+  },
+  {
+    "old_key": "sign.edit",
+    "old_value": "修改告示牌信息",
+    "old_en_us": "Edit sign message",
+    "new_key": "sign.edit",
+    "new_value": "编辑告示牌消息",
+    "new_en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "stat.depleted",
+    "old_value": "工具消耗数",
+    "old_en_us": "Times Depleted",
+    "new_key": "stat_type.minecraft.broken",
+    "new_value": "损坏次数",
+    "new_en_us": "Times Broken"
+  },
+  {
+    "old_key": "stat.playOneMinute",
+    "old_value": "游戏时间（分钟）",
+    "old_en_us": "Minutes Played",
+    "new_key": "stat.minecraft.play_time",
+    "new_value": "游戏时长",
+    "new_en_us": "Time Played"
+  },
+  {
+    "old_key": "stat.recordPlayed",
+    "old_value": "播放唱片次数",
+    "old_en_us": "Records Played",
+    "new_key": "stat.minecraft.play_record",
+    "new_value": "播放唱片数",
+    "new_en_us": "Music Discs Played"
+  },
+  {
+    "old_key": "structure_block.mode.corner",
+    "old_value": "[角落]",
+    "old_en_us": "[C]",
+    "new_key": "structure_block.mode.corner",
+    "new_value": "角落模式",
+    "new_en_us": "Corner"
+  },
+  {
+    "old_key": "structure_block.mode.data",
+    "old_value": "[数据]",
+    "old_en_us": "[D]",
+    "new_key": "structure_block.mode.data",
+    "new_value": "数据模式",
+    "new_en_us": "Data"
+  },
+  {
+    "old_key": "structure_block.mode.load",
+    "old_value": "[加载]",
+    "old_en_us": "[L]",
+    "new_key": "structure_block.mode.load",
+    "new_value": "加载模式",
+    "new_en_us": "Load"
+  },
+  {
+    "old_key": "structure_block.mode.save",
+    "old_value": "[保存]",
+    "old_en_us": "[S]",
+    "new_key": "structure_block.mode.save",
+    "new_value": "保存模式",
+    "new_en_us": "Save"
+  },
+  {
+    "old_key": "structure_block.size_failure",
+    "old_value": "无法检测结构尺寸，请放置相对应结构名称的角落方块",
+    "old_en_us": "Unable to detect structure size, add corners with matching structure names",
+    "new_key": "structure_block.size_failure",
+    "new_value": "无法检测结构大小。请放置与结构名称对应的角落结构方块",
+    "new_en_us": "Unable to detect structure size. Add corners with matching structure names"
+  },
+  {
+    "old_key": "subtitles.block.iron_trapdoor.close",
+    "old_value": "活板门：打开",
+    "old_en_us": "Trapdoor opens",
+    "new_key": "subtitles.block.iron_trapdoor.close",
+    "new_value": "活板门：关闭",
+    "new_en_us": "Trapdoor closes"
+  },
+  {
+    "old_key": "subtitles.block.iron_trapdoor.open",
+    "old_value": "活板门：关闭",
+    "old_en_us": "Trapdoor closes",
+    "new_key": "subtitles.block.iron_trapdoor.open",
+    "new_value": "活板门：打开",
+    "new_en_us": "Trapdoor opens"
+  },
+  {
+    "old_key": "subtitles.entity.bobber.splash",
+    "old_value": "钓鱼钩：溅起水花",
+    "old_en_us": "Fishing hook splashes",
+    "new_key": "subtitles.entity.fishing_bobber.splash",
+    "new_value": "浮漂：溅起水花",
+    "new_en_us": "Fishing Bobber splashes"
+  },
+  {
+    "old_key": "subtitles.entity.leashknot.break",
+    "old_value": "栓绳结：被破坏",
+    "old_en_us": "Leash knot breaks",
+    "new_key": "subtitles.entity.leash_knot.break",
+    "new_value": "拴绳结：被破坏",
+    "new_en_us": "Leash Knot broken"
+  },
+  {
+    "old_key": "subtitles.entity.leashknot.place",
+    "old_value": "栓绳结：被系上",
+    "old_en_us": "Leash knot tied",
+    "new_key": "subtitles.entity.leash_knot.place",
+    "new_value": "拴绳结：被系上",
+    "new_en_us": "Leash Knot tied"
+  },
+  {
+    "old_key": "subtitles.entity.polar_bear.baby_ambient",
+    "old_value": "北极熊：哼哼",
+    "old_en_us": "Polar Bear hums",
+    "new_key": "subtitles.entity.polar_bear.ambient_baby",
+    "new_value": "幼年北极熊：哼哼",
+    "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.shulker_bullet.hit",
+    "old_value": "潜影贝导弹：爆炸",
+    "old_en_us": "Shulker bullet explodes",
+    "new_key": "subtitles.entity.shulker_bullet.hit",
+    "new_value": "潜影弹：爆炸",
+    "new_en_us": "Shulker Bullet explodes"
+  },
+  {
+    "old_key": "subtitles.entity.shulker_bullet.hurt",
+    "old_value": "潜影贝导弹：被毁",
+    "old_en_us": "Shulker bullet breaks",
+    "new_key": "subtitles.entity.shulker_bullet.hurt",
+    "new_value": "潜影弹：碎裂",
+    "new_en_us": "Shulker Bullet breaks"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.converted",
+    "old_value": "僵尸村民：绝望之吼",
+    "old_en_us": "Zombie vociferates",
+    "new_key": "subtitles.entity.zombie_villager.converted",
+    "new_value": "僵尸村民：哀嚎",
+    "new_en_us": "Zombie Villager vociferates"
+  },
+  {
+    "old_key": "tile.anvil.slightlyDamaged.name",
+    "old_value": "轻微损坏的铁砧",
+    "old_en_us": "Slightly Damaged Anvil",
+    "new_key": "block.minecraft.chipped_anvil",
+    "new_value": "开裂的铁砧",
+    "new_en_us": "Chipped Anvil"
+  },
+  {
+    "old_key": "tile.anvil.veryDamaged.name",
+    "old_value": "严重损坏的铁砧",
+    "old_en_us": "Very Damaged Anvil",
+    "new_key": "block.minecraft.damaged_anvil",
+    "new_value": "损坏的铁砧",
+    "new_en_us": "Damaged Anvil"
+  },
+  {
+    "old_key": "tile.bed.noSleep",
+    "old_value": "你只能在晚上睡觉",
+    "old_en_us": "You can only sleep at night",
+    "new_key": "block.minecraft.bed.no_sleep",
+    "new_value": "你只能在夜间或雷暴中入眠",
+    "new_en_us": "You can sleep only at night or during thunderstorms"
+  },
+  {
+    "old_key": "tile.clayHardened.name",
+    "old_value": "硬化粘土",
+    "old_en_us": "Hardened Clay",
+    "new_key": "block.minecraft.terracotta",
+    "new_value": "陶瓦",
+    "new_en_us": "Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.black.name",
+    "old_value": "黑色硬化粘土",
+    "old_en_us": "Black Hardened Clay",
+    "new_key": "block.minecraft.black_terracotta",
+    "new_value": "黑色陶瓦",
+    "new_en_us": "Black Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.blue.name",
+    "old_value": "蓝色硬化粘土",
+    "old_en_us": "Blue Hardened Clay",
+    "new_key": "block.minecraft.blue_terracotta",
+    "new_value": "蓝色陶瓦",
+    "new_en_us": "Blue Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.brown.name",
+    "old_value": "棕色硬化粘土",
+    "old_en_us": "Brown Hardened Clay",
+    "new_key": "block.minecraft.brown_terracotta",
+    "new_value": "棕色陶瓦",
+    "new_en_us": "Brown Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.cyan.name",
+    "old_value": "青色硬化粘土",
+    "old_en_us": "Cyan Hardened Clay",
+    "new_key": "block.minecraft.cyan_terracotta",
+    "new_value": "青色陶瓦",
+    "new_en_us": "Cyan Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.gray.name",
+    "old_value": "灰色硬化粘土",
+    "old_en_us": "Gray Hardened Clay",
+    "new_key": "block.minecraft.gray_terracotta",
+    "new_value": "灰色陶瓦",
+    "new_en_us": "Gray Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.green.name",
+    "old_value": "绿色硬化粘土",
+    "old_en_us": "Green Hardened Clay",
+    "new_key": "block.minecraft.green_terracotta",
+    "new_value": "绿色陶瓦",
+    "new_en_us": "Green Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.lightBlue.name",
+    "old_value": "淡蓝色硬化粘土",
+    "old_en_us": "Light Blue Hardened Clay",
+    "new_key": "block.minecraft.light_blue_terracotta",
+    "new_value": "淡蓝色陶瓦",
+    "new_en_us": "Light Blue Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.lime.name",
+    "old_value": "黄绿色硬化粘土",
+    "old_en_us": "Lime Hardened Clay",
+    "new_key": "block.minecraft.lime_terracotta",
+    "new_value": "黄绿色陶瓦",
+    "new_en_us": "Lime Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.magenta.name",
+    "old_value": "品红色硬化粘土",
+    "old_en_us": "Magenta Hardened Clay",
+    "new_key": "block.minecraft.magenta_terracotta",
+    "new_value": "品红色陶瓦",
+    "new_en_us": "Magenta Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.orange.name",
+    "old_value": "橙色硬化粘土",
+    "old_en_us": "Orange Hardened Clay",
+    "new_key": "block.minecraft.orange_terracotta",
+    "new_value": "橙色陶瓦",
+    "new_en_us": "Orange Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.pink.name",
+    "old_value": "粉红色硬化粘土",
+    "old_en_us": "Pink Hardened Clay",
+    "new_key": "block.minecraft.pink_terracotta",
+    "new_value": "粉红色陶瓦",
+    "new_en_us": "Pink Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.purple.name",
+    "old_value": "紫色硬化粘土",
+    "old_en_us": "Purple Hardened Clay",
+    "new_key": "block.minecraft.purple_terracotta",
+    "new_value": "紫色陶瓦",
+    "new_en_us": "Purple Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.red.name",
+    "old_value": "红色硬化粘土",
+    "old_en_us": "Red Hardened Clay",
+    "new_key": "block.minecraft.red_terracotta",
+    "new_value": "红色陶瓦",
+    "new_en_us": "Red Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.silver.name",
+    "old_value": "淡灰色硬化粘土",
+    "old_en_us": "Light Gray Hardened Clay",
+    "new_key": "block.minecraft.light_gray_terracotta",
+    "new_value": "淡灰色陶瓦",
+    "new_en_us": "Light Gray Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.white.name",
+    "old_value": "白色硬化粘土",
+    "old_en_us": "White Hardened Clay",
+    "new_key": "block.minecraft.white_terracotta",
+    "new_value": "白色陶瓦",
+    "new_en_us": "White Terracotta"
+  },
+  {
+    "old_key": "tile.clayHardenedStained.yellow.name",
+    "old_value": "黄色硬化粘土",
+    "old_en_us": "Yellow Hardened Clay",
+    "new_key": "block.minecraft.yellow_terracotta",
+    "new_value": "黄色陶瓦",
+    "new_en_us": "Yellow Terracotta"
+  },
+  {
+    "old_key": "tile.daylightDetector.name",
+    "old_value": "阳光传感器",
+    "old_en_us": "Daylight Sensor",
+    "new_key": "block.minecraft.daylight_detector",
+    "new_value": "阳光探测器",
+    "new_en_us": "Daylight Detector"
+  },
+  {
+    "old_key": "tile.endPortalFrame.name",
+    "old_value": "末地传送门",
+    "old_en_us": "End Portal",
+    "new_key": "block.minecraft.end_portal_frame",
+    "new_value": "末地传送门框架",
+    "new_en_us": "End Portal Frame"
+  },
+  {
+    "old_key": "tile.log.acacia.name",
+    "old_value": "金合欢木",
+    "old_en_us": "Acacia Wood",
+    "new_key": "block.minecraft.acacia_log",
+    "new_value": "金合欢原木",
+    "new_en_us": "Acacia Log"
+  },
+  {
+    "old_key": "tile.log.jungle.name",
+    "old_value": "丛林木",
+    "old_en_us": "Jungle Wood",
+    "new_key": "block.minecraft.jungle_log",
+    "new_value": "丛林原木",
+    "new_en_us": "Jungle Log"
+  },
+  {
+    "old_key": "tile.log.big_oak.name",
+    "old_value": "深色橡木",
+    "old_en_us": "Dark Oak Wood",
+    "new_key": "block.minecraft.dark_oak_log",
+    "new_value": "深色橡木原木",
+    "new_en_us": "Dark Oak Log"
+  },
+  {
+    "old_key": "tile.log.birch.name",
+    "old_value": "白桦木",
+    "old_en_us": "Birch Wood",
+    "new_key": "block.minecraft.birch_log",
+    "new_value": "白桦原木",
+    "new_en_us": "Birch Log"
+  },
+  {
+    "old_key": "tile.log.oak.name",
+    "old_value": "橡木",
+    "old_en_us": "Oak Wood",
+    "new_key": "block.minecraft.oak_log",
+    "new_value": "橡木原木",
+    "new_en_us": "Oak Log"
+  },
+  {
+    "old_key": "tile.log.spruce.name",
+    "old_value": "云杉木",
+    "old_en_us": "Spruce Wood",
+    "new_key": "block.minecraft.spruce_log",
+    "new_value": "云杉原木",
+    "new_en_us": "Spruce Log"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.brick.name",
+    "old_value": "石砖怪物蛋",
+    "old_en_us": "Stone Brick Monster Egg",
+    "new_key": "block.minecraft.infested_stone_bricks",
+    "new_value": "虫蚀石砖",
+    "new_en_us": "Infested Stone Bricks"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.chiseledbrick.name",
+    "old_value": "錾制石砖怪物蛋",
+    "old_en_us": "Chiseled Stone Brick Monster Egg",
+    "new_key": "block.minecraft.infested_chiseled_stone_bricks",
+    "new_value": "虫蚀雕纹石砖",
+    "new_en_us": "Infested Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.cobble.name",
+    "old_value": "圆石怪物蛋",
+    "old_en_us": "Cobblestone Monster Egg",
+    "new_key": "block.minecraft.infested_cobblestone",
+    "new_value": "虫蚀圆石",
+    "new_en_us": "Infested Cobblestone"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.crackedbrick.name",
+    "old_value": "裂石砖怪物蛋",
+    "old_en_us": "Cracked Stone Brick Monster Egg",
+    "new_key": "block.minecraft.infested_cracked_stone_bricks",
+    "new_value": "虫蚀裂纹石砖",
+    "new_en_us": "Infested Cracked Stone Bricks"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.mossybrick.name",
+    "old_value": "苔石砖怪物蛋",
+    "old_en_us": "Mossy Stone Brick Monster Egg",
+    "new_key": "block.minecraft.infested_mossy_stone_bricks",
+    "new_value": "虫蚀苔石砖",
+    "new_en_us": "Infested Mossy Stone Bricks"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.stone.name",
+    "old_value": "石头怪物蛋",
+    "old_en_us": "Stone Monster Egg",
+    "new_key": "block.minecraft.infested_stone",
+    "new_value": "虫蚀石头",
+    "new_en_us": "Infested Stone"
+  },
+  {
+    "old_key": "tile.monsterStoneEgg.name",
+    "old_value": "石头怪物蛋",
+    "old_en_us": "Stone Monster Egg",
+    "new_key": "block.minecraft.infested_stone",
+    "new_value": "虫蚀石头",
+    "new_en_us": "Infested Stone"
+  },
+  {
+    "old_key": "tile.netherBrick.name",
+    "old_value": "地狱砖块",
+    "old_en_us": "Nether Brick",
+    "new_key": "block.minecraft.nether_bricks",
+    "new_value": "下界砖块",
+    "new_en_us": "Nether Bricks"
+  },
+  {
+    "old_key": "tile.portal.name",
+    "old_value": "传送门",
+    "old_en_us": "Portal",
+    "new_key": "block.minecraft.nether_portal",
+    "new_value": "下界传送门",
+    "new_en_us": "Nether Portal"
+  },
+  {
+    "old_key": "tile.pumpkin.name",
+    "old_value": "南瓜",
+    "old_en_us": "Pumpkin",
+    "new_key": "block.minecraft.carved_pumpkin",
+    "new_value": "雕刻南瓜",
+    "new_en_us": "Carved Pumpkin"
+  },
+  {
+    "old_key": "tile.quartzBlock.lines.name",
+    "old_value": "竖纹石英块",
+    "old_en_us": "Pillar Quartz Block",
+    "new_key": "block.minecraft.quartz_pillar",
+    "new_value": "石英柱",
+    "new_en_us": "Quartz Pillar"
+  },
+  {
+    "old_key": "tile.redNetherBrick.name",
+    "old_value": "红色地狱砖",
+    "old_en_us": "Red Nether Brick",
+    "new_key": "block.minecraft.red_nether_bricks",
+    "new_value": "红色下界砖块",
+    "new_en_us": "Red Nether Bricks"
+  },
+  {
+    "old_key": "tile.redstoneDust.name",
+    "old_value": "红石粉",
+    "old_en_us": "Redstone Dust",
+    "new_key": "block.minecraft.redstone_wire",
+    "new_value": "红石线",
+    "new_en_us": "Redstone Wire"
+  },
+  {
+    "old_key": "tile.stairsWoodBirch.name",
+    "old_value": "桦木楼梯",
+    "old_en_us": "Birch Wood Stairs",
+    "new_key": "block.minecraft.birch_stairs",
+    "new_value": "白桦木楼梯",
+    "new_en_us": "Birch Stairs"
+  },
+  {
+    "old_key": "tile.stoneSlab.brick.name",
+    "old_value": "砖台阶",
+    "old_en_us": "Bricks Slab",
+    "new_key": "block.minecraft.brick_slab",
+    "new_value": "红砖台阶",
+    "new_en_us": "Brick Slab"
+  },
+  {
+    "old_key": "tile.tallgrass.shrub.name",
+    "old_value": "灌木",
+    "old_en_us": "Shrub",
+    "new_key": "block.minecraft.dead_bush",
+    "new_value": "枯萎的灌木",
+    "new_en_us": "Dead Bush"
+  },
+  {
+    "old_key": "tile.weightedPlate_heavy.name",
+    "old_value": "测重压力板（重质）",
+    "old_en_us": "Weighted Pressure Plate (Heavy)",
+    "new_key": "block.minecraft.heavy_weighted_pressure_plate",
+    "new_value": "重质测重压力板",
+    "new_en_us": "Heavy Weighted Pressure Plate"
+  },
+  {
+    "old_key": "tile.weightedPlate_light.name",
+    "old_value": "测重压力板（轻质）",
+    "old_en_us": "Weighted Pressure Plate (Light)",
+    "new_key": "block.minecraft.light_weighted_pressure_plate",
+    "new_value": "轻质测重压力板",
+    "new_en_us": "Light Weighted Pressure Plate"
+  },
+  {
+    "old_key": "tile.woodSlab.birch.name",
+    "old_value": "桦木台阶",
+    "old_en_us": "Birch Wood Slab",
+    "new_key": "block.minecraft.birch_slab",
+    "new_value": "白桦木台阶",
+    "new_en_us": "Birch Slab"
+  },
+  {
+    "old_key": "tile.woodSlab.jungle.name",
+    "old_value": "丛林台阶",
+    "old_en_us": "Jungle Wood Slab",
+    "new_key": "block.minecraft.jungle_slab",
+    "new_value": "丛林木台阶",
+    "new_en_us": "Jungle Slab"
+  },
+  {
+    "old_key": "tile.woodSlab.spruce.name",
+    "old_value": "云杉台阶",
+    "old_en_us": "Spruce Wood Slab",
+    "new_key": "block.minecraft.spruce_slab",
+    "new_value": "云杉木台阶",
+    "new_en_us": "Spruce Slab"
+  }
+]
