@@ -1256,14 +1256,6 @@
     "new_en_us": "Mossy Cobblestone"
   },
   {
-    "old_key": "tile.tallgrass.shrub.name",
-    "old_value": "灌木",
-    "old_en_us": "Shrub",
-    "new_key": "block.minecraft.dead_bush",
-    "new_value": "枯灌木",
-    "new_en_us": "Dead Bush"
-  },
-  {
     "old_key": "tile.weightedPlate_heavy.name",
     "old_value": "感重壓力板(重)",
     "old_en_us": "Weighted Pressure Plate (Heavy)",

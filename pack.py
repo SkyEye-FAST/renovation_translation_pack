@@ -37,7 +37,8 @@ def process_version(version_data: tuple[str, dict]) -> tuple[str, float]:
 
         # Collect translation files to add
         files_to_add = []
-        for variant in version_info["variants"]:
+        variants = version_info["variants"] + version_info["extra_variants"]
+        for variant in variants:
             lang_file = version_output_dir / f"{variant}.{lang_format}"
             if lang_file.exists():
                 arcname = f"assets/minecraft/lang/{variant}.{lang_format}"

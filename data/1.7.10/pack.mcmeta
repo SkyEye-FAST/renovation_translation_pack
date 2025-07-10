@@ -2,5 +2,17 @@
   "pack": {
     "description": "Renovation Translation Resource Pack",
     "pack_format": 1
+  },
+  "language": {
+    "zh_HK": {
+      "name": "繁體中文",
+      "region": "香港特別行政區",
+      "bidirectional": false
+    },
+    "lzh": {
+      "name": "文言",
+      "region": "華夏",
+      "bidirectional": false
+    }
   }
 }
