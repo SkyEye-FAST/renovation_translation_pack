@@ -20,7 +20,7 @@ The resource pack currently supports 4 languages: `zh_cn`, `zh_tw`, `zh_hk`, and
 > [!NOTE]
 > `zh_cn` and `zh_tw` were referred to as `zh_CN` and `zh_TW` before 1.11.x.
 >
-> `zh_hk` and `lzh` are available in version 1.15.x and above.
+> In the vanilla game, `zh_hk` and `lzh` are available in version 1.15.x and above. Since these two languages did not exist in versions 1.14.x and earlier, some strings may be missing in these versions.
 
 ## Version Compatibility
 
