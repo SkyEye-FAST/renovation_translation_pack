@@ -7,12 +7,23 @@ used throughout the Renovation Translation Pack Project.
 """
 
 from pathlib import Path
-from typing import Final
+from typing import Final, TypedDict
 
 # Type alias for a dictionary mapping translation keys to their values
 type LanguageData = dict[str, str]
 # Type alias for a dictionary mapping translation keys to a list of keys
 type LanguageMap = dict[str, list[str]]
+
+
+# Type definition for a single version's configuration
+class VersionConfigEntry(TypedDict):
+    """Configuration for a specific Minecraft version's translation format and variants."""
+
+    format: str
+    source: str
+    variants: list[str]
+    extra_variants: list[str]
+
 
 # The current directory of this script
 CURRENT_PATH: Final[Path] = Path(__file__).resolve().parent
@@ -22,7 +33,7 @@ DATA_DIR: Final[Path] = CURRENT_PATH / "data"
 OUTPUT_DIR: Final[Path] = CURRENT_PATH / "output"
 
 # Configuration for supported Minecraft versions, their translation formats, and language variants
-VERSION_CONFIG: Final[dict[str, dict[str, str | list[str]]]] = {
+VERSION_CONFIG: Final[dict[str, VersionConfigEntry]] = {
     "1.7.10": {
         "format": "lang",
         "source": "en_US",
@@ -71,9 +82,34 @@ VERSION_CONFIG: Final[dict[str, dict[str, str | list[str]]]] = {
         "variants": ["zh_cn", "zh_tw"],
         "extra_variants": ["zh_hk", "lzh"],
     },
-    "1.15.2": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.16.5": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.17.1": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.18.2": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
-    "1.19.2": {"format": "json", "source": "en_us", "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"]},
+    "1.15.2": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"],
+        "extra_variants": [],
+    },
+    "1.16.5": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"],
+        "extra_variants": [],
+    },
+    "1.17.1": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"],
+        "extra_variants": [],
+    },
+    "1.18.2": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"],
+        "extra_variants": [],
+    },
+    "1.19.2": {
+        "format": "json",
+        "source": "en_us",
+        "variants": ["zh_cn", "zh_hk", "zh_tw", "lzh"],
+        "extra_variants": [],
+    },
 }
