@@ -906,7 +906,7 @@
     "old_key": "block.minecraft.chipped_anvil",
     "old_value": "微損嘅鐵砧",
     "new_key": "block.minecraft.chipped_anvil",
-    "new_value": "微損的鐵砧",
+    "new_value": "開裂的鐵砧",
     "en_us": "Chipped Anvil"
   },
   {
@@ -941,7 +941,7 @@
     "old_key": "block.minecraft.damaged_anvil",
     "old_value": "耗損嘅鐵砧",
     "new_key": "block.minecraft.damaged_anvil",
-    "new_value": "耗損的鐵砧",
+    "new_value": "破損的鐵砧",
     "en_us": "Damaged Anvil"
   },
   {
@@ -3892,11 +3892,151 @@
     "en_us": "Can be placed on:"
   },
   {
+    "old_key": "item.minecraft.allay_spawn_egg",
+    "old_value": "悦靈 生成蛋",
+    "new_key": "item.minecraft.allay_spawn_egg",
+    "new_value": "悦靈生成蛋",
+    "en_us": "Allay Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.axolotl_spawn_egg",
+    "old_value": "墨西哥蠑螈 生成蛋",
+    "new_key": "item.minecraft.axolotl_spawn_egg",
+    "new_value": "墨西哥蠑螈生成蛋",
+    "en_us": "Axolotl Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.bat_spawn_egg",
+    "old_value": "蝙蝠 生成蛋",
+    "new_key": "item.minecraft.bat_spawn_egg",
+    "new_value": "蝙蝠生成蛋",
+    "en_us": "Bat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.bee_spawn_egg",
+    "old_value": "蜜蜂 生成蛋",
+    "new_key": "item.minecraft.bee_spawn_egg",
+    "new_value": "蜜蜂生成蛋",
+    "en_us": "Bee Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.blaze_spawn_egg",
+    "old_value": "烈焰使者 生成蛋",
+    "new_key": "item.minecraft.blaze_spawn_egg",
+    "new_value": "烈焰使者生成蛋",
+    "en_us": "Blaze Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cat_spawn_egg",
+    "old_value": "貓 生成蛋",
+    "new_key": "item.minecraft.cat_spawn_egg",
+    "new_value": "貓生成蛋",
+    "en_us": "Cat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cave_spider_spawn_egg",
+    "old_value": "洞穴蜘蛛 生成蛋",
+    "new_key": "item.minecraft.cave_spider_spawn_egg",
+    "new_value": "洞穴蜘蛛生成蛋",
+    "en_us": "Cave Spider Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.chicken_spawn_egg",
+    "old_value": "雞 生成蛋",
+    "new_key": "item.minecraft.chicken_spawn_egg",
+    "new_value": "雞生成蛋",
+    "en_us": "Chicken Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cod_spawn_egg",
+    "old_value": "鱈魚 生成蛋",
+    "new_key": "item.minecraft.cod_spawn_egg",
+    "new_value": "鱈魚生成蛋",
+    "en_us": "Cod Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cow_spawn_egg",
+    "old_value": "牛 生成蛋",
+    "new_key": "item.minecraft.cow_spawn_egg",
+    "new_value": "牛生成蛋",
+    "en_us": "Cow Spawn Egg"
+  },
+  {
     "old_key": "item.minecraft.debug_stick.empty",
     "old_value": "%s 並無屬性",
     "new_key": "item.minecraft.debug_stick.empty",
     "new_value": "%s 沒有屬性",
     "en_us": "%s has no properties"
+  },
+  {
+    "old_key": "item.minecraft.dolphin_spawn_egg",
+    "old_value": "海豚 生成蛋",
+    "new_key": "item.minecraft.dolphin_spawn_egg",
+    "new_value": "海豚生成蛋",
+    "en_us": "Dolphin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.donkey_spawn_egg",
+    "old_value": "驢 生成蛋",
+    "new_key": "item.minecraft.donkey_spawn_egg",
+    "new_value": "驢生成蛋",
+    "en_us": "Donkey Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.drowned_spawn_egg",
+    "old_value": "沉屍 生成蛋",
+    "new_key": "item.minecraft.drowned_spawn_egg",
+    "new_value": "沉屍生成蛋",
+    "en_us": "Drowned Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.elder_guardian_spawn_egg",
+    "old_value": "遠古深海守衞 生成蛋",
+    "new_key": "item.minecraft.elder_guardian_spawn_egg",
+    "new_value": "遠古深海守衞生成蛋",
+    "en_us": "Elder Guardian Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.enderman_spawn_egg",
+    "old_value": "終界使者 生成蛋",
+    "new_key": "item.minecraft.enderman_spawn_egg",
+    "new_value": "終界使者生成蛋",
+    "en_us": "Enderman Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.endermite_spawn_egg",
+    "old_value": "終界蟎 生成蛋",
+    "new_key": "item.minecraft.endermite_spawn_egg",
+    "new_value": "終界蟎生成蛋",
+    "en_us": "Endermite Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.evoker_spawn_egg",
+    "old_value": "喚魔者 生成蛋",
+    "new_key": "item.minecraft.evoker_spawn_egg",
+    "new_value": "喚魔者生成蛋",
+    "en_us": "Evoker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.fox_spawn_egg",
+    "old_value": "狐狸 生成蛋",
+    "new_key": "item.minecraft.fox_spawn_egg",
+    "new_value": "狐狸生成蛋",
+    "en_us": "Fox Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.frog_spawn_egg",
+    "old_value": "青蛙 生成蛋",
+    "new_key": "item.minecraft.frog_spawn_egg",
+    "new_value": "青蛙生成蛋",
+    "en_us": "Frog Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ghast_spawn_egg",
+    "old_value": "地獄幽靈 生成蛋",
+    "new_key": "item.minecraft.ghast_spawn_egg",
+    "new_value": "地獄幽靈生成蛋",
+    "en_us": "Ghast Spawn Egg"
   },
   {
     "old_key": "item.minecraft.glow_berries",
@@ -3923,8 +4063,43 @@
     "old_key": "item.minecraft.glow_squid_spawn_egg",
     "old_value": "螢光墨魚 生成蛋",
     "new_key": "item.minecraft.glow_squid_spawn_egg",
-    "new_value": "熒光墨魚 生成蛋",
+    "new_value": "熒光墨魚生成蛋",
     "en_us": "Glow Squid Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.goat_spawn_egg",
+    "old_value": "山羊 生成蛋",
+    "new_key": "item.minecraft.goat_spawn_egg",
+    "new_value": "山羊生成蛋",
+    "en_us": "Goat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.guardian_spawn_egg",
+    "old_value": "深海守衞 生成蛋",
+    "new_key": "item.minecraft.guardian_spawn_egg",
+    "new_value": "深海守衞生成蛋",
+    "en_us": "Guardian Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.hoglin_spawn_egg",
+    "old_value": "野豬獸 生成蛋",
+    "new_key": "item.minecraft.hoglin_spawn_egg",
+    "new_value": "野豬獸生成蛋",
+    "en_us": "Hoglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.horse_spawn_egg",
+    "old_value": "馬 生成蛋",
+    "new_key": "item.minecraft.horse_spawn_egg",
+    "new_value": "馬生成蛋",
+    "en_us": "Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.husk_spawn_egg",
+    "old_value": "屍殼 生成蛋",
+    "new_key": "item.minecraft.husk_spawn_egg",
+    "new_value": "屍殼生成蛋",
+    "en_us": "Husk Spawn Egg"
   },
   {
     "old_key": "item.minecraft.lingering_potion.effect.empty",
@@ -3932,6 +4107,97 @@
     "new_key": "item.minecraft.lingering_potion.effect.empty",
     "new_value": "滯留型不可合成的藥水",
     "en_us": "Lingering Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.llama_spawn_egg",
+    "old_value": "羊駝 生成蛋",
+    "new_key": "item.minecraft.llama_spawn_egg",
+    "new_value": "羊駝生成蛋",
+    "en_us": "Llama Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.magma_cube_spawn_egg",
+    "old_value": "岩漿史萊姆 生成蛋",
+    "new_key": "item.minecraft.magma_cube_spawn_egg",
+    "new_value": "岩漿史萊姆生成蛋",
+    "en_us": "Magma Cube Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.mooshroom_spawn_egg",
+    "old_value": "蘑菇牛 生成蛋",
+    "new_key": "item.minecraft.mooshroom_spawn_egg",
+    "new_value": "蘑菇牛生成蛋",
+    "en_us": "Mooshroom Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.mule_spawn_egg",
+    "old_value": "騾 生成蛋",
+    "new_key": "item.minecraft.mule_spawn_egg",
+    "new_value": "騾生成蛋",
+    "en_us": "Mule Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ocelot_spawn_egg",
+    "old_value": "豹貓 生成蛋",
+    "new_key": "item.minecraft.ocelot_spawn_egg",
+    "new_value": "豹貓生成蛋",
+    "en_us": "Ocelot Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.panda_spawn_egg",
+    "old_value": "熊貓 生成蛋",
+    "new_key": "item.minecraft.panda_spawn_egg",
+    "new_value": "熊貓生成蛋",
+    "en_us": "Panda Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.parrot_spawn_egg",
+    "old_value": "鸚鵡 生成蛋",
+    "new_key": "item.minecraft.parrot_spawn_egg",
+    "new_value": "鸚鵡生成蛋",
+    "en_us": "Parrot Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.phantom_spawn_egg",
+    "old_value": "夜魅 生成蛋",
+    "new_key": "item.minecraft.phantom_spawn_egg",
+    "new_value": "夜魅生成蛋",
+    "en_us": "Phantom Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.pig_spawn_egg",
+    "old_value": "豬 生成蛋",
+    "new_key": "item.minecraft.pig_spawn_egg",
+    "new_value": "豬生成蛋",
+    "en_us": "Pig Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.piglin_brute_spawn_egg",
+    "old_value": "殘暴豬人 生成蛋",
+    "new_key": "item.minecraft.piglin_brute_spawn_egg",
+    "new_value": "殘暴豬人生成蛋",
+    "en_us": "Piglin Brute Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.piglin_spawn_egg",
+    "old_value": "豬人 生成蛋",
+    "new_key": "item.minecraft.piglin_spawn_egg",
+    "new_value": "豬人生成蛋",
+    "en_us": "Piglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.pillager_spawn_egg",
+    "old_value": "掠奪者 生成蛋",
+    "new_key": "item.minecraft.pillager_spawn_egg",
+    "new_value": "掠奪者生成蛋",
+    "en_us": "Pillager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.polar_bear_spawn_egg",
+    "old_value": "北極熊 生成蛋",
+    "new_key": "item.minecraft.polar_bear_spawn_egg",
+    "new_value": "北極熊生成蛋",
+    "en_us": "Polar Bear Spawn Egg"
   },
   {
     "old_key": "item.minecraft.popped_chorus_fruit",
@@ -3965,8 +4231,29 @@
     "old_key": "item.minecraft.pufferfish_spawn_egg",
     "old_value": "雞泡魚 生成蛋",
     "new_key": "item.minecraft.pufferfish_spawn_egg",
-    "new_value": "河豚 生成蛋",
+    "new_value": "河豚生成蛋",
     "en_us": "Pufferfish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.rabbit_spawn_egg",
+    "old_value": "兔 生成蛋",
+    "new_key": "item.minecraft.rabbit_spawn_egg",
+    "new_value": "兔生成蛋",
+    "en_us": "Rabbit Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ravager_spawn_egg",
+    "old_value": "劫毀獸 生成蛋",
+    "new_key": "item.minecraft.ravager_spawn_egg",
+    "new_value": "劫毀獸生成蛋",
+    "en_us": "Ravager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.salmon_spawn_egg",
+    "old_value": "三文魚 生成蛋",
+    "new_key": "item.minecraft.salmon_spawn_egg",
+    "new_value": "三文魚生成蛋",
+    "en_us": "Salmon Spawn Egg"
   },
   {
     "old_key": "item.minecraft.shears",
@@ -3976,11 +4263,81 @@
     "en_us": "Shears"
   },
   {
+    "old_key": "item.minecraft.sheep_spawn_egg",
+    "old_value": "綿羊 生成蛋",
+    "new_key": "item.minecraft.sheep_spawn_egg",
+    "new_value": "綿羊生成蛋",
+    "en_us": "Sheep Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.shulker_spawn_egg",
+    "old_value": "界伏蚌 生成蛋",
+    "new_key": "item.minecraft.shulker_spawn_egg",
+    "new_value": "界伏蚌生成蛋",
+    "en_us": "Shulker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.silverfish_spawn_egg",
+    "old_value": "蠹魚 生成蛋",
+    "new_key": "item.minecraft.silverfish_spawn_egg",
+    "new_value": "蠹魚生成蛋",
+    "en_us": "Silverfish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.skeleton_horse_spawn_egg",
+    "old_value": "骷髏骨馬 生成蛋",
+    "new_key": "item.minecraft.skeleton_horse_spawn_egg",
+    "new_value": "骷髏骨馬生成蛋",
+    "en_us": "Skeleton Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.skeleton_spawn_egg",
+    "old_value": "骷髏骨 生成蛋",
+    "new_key": "item.minecraft.skeleton_spawn_egg",
+    "new_value": "骷髏骨生成蛋",
+    "en_us": "Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.slime_spawn_egg",
+    "old_value": "史萊姆 生成蛋",
+    "new_key": "item.minecraft.slime_spawn_egg",
+    "new_value": "史萊姆生成蛋",
+    "en_us": "Slime Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.spider_spawn_egg",
+    "old_value": "蜘蛛 生成蛋",
+    "new_key": "item.minecraft.spider_spawn_egg",
+    "new_value": "蜘蛛生成蛋",
+    "en_us": "Spider Spawn Egg"
+  },
+  {
     "old_key": "item.minecraft.splash_potion.effect.empty",
     "old_value": "飛濺型不可合成嘅藥水",
     "new_key": "item.minecraft.splash_potion.effect.empty",
     "new_value": "飛濺型不可合成的藥水",
     "en_us": "Splash Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.squid_spawn_egg",
+    "old_value": "墨魚 生成蛋",
+    "new_key": "item.minecraft.squid_spawn_egg",
+    "new_value": "墨魚生成蛋",
+    "en_us": "Squid Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.stray_spawn_egg",
+    "old_value": "流浪者 生成蛋",
+    "new_key": "item.minecraft.stray_spawn_egg",
+    "new_value": "流浪者生成蛋",
+    "en_us": "Stray Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.strider_spawn_egg",
+    "old_value": "熾足獸 生成蛋",
+    "new_key": "item.minecraft.strider_spawn_egg",
+    "new_value": "熾足獸生成蛋",
+    "en_us": "Strider Spawn Egg"
   },
   {
     "old_key": "item.minecraft.suspicious_stew",
@@ -3990,11 +4347,95 @@
     "en_us": "Suspicious Stew"
   },
   {
+    "old_key": "item.minecraft.tadpole_spawn_egg",
+    "old_value": "蝌蚪 生成蛋",
+    "new_key": "item.minecraft.tadpole_spawn_egg",
+    "new_value": "蝌蚪生成蛋",
+    "en_us": "Tadpole Spawn Egg"
+  },
+  {
     "old_key": "item.minecraft.tipped_arrow.effect.empty",
     "old_value": "不可合成嘅藥水箭",
     "new_key": "item.minecraft.tipped_arrow.effect.empty",
     "new_value": "不可合成的藥水箭",
     "en_us": "Uncraftable Tipped Arrow"
+  },
+  {
+    "old_key": "item.minecraft.trader_llama_spawn_egg",
+    "old_value": "商隊羊駝 生成蛋",
+    "new_key": "item.minecraft.trader_llama_spawn_egg",
+    "new_value": "商隊羊駝生成蛋",
+    "en_us": "Trader Llama Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.tropical_fish_spawn_egg",
+    "old_value": "熱帶魚 生成蛋",
+    "new_key": "item.minecraft.tropical_fish_spawn_egg",
+    "new_value": "熱帶魚生成蛋",
+    "en_us": "Tropical Fish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.turtle_spawn_egg",
+    "old_value": "海龜 生成蛋",
+    "new_key": "item.minecraft.turtle_spawn_egg",
+    "new_value": "海龜生成蛋",
+    "en_us": "Turtle Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.vex_spawn_egg",
+    "old_value": "惱鬼 生成蛋",
+    "new_key": "item.minecraft.vex_spawn_egg",
+    "new_value": "惱鬼生成蛋",
+    "en_us": "Vex Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.villager_spawn_egg",
+    "old_value": "村民 生成蛋",
+    "new_key": "item.minecraft.villager_spawn_egg",
+    "new_value": "村民生成蛋",
+    "en_us": "Villager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.vindicator_spawn_egg",
+    "old_value": "衞道士 生成蛋",
+    "new_key": "item.minecraft.vindicator_spawn_egg",
+    "new_value": "衞道士生成蛋",
+    "en_us": "Vindicator Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wandering_trader_spawn_egg",
+    "old_value": "流浪商人 生成蛋",
+    "new_key": "item.minecraft.wandering_trader_spawn_egg",
+    "new_value": "流浪商人生成蛋",
+    "en_us": "Wandering Trader Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.warden_spawn_egg",
+    "old_value": "沉靈守衞 生成蛋",
+    "new_key": "item.minecraft.warden_spawn_egg",
+    "new_value": "沉靈守衞生成蛋",
+    "en_us": "Warden Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.witch_spawn_egg",
+    "old_value": "女巫 生成蛋",
+    "new_key": "item.minecraft.witch_spawn_egg",
+    "new_value": "女巫生成蛋",
+    "en_us": "Witch Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wither_skeleton_spawn_egg",
+    "old_value": "凋零骷髏骨 生成蛋",
+    "new_key": "item.minecraft.wither_skeleton_spawn_egg",
+    "new_value": "凋零骷髏骨生成蛋",
+    "en_us": "Wither Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wolf_spawn_egg",
+    "old_value": "狼 生成蛋",
+    "new_key": "item.minecraft.wolf_spawn_egg",
+    "new_value": "狼生成蛋",
+    "en_us": "Wolf Spawn Egg"
   },
   {
     "old_key": "item.minecraft.written_book",
@@ -4007,35 +4448,35 @@
     "old_key": "item.minecraft.zoglin_spawn_egg",
     "old_value": "豬屍獸 生怪蛋",
     "new_key": "item.minecraft.zoglin_spawn_egg",
-    "new_value": "豬屍獸 生成蛋",
+    "new_value": "豬屍獸生成蛋",
     "en_us": "Zoglin Spawn Egg"
   },
   {
     "old_key": "item.minecraft.zombie_horse_spawn_egg",
     "old_value": "殭屍馬 生成蛋",
     "new_key": "item.minecraft.zombie_horse_spawn_egg",
-    "new_value": "喪屍馬 生成蛋",
+    "new_value": "喪屍馬生成蛋",
     "en_us": "Zombie Horse Spawn Egg"
   },
   {
     "old_key": "item.minecraft.zombie_spawn_egg",
     "old_value": "殭屍 生成蛋",
     "new_key": "item.minecraft.zombie_spawn_egg",
-    "new_value": "喪屍 生成蛋",
+    "new_value": "喪屍生成蛋",
     "en_us": "Zombie Spawn Egg"
   },
   {
     "old_key": "item.minecraft.zombie_villager_spawn_egg",
     "old_value": "殭屍村民 生成蛋",
     "new_key": "item.minecraft.zombie_villager_spawn_egg",
-    "new_value": "喪屍村民 生成蛋",
+    "new_value": "喪屍村民生成蛋",
     "en_us": "Zombie Villager Spawn Egg"
   },
   {
     "old_key": "item.minecraft.zombified_piglin_spawn_egg",
     "old_value": "殭屍豬人 生成蛋",
     "new_key": "item.minecraft.zombified_piglin_spawn_egg",
-    "new_value": "喪屍豬人 生成蛋",
+    "new_value": "喪屍豬人生成蛋",
     "en_us": "Zombified Piglin Spawn Egg"
   },
   {

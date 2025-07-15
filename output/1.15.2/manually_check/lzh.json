@@ -388,7 +388,7 @@
     "old_value": "%s戯者分之頂%s戯者於線：%s",
     "old_en_us": "There are %s of a max %s players online: %s",
     "new_key": "commands.list.players",
-    "new_value": "頂%2$s戲者中有%1$s人在線：%3$s",
+    "new_value": "頂%2$s戲者中有%1$s人在綫：%3$s",
     "new_en_us": "There are %s of a max of %s players online: %s"
   },
   {

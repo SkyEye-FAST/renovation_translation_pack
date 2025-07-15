@@ -3724,6 +3724,13 @@
     "en_us": "Trapped Chest"
   },
   {
+    "old_key": "block.minecraft.tripwire",
+    "old_value": "絆線",
+    "new_key": "block.minecraft.tripwire",
+    "new_value": "絆綫",
+    "en_us": "Tripwire"
+  },
+  {
     "old_key": "block.minecraft.tripwire_hook",
     "old_value": "絆線鉤",
     "new_key": "block.minecraft.tripwire_hook",
@@ -5372,7 +5379,7 @@
     "old_key": "connect.failed",
     "old_value": "與伺服器連線失敗",
     "new_key": "connect.failed",
-    "new_value": "伺服器連線未果",
+    "new_value": "伺服器連綫未果",
     "en_us": "Failed to connect to the server"
   },
   {
@@ -5698,6 +5705,13 @@
     "en_us": "%1$s was pummeled by %2$s using %3$s"
   },
   {
+    "old_key": "death.fell.accident.ladder",
+    "old_value": "%1$s斃於爬梯",
+    "new_key": "death.fell.accident.ladder",
+    "new_value": "%1$s斃於攀梯",
+    "en_us": "%1$s fell off a ladder"
+  },
+  {
     "old_key": "death.fell.accident.vines",
     "old_value": "%1$s自虅墜斃",
     "new_key": "death.fell.accident.vines",
@@ -6002,7 +6016,7 @@
     "old_key": "disconnect.lost",
     "old_value": "失聯",
     "new_key": "disconnect.lost",
-    "new_value": "聯線失也",
+    "new_value": "連綫失也",
     "en_us": "Connection Lost"
   },
   {
@@ -8221,7 +8235,7 @@
     "old_key": "multiplayer.disconnect.generic",
     "old_value": "既斷",
     "new_key": "multiplayer.disconnect.generic",
-    "new_value": "連線既斷",
+    "new_value": "連綫既斷",
     "en_us": "Disconnected"
   },
   {
@@ -9982,11 +9996,25 @@
     "en_us": "Trapdoor creaks"
   },
   {
+    "old_key": "subtitles.block.tripwire.attach",
+    "old_value": "絆線合",
+    "new_key": "subtitles.block.tripwire.attach",
+    "new_value": "絆綫合",
+    "en_us": "Tripwire attaches"
+  },
+  {
     "old_key": "subtitles.block.tripwire.click",
     "old_value": "撃絆線",
     "new_key": "subtitles.block.tripwire.click",
     "new_value": "絆綫格然",
     "en_us": "Tripwire clicks"
+  },
+  {
+    "old_key": "subtitles.block.tripwire.detach",
+    "old_value": "絆線分",
+    "new_key": "subtitles.block.tripwire.detach",
+    "new_value": "絆綫分",
+    "en_us": "Tripwire detaches"
   },
   {
     "old_key": "subtitles.enchant.thorns.hit",
