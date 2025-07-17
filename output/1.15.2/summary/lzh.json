@@ -9411,7 +9411,7 @@
     "old_key": "stat_type.minecraft.killed",
     "old_value": "君殺%s%s",
     "new_key": "stat_type.minecraft.killed",
-    "new_value": "君既殺%2$s者%1$s回矣",
+    "new_value": "君既殺%2$s%1$s回矣",
     "en_us": "You killed %s %s"
   },
   {

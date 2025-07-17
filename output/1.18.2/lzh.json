@@ -867,6 +867,7 @@
   "stat.minecraft.play_noteblock": "絲竹匣播數",
   "stat.minecraft.sneak_time": "伏時",
   "stat.minecraft.tune_noteblock": "絲竹匣調數",
+  "stat_type.minecraft.killed": "君既殺%2$s%1$s回矣",
   "structure_block.detect_size": "尋結構之大小與經緯：",
   "structure_block.include_entities": "所含實體：",
   "structure_block.mode_info.data": "錄 ─ 是非之標",

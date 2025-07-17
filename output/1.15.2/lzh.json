@@ -1540,7 +1540,7 @@
   "stat.minecraft.trigger_trapped_chest": "觸機關箱數",
   "stat.minecraft.tune_noteblock": "絲竹匣調數",
   "stat_type.minecraft.broken": "破數",
-  "stat_type.minecraft.killed": "君既殺%2$s者%1$s回矣",
+  "stat_type.minecraft.killed": "君既殺%2$s%1$s回矣",
   "stat_type.minecraft.killed_by": "%s既殺君%s回矣",
   "stat_type.minecraft.picked_up": "拾數",
   "structure_block.button.save": "記",

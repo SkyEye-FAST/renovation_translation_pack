@@ -5355,6 +5355,13 @@
     "en_us": "Previous Page"
   },
   {
+    "old_key": "stat_type.minecraft.killed",
+    "old_value": "君既殺%2$s者%1$s回矣",
+    "new_key": "stat_type.minecraft.killed",
+    "new_value": "君既殺%2$s%1$s回矣",
+    "en_us": "You killed %s %s"
+  },
+  {
     "old_key": "stat.minecraft.eat_cake_slice",
     "old_value": "食糕片數",
     "new_key": "stat.minecraft.eat_cake_slice",
