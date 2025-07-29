@@ -760,6 +760,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "現旁注",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "現旁註",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "recipe.toast.title",
     "old_value": "新方已明！",
     "old_en_us": "New Recipes Unlocked!",

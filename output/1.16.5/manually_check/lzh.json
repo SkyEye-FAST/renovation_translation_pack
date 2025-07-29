@@ -688,6 +688,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "現旁注",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "現旁註",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "options.vsync",
     "old_value": "各排亦步",
     "old_en_us": "Use VSync",

@@ -816,6 +816,14 @@
     "new_en_us": "This world was last played in version %s and loading it in this version could cause corruption!"
   },
   {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲音/語音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "聲音／語音",
+    "new_en_us": "Narrator/Voice"
+  },
+  {
     "old_key": "stat.depleted",
     "old_value": "消耗次數",
     "old_en_us": "Times Depleted",

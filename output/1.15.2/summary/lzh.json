@@ -724,7 +724,7 @@
     "old_key": "argument.entity.options.valueless",
     "old_value": "期之值於 '%s' 之置設",
     "new_key": "argument.entity.options.valueless",
-    "new_value": "期之值於「%s」之置設",
+    "new_value": "期之直於「%s」之置設",
     "en_us": "Expected value for option '%s'"
   },
   {
@@ -829,7 +829,7 @@
     "old_key": "argument.nbt.expected.value",
     "old_value": "期之值",
     "new_key": "argument.nbt.expected.value",
-    "new_value": "所期之值",
+    "new_value": "所期之直",
     "en_us": "Expected value"
   },
   {
@@ -1109,7 +1109,7 @@
     "old_key": "block.minecraft.andesite_slab",
     "old_value": "鈉滑版",
     "new_key": "block.minecraft.andesite_slab",
-    "new_value": "安山石板",
+    "new_value": "安山石版",
     "en_us": "Andesite Slab"
   },
   {
@@ -2371,6 +2371,20 @@
     "new_key": "block.minecraft.barrel",
     "new_value": "木桶",
     "en_us": "Barrel"
+  },
+  {
+    "old_key": "block.minecraft.bed.obstructed",
+    "old_value": "是床既阻",
+    "new_key": "block.minecraft.bed.obstructed",
+    "new_value": "是床見阻",
+    "en_us": "This bed is obstructed"
+  },
+  {
+    "old_key": "block.minecraft.bed.occupied",
+    "old_value": "是床既佔",
+    "new_key": "block.minecraft.bed.occupied",
+    "new_value": "是床見佔",
+    "en_us": "This bed is occupied"
   },
   {
     "old_key": "block.minecraft.beetroots",
@@ -4105,7 +4119,7 @@
     "old_key": "commands.bossbar.get.value",
     "old_value": "自定Boss條%s之值爲%s",
     "new_key": "commands.bossbar.get.value",
-    "new_value": "自定帥條%s之值爲%s",
+    "new_value": "自定帥條%s之直爲%s",
     "en_us": "Custom bossbar %s has a value of %s"
   },
   {
@@ -4210,14 +4224,14 @@
     "old_key": "commands.bossbar.set.value.success",
     "old_value": "已易自定Boss條%s之值至%s",
     "new_key": "commands.bossbar.set.value.success",
-    "new_value": "已易自定帥條%s之值至%s",
+    "new_value": "已易自定帥條%s之直至%s",
     "en_us": "Custom bossbar %s has changed value to %s"
   },
   {
     "old_key": "commands.bossbar.set.value.unchanged",
     "old_value": "無變。是Boss條已爲是值",
     "new_key": "commands.bossbar.set.value.unchanged",
-    "new_value": "無變。是帥條已爲是值",
+    "new_value": "無變。是帥條已爲是直",
     "en_us": "Nothing changed. That's already the value of this bossbar"
   },
   {
@@ -4315,7 +4329,7 @@
     "old_key": "commands.data.get.multiple",
     "old_value": "是引數容一單NBT值焉",
     "new_key": "commands.data.get.multiple",
-    "new_value": "是引數容一單NBT值矣",
+    "new_value": "是引數容一單NBT直矣",
     "en_us": "This argument accepts a single NBT value"
   },
   {
@@ -4879,6 +4893,13 @@
     "en_us": "Enabled trigger %s for %s"
   },
   {
+    "old_key": "commands.scoreboard.players.get.null",
+    "old_value": "不可得值%s於%s；無設",
+    "new_key": "commands.scoreboard.players.get.null",
+    "new_value": "不可得直%s於%s；無設",
+    "en_us": "Can't get value of %s for %s; none is set"
+  },
+  {
     "old_key": "commands.scoreboard.players.operation.success.multiple",
     "old_value": "已更%2$s實體之%1$s",
     "new_key": "commands.scoreboard.players.operation.success.multiple",
@@ -5078,7 +5099,7 @@
     "old_key": "commands.team.option.collisionRule.unchanged",
     "old_value": "無變。碰撞矩規已爲是值",
     "new_key": "commands.team.option.collisionRule.unchanged",
-    "new_value": "無變。相叩法度已爲是值矣",
+    "new_value": "無變。相叩法度已爲是直矣",
     "en_us": "Nothing changed. Collision rule is already that value"
   },
   {
@@ -5099,7 +5120,7 @@
     "old_key": "commands.team.option.deathMessageVisibility.unchanged",
     "old_value": "无變。訃之明度已爲是值",
     "new_key": "commands.team.option.deathMessageVisibility.unchanged",
-    "new_value": "無變。訃之顯晦已爲是值",
+    "new_value": "無變。訃之顯晦已爲是直",
     "en_us": "Nothing changed. Death message visibility is already that value"
   },
   {
@@ -5113,7 +5134,7 @@
     "old_key": "commands.team.option.nametagVisibility.unchanged",
     "old_value": "无變。名簽之明度已爲是值",
     "new_key": "commands.team.option.nametagVisibility.unchanged",
-    "new_value": "無變。名刺之顯晦已爲是值",
+    "new_value": "無變。名刺之顯晦已爲是直",
     "en_us": "Nothing changed. Nametag visibility is already that value"
   },
   {
@@ -5206,6 +5227,13 @@
     "new_key": "commands.trigger.failed.invalid",
     "new_value": "但可發「觸發器」屬之的耳",
     "en_us": "You can only trigger objectives that are 'trigger' type"
+  },
+  {
+    "old_key": "commands.trigger.set.success",
+    "old_value": "已動%s（設值爲%s）",
+    "new_key": "commands.trigger.set.success",
+    "new_value": "已動%s（設直爲%s）",
+    "en_us": "Triggered %s (set value to %s)"
   },
   {
     "old_key": "commands.weather.set.rain",
@@ -5309,7 +5337,7 @@
     "old_key": "commands.worldborder.damage.amount.failed",
     "old_value": "無變。世疆之傷已爲是值",
     "new_key": "commands.worldborder.damage.amount.failed",
-    "new_value": "無變。世疆之傷既爲是值矣",
+    "new_value": "無變。世疆之傷既爲是直矣",
     "en_us": "Nothing changed. The world border damage is already that amount"
   },
   {
@@ -7567,6 +7595,13 @@
     "en_us": "Potato"
   },
   {
+    "old_key": "item.minecraft.potion.effect.fire_resistance",
+    "old_value": "抗火之劑",
+    "new_key": "item.minecraft.potion.effect.fire_resistance",
+    "new_value": "抗火劑",
+    "en_us": "Potion of Fire Resistance"
+  },
+  {
     "old_key": "item.minecraft.potion.effect.invisibility",
     "old_value": "隐劑",
     "new_key": "item.minecraft.potion.effect.invisibility",
@@ -7644,6 +7679,13 @@
     "en_us": "Rotten Flesh"
   },
   {
+    "old_key": "item.minecraft.saddle",
+    "old_value": "鞍韉",
+    "new_key": "item.minecraft.saddle",
+    "new_value": "鞍",
+    "en_us": "Saddle"
+  },
+  {
     "old_key": "item.minecraft.salmon",
     "old_value": "鮭",
     "new_key": "item.minecraft.salmon",
@@ -7719,6 +7761,13 @@
     "new_key": "item.minecraft.spectral_arrow",
     "new_value": "爍靈矢",
     "en_us": "Spectral Arrow"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "old_value": "抗火之噴劑",
+    "new_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "new_value": "抗火噴劑",
+    "en_us": "Splash Potion of Fire Resistance"
   },
   {
     "old_key": "item.minecraft.splash_potion.effect.invisibility",
@@ -8771,13 +8820,6 @@
     "en_us": "*yawn*"
   },
   {
-    "old_key": "options.showSubtitles",
-    "old_value": "現旁注",
-    "new_key": "options.showSubtitles",
-    "new_value": "現旁註",
-    "en_us": "Show Subtitles"
-  },
-  {
     "old_key": "options.skinCustomisation",
     "old_value": "外觀自定義...",
     "new_key": "options.skinCustomisation",
@@ -8823,14 +8865,14 @@
     "old_key": "parsing.bool.expected",
     "old_value": "應爲布林值",
     "new_key": "parsing.bool.expected",
-    "new_value": "當爲是非之值",
+    "new_value": "當爲是非之直",
     "en_us": "Expected boolean"
   },
   {
     "old_key": "parsing.bool.invalid",
     "old_value": "是布爾值無效，應爲（true）抑（false），尋（%s）",
     "new_key": "parsing.bool.invalid",
-    "new_value": "是布爾值無效，應爲「true」抑「false」，尋「%s」",
+    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
     "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
@@ -9336,13 +9378,6 @@
     "new_key": "soundCategory.record",
     "new_value": "絲竹",
     "en_us": "Jukebox/Note Blocks"
-  },
-  {
-    "old_key": "soundCategory.voice",
-    "old_value": "聲與語",
-    "new_key": "soundCategory.voice",
-    "new_value": "聲語",
-    "en_us": "Voice/Speech"
   },
   {
     "old_key": "soundCategory.weather",
@@ -9943,7 +9978,7 @@
     "old_key": "subtitles.block.lava.ambient",
     "old_value": "熔巖迸",
     "new_key": "subtitles.block.lava.ambient",
-    "new_value": "熔石迸",
+    "new_value": "熔石逬",
     "en_us": "Lava pops"
   },
   {
@@ -10101,6 +10136,13 @@
     "en_us": "Creeper hisses"
   },
   {
+    "old_key": "subtitles.entity.dolphin.ambient",
+    "old_value": "海豚之嘰嘰聲",
+    "new_key": "subtitles.entity.dolphin.ambient",
+    "new_value": "海豚嘰嘰",
+    "en_us": "Dolphin chirps"
+  },
+  {
     "old_key": "subtitles.entity.dolphin.ambient_water",
     "old_value": "海豚哨",
     "new_key": "subtitles.entity.dolphin.ambient_water",
@@ -10120,6 +10162,13 @@
     "new_key": "subtitles.entity.donkey.chest",
     "new_value": "驢著箱",
     "en_us": "Donkey Chest equips"
+  },
+  {
+    "old_key": "subtitles.entity.drowned.ambient",
+    "old_value": "溺屍之汩汩聲",
+    "new_key": "subtitles.entity.drowned.ambient",
+    "new_value": "溺屍汩汩",
+    "en_us": "Drowned gurgles"
   },
   {
     "old_key": "subtitles.entity.drowned.swim",
@@ -10246,6 +10295,20 @@
     "new_key": "subtitles.entity.fox.aggro",
     "new_value": "狐慍",
     "en_us": "Fox angers"
+  },
+  {
+    "old_key": "subtitles.entity.fox.ambient",
+    "old_value": "狐之嘰嘰聲",
+    "new_key": "subtitles.entity.fox.ambient",
+    "new_value": "狐嘰嘰",
+    "en_us": "Fox squeaks"
+  },
+  {
+    "old_key": "subtitles.entity.fox.spit",
+    "old_value": "狐之呔呔聲",
+    "new_key": "subtitles.entity.fox.spit",
+    "new_value": "狐呔呔",
+    "en_us": "Fox spits"
   },
   {
     "old_key": "subtitles.entity.generic.hurt",
@@ -10514,6 +10577,13 @@
     "en_us": "Panda huffs"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.drowned",
+    "old_value": "鸚鵡之汩汩聲",
+    "new_key": "subtitles.entity.parrot.imitate.drowned",
+    "new_value": "鸚鵡汩汩",
+    "en_us": "Parrot gurgles"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.ravager",
     "old_value": "鸚鵡之乎乎聲",
     "new_key": "subtitles.entity.parrot.imitate.ravager",
@@ -10528,6 +10598,20 @@
     "en_us": "Parrot lurks"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.skeleton",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.skeleton",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.stray",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.stray",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.vex",
     "old_value": "鸚鵡愠",
     "new_key": "subtitles.entity.parrot.imitate.vex",
@@ -10540,6 +10624,13 @@
     "new_key": "subtitles.entity.parrot.imitate.wither",
     "new_value": "鸚鵡慍",
     "en_us": "Parrot angers"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.wither_skeleton",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.wither_skeleton",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
   },
   {
     "old_key": "subtitles.entity.phantom.ambient",
@@ -10776,7 +10867,7 @@
     "old_key": "subtitles.entity.skeleton.ambient",
     "old_value": "髑之格格聲",
     "new_key": "subtitles.entity.skeleton.ambient",
-    "new_value": "骷髏之格格聲",
+    "new_value": "骷髏格格",
     "en_us": "Skeleton rattles"
   },
   {
@@ -10843,17 +10934,24 @@
     "en_us": "Snow Golem hurts"
   },
   {
+    "old_key": "subtitles.entity.stray.ambient",
+    "old_value": "流髑之格格聲",
+    "new_key": "subtitles.entity.stray.ambient",
+    "new_value": "流髑格格",
+    "en_us": "Stray rattles"
+  },
+  {
     "old_key": "subtitles.entity.tnt.primed",
     "old_value": "炸药呲呲聲",
     "new_key": "subtitles.entity.tnt.primed",
-    "new_value": "灹藥呲呲聲",
+    "new_value": "灹藥呲呲",
     "en_us": "TNT fizzes"
   },
   {
     "old_key": "subtitles.entity.turtle.ambient_land",
     "old_value": "龜之嘰嘰聲",
     "new_key": "subtitles.entity.turtle.ambient_land",
-    "new_value": "海龜之嘰嘰聲",
+    "new_value": "海龜嘰嘰",
     "en_us": "Turtle chirps"
   },
   {
@@ -10923,7 +11021,7 @@
     "old_key": "subtitles.entity.wither_skeleton.ambient",
     "old_value": "凋靈髑之格格聲",
     "new_key": "subtitles.entity.wither_skeleton.ambient",
-    "new_value": "凋靈骷髏之格格聲",
+    "new_value": "凋靈骷髏格格",
     "en_us": "Wither Skeleton rattles"
   },
   {
@@ -11025,6 +11123,13 @@
     "en_us": "Leather armor rustles"
   },
   {
+    "old_key": "subtitles.item.book.page_turn",
+    "old_value": "紙之挲挲聲",
+    "new_key": "subtitles.item.book.page_turn",
+    "new_value": "紙挲挲",
+    "en_us": "Page rustles"
+  },
+  {
     "old_key": "subtitles.item.bottle.fill",
     "old_value": "盈瓶",
     "new_key": "subtitles.item.bottle.fill",
@@ -11086,6 +11191,13 @@
     "new_key": "subtitles.item.shovel.flatten",
     "new_value": "鍁夷之",
     "en_us": "Shovel flattens"
+  },
+  {
+    "old_key": "subtitles.item.trident.throw",
+    "old_value": "戟之鏗鏘聲",
+    "new_key": "subtitles.item.trident.throw",
+    "new_value": "戟鏗鏘",
+    "en_us": "Trident clangs"
   },
   {
     "old_key": "team.collision.always",

@@ -535,7 +535,7 @@
     "old_key": "block.minecraft.bed.not_safe",
     "old_value": "你依家唔可以休息，周圍有怪物喺度遊蕩",
     "new_key": "block.minecraft.bed.not_safe",
-    "new_value": "你現在不能休息，周圍有怪物在遊蕩",
+    "new_value": "你現時無法休息，周圍有怪物遊蕩",
     "en_us": "You may not rest now; there are monsters nearby"
   },
   {
@@ -955,7 +955,7 @@
     "old_key": "chat.link.confirmTrusted",
     "old_value": "你真係要打開依個連結或將其複製到剪貼簿？",
     "new_key": "chat.link.confirmTrusted",
-    "new_value": "你確定要打開此連結，還是將它複製到剪貼簿？",
+    "new_value": "你確定要打開此連結或將其複製至剪貼簿？",
     "en_us": "Do you want to open this link or copy it to your clipboard?"
   },
   {
@@ -1249,14 +1249,14 @@
     "old_key": "commands.datapack.list.available.none",
     "old_value": "未有可用嘅數據包",
     "new_key": "commands.datapack.list.available.none",
-    "new_value": "沒有可用的數據包",
+    "new_value": "並無可用的數據包",
     "en_us": "There are no more data packs available"
   },
   {
     "old_key": "commands.datapack.list.enabled.none",
     "old_value": "未有啟用嘅數據包",
     "new_key": "commands.datapack.list.enabled.none",
-    "new_value": "沒有啟用的數據包",
+    "new_value": "並無啟用的數據包",
     "en_us": "There are no data packs enabled"
   },
   {
@@ -1321,6 +1321,13 @@
     "new_key": "commands.effect.give.success.multiple",
     "new_value": "已將 %s 效果作用於 %s 個對象",
     "en_us": "Applied effect %s to %s targets"
+  },
+  {
+    "old_key": "commands.effect.give.success.single",
+    "old_value": "已經將 %s 效果作用於 %s",
+    "new_key": "commands.effect.give.success.single",
+    "new_value": "已將 %s 效果作用於 %s",
+    "en_us": "Applied effect %s to %s"
   },
   {
     "old_key": "commands.enchant.failed.entity",
@@ -2142,6 +2149,13 @@
     "en_us": "%1$s fell out of the world"
   },
   {
+    "old_key": "death.attack.outOfWorld.player",
+    "old_value": "%1$s 同 %2$s 不共戴天",
+    "new_key": "death.attack.outOfWorld.player",
+    "new_value": "%1$s 與 %2$s 不共戴天",
+    "en_us": "%1$s didn't want to live in the same world as %2$s"
+  },
+  {
     "old_key": "death.attack.player",
     "old_value": "%1$s 被 %2$s 殺死咗",
     "new_key": "death.attack.player",
@@ -2292,8 +2306,15 @@
     "old_key": "demo.help.movement",
     "old_value": "用 %1$s、%2$s、%3$s、%4$s 鍵同滑鼠來移動",
     "new_key": "demo.help.movement",
-    "new_value": "用 %1$s、%2$s、%3$s、%4$s 鍵同滑鼠移動",
+    "new_value": "用 %1$s、%2$s、%3$s、%4$s 鍵與滑鼠移動",
     "en_us": "Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around"
+  },
+  {
+    "old_key": "demo.help.movementShort",
+    "old_value": "按下 %1$s、%2$s、%3$s、%4$s 鍵移動",
+    "new_key": "demo.help.movementShort",
+    "new_value": "按 %1$s、%2$s、%3$s、%4$s 鍵移動",
+    "en_us": "Move by pressing the %1$s, %2$s, %3$s, %4$s keys"
   },
   {
     "old_key": "difficulty.lock.question",
@@ -2898,6 +2919,13 @@
     "en_us": "Wolf Spawn Egg"
   },
   {
+    "old_key": "item.minecraft.writable_book",
+    "old_value": "書同羽毛筆",
+    "new_key": "item.minecraft.writable_book",
+    "new_value": "書與羽毛筆",
+    "en_us": "Book and Quill"
+  },
+  {
     "old_key": "item.minecraft.written_book",
     "old_value": "寫好嘅書",
     "new_key": "item.minecraft.written_book",
@@ -3027,7 +3055,7 @@
     "old_key": "multiplayer.disconnect.illegal_characters",
     "old_value": "聊天欄中出現不允許嘅字符",
     "new_key": "multiplayer.disconnect.illegal_characters",
-    "new_value": "聊天欄中出現不被允許的字符",
+    "new_value": "聊天欄中出現不被容許的字元",
     "en_us": "Illegal characters in chat"
   },
   {
@@ -3307,7 +3335,7 @@
     "old_key": "spectatorMenu.root.prompt",
     "old_value": "按下任意鍵來選擇命令，再按一次依個鍵來使用",
     "new_key": "spectatorMenu.root.prompt",
-    "new_value": "按下任意鍵來選擇命令，再按一次這個鍵來使用",
+    "new_value": "按任意鍵來選擇命令，再按一次此鍵以使用。",
     "en_us": "Press a key to select a command, and again to use it."
   },
   {

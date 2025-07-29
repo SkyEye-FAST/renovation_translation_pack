@@ -140,7 +140,7 @@
     "old_value": "你只能喺晚黑或雷暴時瞓覺",
     "old_en_us": "You can sleep only at night and during thunderstorms",
     "new_key": "block.minecraft.bed.no_sleep",
-    "new_value": "你只能在夜晚或者雷暴時睡覺",
+    "new_value": "你僅可於夜晚或者雷暴時入睡",
     "new_en_us": "You can sleep only at night or during thunderstorms"
   },
   {
@@ -636,7 +636,7 @@
     "old_value": "F3 + N = 循環切換 創造模式 <-> 旁觀模式",
     "old_en_us": "F3 + N = Cycle creative <-> spectator",
     "new_key": "debug.creative_spectator.help",
-    "new_value": "F3 + N = 在上一個模式同旁觀模式之間切換",
+    "new_value": "F3 + N = 在上一個模式與旁觀模式間切換",
     "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
   },
   {

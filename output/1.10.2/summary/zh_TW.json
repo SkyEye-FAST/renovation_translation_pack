@@ -2485,13 +2485,6 @@
     "en_us": "Ambient/Environment"
   },
   {
-    "old_key": "soundCategory.voice",
-    "old_value": "聲音/語音",
-    "new_key": "soundCategory.voice",
-    "new_value": "聲音／語音",
-    "en_us": "Voice/Speech"
-  },
-  {
     "old_key": "splash_potion.effect.luck",
     "old_value": "飛濺 好運藥水",
     "new_key": "item.minecraft.splash_potion.effect.luck",

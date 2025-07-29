@@ -2527,13 +2527,6 @@
     "en_us": "Jukebox/Note Blocks"
   },
   {
-    "old_key": "soundCategory.voice",
-    "old_value": "聲音/語音",
-    "new_key": "soundCategory.voice",
-    "new_value": "聲音／語音",
-    "en_us": "Voice/Speech"
-  },
-  {
     "old_key": "spectatorMenu.team_teleport",
     "old_value": "傳送至隊員",
     "new_key": "spectatorMenu.team_teleport",

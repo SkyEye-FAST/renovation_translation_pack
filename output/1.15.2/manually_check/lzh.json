@@ -292,7 +292,7 @@
     "old_value": "無變，所指之性已爲是值",
     "old_en_us": "Nothing changed, the specified properties already have these values",
     "new_key": "commands.data.merge.failed",
-    "new_value": "無變。所定之性已爲是值",
+    "new_value": "無變。所定之性已爲是直",
     "new_en_us": "Nothing changed. The specified properties already have these values"
   },
   {
@@ -1136,6 +1136,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "現旁注",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "現旁註",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "options.vsync",
     "old_value": "使用垂直同步",
     "old_en_us": "Use VSync",
@@ -1262,6 +1270,14 @@
     "new_key": "sign.edit",
     "new_value": "纂牌文",
     "new_en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲與語",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "聲語",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "stat.minecraft.time_since_death",

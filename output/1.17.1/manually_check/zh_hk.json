@@ -64,6 +64,14 @@
     "new_en_us": "Tame all Cat variants!"
   },
   {
+    "old_key": "advancements.husbandry.kill_axolotl_target.description",
+    "old_value": "同墨西哥蠑螈結伴作戰，一齊贏得勝利",
+    "old_en_us": "Team up with an axolotl and win a fight",
+    "new_key": "advancements.husbandry.kill_axolotl_target.description",
+    "new_value": "與墨西哥蠑螈並肩作戰並贏得勝利",
+    "new_en_us": "Team up with an Axolotl and win a fight"
+  },
+  {
     "old_key": "advancements.husbandry.make_a_sign_glow.description",
     "old_value": "令指示牌上面嘅文字發光",
     "old_en_us": "Make the text of a sign glow",
@@ -204,7 +212,7 @@
     "old_value": "帳户設定已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat not allowed by account settings. Cannot send message",
     "new_key": "chat.disabled.profile",
-    "new_value": "聊天功能受到帳户設定限制。再次按下「%s」以獲得更多資訊。",
+    "new_value": "聊天功能受到帳户設定限制。再次按「%s」以獲得更多資訊。",
     "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
   },
   {
@@ -588,7 +596,7 @@
     "old_value": "F3 + N = 喺上一個模式同旁觀模式之間切換",
     "old_en_us": "F3 + N = Cycle previous gamemode <-> spectator",
     "new_key": "debug.creative_spectator.help",
-    "new_value": "F3 + N = 在上一個模式同旁觀模式之間切換",
+    "new_value": "F3 + N = 在上一個模式與旁觀模式間切換",
     "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
   },
   {
@@ -628,7 +636,7 @@
     "old_value": "部分實體可能會有特殊規則",
     "old_en_us": "Some entities might have separate rules",
     "new_key": "gamerule.doMobSpawning.description",
-    "new_value": "部份實體可能會有特殊規則。",
+    "new_value": "部分實體可能會有特殊規則。",
     "new_en_us": "Some entities might have separate rules."
   },
   {

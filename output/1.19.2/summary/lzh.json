@@ -511,6 +511,13 @@
     "en_us": "Unknown option '%s'"
   },
   {
+    "old_key": "argument.entity.options.valueless",
+    "old_value": "期之值於「%s」之置設",
+    "new_key": "argument.entity.options.valueless",
+    "new_value": "期之直於「%s」之置設",
+    "en_us": "Expected value for option '%s'"
+  },
+  {
     "old_key": "argument.entity.selector.allEntities",
     "old_value": "衆實體",
     "new_key": "argument.entity.selector.allEntities",
@@ -539,6 +546,13 @@
     "en_us": "Selector not allowed"
   },
   {
+    "old_key": "argument.enum.invalid",
+    "old_value": "舛值「%s」",
+    "new_key": "argument.enum.invalid",
+    "new_value": "舛直「%s」",
+    "en_us": "Invalid value \"%s\""
+  },
+  {
     "old_key": "argument.id.unknown",
     "old_value": "未明之ID：%s",
     "new_key": "argument.id.unknown",
@@ -558,6 +572,13 @@
     "new_key": "argument.nbt.expected.key",
     "new_value": "所期之鍵",
     "en_us": "Expected key"
+  },
+  {
+    "old_key": "argument.nbt.expected.value",
+    "old_value": "所期之值",
+    "new_key": "argument.nbt.expected.value",
+    "new_value": "所期之直",
+    "en_us": "Expected value"
   },
   {
     "old_key": "argument.nbt.trailing",
@@ -752,7 +773,7 @@
     "old_key": "block.minecraft.andesite_slab",
     "old_value": "鈉滑版",
     "new_key": "block.minecraft.andesite_slab",
-    "new_value": "安山石板",
+    "new_value": "安山石版",
     "en_us": "Andesite Slab"
   },
   {
@@ -775,6 +796,13 @@
     "new_key": "block.minecraft.azure_bluet",
     "new_value": "藍茜",
     "en_us": "Azure Bluet"
+  },
+  {
+    "old_key": "block.minecraft.banner.base.brown",
+    "old_value": "赭底",
+    "new_key": "block.minecraft.banner.base.brown",
+    "new_value": "褐底",
+    "en_us": "Fully Brown Field"
   },
   {
     "old_key": "block.minecraft.banner.base.pink",
@@ -1153,6 +1181,13 @@
     "new_key": "block.minecraft.banner.mojang.red",
     "new_value": "赤魔贊紋",
     "en_us": "Red Thing"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.brown",
+    "old_value": "赭豕鼻",
+    "new_key": "block.minecraft.banner.piglin.brown",
+    "new_value": "褐豕鼻",
+    "en_us": "Brown Snout"
   },
   {
     "old_key": "block.minecraft.banner.piglin.pink",
@@ -1853,6 +1888,20 @@
     "new_key": "block.minecraft.bed.no_sleep",
     "new_value": "汝唯可寢於夜抑雷雨之時",
     "en_us": "You can sleep only at night or during thunderstorms"
+  },
+  {
+    "old_key": "block.minecraft.bed.obstructed",
+    "old_value": "是床既阻",
+    "new_key": "block.minecraft.bed.obstructed",
+    "new_value": "是床見阻",
+    "en_us": "This bed is obstructed"
+  },
+  {
+    "old_key": "block.minecraft.bed.occupied",
+    "old_value": "是床既佔",
+    "new_key": "block.minecraft.bed.occupied",
+    "new_value": "是床見佔",
+    "en_us": "This bed is occupied"
   },
   {
     "old_key": "block.minecraft.beetroots",
@@ -3157,6 +3206,34 @@
     "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
+    "old_key": "commands.attribute.base_value.get.success",
+    "old_value": "實體%2$s之品%1$s，其基值爲%3$s",
+    "new_key": "commands.attribute.base_value.get.success",
+    "new_value": "實體%2$s之品%1$s，其基直爲%3$s",
+    "en_us": "Base value of attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.base_value.set.success",
+    "old_value": "實體%2$s之品%1$s，其基值現爲%3$s",
+    "new_key": "commands.attribute.base_value.set.success",
+    "new_value": "實體%2$s之品%1$s，其基直現爲%3$s",
+    "en_us": "Base value for attribute %s for entity %s set to %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.value.get.success",
+    "old_value": "修飾符%1$s於實體%3$s之品%2$s，其值爲%4$s",
+    "new_key": "commands.attribute.modifier.value.get.success",
+    "new_value": "修飾符%1$s於實體%3$s之品%2$s，其直爲%4$s",
+    "en_us": "Value of modifier %s on attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.value.get.success",
+    "old_value": "實體%2$s之品%1$s，其值爲%3$s",
+    "new_key": "commands.attribute.value.get.success",
+    "new_value": "實體%2$s之品%1$s，其直爲%3$s",
+    "en_us": "Value of attribute %s for entity %s is %s"
+  },
+  {
     "old_key": "commands.bossbar.create.failed",
     "old_value": "既有名曰「%s」之Boss條",
     "new_key": "commands.bossbar.create.failed",
@@ -3188,7 +3265,7 @@
     "old_key": "commands.bossbar.get.value",
     "old_value": "自定Boss條%s之值爲%s",
     "new_key": "commands.bossbar.get.value",
-    "new_value": "自定帥條%s之值爲%s",
+    "new_value": "自定帥條%s之直爲%s",
     "en_us": "Custom bossbar %s has a value of %s"
   },
   {
@@ -3293,14 +3370,14 @@
     "old_key": "commands.bossbar.set.value.success",
     "old_value": "已易自定Boss條%s之值至%s",
     "new_key": "commands.bossbar.set.value.success",
-    "new_value": "已易自定帥條%s之值至%s",
+    "new_value": "已易自定帥條%s之直至%s",
     "en_us": "Custom bossbar %s has changed value to %s"
   },
   {
     "old_key": "commands.bossbar.set.value.unchanged",
     "old_value": "無變。是Boss條已爲是值",
     "new_key": "commands.bossbar.set.value.unchanged",
-    "new_value": "無變。是帥條已爲是值",
+    "new_value": "無變。是帥條已爲是直",
     "en_us": "Nothing changed. That's already the value of this bossbar"
   },
   {
@@ -3353,6 +3430,13 @@
     "en_us": "Can't get %s; only numeric tags are allowed"
   },
   {
+    "old_key": "commands.data.get.multiple",
+    "old_value": "是引數容一單NBT值矣",
+    "new_key": "commands.data.get.multiple",
+    "new_value": "是引數容一單NBT直矣",
+    "en_us": "This argument accepts a single NBT value"
+  },
+  {
     "old_key": "commands.data.get.unknown",
     "old_value": "%s不可得，是簽无存焉",
     "new_key": "commands.data.get.unknown",
@@ -3363,7 +3447,7 @@
     "old_key": "commands.data.merge.failed",
     "old_value": "無變。所指之性已爲是值",
     "new_key": "commands.data.merge.failed",
-    "new_value": "無變。所定之性已爲是值",
+    "new_value": "無變。所定之性已爲是直",
     "en_us": "Nothing changed. The specified properties already have these values"
   },
   {
@@ -3633,6 +3717,13 @@
     "en_us": "Changed the display name of %s to %s"
   },
   {
+    "old_key": "commands.scoreboard.players.get.null",
+    "old_value": "不可得值%s於%s；無設",
+    "new_key": "commands.scoreboard.players.get.null",
+    "new_value": "不可得直%s於%s；無設",
+    "en_us": "Can't get value of %s for %s; none is set"
+  },
+  {
     "old_key": "commands.scoreboard.players.operation.success.single",
     "old_value": "%2$s之%1$s既爲%3$s",
     "new_key": "commands.scoreboard.players.operation.success.single",
@@ -3650,7 +3741,7 @@
     "old_key": "commands.spreadplayers.failed.invalid.height",
     "old_value": "無用之限高值也： %s ，宜高於世之極 %s",
     "new_key": "commands.spreadplayers.failed.invalid.height",
-    "new_value": "無用之限高值也： %s ，應高於世之極 %s",
+    "new_value": "無用之限高直也： %s ，應高於世之極 %s",
     "en_us": "Invalid maxHeight %s; expected higher than world minimum %s"
   },
   {
@@ -3661,11 +3752,25 @@
     "en_us": "Unable to summon entity due to duplicate UUIDs"
   },
   {
+    "old_key": "commands.team.option.collisionRule.unchanged",
+    "old_value": "無變。相叩法度已爲是值矣",
+    "new_key": "commands.team.option.collisionRule.unchanged",
+    "new_value": "無變。相叩法度已爲是直矣",
+    "en_us": "Nothing changed. Collision rule is already that value"
+  },
+  {
     "old_key": "commands.team.option.deathMessageVisibility.unchanged",
     "old_value": "无變。訃之顯晦已爲是值",
     "new_key": "commands.team.option.deathMessageVisibility.unchanged",
-    "new_value": "無變。訃之顯晦已爲是值",
+    "new_value": "無變。訃之顯晦已爲是直",
     "en_us": "Nothing changed. Death message visibility is already that value"
+  },
+  {
+    "old_key": "commands.team.option.nametagVisibility.unchanged",
+    "old_value": "無變。名刺之顯晦已爲是值",
+    "new_key": "commands.team.option.nametagVisibility.unchanged",
+    "new_value": "無變。名刺之顯晦已爲是直",
+    "en_us": "Nothing changed. Nametag visibility is already that value"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
@@ -3708,6 +3813,20 @@
     "new_key": "commands.title.show.subtitle.single",
     "new_value": "於%s現新旁註矣",
     "en_us": "Showing new subtitle for %s"
+  },
+  {
+    "old_key": "commands.trigger.set.success",
+    "old_value": "已動%s（設值爲%s）",
+    "new_key": "commands.trigger.set.success",
+    "new_value": "已動%s（設直爲%s）",
+    "en_us": "Triggered %s (set value to %s)"
+  },
+  {
+    "old_key": "commands.worldborder.damage.amount.failed",
+    "old_value": "無變。世疆之傷既爲是值矣",
+    "new_key": "commands.worldborder.damage.amount.failed",
+    "new_value": "無變。世疆之傷既爲是直矣",
+    "en_us": "Nothing changed. The world border damage is already that amount"
   },
   {
     "old_key": "connect.authorizing",
@@ -4893,6 +5012,13 @@
     "en_us": "Pink Dye"
   },
   {
+    "old_key": "item.minecraft.potion.effect.fire_resistance",
+    "old_value": "抗火之劑",
+    "new_key": "item.minecraft.potion.effect.fire_resistance",
+    "new_value": "抗火劑",
+    "en_us": "Potion of Fire Resistance"
+  },
+  {
     "old_key": "item.minecraft.potion.effect.water",
     "old_value": "水瓶",
     "new_key": "item.minecraft.potion.effect.water",
@@ -4928,6 +5054,13 @@
     "en_us": "Redstone Dust"
   },
   {
+    "old_key": "item.minecraft.saddle",
+    "old_value": "鞍韉",
+    "new_key": "item.minecraft.saddle",
+    "new_value": "鞍",
+    "en_us": "Saddle"
+  },
+  {
     "old_key": "item.minecraft.shield.pink",
     "old_value": "粉盾",
     "new_key": "item.minecraft.shield.pink",
@@ -4961,6 +5094,13 @@
     "new_key": "item.minecraft.skeleton_spawn_egg",
     "new_value": "孳骷髏之卵",
     "en_us": "Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "old_value": "抗火之噴劑",
+    "new_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "new_value": "抗火噴劑",
+    "en_us": "Splash Potion of Fire Resistance"
   },
   {
     "old_key": "item.minecraft.string",
@@ -5292,6 +5432,20 @@
     "en_us": "Press Enter to switch to %s"
   },
   {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "撃左右鍵以易其值",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "撃左右鍵以易其直",
+    "en_us": "Press left or right keyboard buttons to change value"
+  },
+  {
+    "old_key": "narration.slider.usage.hovered",
+    "old_value": "曳滑桿以更其值",
+    "new_key": "narration.slider.usage.hovered",
+    "new_value": "曳滑桿以更其直",
+    "en_us": "Drag slider to change value"
+  },
+  {
     "old_key": "narrator.position.screen",
     "old_value": "%2$s控件之%1$s",
     "new_key": "narrator.position.screen",
@@ -5498,15 +5652,8 @@
     "old_key": "options.screenEffectScale.tooltip",
     "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
     "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n值微則氣逆徒以綠霧代之。",
+    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n直微則氣逆徒以綠霧代之。",
     "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
-  },
-  {
-    "old_key": "options.showSubtitles",
-    "old_value": "現旁注",
-    "new_key": "options.showSubtitles",
-    "new_value": "現旁註",
-    "en_us": "Show Subtitles"
   },
   {
     "old_key": "options.skinCustomisation",
@@ -5542,6 +5689,20 @@
     "new_key": "pack.source.world",
     "new_value": "界",
     "en_us": "world"
+  },
+  {
+    "old_key": "parsing.bool.expected",
+    "old_value": "當爲是非之值",
+    "new_key": "parsing.bool.expected",
+    "new_value": "當爲是非之直",
+    "en_us": "Expected boolean"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "是布爾值無效，應爲「true」抑「false」，尋「%s」",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
+    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "parsing.float.expected",
@@ -5855,7 +6016,7 @@
     "old_key": "subtitles.block.lava.ambient",
     "old_value": "熔巖迸",
     "new_key": "subtitles.block.lava.ambient",
-    "new_value": "熔石迸",
+    "new_value": "熔石逬",
     "en_us": "Lava pops"
   },
   {
@@ -5992,6 +6153,13 @@
     "en_us": "Cow moos"
   },
   {
+    "old_key": "subtitles.entity.dolphin.ambient",
+    "old_value": "海豚之嘰嘰聲",
+    "new_key": "subtitles.entity.dolphin.ambient",
+    "new_value": "海豚嘰嘰",
+    "en_us": "Dolphin chirps"
+  },
+  {
     "old_key": "subtitles.entity.dolphin.ambient_water",
     "old_value": "海豚哨",
     "new_key": "subtitles.entity.dolphin.ambient_water",
@@ -6004,6 +6172,20 @@
     "new_key": "subtitles.entity.donkey.chest",
     "new_value": "驢著箱",
     "en_us": "Donkey Chest equips"
+  },
+  {
+    "old_key": "subtitles.entity.drowned.ambient",
+    "old_value": "溺屍之汩汩聲",
+    "new_key": "subtitles.entity.drowned.ambient",
+    "new_value": "溺屍汩汩",
+    "en_us": "Drowned gurgles"
+  },
+  {
+    "old_key": "subtitles.entity.drowned.ambient_water",
+    "old_value": "溺屍之汩汩聲",
+    "new_key": "subtitles.entity.drowned.ambient_water",
+    "new_value": "溺屍汩汩",
+    "en_us": "Drowned gurgles"
   },
   {
     "old_key": "subtitles.entity.drowned.swim",
@@ -6032,6 +6214,20 @@
     "new_key": "subtitles.entity.evoker.prepare_wololo",
     "new_value": "御魔使欲惑",
     "en_us": "Evoker prepares charming"
+  },
+  {
+    "old_key": "subtitles.entity.fox.ambient",
+    "old_value": "狐之嘰嘰聲",
+    "new_key": "subtitles.entity.fox.ambient",
+    "new_value": "狐嘰嘰",
+    "en_us": "Fox squeaks"
+  },
+  {
+    "old_key": "subtitles.entity.fox.spit",
+    "old_value": "狐之呔呔聲",
+    "new_key": "subtitles.entity.fox.spit",
+    "new_value": "狐呔呔",
+    "en_us": "Fox spits"
   },
   {
     "old_key": "subtitles.entity.frog.lay_spawn",
@@ -6265,6 +6461,13 @@
     "en_us": "Painting placed"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.drowned",
+    "old_value": "鸚鵡之汩汩聲",
+    "new_key": "subtitles.entity.parrot.imitate.drowned",
+    "new_value": "鸚鵡汩汩",
+    "en_us": "Parrot gurgles"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.piglin",
     "old_value": "鸚鵡呼氣",
     "new_key": "subtitles.entity.parrot.imitate.piglin",
@@ -6291,6 +6494,27 @@
     "new_key": "subtitles.entity.parrot.imitate.shulker",
     "new_value": "鸚鵡窺",
     "en_us": "Parrot lurks"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.skeleton",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.skeleton",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.stray",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.stray",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.wither_skeleton",
+    "old_value": "鸚鵡之格格聲",
+    "new_key": "subtitles.entity.parrot.imitate.wither_skeleton",
+    "new_value": "鸚鵡格格",
+    "en_us": "Parrot rattles"
   },
   {
     "old_key": "subtitles.entity.piglin_brute.ambient",
@@ -6394,7 +6618,7 @@
     "old_key": "subtitles.entity.skeleton.ambient",
     "old_value": "髑之格格聲",
     "new_key": "subtitles.entity.skeleton.ambient",
-    "new_value": "骷髏之格格聲",
+    "new_value": "骷髏格格",
     "en_us": "Skeleton rattles"
   },
   {
@@ -6433,17 +6657,24 @@
     "en_us": "Slime dies"
   },
   {
+    "old_key": "subtitles.entity.stray.ambient",
+    "old_value": "流髑之格格聲",
+    "new_key": "subtitles.entity.stray.ambient",
+    "new_value": "流髑格格",
+    "en_us": "Stray rattles"
+  },
+  {
     "old_key": "subtitles.entity.tnt.primed",
     "old_value": "炸藥呲呲聲",
     "new_key": "subtitles.entity.tnt.primed",
-    "new_value": "灹藥呲呲聲",
+    "new_value": "灹藥呲呲",
     "en_us": "TNT fizzes"
   },
   {
     "old_key": "subtitles.entity.turtle.ambient_land",
     "old_value": "龜之嘰嘰聲",
     "new_key": "subtitles.entity.turtle.ambient_land",
-    "new_value": "海龜之嘰嘰聲",
+    "new_value": "海龜嘰嘰",
     "en_us": "Turtle chirps"
   },
   {
@@ -6562,7 +6793,7 @@
     "old_key": "subtitles.entity.wither_skeleton.ambient",
     "old_value": "凋靈髑之格格聲",
     "new_key": "subtitles.entity.wither_skeleton.ambient",
-    "new_value": "凋靈骷髏之格格聲",
+    "new_value": "凋靈骷髏格格",
     "en_us": "Wither Skeleton rattles"
   },
   {
@@ -6615,6 +6846,13 @@
     "en_us": "Axe strips"
   },
   {
+    "old_key": "subtitles.item.book.page_turn",
+    "old_value": "紙之挲挲聲",
+    "new_key": "subtitles.item.book.page_turn",
+    "new_value": "紙挲挲",
+    "en_us": "Page rustles"
+  },
+  {
     "old_key": "subtitles.item.bottle.empty",
     "old_value": "瓶空",
     "new_key": "subtitles.item.bottle.empty",
@@ -6648,6 +6886,13 @@
     "new_key": "subtitles.item.lodestone_compass.lock",
     "new_value": "合司南於礠石",
     "en_us": "Lodestone Compass locks onto Lodestone"
+  },
+  {
+    "old_key": "subtitles.item.trident.throw",
+    "old_value": "戟之鏗鏘聲",
+    "new_key": "subtitles.item.trident.throw",
+    "new_value": "戟鏗鏘",
+    "en_us": "Trident clangs"
   },
   {
     "old_key": "team.collision.always",
