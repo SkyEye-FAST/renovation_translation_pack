@@ -260,7 +260,7 @@
     "old_value": "訂正器已作",
     "old_en_us": "The debug profiler is already started",
     "new_key": "commands.debug.alreadyRunning",
-    "new_value": "刻點分析器已啟也",
+    "new_value": "析刻器既啟也",
     "new_en_us": "The tick profiler is already started"
   },
   {
@@ -268,7 +268,7 @@
     "old_value": "訂正器未啟",
     "old_en_us": "The debug profiler hasn't started",
     "new_key": "commands.debug.notRunning",
-    "new_value": "刻點分析器未啟也",
+    "new_value": "析刻器未啟也",
     "new_en_us": "The tick profiler hasn't started"
   },
   {
@@ -692,7 +692,7 @@
     "old_value": "現旁注",
     "old_en_us": "Show Subtitles",
     "new_key": "options.showSubtitles",
-    "new_value": "現旁註",
+    "new_value": "旁註",
     "new_en_us": "Closed Captions"
   },
   {
@@ -726,6 +726,14 @@
     "new_key": "selectWorld.mapType",
     "new_value": "生界之類",
     "new_en_us": "World Type"
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲語",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "言語",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "structure_block.detect_size",

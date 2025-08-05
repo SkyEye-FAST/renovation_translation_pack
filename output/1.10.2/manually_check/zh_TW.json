@@ -876,7 +876,7 @@
     "old_value": "聲音/語音",
     "old_en_us": "Voice/Speech",
     "new_key": "soundCategory.voice",
-    "new_value": "聲音／語音",
+    "new_value": "朗讀功能／語音",
     "new_en_us": "Narrator/Voice"
   },
   {

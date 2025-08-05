@@ -945,6 +945,13 @@
     "en_us": "Click to teleport"
   },
   {
+    "old_key": "chat.copy",
+    "old_value": "複製到剪貼簿",
+    "new_key": "chat.copy",
+    "new_value": "複製至剪貼簿",
+    "en_us": "Copy to Clipboard"
+  },
+  {
     "old_key": "chat.link.confirm",
     "old_value": "你真係要瀏覽依個網頁？",
     "new_key": "chat.link.confirm",
@@ -2271,15 +2278,43 @@
     "old_key": "debug.copy_location.message",
     "old_value": "坐標已複製到剪貼簿",
     "new_key": "debug.copy_location.message",
-    "new_value": "座標已複製到剪貼簿",
+    "new_value": "坐標已複製至剪貼簿",
     "en_us": "Copied location to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.client.block",
+    "old_value": "已將用户端方塊數據複製到剪貼簿",
+    "new_key": "debug.inspect.client.block",
+    "new_value": "已將客户端方塊數據複製至剪貼簿",
+    "en_us": "Copied client-side block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.client.entity",
+    "old_value": "已將用户端實體數據複製到剪貼簿",
+    "new_key": "debug.inspect.client.entity",
+    "new_value": "已將客户端實體數據複製至剪貼簿",
+    "en_us": "Copied client-side entity data to clipboard"
   },
   {
     "old_key": "debug.inspect.help",
     "old_value": "F3 + I = 將實體或方塊嘅數據複製到剪貼簿",
     "new_key": "debug.inspect.help",
-    "new_value": "F3 + I = 將實體或方塊的數據複製到剪貼簿",
+    "new_value": "F3 + I = 將實體或方塊的數據複製至剪貼簿",
     "en_us": "F3 + I = Copy entity or block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.server.block",
+    "old_value": "已將伺服器端方塊數據複製到剪貼簿",
+    "new_key": "debug.inspect.server.block",
+    "new_value": "已將伺服器端方塊數據複製至剪貼簿",
+    "en_us": "Copied server-side block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.server.entity",
+    "old_value": "已將伺服器端實體數據複製到剪貼簿",
+    "new_key": "debug.inspect.server.entity",
+    "new_value": "已將伺服器端實體數據複製至剪貼簿",
+    "en_us": "Copied server-side entity data to clipboard"
   },
   {
     "old_key": "demo.day.5",
@@ -2320,8 +2355,15 @@
     "old_key": "difficulty.lock.question",
     "old_value": "你真係要鎖定世界難易度？ 依個操作會將世界永久設為%1$s，並且無法再被更改。",
     "new_key": "difficulty.lock.question",
-    "new_value": "你確定要鎖定世界難易度？ 此操作會將世界永久設為%1$s，並且無法再被更改。",
+    "new_value": "你確定要鎖定世界難度？ 此操作會將世界永久設為%1$s，並且無法再被更改。",
     "en_us": "Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again."
+  },
+  {
+    "old_key": "difficulty.lock.title",
+    "old_value": "鎖定世界難易度",
+    "new_key": "difficulty.lock.title",
+    "new_value": "鎖定世界難度",
+    "en_us": "Lock World Difficulty"
   },
   {
     "old_key": "disconnect.loginFailedInfo.invalidSession",
@@ -3090,7 +3132,7 @@
     "old_key": "multiplayer.disconnect.unexpected_query_response",
     "old_value": "喺用户端接收到預期外嘅自訂數據",
     "new_key": "multiplayer.disconnect.unexpected_query_response",
-    "new_value": "在用户端接收到預期外的自訂數據",
+    "new_value": "在客户端接收到預期外的自訂數據",
     "en_us": "Unexpected custom data from client"
   },
   {
@@ -3169,6 +3211,13 @@
     "new_key": "options.attack.crosshair",
     "new_value": "十字準星",
     "en_us": "Crosshair"
+  },
+  {
+    "old_key": "options.difficulty",
+    "old_value": "難易度",
+    "new_key": "options.difficulty",
+    "new_value": "難度",
+    "en_us": "Difficulty"
   },
   {
     "old_key": "options.sounds",
@@ -3801,6 +3850,13 @@
     "en_us": "Parrot murmurs"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.ghast",
+    "old_value": "鸚鵡喊聲",
+    "new_key": "subtitles.entity.parrot.imitate.ghast",
+    "new_value": "鸚鵡哭泣聲",
+    "en_us": "Parrot cries"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.illusioner",
     "old_value": "鸚鵡吱吱斟",
     "new_key": "subtitles.entity.parrot.imitate.illusioner",
@@ -4105,14 +4161,14 @@
     "old_key": "subtitles.item.armor.equip_gold",
     "old_value": "黃金盔甲被裝備",
     "new_key": "subtitles.item.armor.equip_gold",
-    "new_value": "裝備黃金盔甲",
+    "new_value": "裝備金盔甲",
     "en_us": "Gold armor clinks"
   },
   {
     "old_key": "subtitles.item.armor.equip_iron",
     "old_value": "鐵製盔甲被裝備",
     "new_key": "subtitles.item.armor.equip_iron",
-    "new_value": "裝備鐵製盔甲",
+    "new_value": "裝備鐵盔甲",
     "en_us": "Iron armor clanks"
   },
   {

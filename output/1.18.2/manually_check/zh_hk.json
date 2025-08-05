@@ -220,7 +220,7 @@
     "old_value": "用户端設定已停用聊天功能",
     "old_en_us": "Chat disabled in client options",
     "new_key": "chat.disabled.options",
-    "new_value": "用户端設定已停用聊天功能。",
+    "new_value": "客户端設定已停用聊天功能。",
     "new_en_us": "Chat disabled in client options."
   },
   {
@@ -784,6 +784,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "顯示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隱閉式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "resourcePack.vanilla.description",
     "old_value": "Minecraft 預設資源包",
     "old_en_us": "The default resources for Minecraft",
@@ -814,6 +822,14 @@
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "村莊、沉船之類",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲音／語音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "朗讀功能／語音",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "structure_block.mode_info.corner",

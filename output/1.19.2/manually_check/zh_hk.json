@@ -68,7 +68,7 @@
     "old_value": "用户端設定已停用聊天功能",
     "old_en_us": "Chat disabled in client options",
     "new_key": "chat.disabled.options",
-    "new_value": "用户端設定已停用聊天功能。",
+    "new_value": "客户端設定已停用聊天功能。",
     "new_en_us": "Chat disabled in client options."
   },
   {
@@ -720,6 +720,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "顯示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隱閉式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "outOfMemory.message",
     "old_value": "Minecraft 已耗盡記憶體。\n\n可能係因為遊戲有漏洞，或者分配於 JVM 嘅記憶體唔夠多。\n\n為防止世界損壞，已結束目前遊戲。我哋已嘗試清除記憶體，令你可以返到主畫面並繼續遊玩，但可能唔會有作用。\n\n如果你再次見到依條訊息，請重新啟動遊戲。",
     "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
@@ -758,6 +766,14 @@
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "村莊、沉船之類",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲音／語音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "朗讀功能／語音",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "structure_block.mode_info.corner",

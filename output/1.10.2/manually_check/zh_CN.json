@@ -400,6 +400,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "显示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隐藏式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "options.vsync",
     "old_value": "使用垂直同步",
     "old_en_us": "Use VSync",
@@ -518,6 +526,14 @@
     "new_key": "sign.edit",
     "new_value": "编辑告示牌消息",
     "new_en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "声音/语音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "复述功能/语音",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "stat.depleted",

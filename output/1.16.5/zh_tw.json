@@ -340,6 +340,7 @@
   "selectWorld.mapType": "世界類型",
   "selectWorld.recreate.customized.text": "這個版本的 Minecraft 已不再支援自訂世界。我們可以試著利用相同的種子碼與屬性重新建立，但任何自訂地形將會遺失。很抱歉為您帶來不便！",
   "selectWorld.recreate.customized.title": "自訂世界已不受支援",
+  "soundCategory.voice": "朗讀功能／語音",
   "stat.minecraft.interact_with_stonecutter": "切石機使用次數",
   "stat.minecraft.sprint_one_cm": "跑步距離",
   "subtitles.block.composter.empty": "清空堆肥箱",

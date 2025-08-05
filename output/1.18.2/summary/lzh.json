@@ -3318,6 +3318,20 @@
     "en_us": "Unknown data pack '%s'"
   },
   {
+    "old_key": "commands.debug.alreadyRunning",
+    "old_value": "刻點分析器已啟也",
+    "new_key": "commands.debug.alreadyRunning",
+    "new_value": "析刻器既啟也",
+    "en_us": "The tick profiler is already started"
+  },
+  {
+    "old_key": "commands.debug.notRunning",
+    "old_value": "刻點分析器未啟也",
+    "new_key": "commands.debug.notRunning",
+    "new_value": "析刻器未啟也",
+    "en_us": "The tick profiler hasn't started"
+  },
+  {
     "old_key": "commands.drop.no_loot_table",
     "old_value": "實體%s無戰利品表",
     "new_key": "commands.drop.no_loot_table",
@@ -3454,14 +3468,14 @@
     "old_key": "commands.perf.alreadyRunning",
     "old_value": "能力之度者已興也",
     "new_key": "commands.perf.alreadyRunning",
-    "new_value": "能力分析器已啟也",
+    "new_value": "析能器既啟也",
     "en_us": "The performance profiler is already started"
   },
   {
     "old_key": "commands.perf.notRunning",
     "old_value": "能力之度者未興也",
     "new_key": "commands.perf.notRunning",
-    "new_value": "能力分析器未啟也",
+    "new_value": "析能器未啟也",
     "en_us": "The performance profiler hasn't started"
   },
   {
@@ -5143,6 +5157,20 @@
     "new_key": "options.graphics.fancy.tooltip",
     "new_value": "佳畫質權衡效能與品質，宜於泰半裝置。\n晴雨、雲與粒或弗見於半透明塊抑水後。",
     "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
+  },
+  {
+    "old_key": "options.graphics.warning.renderer",
+    "old_value": "檢諸理質器：[%s]",
+    "new_key": "options.graphics.warning.renderer",
+    "new_value": "檢得繪器：[%s]",
+    "en_us": "Renderer detected: [%s]"
+  },
+  {
+    "old_key": "options.graphics.warning.vendor",
+    "old_value": "檢爲販者：[%s]",
+    "new_key": "options.graphics.warning.vendor",
+    "new_value": "檢得販者：[%s]",
+    "en_us": "Vendor detected: [%s]"
   },
   {
     "old_key": "options.hidden",

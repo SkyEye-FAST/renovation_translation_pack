@@ -688,6 +688,14 @@
     "new_en_us": "World Type"
   },
   {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲音／語音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "朗讀功能／語音",
+    "new_en_us": "Narrator/Voice"
+  },
+  {
     "old_key": "structure_block.mode_info.corner",
     "old_value": "角落模式 - 位置及大小記號",
     "old_en_us": "Corner mode - placement and size marker",

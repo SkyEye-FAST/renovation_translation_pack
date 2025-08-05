@@ -4900,6 +4900,20 @@
     "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
   },
   {
+    "old_key": "options.graphics.warning.renderer",
+    "old_value": "檢諸理質器：[%s]",
+    "new_key": "options.graphics.warning.renderer",
+    "new_value": "檢得繪器：[%s]",
+    "en_us": "Renderer detected: [%s]"
+  },
+  {
+    "old_key": "options.graphics.warning.vendor",
+    "old_value": "檢爲販者：[%s]",
+    "new_key": "options.graphics.warning.vendor",
+    "new_value": "檢得販者：[%s]",
+    "en_us": "Vendor detected: [%s]"
+  },
+  {
     "old_key": "options.guiScale.auto",
     "old_value": "任其所好",
     "new_key": "options.guiScale.auto",

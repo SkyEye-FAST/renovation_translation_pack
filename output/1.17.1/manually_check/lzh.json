@@ -212,7 +212,7 @@
     "old_value": "爾簿制曰：禁㗫。信叵達。",
     "old_en_us": "Chat not allowed by account settings. Cannot send message",
     "new_key": "chat.disabled.profile",
-    "new_value": "爾簿制曰：禁㗫。復按%s以得其詳。",
+    "new_value": "爾簿制曰：禁㗫。復撳%s以得其詳。",
     "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
   },
   {
@@ -748,7 +748,7 @@
     "old_value": "現旁注",
     "old_en_us": "Show Subtitles",
     "new_key": "options.showSubtitles",
-    "new_value": "現旁註",
+    "new_value": "旁註",
     "new_en_us": "Closed Captions"
   },
   {
@@ -790,6 +790,14 @@
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "鄉、沈舟等",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "聲語",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "言語",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "structure_block.detect_size",

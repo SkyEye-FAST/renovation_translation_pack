@@ -335,6 +335,7 @@
   "selectWorld.backupWarning.snapshot": "這個世界最後遊玩的版本為 %s，您的當前版本為 %s。請先備份以避免損壞您的世界。",
   "selectWorld.loading_list": "正在載入世界清單",
   "selectWorld.mapFeatures.info": "例如村莊、沉船等等",
+  "soundCategory.voice": "朗讀功能／語音",
   "stat.minecraft.interact_with_stonecutter": "切石機使用次數",
   "stat.minecraft.sprint_one_cm": "跑步距離",
   "subtitles.block.composter.empty": "清空堆肥箱",

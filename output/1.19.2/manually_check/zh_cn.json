@@ -384,6 +384,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "显示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隐藏式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "outOfMemory.message",
     "old_value": "Minecraft已耗尽内存。\n\n原因可能是游戏存在漏洞或Java虚拟机未获得足够的内存分配。\n\n为了避免存档损坏，游戏已退出。我们已尝试腾出足够的内存来使你返回主菜单进而返回游戏，但这可能并未奏效。\n\n如果你再次看见此消息，请重启游戏。",
     "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
@@ -422,6 +430,14 @@
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "村庄、沉船等",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "soundCategory.voice",
+    "old_value": "声音/语音",
+    "old_en_us": "Voice/Speech",
+    "new_key": "soundCategory.voice",
+    "new_value": "复述功能/语音",
+    "new_en_us": "Narrator/Voice"
   },
   {
     "old_key": "structure_block.mode_info.save",

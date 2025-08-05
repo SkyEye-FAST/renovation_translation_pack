@@ -300,6 +300,7 @@
   "selectWorld.backupWarning.downgrade": "這個世界最後一次遊玩的版本為 %s，您現在的版本為 %s。降低世界版本可能導致資料毀損，我們無法保證世界能讀取運作。若您仍要繼續，請先進行備份。",
   "selectWorld.backupWarning.snapshot": "這個世界最後遊玩的版本為 %s，您的當前版本為 %s。請先備份以避免損壞您的世界。",
   "selectWorld.mapFeatures.info": "例如村莊、沉船等等",
+  "soundCategory.voice": "朗讀功能／語音",
   "stat.minecraft.interact_with_stonecutter": "切石機使用次數",
   "stat.minecraft.sprint_one_cm": "跑步距離",
   "subtitles.block.composter.empty": "清空堆肥箱",
