@@ -448,6 +448,20 @@
     "en_us": "That player does not exist"
   },
   {
+    "old_key": "argument.pos.missing.double",
+    "old_value": "應為一個座標",
+    "new_key": "argument.pos.missing.double",
+    "new_value": "應為一個坐標",
+    "en_us": "Expected a coordinate"
+  },
+  {
+    "old_key": "argument.pos.missing.int",
+    "old_value": "應為一個方塊座標",
+    "new_key": "argument.pos.missing.int",
+    "new_value": "應為一個方塊坐標",
+    "en_us": "Expected a block position"
+  },
+  {
     "old_key": "argument.pos.outofworld",
     "old_value": "座標位於世界外！",
     "new_key": "argument.pos.outofworld",
@@ -455,11 +469,32 @@
     "en_us": "That position is out of this world!"
   },
   {
+    "old_key": "argument.pos2d.incomplete",
+    "old_value": "不完整（應有 2 個座標）",
+    "new_key": "argument.pos2d.incomplete",
+    "new_value": "不完整（應有 2 個坐標）",
+    "en_us": "Incomplete (expected 2 coordinates)"
+  },
+  {
+    "old_key": "argument.pos3d.incomplete",
+    "old_value": "不完整（應有 3 個座標）",
+    "new_key": "argument.pos3d.incomplete",
+    "new_value": "不完整（應有 3 個坐標）",
+    "en_us": "Incomplete (expected 3 coordinates)"
+  },
+  {
     "old_key": "argument.range.ints",
     "old_value": "只准整數，不能為小數",
     "new_key": "argument.range.ints",
     "new_value": "僅接受整數，不接受小數",
     "en_us": "Only whole numbers allowed, not decimals"
+  },
+  {
+    "old_key": "argument.rotation.incomplete",
+    "old_value": "不完整（應有 2 個座標）",
+    "new_key": "argument.rotation.incomplete",
+    "new_value": "不完整（應有 2 個坐標）",
+    "en_us": "Incomplete (expected 2 coordinates)"
   },
   {
     "old_key": "argument.scoreHolder.empty",
@@ -3003,6 +3038,13 @@
     "en_us": "List Players"
   },
   {
+    "old_key": "key.screenshot",
+    "old_value": "擷取螢幕畫面",
+    "new_key": "key.screenshot",
+    "new_value": "截圖",
+    "en_us": "Take Screenshot"
+  },
+  {
     "old_key": "language.code",
     "old_value": "zh_hk",
     "new_key": "language.code",
@@ -3262,6 +3304,20 @@
     "en_us": "BROKEN ASSETS DETECTED"
   },
   {
+    "old_key": "screenshot.failure",
+    "old_value": "無法儲存螢幕擷取畫面：%s",
+    "new_key": "screenshot.failure",
+    "new_value": "無法儲存截圖：%s",
+    "en_us": "Couldn't save screenshot: %s"
+  },
+  {
+    "old_key": "screenshot.success",
+    "old_value": "已儲存螢幕擷取畫面為 %s",
+    "new_key": "screenshot.success",
+    "new_value": "已儲存截圖為 %s",
+    "en_us": "Saved screenshot as %s"
+  },
+  {
     "old_key": "selectServer.deleteQuestion",
     "old_value": "你真係要刪除依個伺服器？",
     "new_key": "selectServer.deleteQuestion",
@@ -3384,7 +3440,7 @@
     "old_key": "spectatorMenu.root.prompt",
     "old_value": "按下任意鍵來選擇命令，再按一次依個鍵來使用",
     "new_key": "spectatorMenu.root.prompt",
-    "new_value": "按任意鍵來選擇命令，再按一次此鍵以使用。",
+    "new_value": "按任意鍵選擇命令，再按一次此鍵以使用。",
     "en_us": "Press a key to select a command, and again to use it."
   },
   {
@@ -3811,7 +3867,7 @@
     "old_key": "subtitles.entity.panda.pre_sneeze",
     "old_value": "熊貓鼻痕",
     "new_key": "subtitles.entity.panda.pre_sneeze",
-    "new_value": "熊貓鼻癢",
+    "new_value": "熊貓鼻發癢",
     "en_us": "Panda's nose tickles"
   },
   {
@@ -4263,6 +4319,13 @@
     "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
   },
   {
+    "old_key": "tutorial.find_tree.description",
+    "old_value": "敲擊木頭來採集",
+    "new_key": "tutorial.find_tree.description",
+    "new_value": "敲擊木頭以採集",
+    "en_us": "Punch it to collect wood"
+  },
+  {
     "old_key": "tutorial.find_tree.title",
     "old_value": "發現一棵樹",
     "new_key": "tutorial.find_tree.title",
@@ -4277,10 +4340,17 @@
     "en_us": "Use your mouse to turn"
   },
   {
+    "old_key": "tutorial.move.description",
+    "old_value": "用 %s 來跳躍",
+    "new_key": "tutorial.move.description",
+    "new_value": "用 %s 跳躍",
+    "en_us": "Jump with %s"
+  },
+  {
     "old_key": "tutorial.move.title",
     "old_value": "用 %s、%s、%s 同 %s 來移動",
     "new_key": "tutorial.move.title",
-    "new_value": "用 %s、%s、%s 與 %s 來移動",
+    "new_value": "用 %s、%s、%s 與 %s 移動",
     "en_us": "Move with %s, %s, %s and %s"
   },
   {

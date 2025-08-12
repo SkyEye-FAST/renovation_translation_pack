@@ -24,6 +24,14 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "鎖鏈",
+    "old_en_us": "Chain",
+    "new_key": "block.minecraft.chain",
+    "new_value": "鐵鏈",
+    "new_en_us": "Iron Chain"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "最大建築高度限制為 %s 格",
     "old_en_us": "Height limit for building is %s blocks",

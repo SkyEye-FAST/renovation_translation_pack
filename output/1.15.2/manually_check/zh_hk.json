@@ -652,7 +652,7 @@
     "old_value": "你度過咗你嘅第五日，按下 %s 來為你嘅創作保存一張擷圖",
     "old_en_us": "You have passed your fifth day, use %s to save a screenshot of your creation",
     "new_key": "demo.day.6",
-    "new_value": "你已經渡過你的第五日試玩期，按下 %s 來為你的創作儲存一張擷圖。",
+    "new_value": "你已渡過試玩期的第五日，按 %s 為你的作品儲存一張截圖。",
     "new_en_us": "You have passed your fifth day. Use %s to save a screenshot of your creation."
   },
   {
@@ -836,7 +836,7 @@
     "old_value": "伺服器過舊！目前版本為 %s",
     "old_en_us": "Outdated server! I'm still on %s",
     "new_key": "multiplayer.disconnect.outdated_server",
-    "new_value": "用户端版本不相容！請使用 %s",
+    "new_value": "客户端版本不相容！請使用 %s",
     "new_en_us": "Incompatible client! Please use %s"
   },
   {

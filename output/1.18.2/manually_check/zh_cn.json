@@ -56,6 +56,14 @@
     "new_en_us": "The tick count must be non-negative"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "锁链",
+    "old_en_us": "Chain",
+    "new_key": "block.minecraft.chain",
+    "new_value": "铁链",
+    "new_en_us": "Iron Chain"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "聊天在启动器选项中被禁用。无法发送消息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",

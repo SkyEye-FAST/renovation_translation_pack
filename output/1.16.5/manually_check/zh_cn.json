@@ -40,6 +40,14 @@
     "new_en_us": "The tick count must be non-negative"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "锁链",
+    "old_en_us": "Chain",
+    "new_key": "block.minecraft.chain",
+    "new_value": "铁链",
+    "new_en_us": "Iron Chain"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "建筑高度限制是%s个方块",
     "old_en_us": "Height limit for building is %s blocks",
