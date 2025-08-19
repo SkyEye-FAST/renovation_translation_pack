@@ -128,6 +128,22 @@
     "new_en_us": "Catch a Fish... without a Fishing Rod!"
   },
   {
+    "old_key": "advancements.nether.create_beacon.description",
+    "old_value": "建造並放置烽火台",
+    "old_en_us": "Construct and place a beacon",
+    "new_key": "advancements.nether.create_beacon.description",
+    "new_value": "建造並放置燈標",
+    "new_en_us": "Construct and place a Beacon"
+  },
+  {
+    "old_key": "advancements.nether.create_full_beacon.description",
+    "old_value": "令烽火台全力運作",
+    "old_en_us": "Bring a beacon to full power",
+    "new_key": "advancements.nether.create_full_beacon.description",
+    "new_value": "令燈標全力運作",
+    "new_en_us": "Bring a Beacon to full power"
+  },
+  {
     "old_key": "advancements.nether.loot_bastion.description",
     "old_value": "掠奪一個堡壘遺跡入面嘅儲物箱",
     "old_en_us": "Loot a chest in a Bastion Remnant",
@@ -766,6 +782,22 @@
     "new_key": "options.graphics.warning.cancel",
     "new_value": "帶我回上一頁",
     "new_en_us": "Take Me Back"
+  },
+  {
+    "old_key": "options.hideLightningFlashes",
+    "old_value": "隱藏雷電閃光",
+    "old_en_us": "Hide Lightning Flashes",
+    "new_key": "options.hideLightningFlashes",
+    "new_value": "隱藏閃電閃光",
+    "new_en_us": "Hide Sky Flashes"
+  },
+  {
+    "old_key": "options.hideLightningFlashes.tooltip",
+    "old_value": "防止行雷時天空閃爍。閃電本身依然可見。",
+    "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
+    "new_key": "options.hideLightningFlashes.tooltip",
+    "new_value": "關閉打雷時使天空閃爍的效果。閃電本身依然可見。",
+    "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
     "old_key": "options.hideMatchedNames.tooltip",

@@ -80,6 +80,22 @@
     "new_en_us": "Catch a Fish... without a Fishing Rod!"
   },
   {
+    "old_key": "advancements.nether.create_beacon.description",
+    "old_value": "建造並放置烽火台",
+    "old_en_us": "Construct and place a beacon",
+    "new_key": "advancements.nether.create_beacon.description",
+    "new_value": "建造並放置燈標",
+    "new_en_us": "Construct and place a Beacon"
+  },
+  {
+    "old_key": "advancements.nether.create_full_beacon.description",
+    "old_value": "令烽火台全力運作",
+    "old_en_us": "Bring a beacon to full power",
+    "new_key": "advancements.nether.create_full_beacon.description",
+    "new_value": "令燈標全力運作",
+    "new_en_us": "Bring a Beacon to full power"
+  },
+  {
     "old_key": "advancements.nether.loot_bastion.description",
     "old_value": "掠奪一個堡壘遺跡入面嘅儲物箱",
     "old_en_us": "Loot a chest in a Bastion Remnant",

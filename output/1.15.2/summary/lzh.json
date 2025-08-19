@@ -9691,7 +9691,7 @@
     "old_key": "stat.minecraft.sprint_one_cm",
     "old_value": "奔時",
     "new_key": "stat.minecraft.sprint_one_cm",
-    "new_value": "奔距",
+    "new_value": "走距",
     "en_us": "Distance Sprinted"
   },
   {

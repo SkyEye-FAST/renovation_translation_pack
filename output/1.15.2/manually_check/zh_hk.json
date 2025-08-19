@@ -64,6 +64,14 @@
     "new_en_us": "Catch a Fish... without a Fishing Rod!"
   },
   {
+    "old_key": "advancements.nether.create_full_beacon.description",
+    "old_value": "令烽火台全力運作",
+    "old_en_us": "Bring a beacon to full power",
+    "new_key": "advancements.nether.create_full_beacon.description",
+    "new_value": "令燈標全力運作",
+    "new_en_us": "Bring a Beacon to full power"
+  },
+  {
     "old_key": "advancements.story.deflect_arrow.description",
     "old_value": "用盾牌擋低一支箭",
     "old_en_us": "Deflect an arrow with a shield",

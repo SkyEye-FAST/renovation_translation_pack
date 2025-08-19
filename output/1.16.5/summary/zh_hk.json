@@ -70,13 +70,6 @@
     "en_us": "Successfully trade with a Villager"
   },
   {
-    "old_key": "advancements.adventure.very_very_frightening.description",
-    "old_value": "雷擊一個村民",
-    "new_key": "advancements.adventure.very_very_frightening.description",
-    "new_value": "用雷電劈一個村民",
-    "en_us": "Strike a Villager with lightning"
-  },
-  {
     "old_key": "advancements.adventure.voluntary_exile.description",
     "old_value": "殺死突襲隊長。\n或者考慮下暫時遠離村莊⋯⋯",
     "new_key": "advancements.adventure.voluntary_exile.description",
@@ -637,6 +630,13 @@
     "en_us": "Light Gray Chief"
   },
   {
+    "old_key": "block.minecraft.beacon",
+    "old_value": "烽火台",
+    "new_key": "block.minecraft.beacon",
+    "new_value": "燈標",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "block.minecraft.bed.no_sleep",
     "old_value": "你只能喺晚黑或者雷暴嗰陣瞓覺",
     "new_key": "block.minecraft.bed.no_sleep",
@@ -903,10 +903,17 @@
     "en_us": "Scaffolding"
   },
   {
+    "old_key": "block.minecraft.skeleton_skull",
+    "old_value": "骷髏骨頭",
+    "new_key": "block.minecraft.skeleton_skull",
+    "new_value": "骷髏骨頭顱",
+    "en_us": "Skeleton Skull"
+  },
+  {
     "old_key": "block.minecraft.skeleton_wall_skull",
     "old_value": "牆上嘅骷髏骨頭",
     "new_key": "block.minecraft.skeleton_wall_skull",
-    "new_value": "牆上的骷髏骨頭",
+    "new_value": "牆上的骷髏骨頭顱",
     "en_us": "Skeleton Wall Skull"
   },
   {
@@ -994,10 +1001,17 @@
     "en_us": "Wheat Crops"
   },
   {
+    "old_key": "block.minecraft.wither_skeleton_skull",
+    "old_value": "凋零骷髏骨頭",
+    "new_key": "block.minecraft.wither_skeleton_skull",
+    "new_value": "凋零骷髏骨頭顱",
+    "en_us": "Wither Skeleton Skull"
+  },
+  {
     "old_key": "block.minecraft.wither_skeleton_wall_skull",
     "old_value": "牆上嘅凋零骷髏骨頭",
     "new_key": "block.minecraft.wither_skeleton_wall_skull",
-    "new_value": "牆上的凋零骷髏骨頭",
+    "new_value": "牆上的凋零骷髏骨頭顱",
     "en_us": "Wither Skeleton Wall Skull"
   },
   {
@@ -2198,6 +2212,13 @@
     "en_us": "Growing the world border to %s blocks wide over %s seconds"
   },
   {
+    "old_key": "container.beacon",
+    "old_value": "烽火台",
+    "new_key": "container.beacon",
+    "new_value": "燈標",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "container.isLocked",
     "old_value": "%s 鎖咗！",
     "new_key": "container.isLocked",
@@ -2798,6 +2819,13 @@
     "new_key": "entity.minecraft.villager.fisherman",
     "new_value": "漁夫",
     "en_us": "Fisherman"
+  },
+  {
+    "old_key": "entity.minecraft.wither_skull",
+    "old_value": "凋零頭",
+    "new_key": "entity.minecraft.wither_skull",
+    "new_value": "凋零頭顱",
+    "en_us": "Wither Skull"
   },
   {
     "old_key": "entity.minecraft.zombie",
@@ -3559,7 +3587,7 @@
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
-    "new_value": "你已經被此伺服器封鎖。原因：",
+    "new_value": "你已經被此伺服器封鎖",
     "en_us": "You are banned from this server"
   },
   {
@@ -4151,6 +4179,13 @@
     "en_us": "Damage Dealt (Resisted)"
   },
   {
+    "old_key": "stat.minecraft.interact_with_beacon",
+    "old_value": "烽火台使用次數",
+    "new_key": "stat.minecraft.interact_with_beacon",
+    "new_value": "燈標使用次數",
+    "en_us": "Interactions with Beacon"
+  },
+  {
     "old_key": "structure_block.load_not_found",
     "old_value": "並無名為 '%s' 嘅結構",
     "new_key": "structure_block.load_not_found",
@@ -4191,6 +4226,34 @@
     "new_key": "structure_block.size_success",
     "new_value": "已經成功檢測 '%s' 的大小",
     "en_us": "Size successfully detected for '%s'"
+  },
+  {
+    "old_key": "subtitles.block.beacon.activate",
+    "old_value": "烽火台啟動",
+    "new_key": "subtitles.block.beacon.activate",
+    "new_value": "燈標啟動",
+    "en_us": "Beacon activates"
+  },
+  {
+    "old_key": "subtitles.block.beacon.ambient",
+    "old_value": "烽火台嗡嗡響",
+    "new_key": "subtitles.block.beacon.ambient",
+    "new_value": "燈標嗡嗡響",
+    "en_us": "Beacon hums"
+  },
+  {
+    "old_key": "subtitles.block.beacon.deactivate",
+    "old_value": "烽火台失效",
+    "new_key": "subtitles.block.beacon.deactivate",
+    "new_value": "燈標失效",
+    "en_us": "Beacon deactivates"
+  },
+  {
+    "old_key": "subtitles.block.beacon.power_select",
+    "old_value": "選取烽火台效果",
+    "new_key": "subtitles.block.beacon.power_select",
+    "new_value": "選取燈標效果",
+    "en_us": "Beacon power selected"
   },
   {
     "old_key": "subtitles.block.beehive.shear",
@@ -4422,6 +4485,20 @@
     "new_key": "subtitles.entity.item.break",
     "new_value": "物品損壞",
     "en_us": "Item breaks"
+  },
+  {
+    "old_key": "subtitles.entity.lightning_bolt.impact",
+    "old_value": "雷劈",
+    "new_key": "subtitles.entity.lightning_bolt.impact",
+    "new_value": "雷擊聲",
+    "en_us": "Lightning strikes"
+  },
+  {
+    "old_key": "subtitles.entity.lightning_bolt.thunder",
+    "old_value": "行雷聲",
+    "new_key": "subtitles.entity.lightning_bolt.thunder",
+    "new_value": "雷鳴聲",
+    "en_us": "Thunder roars"
   },
   {
     "old_key": "subtitles.entity.llama.angry",

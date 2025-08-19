@@ -56,13 +56,6 @@
     "en_us": "Successfully trade with a Villager"
   },
   {
-    "old_key": "advancements.adventure.very_very_frightening.description",
-    "old_value": "雷擊一個村民",
-    "new_key": "advancements.adventure.very_very_frightening.description",
-    "new_value": "用雷電劈一個村民",
-    "en_us": "Strike a Villager with lightning"
-  },
-  {
     "old_key": "advancements.adventure.voluntary_exile.description",
     "old_value": "殺死突襲隊長。\n可能要考慮暫時離村莊遠啲⋯⋯",
     "new_key": "advancements.adventure.voluntary_exile.description",
@@ -180,6 +173,13 @@
     "new_key": "advancements.nether.brew_potion.title",
     "new_value": "自家釀造廠",
     "en_us": "Local Brewery"
+  },
+  {
+    "old_key": "advancements.nether.create_beacon.description",
+    "old_value": "建造並放置烽火台",
+    "new_key": "advancements.nether.create_beacon.description",
+    "new_value": "建造並放置燈標",
+    "en_us": "Construct and place a Beacon"
   },
   {
     "old_key": "advancements.nether.fast_travel.description",
@@ -567,6 +567,13 @@
     "en_us": "Light Gray Chief"
   },
   {
+    "old_key": "block.minecraft.beacon",
+    "old_value": "烽火台",
+    "new_key": "block.minecraft.beacon",
+    "new_value": "燈標",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "block.minecraft.bed.not_safe",
     "old_value": "你依家唔可以休息，周圍有怪物喺度遊蕩",
     "new_key": "block.minecraft.bed.not_safe",
@@ -882,10 +889,17 @@
     "en_us": "Scaffolding"
   },
   {
+    "old_key": "block.minecraft.skeleton_skull",
+    "old_value": "骷髏骨頭",
+    "new_key": "block.minecraft.skeleton_skull",
+    "new_value": "骷髏骨頭顱",
+    "en_us": "Skeleton Skull"
+  },
+  {
     "old_key": "block.minecraft.skeleton_wall_skull",
     "old_value": "牆上嘅骷髏骨頭",
     "new_key": "block.minecraft.skeleton_wall_skull",
-    "new_value": "牆上的骷髏骨頭",
+    "new_value": "牆上的骷髏骨頭顱",
     "en_us": "Skeleton Wall Skull"
   },
   {
@@ -931,10 +945,17 @@
     "en_us": "Wheat Crops"
   },
   {
+    "old_key": "block.minecraft.wither_skeleton_skull",
+    "old_value": "凋零骷髏骨頭",
+    "new_key": "block.minecraft.wither_skeleton_skull",
+    "new_value": "凋零骷髏骨頭顱",
+    "en_us": "Wither Skeleton Skull"
+  },
+  {
     "old_key": "block.minecraft.wither_skeleton_wall_skull",
     "old_value": "牆上嘅凋零骷髏骨頭",
     "new_key": "block.minecraft.wither_skeleton_wall_skull",
-    "new_value": "牆上的凋零骷髏骨頭",
+    "new_value": "牆上的凋零骷髏骨頭顱",
     "en_us": "Wither Skeleton Wall Skull"
   },
   {
@@ -1981,6 +2002,13 @@
     "en_us": "Growing the world border to %s blocks wide over %s seconds"
   },
   {
+    "old_key": "container.beacon",
+    "old_value": "烽火台",
+    "new_key": "container.beacon",
+    "new_value": "燈標",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "container.isLocked",
     "old_value": "%s 鎖咗！",
     "new_key": "container.isLocked",
@@ -2483,6 +2511,13 @@
     "new_key": "entity.minecraft.villager.fisherman",
     "new_value": "漁夫",
     "en_us": "Fisherman"
+  },
+  {
+    "old_key": "entity.minecraft.wither_skull",
+    "old_value": "凋零頭",
+    "new_key": "entity.minecraft.wither_skull",
+    "new_value": "凋零頭顱",
+    "en_us": "Wither Skull"
   },
   {
     "old_key": "entity.minecraft.zombie",
@@ -3083,7 +3118,7 @@
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
-    "new_value": "你已經被此伺服器封鎖。原因：",
+    "new_value": "你已經被此伺服器封鎖",
     "en_us": "You are banned from this server"
   },
   {
@@ -3465,6 +3500,13 @@
     "en_us": "Damage Dealt (Resisted)"
   },
   {
+    "old_key": "stat.minecraft.interact_with_beacon",
+    "old_value": "烽火台使用次數",
+    "new_key": "stat.minecraft.interact_with_beacon",
+    "new_value": "燈標使用次數",
+    "en_us": "Interactions with Beacon"
+  },
+  {
     "old_key": "structure_block.load_not_found",
     "old_value": "並無名為 '%s' 嘅結構",
     "new_key": "structure_block.load_not_found",
@@ -3787,10 +3829,17 @@
     "en_us": "Item breaks"
   },
   {
+    "old_key": "subtitles.entity.lightning_bolt.impact",
+    "old_value": "雷劈",
+    "new_key": "subtitles.entity.lightning_bolt.impact",
+    "new_value": "雷擊聲",
+    "en_us": "Lightning strikes"
+  },
+  {
     "old_key": "subtitles.entity.lightning_bolt.thunder",
     "old_value": "打雷聲",
     "new_key": "subtitles.entity.lightning_bolt.thunder",
-    "new_value": "行雷聲",
+    "new_value": "雷鳴聲",
     "en_us": "Thunder roars"
   },
   {
