@@ -384,6 +384,22 @@
     "new_en_us": "Classic Stereo sound."
   },
   {
+    "old_key": "options.hideLightningFlashes",
+    "old_value": "隐藏闪电的闪烁效果",
+    "old_en_us": "Hide Lightning Flashes",
+    "new_key": "options.hideLightningFlashes",
+    "new_value": "隐藏天空闪烁效果",
+    "new_en_us": "Hide Sky Flashes"
+  },
+  {
+    "old_key": "options.hideLightningFlashes.tooltip",
+    "old_value": "关闭闪电造成的天空闪烁效果。闪电本身仍将可见。",
+    "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
+    "new_key": "options.hideLightningFlashes.tooltip",
+    "new_value": "防止闪电束或其他环境效果使天空闪烁。闪烁源本身仍将可见。",
+    "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
+  },
+  {
     "old_key": "options.realmsNotifications",
     "old_value": "Realms的通知",
     "old_en_us": "Realms Notifications",

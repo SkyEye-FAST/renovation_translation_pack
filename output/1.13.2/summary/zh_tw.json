@@ -2079,6 +2079,13 @@
     "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
   },
   {
+    "old_key": "deathScreen.quit.confirm",
+    "old_value": "你確定要退出了嗎？",
+    "new_key": "deathScreen.quit.confirm",
+    "new_value": "您確定要離開了嗎？",
+    "en_us": "Are you sure you want to quit?"
+  },
+  {
     "old_key": "debug.advanced_tooltips.off",
     "old_value": "更詳細的提示：隱藏",
     "new_key": "debug.advanced_tooltips.off",
@@ -2112,6 +2119,13 @@
     "new_key": "disconnect.spam",
     "new_value": "因為濫發訊息被踢出",
     "en_us": "Kicked for spamming"
+  },
+  {
+    "old_key": "entity.minecraft.leash_knot",
+    "old_value": "拴繩",
+    "new_key": "entity.minecraft.leash_knot",
+    "new_value": "拴繩結",
+    "en_us": "Leash Knot"
   },
   {
     "old_key": "entity.minecraft.llama",
@@ -2275,6 +2289,13 @@
     "en_us": "Crosshair"
   },
   {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "en_us": "%s chunks"
+  },
+  {
     "old_key": "options.mipmapLevels",
     "old_value": "多精度材質等級",
     "new_key": "options.mipmapLevels",
@@ -2371,6 +2392,13 @@
     "new_key": "selectWorld.customizeType",
     "new_value": "自訂",
     "en_us": "Customize"
+  },
+  {
+    "old_key": "selectWorld.deleteWarning",
+    "old_value": "'%s' 將會永遠消失！（非常久！）",
+    "new_key": "selectWorld.deleteWarning",
+    "new_value": "「%s」將會永遠消失！（非常久！）",
+    "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {
     "old_key": "selectWorld.edit.backupCreated",
@@ -2537,8 +2565,36 @@
     "old_key": "subtitles.item.armor.equip_chain",
     "old_value": "鎖鍊盔甲裝備聲",
     "new_key": "subtitles.item.armor.equip_chain",
-    "new_value": "鎖鏈盔甲裝備聲",
+    "new_value": "鎖鏈盔甲叮鈴聲",
     "en_us": "Chain armor jingles"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_diamond",
+    "old_value": "鑽石盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_diamond",
+    "new_value": "鑽石盔甲鏗鈴聲",
+    "en_us": "Diamond armor clangs"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_gold",
+    "old_value": "黃金盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_gold",
+    "new_value": "黃金盔甲叮噹聲",
+    "en_us": "Gold armor clinks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_iron",
+    "old_value": "鐵製盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_iron",
+    "new_value": "鐵製盔甲鏗噹聲",
+    "en_us": "Iron armor clanks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_leather",
+    "old_value": "皮革盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_leather",
+    "new_value": "皮革盔甲沙沙聲",
+    "en_us": "Leather armor rustles"
   },
   {
     "old_key": "subtitles.item.bottle.fill",

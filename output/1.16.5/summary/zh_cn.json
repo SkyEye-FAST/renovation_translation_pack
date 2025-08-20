@@ -1617,6 +1617,13 @@
     "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {
+    "old_key": "selectWorld.access_failure",
+    "old_value": "加载世界失败",
+    "new_key": "selectWorld.access_failure",
+    "new_value": "进入世界失败",
+    "en_us": "Failed to access world"
+  },
+  {
     "old_key": "selectWorld.backupJoinConfirmButton",
     "old_value": "创建备份并载入",
     "new_key": "selectWorld.backupJoinConfirmButton",

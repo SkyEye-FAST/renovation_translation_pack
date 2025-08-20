@@ -224,12 +224,28 @@
     "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
   },
   {
+    "old_key": "commands.scoreboard.objectives.list.success",
+    "old_value": "目前有 %s 個目標： %s",
+    "old_en_us": "There are %s objectives: %s",
+    "new_key": "commands.scoreboard.objectives.list.success",
+    "new_value": "目前有 %s 個目標：%s",
+    "new_en_us": "There are %s objective(s): %s"
+  },
+  {
     "old_key": "commands.scoreboard.objectives.modify.displayname",
     "old_value": "目標 %s 的顯示名稱已變更為 %s",
     "old_en_us": "Changed objective %s display name to %s",
     "new_key": "commands.scoreboard.objectives.modify.displayname",
     "new_value": "已將 %s 的顯示名稱更改為 %s",
     "new_en_us": "Changed the display name of %s to %s"
+  },
+  {
+    "old_key": "commands.scoreboard.players.list.success",
+    "old_value": "目前追蹤了 %s 個實體： %s",
+    "old_en_us": "There are %s tracked entities: %s",
+    "new_key": "commands.scoreboard.players.list.success",
+    "new_value": "目前追蹤了 %s 個實體：%s",
+    "new_en_us": "There are %s tracked entity/entities: %s"
   },
   {
     "old_key": "commands.setworldspawn.success",

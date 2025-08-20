@@ -1596,6 +1596,13 @@
     "en_us": "%1$s fell too far and was finished by %2$s using %3$s"
   },
   {
+    "old_key": "deathScreen.quit.confirm",
+    "old_value": "你確定要退出了嗎？",
+    "new_key": "deathScreen.quit.confirm",
+    "new_value": "您確定要離開了嗎？",
+    "en_us": "Are you sure you want to quit?"
+  },
+  {
     "old_key": "debug.advanced_tooltips.off",
     "old_value": "更詳細的提示：隱藏",
     "new_key": "debug.advanced_tooltips.off",
@@ -1615,6 +1622,13 @@
     "new_key": "difficulty.lock.question",
     "new_value": "你確定要鎖定這個世界的難易度嗎？ 這個世界的難易度將永久設為%1$s，且無法再被更改。",
     "en_us": "Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again."
+  },
+  {
+    "old_key": "entity.minecraft.leash_knot",
+    "old_value": "拴繩",
+    "new_key": "entity.minecraft.leash_knot",
+    "new_value": "拴繩結",
+    "en_us": "Leash Knot"
   },
   {
     "old_key": "gamerule.doEntityDrops.description",
@@ -1669,7 +1683,7 @@
     "old_key": "narrator.button.difficulty_lock",
     "old_value": "難度鎖",
     "new_key": "narrator.button.difficulty_lock",
-    "new_value": "難易度鎖定",
+    "new_value": "鎖定難易度",
     "en_us": "Difficulty lock"
   },
   {
@@ -1736,6 +1750,13 @@
     "en_us": "15x15 (Maximum)"
   },
   {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "en_us": "%s chunks"
+  },
+  {
     "old_key": "options.graphics.fabulous.tooltip",
     "old_value": "%s 畫質使用畫面著色器來繪製透明方塊與 水後方的天氣、雲以及粒子。\n此選項可能會嚴重影響使用行動裝置或是 4K 解析度時的性能。",
     "new_key": "options.graphics.fabulous.tooltip",
@@ -1785,6 +1806,13 @@
     "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {
+    "old_key": "selectWorld.deleteWarning",
+    "old_value": "'%s' 將會永遠消失！（非常久！）",
+    "new_key": "selectWorld.deleteWarning",
+    "new_value": "「%s」將會永遠消失！（非常久！）",
+    "en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_stonecutter",
     "old_value": "砂輪使用次數",
     "new_key": "stat.minecraft.interact_with_stonecutter",
@@ -1827,10 +1855,45 @@
     "en_us": "Furnace crackles"
   },
   {
+    "old_key": "subtitles.item.armor.equip_chain",
+    "old_value": "鎖鏈盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_chain",
+    "new_value": "鎖鏈盔甲叮鈴聲",
+    "en_us": "Chain armor jingles"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_diamond",
+    "old_value": "鑽石盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_diamond",
+    "new_value": "鑽石盔甲鏗鈴聲",
+    "en_us": "Diamond armor clangs"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_gold",
+    "old_value": "黃金盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_gold",
+    "new_value": "黃金盔甲叮噹聲",
+    "en_us": "Gold armor clinks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_iron",
+    "old_value": "鐵製盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_iron",
+    "new_value": "鐵製盔甲鏗噹聲",
+    "en_us": "Iron armor clanks"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip_leather",
+    "old_value": "皮革盔甲裝備聲",
+    "new_key": "subtitles.item.armor.equip_leather",
+    "new_value": "皮革盔甲沙沙聲",
+    "en_us": "Leather armor rustles"
+  },
+  {
     "old_key": "subtitles.item.armor.equip_netherite",
     "old_value": "獄髓盔甲鏗鏘聲",
     "new_key": "subtitles.item.armor.equip_netherite",
-    "new_value": "獄髓盔甲裝備聲",
+    "new_value": "獄髓盔甲鏗噹聲",
     "en_us": "Netherite armor clanks"
   },
   {

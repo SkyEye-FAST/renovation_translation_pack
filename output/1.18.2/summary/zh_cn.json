@@ -1148,6 +1148,13 @@
     "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {
+    "old_key": "selectWorld.access_failure",
+    "old_value": "加载世界失败",
+    "new_key": "selectWorld.access_failure",
+    "new_value": "进入世界失败",
+    "en_us": "Failed to access world"
+  },
+  {
     "old_key": "selectWorld.backupQuestion.experimental",
     "old_value": "使用“实验性设置”的世界已不受支持",
     "new_key": "selectWorld.backupQuestion.experimental",

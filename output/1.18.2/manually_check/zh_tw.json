@@ -136,22 +136,6 @@
     "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
   },
   {
-    "old_key": "commands.scoreboard.objectives.list.success",
-    "old_value": "目前有 %s 個目標：%s",
-    "old_en_us": "There are %s objectives: %s",
-    "new_key": "commands.scoreboard.objectives.list.success",
-    "new_value": "目前有 %s 個目標： %s",
-    "new_en_us": "There are %s objective(s): %s"
-  },
-  {
-    "old_key": "commands.scoreboard.players.list.success",
-    "old_value": "目前追蹤了 %s 個實體：%s",
-    "old_en_us": "There are %s tracked entities: %s",
-    "new_key": "commands.scoreboard.players.list.success",
-    "new_value": "目前追蹤了 %s 個實體： %s",
-    "new_en_us": "There are %s tracked entity/entities: %s"
-  },
-  {
     "old_key": "commands.spreadplayers.success.entities",
     "old_value": "已將 %s 個玩家分散在 (%s, %s) 附近，每個玩家之間的平均距離為 %s 格",
     "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
@@ -358,6 +342,22 @@
     "new_key": "options.fovEffectScale.tooltip",
     "new_value": "控制視角廣度隨遊戲狀態效果改變的程度。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.hideLightningFlashes",
+    "old_value": "隱藏閃電效果",
+    "old_en_us": "Hide Lightning Flashes",
+    "new_key": "options.hideLightningFlashes",
+    "new_value": "隱藏天空閃爍效果",
+    "new_en_us": "Hide Sky Flashes"
+  },
+  {
+    "old_key": "options.hideLightningFlashes.tooltip",
+    "old_value": "防止打雷造成天空閃爍。閃電本身依然可見。",
+    "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
+    "new_key": "options.hideLightningFlashes.tooltip",
+    "new_value": "防止打雷或其他環境效果造成天空閃爍。閃爍來源本身依然可見。",
+    "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
     "old_key": "options.realmsNotifications",

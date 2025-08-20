@@ -492,7 +492,7 @@
     "old_value": "將會永遠消失！",
     "old_en_us": "will be lost forever! (A long time!)",
     "new_key": "selectWorld.deleteWarning",
-    "new_value": "'%s' 將會永遠消失！（非常久！）",
+    "new_value": "「%s」將會永遠消失！（非常久！）",
     "new_en_us": "'%s' will be lost forever! (A long time!)"
   },
   {

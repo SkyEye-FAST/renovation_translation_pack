@@ -581,6 +581,13 @@
     "en_us": "Click to Copy to Clipboard"
   },
   {
+    "old_key": "chat.disabled.expiredProfileKey",
+    "old_value": "由于个人信息公钥过期，聊天已被禁用。请尝试重新连接。",
+    "new_key": "chat.disabled.expiredProfileKey",
+    "new_value": "由于玩家档案公钥过期，聊天已被禁用。请尝试重新连接。",
+    "en_us": "Chat disabled due to expired profile public key. Please try reconnecting."
+  },
+  {
     "old_key": "command.context.parse_error",
     "old_value": "在第%2$s个字符处发现%1$s：%3$s",
     "new_key": "command.context.parse_error",
@@ -931,6 +938,20 @@
     "en_us": "Start LAN World"
   },
   {
+    "old_key": "multiplayer.disconnect.expired_public_key",
+    "old_value": "个人信息公钥过期。请确保系统时间同步，然后尝试重启游戏。",
+    "new_key": "multiplayer.disconnect.expired_public_key",
+    "new_value": "玩家档案公钥过期。请确保系统时间同步，然后尝试重启游戏。",
+    "en_us": "Expired profile public key. Check that your system time is synchronized, and try restarting your game."
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_public_key_signature",
+    "old_value": "无效的个人信息公钥签名。\n请尝试重启游戏。",
+    "new_key": "multiplayer.disconnect.invalid_public_key_signature",
+    "new_value": "无效的玩家档案公钥签名。\n请尝试重启游戏。",
+    "en_us": "Invalid signature for profile public key.\nTry restarting your game."
+  },
+  {
     "old_key": "multiplayer.requiredTexturePrompt.line2",
     "old_value": "拒绝使用该自定义资源包将会断开你与该服务器间的连接。",
     "new_key": "multiplayer.requiredTexturePrompt.line2",
@@ -1160,6 +1181,13 @@
     "new_key": "selectServer.deleteWarning",
     "new_value": "“%s”将会永久消失！（真的很久！）",
     "en_us": "'%s' will be lost forever! (A long time!)"
+  },
+  {
+    "old_key": "selectWorld.access_failure",
+    "old_value": "加载世界失败",
+    "new_key": "selectWorld.access_failure",
+    "new_value": "进入世界失败",
+    "en_us": "Failed to access world"
   },
   {
     "old_key": "selectWorld.backupQuestion.experimental",

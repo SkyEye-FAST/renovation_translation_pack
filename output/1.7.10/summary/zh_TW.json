@@ -241,7 +241,7 @@
     "old_key": "deathScreen.quit.confirm",
     "old_value": "你確定要退出了嗎？",
     "new_key": "deathScreen.quit.confirm",
-    "new_value": "你確定要退出了嗎？",
+    "new_value": "您確定要離開了嗎？",
     "en_us": "Are you sure you want to quit?"
   },
   {

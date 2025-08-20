@@ -279,6 +279,7 @@
   "resourcePack.broken_assets": "检测到损坏的资产",
   "resourcepack.downloading": "正在下载资源包",
   "selectServer.deleteWarning": "“%s”将会永久消失！（真的很久！）",
+  "selectWorld.access_failure": "进入世界失败",
   "selectWorld.backupJoinConfirmButton": "创建备份并加载",
   "selectWorld.backupQuestion.experimental": "使用“实验性设置”的世界不受支持",
   "selectWorld.data_read": "读取世界数据中…",

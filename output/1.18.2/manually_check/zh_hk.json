@@ -788,7 +788,7 @@
     "old_value": "隱藏雷電閃光",
     "old_en_us": "Hide Lightning Flashes",
     "new_key": "options.hideLightningFlashes",
-    "new_value": "隱藏閃電閃光",
+    "new_value": "隱藏天空閃爍效果",
     "new_en_us": "Hide Sky Flashes"
   },
   {
@@ -796,7 +796,7 @@
     "old_value": "防止行雷時天空閃爍。閃電本身依然可見。",
     "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
     "new_key": "options.hideLightningFlashes.tooltip",
-    "new_value": "關閉打雷時使天空閃爍的效果。閃電本身依然可見。",
+    "new_value": "使閃電電流或其他環境效果不會導致天空閃爍。閃爍源本身仍然可見。",
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
