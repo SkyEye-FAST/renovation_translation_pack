@@ -1960,6 +1960,13 @@
     "en_us": "Carrots"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "鏈",
+    "new_key": "block.minecraft.chain",
+    "new_value": "鐵鏈",
+    "en_us": "Chain"
+  },
+  {
     "old_key": "block.minecraft.chiseled_deepslate",
     "old_value": "鏨板巖",
     "new_key": "block.minecraft.chiseled_deepslate",

@@ -32,14 +32,6 @@
     "new_en_us": "The tick count must be non-negative"
   },
   {
-    "old_key": "block.minecraft.chain",
-    "old_value": "鏈",
-    "old_en_us": "Chain",
-    "new_key": "block.minecraft.chain",
-    "new_value": "鐵鏈",
-    "new_en_us": "Iron Chain"
-  },
-  {
     "old_key": "chat.disabled.launcher",
     "old_value": "發軔者選項：禁語。信弗能送。",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -654,6 +646,22 @@
     "new_key": "options.graphics.warning.accept",
     "new_value": "無援而進",
     "new_en_us": "Continue Without Support"
+  },
+  {
+    "old_key": "options.hideLightningFlashes",
+    "old_value": "隱列缺之爍",
+    "old_en_us": "Hide Lightning Flashes",
+    "new_key": "options.hideLightningFlashes",
+    "new_value": "隱天穹之爍",
+    "new_en_us": "Hide Sky Flashes"
+  },
+  {
+    "old_key": "options.hideLightningFlashes.tooltip",
+    "old_value": "阻列缺爍天穹。列缺仍可見焉。",
+    "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
+    "new_key": "options.hideLightningFlashes.tooltip",
+    "new_value": "阻列缺等爍天穹。爍源仍可見焉。",
+    "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
     "old_key": "options.modelPart.left_pants_leg",

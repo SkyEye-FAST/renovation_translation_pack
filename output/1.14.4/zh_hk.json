@@ -2472,7 +2472,7 @@
   "gui.recipebook.toggleRecipes.craftable": "只顯示可合成",
   "gui.recipebook.toggleRecipes.smeltable": "只顯示可熔煉",
   "gui.recipebook.toggleRecipes.smokable": "只顯示可煙燻",
-  "gui.stats": "統計資訊",
+  "gui.stats": "統計數據",
   "gui.toMenu": "返回伺服器列表",
   "gui.toTitle": "返回主畫面",
   "gui.up": "上",

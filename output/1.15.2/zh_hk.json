@@ -453,6 +453,7 @@
   "gameMode.hardcore": "極限模式",
   "generator.customized": "舊版自訂",
   "gui.recipebook.moreRecipes": "按右鍵以瞭解更多",
+  "gui.stats": "統計數據",
   "inventory.hotbarInfo": "按 %1$s + %2$s 儲存快捷欄",
   "inventory.hotbarSaved": "快捷欄已儲存（按 %1$s + %2$s 復原）",
   "item.canPlace": "可放置於：",

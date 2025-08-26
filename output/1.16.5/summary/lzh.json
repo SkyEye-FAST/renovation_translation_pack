@@ -1799,6 +1799,13 @@
     "en_us": "Carrots"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "鏈",
+    "new_key": "block.minecraft.chain",
+    "new_value": "鐵鏈",
+    "en_us": "Chain"
+  },
+  {
     "old_key": "block.minecraft.chiseled_nether_bricks",
     "old_value": "鏨焱界磚",
     "new_key": "block.minecraft.chiseled_nether_bricks",

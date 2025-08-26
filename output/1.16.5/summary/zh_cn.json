@@ -476,6 +476,13 @@
     "en_us": "Carved Pumpkin"
   },
   {
+    "old_key": "block.minecraft.chain",
+    "old_value": "锁链",
+    "new_key": "block.minecraft.chain",
+    "new_value": "铁链",
+    "en_us": "Chain"
+  },
+  {
     "old_key": "block.minecraft.chiseled_nether_bricks",
     "old_value": "錾制下界砖块",
     "new_key": "block.minecraft.chiseled_nether_bricks",

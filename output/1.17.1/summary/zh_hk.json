@@ -3563,6 +3563,13 @@
     "en_us": "Social Interactions"
   },
   {
+    "old_key": "gui.stats",
+    "old_value": "統計資訊",
+    "new_key": "gui.stats",
+    "new_value": "統計數據",
+    "en_us": "Statistics"
+  },
+  {
     "old_key": "item.canPlace",
     "old_value": "可放於：",
     "new_key": "item.canPlace",
@@ -4273,7 +4280,7 @@
     "old_key": "multiplayer.disconnect.incompatible",
     "old_value": "用户端版本過舊！請使用 %s",
     "new_key": "multiplayer.disconnect.incompatible",
-    "new_value": "客户端版本過舊！請使用 %s",
+    "new_value": "客户端版本不相容！請使用 %s",
     "en_us": "Incompatible client! Please use %s"
   },
   {

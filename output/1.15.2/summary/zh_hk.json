@@ -2548,6 +2548,13 @@
     "en_us": "Your game mode has been updated to %s"
   },
   {
+    "old_key": "gui.stats",
+    "old_value": "統計資訊",
+    "new_key": "gui.stats",
+    "new_value": "統計數據",
+    "en_us": "Statistics"
+  },
+  {
     "old_key": "item.canPlace",
     "old_value": "可放於：",
     "new_key": "item.canPlace",
