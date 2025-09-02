@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "建筑高度限制是%s个方块",
     "old_en_us": "Height limit for building is %s blocks",

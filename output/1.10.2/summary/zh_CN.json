@@ -7,13 +7,6 @@
     "en_us": "Console Command"
   },
   {
-    "old_key": "advMode.notEnabled",
-    "old_value": "命令方块没有在此服务器上启用",
-    "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
-    "en_us": "Command blocks are not enabled on this server"
-  },
-  {
     "old_key": "advMode.setCommand",
     "old_value": "设置此方块的控制台指令",
     "new_key": "advMode.setCommand",

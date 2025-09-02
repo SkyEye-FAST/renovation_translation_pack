@@ -128,12 +128,28 @@
     "new_en_us": "Construct a better Pickaxe"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "依個伺服器已經停用命令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此伺服器已經停用命令方塊",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.entity.options.gamemode.description",
     "old_value": "玩家嘅遊戲模式",
     "old_en_us": "Players with gamemode",
     "new_key": "argument.entity.options.gamemode.description",
     "new_value": "玩家的遊戲模式",
     "new_en_us": "Players with game mode"
+  },
+  {
+    "old_key": "argument.range.ints",
+    "old_value": "只准整數，不能為小數",
+    "old_en_us": "Only whole numbers allowed, not decimals",
+    "new_key": "argument.range.ints",
+    "new_value": "僅接受整數，不接受小數",
+    "new_en_us": "Only whole numbers allowed; not decimals"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -181,7 +197,7 @@
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
     "new_value": "未知或不完整的命令，錯誤如下",
-    "new_en_us": "Unknown or incomplete command, see below for error"
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.banip.info",
@@ -222,6 +238,14 @@
     "new_key": "commands.clear.success.single",
     "new_value": "已刪除玩家 %2$s 的 %1$s 個物品",
     "new_en_us": "Removed %s item(s) from player %s"
+  },
+  {
+    "old_key": "commands.clone.toobig",
+    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定值為 %s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.clone.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定值為 %s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.data.merge.failed",
@@ -296,12 +320,36 @@
     "new_en_us": "Dropped %s %s from loot table %s"
   },
   {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "指定區域內嘅方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.fill.success",
     "old_value": "成功填充 %s 個方塊",
     "old_en_us": "Successfully filled %s blocks",
     "new_key": "commands.fill.success",
     "new_value": "已成功填充 %s 個方塊",
     "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定為 %s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "指定區域內嘅區塊太多（最大值為 %s，指定為 %s）",
+    "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
+    "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.list.players",
@@ -725,7 +773,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "按 %1$s + %2$s 儲存快捷欄",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -733,7 +781,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "快捷欄已儲存（按 %1$s + %2$s 復原）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "item.minecraft.clay_ball",
@@ -832,6 +880,14 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "驗證伺服器暫停服務，請稍後再試，唔好意思！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "驗證伺服器暫停服務，請稍後再試，抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
+  },
+  {
     "old_key": "multiplayer.disconnect.outdated_client",
     "old_value": "用户端過舊！請使用 %s",
     "old_en_us": "Outdated client! Please use %s",
@@ -861,7 +917,7 @@
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
-    "new_en_us": "Can't deliver chat message, check server logs: %s"
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayerWarning.header",
@@ -1006,6 +1062,14 @@
     "new_key": "selectWorld.mapType",
     "new_value": "世界類型",
     "new_en_us": "World Type"
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "載入依個世界可能會出現問題！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "載入此世界可能會出現問題！",
+    "new_en_us": "and loading it could cause problems!"
   },
   {
     "old_key": "selectWorld.tooltip.snapshot1",

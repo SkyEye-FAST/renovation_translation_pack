@@ -518,13 +518,6 @@
     "en_us": "Must be an opped player in creative mode"
   },
   {
-    "old_key": "advMode.notEnabled",
-    "old_value": "是伺服器禁命令塊",
-    "new_key": "advMode.notEnabled",
-    "new_value": "命令塊爲是伺服器所禁",
-    "en_us": "Command blocks are not enabled on this server"
-  },
-  {
     "old_key": "advMode.previousOutput",
     "old_value": "前之輸出",
     "new_key": "advMode.previousOutput",
@@ -586,13 +579,6 @@
     "new_key": "argument.block.property.unknown",
     "new_value": "塊%s無「%s」性",
     "en_us": "Block %s does not have property '%s'"
-  },
-  {
-    "old_key": "argument.block.tag.disallowed",
-    "old_value": "此地不可用簽，但诸實塊耳",
-    "new_key": "argument.block.tag.disallowed",
-    "new_value": "此地不可用籤，但諸實塊耳",
-    "en_us": "Tags aren't allowed here, only actual blocks"
   },
   {
     "old_key": "argument.color.invalid",
@@ -791,13 +777,6 @@
     "en_us": "Unknown item '%s'"
   },
   {
-    "old_key": "argument.item.tag.disallowed",
-    "old_value": "標籤不允，實物可矣",
-    "new_key": "argument.item.tag.disallowed",
-    "new_value": "此地不可用籤，但諸實物耳",
-    "en_us": "Tags aren't allowed here, only actual items"
-  },
-  {
     "old_key": "argument.literal.incorrect",
     "old_value": "應爲字面量%s",
     "new_key": "argument.literal.incorrect",
@@ -889,13 +868,6 @@
     "en_us": "Expected value or range of values"
   },
   {
-    "old_key": "argument.range.ints",
-    "old_value": "僅整數",
-    "new_key": "argument.range.ints",
-    "new_value": "僅整數可置於此，小數不可",
-    "en_us": "Only whole numbers allowed, not decimals"
-  },
-  {
     "old_key": "argument.range.swapped",
     "old_value": "疑兩最互易",
     "new_key": "argument.range.swapped",
@@ -978,13 +950,6 @@
     "new_key": "arguments.operation.div0",
     "new_value": "不可除以零",
     "en_us": "Cannot divide by zero"
-  },
-  {
-    "old_key": "arguments.swizzle.invalid",
-    "old_value": "是綴合無效，應爲（x）（y）（z）之綴合",
-    "new_key": "arguments.swizzle.invalid",
-    "new_value": "是綴合無效，應爲「x」「y」「z」之綴合",
-    "en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "biome.minecraft.deep_cold_ocean",
@@ -3881,7 +3846,7 @@
     "old_key": "chat.copy",
     "old_value": "於剪貼板備製",
     "new_key": "chat.copy",
-    "new_value": "複刻於簿",
+    "new_value": "鈔於簿",
     "en_us": "Copy to Clipboard"
   },
   {
@@ -3899,10 +3864,17 @@
     "en_us": "Are you sure you want to open the following website?"
   },
   {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "啟之，抑複製於剪貼簿？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "啟之，抑鈔之於簿？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
     "old_key": "chat.link.warning",
     "old_value": "勿啟不信者之網頁！",
     "new_key": "chat.link.warning",
-    "new_value": "勿啟子不信者之連結！",
+    "new_value": "勿啟子不信者之鏈！",
     "en_us": "Never open links from people that you don't trust!"
   },
   {
@@ -4277,13 +4249,6 @@
     "en_us": "No blocks were cloned"
   },
   {
-    "old_key": "commands.clone.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.clone.toobig",
-    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
     "old_key": "commands.data.block.modified",
     "old_value": "已更%s, %s, %s之塊資",
     "new_key": "commands.data.block.modified",
@@ -4338,20 +4303,6 @@
     "new_key": "commands.data.get.unknown",
     "new_value": "%s不可得，是簽無存焉",
     "en_us": "Can't get %s; tag doesn't exist"
-  },
-  {
-    "old_key": "commands.data.modify.expected_list",
-    "old_value": "所期之單，今得：%s",
-    "new_key": "commands.data.modify.expected_list",
-    "new_value": "應爲簿，今得：%s",
-    "en_us": "Expected list, got: %s"
-  },
-  {
-    "old_key": "commands.data.modify.expected_object",
-    "old_value": "所期之物，今得：%s",
-    "new_key": "commands.data.modify.expected_object",
-    "new_value": "應爲物，今得：%s",
-    "en_us": "Expected object, got: %s"
   },
   {
     "old_key": "commands.data.modify.invalid_index",
@@ -4543,13 +4494,6 @@
     "en_us": "Applied enchantment %s to %s's item"
   },
   {
-    "old_key": "commands.execute.blocks.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.execute.blocks.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
     "old_key": "commands.execute.conditional.fail",
     "old_value": "试未举",
     "new_key": "commands.execute.conditional.fail",
@@ -4557,25 +4501,11 @@
     "en_us": "Test failed"
   },
   {
-    "old_key": "commands.execute.conditional.fail_count",
-    "old_value": "測挫，共：%s",
-    "new_key": "commands.execute.conditional.fail_count",
-    "new_value": "試未舉，凡%s次",
-    "en_us": "Test failed, count: %s"
-  },
-  {
     "old_key": "commands.execute.conditional.pass",
     "old_value": "试举",
     "new_key": "commands.execute.conditional.pass",
     "new_value": "試既舉",
     "en_us": "Test passed"
-  },
-  {
-    "old_key": "commands.execute.conditional.pass_count",
-    "old_value": "測通，共：%s",
-    "new_key": "commands.execute.conditional.pass_count",
-    "new_value": "試既舉，凡%s次",
-    "en_us": "Test passed, count: %s"
   },
   {
     "old_key": "commands.experience.add.levels.success.multiple",
@@ -4639,20 +4569,6 @@
     "new_key": "commands.fill.failed",
     "new_value": "填塊未果",
     "en_us": "No blocks were filled"
-  },
-  {
-    "old_key": "commands.fill.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.fill.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
-    "old_key": "commands.forceload.toobig",
-    "old_value": "所選區塊者多矣！可選之區塊有%s，君選%s",
-    "new_key": "commands.forceload.toobig",
-    "new_value": "所定之域內區塊量过載（至多%s，定量%s）",
-    "en_us": "Too many chunks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.gamemode.success.other",
@@ -5810,17 +5726,10 @@
     "en_us": "F3 + D = Clear chat"
   },
   {
-    "old_key": "debug.copy_location.help",
-    "old_value": "F3 + C = 複刻位爲/tp令，恒押 F3 + C 以崩戯",
-    "new_key": "debug.copy_location.help",
-    "new_value": "【F3並C】複刻位爲/tp令，恆押F3並C以崩戲",
-    "en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game"
-  },
-  {
     "old_key": "debug.copy_location.message",
     "old_value": "已複刻位於版",
     "new_key": "debug.copy_location.message",
-    "new_value": "既複刻位於版",
+    "new_value": "既鈔位於簿",
     "en_us": "Copied location to clipboard"
   },
   {
@@ -5855,7 +5764,7 @@
     "old_key": "debug.inspect.help",
     "old_value": "（F3）並（I）：複刻實體或塊之資於版",
     "new_key": "debug.inspect.help",
-    "new_value": "【F3並I】複刻實體或塊之資於版",
+    "new_value": "【F3並I】鈔實體抑塊之資於簿",
     "en_us": "F3 + I = Copy entity or block data to clipboard"
   },
   {
@@ -8120,13 +8029,6 @@
     "en_us": "Toggle Cinematic Camera"
   },
   {
-    "old_key": "key.spectatorOutlines",
-    "old_value": "標示玩家（旁觀者）",
-    "new_key": "key.spectatorOutlines",
-    "new_value": "彰戲者（覽者）",
-    "en_us": "Highlight Players (Spectators)"
-  },
-  {
     "old_key": "key.sprint",
     "old_value": "奔",
     "new_key": "key.sprint",
@@ -8230,13 +8132,6 @@
     "new_key": "merchant.level.5",
     "new_value": "巨擘",
     "en_us": "Master"
-  },
-  {
-    "old_key": "multiplayer.disconnect.authservers_down",
-    "old_value": "驗證伺服器暫停服務， 請稍後再試， 非常抱歉！",
-    "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器去矣，容後再試，深表歉意！",
-    "en_us": "Authentication servers are down. Please try again later, sorry!"
   },
   {
     "old_key": "multiplayer.disconnect.banned",
@@ -8578,8 +8473,15 @@
     "old_key": "options.chat.links",
     "old_value": "網址連結",
     "new_key": "options.chat.links",
-    "new_value": "萬維連結",
+    "new_value": "網鏈",
     "en_us": "Web Links"
+  },
+  {
+    "old_key": "options.chat.links.prompt",
+    "old_value": "連結提示",
+    "new_key": "options.chat.links.prompt",
+    "new_value": "鏈詢",
+    "en_us": "Prompt on Links"
   },
   {
     "old_key": "options.chat.opacity",
@@ -8867,13 +8769,6 @@
     "new_key": "parsing.bool.expected",
     "new_value": "當爲是非之直",
     "en_us": "Expected boolean"
-  },
-  {
-    "old_key": "parsing.bool.invalid",
-    "old_value": "是布爾值無效，應爲（true）抑（false），尋（%s）",
-    "new_key": "parsing.bool.invalid",
-    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
-    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "parsing.double.invalid",
@@ -9308,13 +9203,6 @@
     "new_key": "selectWorld.tooltip.fromNewerVersion1",
     "new_value": "此生界以新版存之，",
     "en_us": "World was saved in a newer version,"
-  },
-  {
-    "old_key": "selectWorld.tooltip.fromNewerVersion2",
-    "old_value": "若載此世，其或誤之！",
-    "new_key": "selectWorld.tooltip.fromNewerVersion2",
-    "new_value": "若讀此生界，其或成誤焉！",
-    "en_us": "loading this world could cause problems!"
   },
   {
     "old_key": "selectWorld.versionJoinButton",

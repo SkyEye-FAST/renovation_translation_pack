@@ -56,13 +56,6 @@
     "en_us": "Build, light and enter a Nether Portal"
   },
   {
-    "old_key": "advMode.notEnabled",
-    "old_value": "命令方块没有在此服务器上启用",
-    "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
-    "en_us": "Command blocks are not enabled on this server"
-  },
-  {
     "old_key": "advMode.setCommand.success",
     "old_value": "成功设置：%s",
     "new_key": "advMode.setCommand.success",
@@ -94,7 +87,7 @@
     "old_key": "argument.block.property.novalue",
     "old_value": "%s上必须要有'%s'属性",
     "new_key": "argument.block.property.novalue",
-    "new_value": "方块%s上的属性“%s”必须要有值",
+    "new_value": "方块%2$s上的属性“%1$s”应有值",
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
@@ -299,13 +292,6 @@
     "new_key": "arguments.objective.readonly",
     "new_value": "记分项“%s”为只读类型",
     "en_us": "Scoreboard objective '%s' is read-only"
-  },
-  {
-    "old_key": "arguments.swizzle.invalid",
-    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
-    "new_key": "arguments.swizzle.invalid",
-    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
-    "en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "attribute.name.generic.armor",
@@ -868,20 +854,6 @@
     "en_us": "%s on block %s, %s, %s after scale factor of %s is %s"
   },
   {
-    "old_key": "commands.data.modify.expected_list",
-    "old_value": "需要列表，却发现了：%s",
-    "new_key": "commands.data.modify.expected_list",
-    "new_value": "应为列表，实际为：%s",
-    "en_us": "Expected list, got: %s"
-  },
-  {
-    "old_key": "commands.data.modify.expected_object",
-    "old_value": "需要对象，却发现了：%s",
-    "new_key": "commands.data.modify.expected_object",
-    "new_value": "应为对象，实际为：%s",
-    "en_us": "Expected object, got: %s"
-  },
-  {
     "old_key": "commands.datapack.disable.failed",
     "old_value": "数据包'%s'并未启用！",
     "new_key": "commands.datapack.disable.failed",
@@ -1435,13 +1407,6 @@
     "en_us": "Save and Quit to Title"
   },
   {
-    "old_key": "multiplayer.disconnect.authservers_down",
-    "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
-    "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
-    "en_us": "Authentication servers are down. Please try again later, sorry!"
-  },
-  {
     "old_key": "multiplayer.disconnect.generic",
     "old_value": "连接中止",
     "new_key": "multiplayer.disconnect.generic",
@@ -1608,13 +1573,6 @@
     "new_key": "parsing.bool.expected",
     "new_value": "应为布尔型",
     "en_us": "Expected boolean"
-  },
-  {
-    "old_key": "parsing.bool.invalid",
-    "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
-    "new_key": "parsing.bool.invalid",
-    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
-    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "parsing.double.expected",

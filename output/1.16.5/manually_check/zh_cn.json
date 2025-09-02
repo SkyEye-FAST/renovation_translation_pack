@@ -32,6 +32,14 @@
     "new_en_us": "Fill a Bucket with lava"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.time.invalid_tick_count",
     "old_value": "刻的计数必须为非负数",
     "old_en_us": "Tick count must be non-negative",
@@ -40,12 +48,36 @@
     "new_en_us": "The tick count must be non-negative"
   },
   {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "建筑高度限制是%s个方块",
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建筑高度限制是%s",
     "new_en_us": "Height limit for building is %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "需要列表，却发现了：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "应为列表，实际为：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "需要对象，却发现了：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "应为对象，实际为：%s",
+    "new_en_us": "Expected object; got: %s"
   },
   {
     "old_key": "commands.debug.alreadyRunning",
@@ -382,6 +414,14 @@
     "new_key": "options.vsync",
     "new_value": "垂直同步",
     "new_en_us": "VSync"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "selectWorld.mapFeatures.info",

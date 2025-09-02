@@ -184,6 +184,22 @@
     "new_en_us": "Construct a better Pickaxe"
   },
   {
+    "old_key": "argument.block.tag.disallowed",
+    "old_value": "此地不可用簽，但諸實塊耳",
+    "old_en_us": "Tags aren't allowed here, only actual blocks",
+    "new_key": "argument.block.tag.disallowed",
+    "new_value": "此地不可用籤，但諸實塊耳",
+    "new_en_us": "Tags aren't allowed here; only actual blocks"
+  },
+  {
+    "old_key": "argument.item.tag.disallowed",
+    "old_value": "標籤不允，實物可矣",
+    "old_en_us": "Tags aren't allowed here, only actual items",
+    "new_key": "argument.item.tag.disallowed",
+    "new_value": "此地不可用籤，但諸實物耳",
+    "new_en_us": "Tags aren't allowed here; only actual items"
+  },
+  {
     "old_key": "argument.time.invalid_tick_count",
     "old_value": "刻數不可爲負",
     "old_en_us": "Tick count must be non-negative",
@@ -222,6 +238,38 @@
     "new_key": "chat.queue",
     "new_value": "[余%s待發之訊]",
     "new_en_us": "[+%s pending line(s)]"
+  },
+  {
+    "old_key": "commands.attribute.base_value.get.success",
+    "old_value": "實體%2$s之品%1$s，其基值爲%3$s",
+    "old_en_us": "Base value of attribute %s for entity %s is %s",
+    "new_key": "commands.attribute.base_value.get.success",
+    "new_value": "實體%2$s之品%1$s，其基直爲%3$s",
+    "new_en_us": "The base value of attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.base_value.set.success",
+    "old_value": "實體%2$s之品%1$s，其基值現爲%3$s",
+    "old_en_us": "Base value for attribute %s for entity %s set to %s",
+    "new_key": "commands.attribute.base_value.set.success",
+    "new_value": "實體%2$s之品%1$s，其基直現爲%3$s",
+    "new_en_us": "The base value for attribute %s for entity %s set to %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.value.get.success",
+    "old_value": "修飾符%1$s於實體%3$s之品%2$s，其值爲%4$s",
+    "old_en_us": "Value of modifier %s on attribute %s for entity %s is %s",
+    "new_key": "commands.attribute.modifier.value.get.success",
+    "new_value": "修飾符%1$s於實體%3$s之品%2$s，其直爲%4$s",
+    "new_en_us": "The value of modifier %s on attribute %s for entity %s is %s"
+  },
+  {
+    "old_key": "commands.attribute.value.get.success",
+    "old_value": "實體%2$s之品%1$s，其值爲%3$s",
+    "old_en_us": "Value of attribute %s for entity %s is %s",
+    "new_key": "commands.attribute.value.get.success",
+    "new_value": "實體%2$s之品%1$s，其直爲%3$s",
+    "new_en_us": "The value of attribute %s for entity %s is %s"
   },
   {
     "old_key": "commands.bossbar.get.players.some",
@@ -288,6 +336,30 @@
     "new_en_us": "Successfully cloned %s block(s)"
   },
   {
+    "old_key": "commands.clone.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.clone.toobig",
+    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "所期之簿，今得：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應爲簿，今得：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "所期之物，今得：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應爲物，今得：%s",
+    "new_en_us": "Expected object; got: %s"
+  },
+  {
     "old_key": "commands.datapack.list.available.success",
     "old_value": "有%s錄囊可啟：%s",
     "old_en_us": "There are %s data packs available: %s",
@@ -318,6 +390,46 @@
     "new_key": "commands.debug.function.success.single",
     "new_value": "既自%2$s函數中跡得令「%1$s」以稟於%3$s",
     "new_en_us": "Traced %s command(s) from function '%s' to output file %s"
+  },
+  {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "试未舉，凡%s次",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "試未舉，凡%s次",
+    "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "试既舉，凡%s次",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "試既舉，凡%s次",
+    "new_en_us": "Test passed. Count: %s"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "所選區塊者多矣！可選之區塊有%s，君選%s",
+    "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "所定之域內區塊量过載（至多%s，定量%s）",
+    "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.function.success.multiple",
@@ -568,6 +680,14 @@
     "new_en_us": "%1$s withered away while fighting %2$s"
   },
   {
+    "old_key": "debug.copy_location.help",
+    "old_value": "【F3並C】複刻位爲/tp令，恆押F3並C以崩戲",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "【F3並C】鈔位爲/tp令，恆押F3並C以崩戲",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
+  },
+  {
     "old_key": "debug.creative_spectator.error",
     "old_value": "嬉遊之法不可更；需權",
     "old_en_us": "Unable to switch gamemode; no permission",
@@ -664,6 +784,14 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "突顯戲者（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "彰戲者（覽者）",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "key.swapOffhand",
     "old_value": "易手中之物",
     "old_en_us": "Swap Item With Offhand",
@@ -672,12 +800,44 @@
     "new_en_us": "Swap Item With Off Hand"
   },
   {
+    "old_key": "multiplayer.message_not_delivered",
+    "old_value": "無可傳送侃谈之訊， 請查伺服器之誌： %s",
+    "old_en_us": "Can't deliver chat message, check server logs: %s",
+    "new_key": "multiplayer.message_not_delivered",
+    "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
+    "old_key": "narration.component_list.usage",
+    "old_value": "擊Tab移至下者",
+    "old_en_us": "Press Tab to navigate to next element",
+    "new_key": "narration.component_list.usage",
+    "new_value": "擊Tab移至次件",
+    "new_en_us": "Press Tab to navigate to the next element"
+  },
+  {
     "old_key": "narration.recipe",
     "old_value": "製%s之方",
     "old_en_us": "Reciple for %s",
     "new_key": "narration.recipe",
     "new_value": "%s之方",
     "new_en_us": "Recipe for %s"
+  },
+  {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "撃左右鍵以易其值",
+    "old_en_us": "Press left or right keyboard buttons to change value",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "撃左右鍵以易其直",
+    "new_en_us": "Press the left or right keyboard buttons to change the value"
+  },
+  {
+    "old_key": "narration.slider.usage.hovered",
+    "old_value": "曳滑桿以更其值",
+    "old_en_us": "Drag slider to change value",
+    "new_key": "narration.slider.usage.hovered",
+    "new_value": "曳滑桿以更其直",
+    "new_en_us": "Drag the slider to change its value"
   },
   {
     "old_key": "options.accessibility.title",
@@ -750,6 +910,14 @@
     "new_key": "options.showSubtitles",
     "new_value": "旁註",
     "new_en_us": "Closed Captions"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "是布爾值無效，應爲「true」抑「false」，尋「%s」",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "recipe.toast.title",

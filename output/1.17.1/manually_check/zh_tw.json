@@ -120,6 +120,14 @@
     "new_en_us": "Successfully filled %s block(s)"
   },
   {
+    "old_key": "commands.fill.toobig",
+    "old_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.schedule.created.tag",
     "old_value": "已將標籤 '%1$s' 排定於 %2$s 刻後，遊戲時間為 %3$s",
     "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
@@ -312,6 +320,22 @@
     "new_en_us": "Swap Item With Off Hand"
   },
   {
+    "old_key": "multiplayer.disconnect.invalid_packet",
+    "old_value": "伺服器發送無效的封包",
+    "old_en_us": "Server sent an invalid packet",
+    "new_key": "multiplayer.disconnect.invalid_packet",
+    "new_value": "伺服器傳送無效的封包",
+    "new_en_us": "The server sent an invalid packet"
+  },
+  {
+    "old_key": "multiplayer.message_not_delivered",
+    "old_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
+    "old_en_us": "Can't deliver chat message, check server logs: %s",
+    "new_key": "multiplayer.message_not_delivered",
+    "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
     "old_key": "options.accessibility.title",
     "old_value": "協助工具設定...",
     "old_en_us": "Accessibility Settings...",
@@ -326,6 +350,14 @@
     "new_key": "options.chat.title",
     "new_value": "聊天設定",
     "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
   },
   {
     "old_key": "options.fovEffectScale.tooltip",

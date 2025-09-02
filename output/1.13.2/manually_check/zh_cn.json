@@ -48,6 +48,14 @@
     "new_en_us": "Cover Me with Diamonds"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未知的准则：'%s'",
     "old_en_us": "Unknown criteria '%s'",
@@ -56,12 +64,68 @@
     "new_en_us": "Unknown criterion '%s'"
   },
   {
+    "old_key": "argument.double.big",
+    "old_value": "双精度浮点数不能大于%s，却发现了%s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "双精度浮点型数据不能大于%s，但发现了%s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "双精度浮点数不能小于%s，却发现了%s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "双精度浮点型数据不能小于%s，但发现了%s",
+    "new_en_us": "Double must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.big",
+    "old_value": "浮点数不能大于%s，却发现了%s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "浮点型数据不能大于%s，但发现了%s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "浮点数不能小于%s，却发现了%s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "浮点型数据不能小于%s，但发现了%s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整数不能大于%s，却发现了%s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整型数据不能大于%s，但发现了%s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整数不能小于%s，却发现了%s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整型数据不能小于%s，但发现了%s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
     "old_key": "arguments.nbtpath.node.invalid",
     "old_value": "无效的NBT路径，需要正确的成员名或索引",
     "old_en_us": "Invalid NBT path, expected element name or index",
     "new_key": "arguments.nbtpath.node.invalid",
     "new_value": "无效的NBT路径元素",
     "new_en_us": "Invalid NBT path element"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "block.minecraft.redstone_wire",
@@ -101,7 +165,7 @@
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
     "new_value": "未知或不完整的命令，错误见下",
-    "new_en_us": "Unknown or incomplete command, see below for error"
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.banip.info",
@@ -453,7 +517,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "用%1$s+%2$s来保存快捷栏",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -461,7 +525,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "已保存物品快捷栏（用%1$s+%2$s来加载）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "item.minecraft.clay_ball",
@@ -520,6 +584,14 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "高亮玩家(旁观者)",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "高亮玩家（旁观者）",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "menu.preparingSpawn",
     "old_value": "准备生成区域中",
     "old_en_us": "Preparing spawn area",
@@ -534,6 +606,14 @@
     "new_key": "merchant.deprecated",
     "new_value": "村民每天最多补货两次。",
     "new_en_us": "Villagers restock up to two times per day."
+  },
+  {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
     "old_key": "multiplayer.disconnect.outdated_client",
@@ -565,7 +645,7 @@
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "无法发送聊天消息，请检查服务器日志：%s",
-    "new_en_us": "Can't deliver chat message, check server logs: %s"
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayer.status.request_handled",
@@ -630,6 +710,14 @@
     "new_key": "options.vsync",
     "new_value": "垂直同步",
     "new_en_us": "VSync"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "无效的布尔值，需要'true'或'false'却找到了'%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "selectWorld.allowCommands",

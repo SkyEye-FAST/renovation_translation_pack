@@ -42,13 +42,6 @@
     "en_us": "Enchant an item at an Enchanting Table"
   },
   {
-    "old_key": "advMode.notEnabled",
-    "old_value": "命令方块没有在此服务器上启用",
-    "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
-    "en_us": "Command blocks are not enabled on this server"
-  },
-  {
     "old_key": "advMode.setCommand.success",
     "old_value": "成功设置：%s",
     "new_key": "advMode.setCommand.success",
@@ -66,7 +59,7 @@
     "old_key": "argument.block.property.novalue",
     "old_value": "%s上必须要有“%s”属性",
     "new_key": "argument.block.property.novalue",
-    "new_value": "方块%s上的属性“%s”必须要有值",
+    "new_value": "方块%2$s上的属性“%1$s”应有值",
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
@@ -145,13 +138,6 @@
     "new_key": "argument.rotation.incomplete",
     "new_value": "不完整（应有2个坐标）",
     "en_us": "Incomplete (expected 2 coordinates)"
-  },
-  {
-    "old_key": "arguments.swizzle.invalid",
-    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
-    "new_key": "arguments.swizzle.invalid",
-    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
-    "en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "attribute.name.generic.luck",
@@ -285,13 +271,6 @@
     "new_key": "block.minecraft.carved_pumpkin",
     "new_value": "雕刻南瓜",
     "en_us": "Carved Pumpkin"
-  },
-  {
-    "old_key": "block.minecraft.chain",
-    "old_value": "锁链",
-    "new_key": "block.minecraft.chain",
-    "new_value": "铁链",
-    "en_us": "Chain"
   },
   {
     "old_key": "block.minecraft.chiseled_deepslate",
@@ -637,20 +616,6 @@
     "en_us": "Revoked criterion '%s' of advancement %s from %s"
   },
   {
-    "old_key": "commands.data.modify.expected_list",
-    "old_value": "需要列表，却发现了：%s",
-    "new_key": "commands.data.modify.expected_list",
-    "new_value": "应为列表，实际为：%s",
-    "en_us": "Expected list, got: %s"
-  },
-  {
-    "old_key": "commands.data.modify.expected_object",
-    "old_value": "需要对象，却发现了：%s",
-    "new_key": "commands.data.modify.expected_object",
-    "new_value": "应为对象，实际为：%s",
-    "en_us": "Expected object, got: %s"
-  },
-  {
     "old_key": "commands.experience.query.points",
     "old_value": "%s拥有%s点经验值",
     "new_key": "commands.experience.query.points",
@@ -952,39 +917,11 @@
     "en_us": "Press Enter to toggle"
   },
   {
-    "old_key": "narration.component_list.usage",
-    "old_value": "按下Tab键移动到下一屏幕控件",
-    "new_key": "narration.component_list.usage",
-    "new_value": "按下Tab键移动到下一个屏幕控件",
-    "en_us": "Press Tab to navigate to next element"
-  },
-  {
     "old_key": "narration.cycle_button.usage.focused",
     "old_value": "按下Enter键以切换到%s",
     "new_key": "narration.cycle_button.usage.focused",
     "new_value": "按下Enter键切换到%s",
     "en_us": "Press Enter to switch to %s"
-  },
-  {
-    "old_key": "narration.selection.usage",
-    "old_value": "按下上键或下键以移动到另一项",
-    "new_key": "narration.selection.usage",
-    "new_value": "使用上下方向键移动到另一项",
-    "en_us": "Press up and down buttons to move to another entry"
-  },
-  {
-    "old_key": "narration.slider.usage.focused",
-    "old_value": "按下键盘左键或键盘右键以更改数值",
-    "new_key": "narration.slider.usage.focused",
-    "new_value": "使用左右方向键更改数值",
-    "en_us": "Press left or right keyboard buttons to change value"
-  },
-  {
-    "old_key": "narration.slider.usage.hovered",
-    "old_value": "拖动滑块以更改数值",
-    "new_key": "narration.slider.usage.hovered",
-    "new_value": "拖动滑块更改数值",
-    "en_us": "Drag slider to change value"
   },
   {
     "old_key": "narrator.button.difficulty_lock",
@@ -1076,13 +1013,6 @@
     "new_key": "parsing.bool.expected",
     "new_value": "应为布尔型",
     "en_us": "Expected boolean"
-  },
-  {
-    "old_key": "parsing.bool.invalid",
-    "old_value": "无效的布尔型数据，需要“true”或“false”却出现了“%s”",
-    "new_key": "parsing.bool.invalid",
-    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
-    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "parsing.double.expected",

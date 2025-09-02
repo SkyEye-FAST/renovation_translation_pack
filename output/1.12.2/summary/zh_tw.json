@@ -1911,13 +1911,6 @@
     "en_us": "Reset Demo World"
   },
   {
-    "old_key": "multiplayer.disconnect.authservers_down",
-    "old_value": "驗證伺服器暫停服務，請稍後再嘗試，抱歉！",
-    "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務，請稍後再試，非常抱歉！",
-    "en_us": "Authentication servers are down. Please try again later, sorry!"
-  },
-  {
     "old_key": "multiplayer.status.cannot_connect",
     "old_value": "無法連接到伺服器",
     "new_key": "multiplayer.status.cannot_connect",
@@ -1937,13 +1930,6 @@
     "new_key": "options.attack.crosshair",
     "new_value": "十字準星",
     "en_us": "Crosshair"
-  },
-  {
-    "old_key": "options.chunks",
-    "old_value": "%s 區塊",
-    "new_key": "options.chunks",
-    "new_value": "%s 個區塊",
-    "en_us": "%s chunks"
   },
   {
     "old_key": "options.mipmapLevels",

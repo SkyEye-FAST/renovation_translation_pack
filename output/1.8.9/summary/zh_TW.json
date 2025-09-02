@@ -2037,13 +2037,6 @@
     "en_us": "Take Screenshot"
   },
   {
-    "old_key": "key.spectatorOutlines",
-    "old_value": "標示玩家 (觀眾)",
-    "new_key": "key.spectatorOutlines",
-    "new_value": "標示玩家（旁觀者）",
-    "en_us": "Highlight Players (Spectators)"
-  },
-  {
     "old_key": "key.use",
     "old_value": "使用物品/放置方塊",
     "new_key": "key.use",

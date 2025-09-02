@@ -16,7 +16,7 @@
   "argument.block.id.invalid": "未知的方块类型“%s”",
   "argument.block.property.duplicate": "“%s”属性只能给%s设置一次",
   "argument.block.property.invalid": "%1$s的%3$s属性不能被设为“%2$s”",
-  "argument.block.property.novalue": "方块%s上的属性“%s”必须要有值",
+  "argument.block.property.novalue": "方块%2$s上的属性“%1$s”应有值",
   "argument.block.property.unknown": "方块%s没有属性“%s”",
   "argument.color.invalid": "未知的颜色“%s”",
   "argument.component.invalid": "无效的聊天组件： %s",

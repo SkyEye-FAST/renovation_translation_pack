@@ -322,13 +322,6 @@
     "en_us": "Must be an opped player in creative mode"
   },
   {
-    "old_key": "advMode.notEnabled",
-    "old_value": "依個伺服器已經停用命令方塊",
-    "new_key": "advMode.notEnabled",
-    "new_value": "此伺服器已經停用命令方塊",
-    "en_us": "Command blocks are not enabled on this server"
-  },
-  {
     "old_key": "advMode.setCommand",
     "old_value": "設定依個方塊嘅控制台命令",
     "new_key": "advMode.setCommand",
@@ -530,13 +523,6 @@
     "new_key": "argument.pos3d.incomplete",
     "new_value": "不完整（應有 3 個坐標）",
     "en_us": "Incomplete (expected 3 coordinates)"
-  },
-  {
-    "old_key": "argument.range.ints",
-    "old_value": "只准整數，不能為小數",
-    "new_key": "argument.range.ints",
-    "new_value": "僅接受整數，不接受小數",
-    "en_us": "Only whole numbers allowed, not decimals"
   },
   {
     "old_key": "argument.rotation.incomplete",
@@ -1141,13 +1127,6 @@
     "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
-    "old_key": "command.unknown.command",
-    "old_value": "未知或不完整命令，錯誤如下",
-    "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的命令，錯誤如下",
-    "en_us": "Unknown or incomplete command, see below for error"
-  },
-  {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",
@@ -1260,20 +1239,6 @@
     "en_us": "Revoked the advancement %s from %s"
   },
   {
-    "old_key": "commands.attribute.base_value.get.success",
-    "old_value": "實體 %2$s 嘅屬性 %1$s 基礎值為 %3$s",
-    "new_key": "commands.attribute.base_value.get.success",
-    "new_value": "實體 %2$s 的屬性 %1$s 基礎值為 %3$s",
-    "en_us": "Base value of attribute %s for entity %s is %s"
-  },
-  {
-    "old_key": "commands.attribute.base_value.set.success",
-    "old_value": "已將實體 %2$s 嘅屬性 %1$s 基礎值設為 %3$s",
-    "new_key": "commands.attribute.base_value.set.success",
-    "new_value": "已將實體 %2$s 的屬性 %1$s 基礎值設為 %3$s",
-    "en_us": "Base value for attribute %s for entity %s set to %s"
-  },
-  {
     "old_key": "commands.attribute.failed.entity",
     "old_value": "%s 並非此命令嘅有效實體",
     "new_key": "commands.attribute.failed.entity",
@@ -1307,20 +1272,6 @@
     "new_key": "commands.attribute.modifier.remove.success",
     "new_value": "已從實體 %3$s 的屬性 %2$s 內刪除修飾符 %1$s",
     "en_us": "Removed modifier %s from attribute %s for entity %s"
-  },
-  {
-    "old_key": "commands.attribute.modifier.value.get.success",
-    "old_value": "實體 %3$s 喺屬性 %2$s 內嘅修飾符 %1$s 值為 %4$s",
-    "new_key": "commands.attribute.modifier.value.get.success",
-    "new_value": "實體 %3$s 在屬性 %2$s 內的修飾符 %1$s 值為 %4$s",
-    "en_us": "Value of modifier %s on attribute %s for entity %s is %s"
-  },
-  {
-    "old_key": "commands.attribute.value.get.success",
-    "old_value": "實體 %2$s 嘅屬性 %1$s 值為 %3$s",
-    "new_key": "commands.attribute.value.get.success",
-    "new_value": "實體 %2$s 的屬性 %1$s 值為 %3$s",
-    "en_us": "Value of attribute %s for entity %s is %s"
   },
   {
     "old_key": "commands.banlist.none",
@@ -1398,13 +1349,6 @@
     "new_key": "commands.clone.overlap",
     "new_value": "來源與目的區域不得重疊",
     "en_us": "The source and destination areas cannot overlap"
-  },
-  {
-    "old_key": "commands.clone.toobig",
-    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定值為 %s）",
-    "new_key": "commands.clone.toobig",
-    "new_value": "指定區域內的方塊太多（最大值為 %s，指定值為 %s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.data.block.get",
@@ -1561,13 +1505,6 @@
     "en_us": "Applied enchantment %s to %s's item"
   },
   {
-    "old_key": "commands.execute.blocks.toobig",
-    "old_value": "指定區域內嘅方塊太多（指定 %2$s 但最大值為 %1$s）",
-    "new_key": "commands.execute.blocks.toobig",
-    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
     "old_key": "commands.experience.set.levels.success.multiple",
     "old_value": "已將 %2$s 個玩家嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.multiple",
@@ -1601,13 +1538,6 @@
     "new_key": "commands.experience.set.points.success.single",
     "new_value": "已將 %2$s 的經驗值設為 %1$s",
     "en_us": "Set %s experience points on %s"
-  },
-  {
-    "old_key": "commands.fill.toobig",
-    "old_value": "指定區域內嘅方塊太多（最大值為 %s，指定為 %s）",
-    "new_key": "commands.fill.toobig",
-    "new_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.forceload.added.failure",
@@ -1692,13 +1622,6 @@
     "new_key": "commands.forceload.removed.single",
     "new_value": "已取消 %2$s 內的區塊 %1$s 強制載入區塊標記",
     "en_us": "Unmarked chunk %s in %s for force loading"
-  },
-  {
-    "old_key": "commands.forceload.toobig",
-    "old_value": "指定區域內嘅區塊太多（最大值為 %s，指定為 %s）",
-    "new_key": "commands.forceload.toobig",
-    "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
-    "en_us": "Too many chunks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.gamemode.success.other",
@@ -2943,7 +2866,7 @@
     "old_key": "gui.socialInteractions.search_empty",
     "old_value": "揾唔到有嗰個名嘅玩家",
     "new_key": "gui.socialInteractions.search_empty",
-    "new_value": "無法找到有該名稱的玩家",
+    "new_value": "未發現有該名稱的玩家",
     "en_us": "Couldn't find any players with that name"
   },
   {
@@ -3584,13 +3507,6 @@
     "en_us": "Scanning for games on your local network"
   },
   {
-    "old_key": "multiplayer.disconnect.authservers_down",
-    "old_value": "驗證伺服器暫停服務，請稍後再試，唔好意思！",
-    "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務，請稍後再試，抱歉！",
-    "en_us": "Authentication servers are down. Please try again later, sorry!"
-  },
-  {
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
@@ -3682,13 +3598,6 @@
     "en_us": "You have been IP banned from this server"
   },
   {
-    "old_key": "multiplayer.disconnect.missing_tags",
-    "old_value": "由伺服器端接收到嘅標籤組合並不完整。\n請聯絡伺服器管理員。",
-    "new_key": "multiplayer.disconnect.missing_tags",
-    "new_value": "由伺服器端接收到的標籤組合並不完整。\n請聯絡伺服器管理員。",
-    "en_us": "Incomplete set of tags received from server.\nPlease contact server operator."
-  },
-  {
     "old_key": "multiplayer.disconnect.not_whitelisted",
     "old_value": "你唔喺依個伺服器嘅白名單入面！",
     "new_key": "multiplayer.disconnect.not_whitelisted",
@@ -3715,13 +3624,6 @@
     "new_key": "multiplayer.disconnect.unexpected_query_response",
     "new_value": "在客户端接收到預期外的自訂數據",
     "en_us": "Unexpected custom data from client"
-  },
-  {
-    "old_key": "multiplayer.message_not_delivered",
-    "old_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
-    "new_key": "multiplayer.message_not_delivered",
-    "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
-    "en_us": "Can't deliver chat message, check server logs: %s"
   },
   {
     "old_key": "multiplayer.player.joined",
@@ -4102,13 +4004,6 @@
     "en_us": "Unable to read or access folder where game worlds are saved!"
   },
   {
-    "old_key": "selectWorld.locked",
-    "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
-    "new_key": "selectWorld.locked",
-    "new_value": "被另一個開啟的 Minecraft 程式鎖定",
-    "en_us": "Locked by another running instance of Minecraft"
-  },
-  {
     "old_key": "selectWorld.newWorld",
     "old_value": "新嘅世界",
     "new_key": "selectWorld.newWorld",
@@ -4128,13 +4023,6 @@
     "new_key": "selectWorld.tooltip.fromNewerVersion1",
     "new_value": "世界是以較新的版本儲存的，",
     "en_us": "World was saved in a newer version,"
-  },
-  {
-    "old_key": "selectWorld.tooltip.fromNewerVersion2",
-    "old_value": "載入依個世界可能會出現問題！",
-    "new_key": "selectWorld.tooltip.fromNewerVersion2",
-    "new_value": "載入此世界可能會出現問題！",
-    "en_us": "loading this world could cause problems!"
   },
   {
     "old_key": "selectWorld.tooltip.snapshot2",
@@ -4191,6 +4079,13 @@
     "new_key": "stat.minecraft.interact_with_beacon",
     "new_value": "燈標使用次數",
     "en_us": "Interactions with Beacon"
+  },
+  {
+    "old_key": "stat.minecraft.sleep_in_bed",
+    "old_value": "瞓覺次數",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "入睡次數",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "structure_block.load_not_found",

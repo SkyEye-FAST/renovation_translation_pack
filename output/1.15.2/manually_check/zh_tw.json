@@ -64,6 +64,30 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "argument.block.tag.disallowed",
+    "old_value": "這裡無法使用標籤， 只能用於實際方塊",
+    "old_en_us": "Tags aren't allowed here, only actual blocks",
+    "new_key": "argument.block.tag.disallowed",
+    "new_value": "這裡無法使用標籤，只能用於實際方塊",
+    "new_en_us": "Tags aren't allowed here; only actual blocks"
+  },
+  {
+    "old_key": "argument.item.tag.disallowed",
+    "old_value": "這裡無法使用標籤， 只能用於實際物品",
+    "old_en_us": "Tags aren't allowed here, only actual items",
+    "new_key": "argument.item.tag.disallowed",
+    "new_value": "這裡無法使用標籤，只能用於實際物品",
+    "new_en_us": "Tags aren't allowed here; only actual items"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "無效的搭配， 應為 'x'、'y' 與 'z' 的組合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
+  },
+  {
     "old_key": "block.minecraft.smooth_quartz",
     "old_value": "平滑石英",
     "old_en_us": "Smooth Quartz",
@@ -93,7 +117,7 @@
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
     "new_value": "未知或不完整的指令，錯誤如下",
-    "new_en_us": "Unknown or incomplete command, see below for error"
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.banip.info",
@@ -152,6 +176,22 @@
     "new_en_us": "Nothing changed. The specified properties already have these values"
   },
   {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "應為串列，當前值： %s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應為串列，當前值：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "應為物件，當前值： %s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應為物件，當前值：%s",
+    "new_en_us": "Expected object; got: %s"
+  },
+  {
     "old_key": "commands.datapack.list.enabled.success",
     "old_value": "有 %s 個啟用的資料包： %s",
     "old_en_us": "There are %s data packs enabled: %s",
@@ -208,12 +248,44 @@
     "new_en_us": "Dropped %s %s from loot table %s"
   },
   {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "測試失敗，總計： %s",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "測試失敗，總計：%s",
+    "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "測試通過，總計： %s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "測試通過，總計：%s",
+    "new_en_us": "Test passed. Count: %s"
+  },
+  {
     "old_key": "commands.fill.success",
     "old_value": "成功填充 %s 個方塊",
     "old_en_us": "Successfully filled %s blocks",
     "new_key": "commands.fill.success",
     "new_value": "已成功填充 %s 個方塊",
     "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "指定區域內的區塊太多（最大值為 %s， 指定為 %s）",
+    "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
+    "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.list.players",
@@ -408,6 +480,14 @@
     "new_en_us": "You Died!"
   },
   {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 將位置複製為 /tp 指令， 按住 F3 + C 使遊戲崩潰",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "F3 + C = 將位置複製為 /tp 指令，按住 F3 + C 使遊戲崩潰",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
+  },
+  {
     "old_key": "debug.creative_spectator.error",
     "old_value": "無法切換遊戲模式， 需要權限",
     "old_en_us": "Unable to switch gamemode, no permission",
@@ -509,7 +589,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "按下 %1$s + %2$s 儲存快捷欄",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -517,7 +597,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "快捷欄已儲存（按 %1$s + %2$s 復原）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "itemGroup.hotbar",
@@ -560,6 +640,14 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "驗證伺服器暫停服務， 請稍後再試， 非常抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "驗證伺服器暫停服務，請稍後再試，非常抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
+  },
+  {
     "old_key": "multiplayer.disconnect.outdated_client",
     "old_value": "用戶端過舊！請使用 %s",
     "old_en_us": "Outdated client! Please use %s",
@@ -581,7 +669,7 @@
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
-    "new_en_us": "Can't deliver chat message, check server logs: %s"
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayer.status.request_handled",
@@ -646,6 +734,14 @@
     "new_key": "options.chat.title",
     "new_value": "聊天設定",
     "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
   },
   {
     "old_key": "options.narrator.notavailable",

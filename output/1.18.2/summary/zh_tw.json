@@ -1400,13 +1400,6 @@
     "en_us": "Yellow Pale Sinister"
   },
   {
-    "old_key": "block.minecraft.chain",
-    "old_value": "鎖鏈",
-    "new_key": "block.minecraft.chain",
-    "new_value": "鐵鏈",
-    "en_us": "Chain"
-  },
-  {
     "old_key": "block.minecraft.dragon_wall_head",
     "old_value": "牆上的終界龍頭顱",
     "new_key": "block.minecraft.dragon_wall_head",
@@ -1456,6 +1449,13 @@
     "en_us": "Removed modifier %s from attribute %s for entity %s"
   },
   {
+    "old_key": "commands.difficulty.failure",
+    "old_value": "難度沒有改變，它已經被設為 %s",
+    "new_key": "commands.difficulty.failure",
+    "new_value": "難易度沒有改變，已設為 %s",
+    "en_us": "The difficulty did not change; it is already set to %s"
+  },
+  {
     "old_key": "commands.difficulty.query",
     "old_value": "目前難度為 %s",
     "new_key": "commands.difficulty.query",
@@ -1468,13 +1468,6 @@
     "new_key": "commands.difficulty.success",
     "new_value": "已將難易度設為 %s",
     "en_us": "The difficulty has been set to %s"
-  },
-  {
-    "old_key": "commands.fill.toobig",
-    "old_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
-    "new_key": "commands.fill.toobig",
-    "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.list.players",
@@ -1638,13 +1631,6 @@
     "en_us": " (Modded)"
   },
   {
-    "old_key": "multiplayer.disconnect.invalid_packet",
-    "old_value": "伺服器發送無效的封包",
-    "new_key": "multiplayer.disconnect.invalid_packet",
-    "new_value": "伺服器傳送無效的封包",
-    "en_us": "Server sent an invalid packet"
-  },
-  {
     "old_key": "multiplayer.status.cannot_connect",
     "old_value": "無法連接到伺服器",
     "new_key": "multiplayer.status.cannot_connect",
@@ -1741,13 +1727,6 @@
     "new_key": "options.biomeBlendRadius.15",
     "new_value": "15×15（極限）",
     "en_us": "15x15 (Maximum)"
-  },
-  {
-    "old_key": "options.chunks",
-    "old_value": "%s 區塊",
-    "new_key": "options.chunks",
-    "new_value": "%s 個區塊",
-    "en_us": "%s chunks"
   },
   {
     "old_key": "options.graphics.fabulous.tooltip",

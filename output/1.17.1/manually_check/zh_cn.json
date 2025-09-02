@@ -48,12 +48,28 @@
     "new_en_us": "Fill a Bucket with lava"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.time.invalid_tick_count",
     "old_value": "刻的计数必须为非负数",
     "old_en_us": "Tick count must be non-negative",
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻数必须为非负数",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "chat.disabled.launcher",
@@ -78,6 +94,22 @@
     "new_key": "chat.disabled.profile",
     "new_value": "聊天在账户设置中被禁用。再按一次“%s”以获取更多信息。",
     "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "需要列表，却发现了：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "应为列表，实际为：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "需要对象，却发现了：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "应为对象，实际为：%s",
+    "new_en_us": "Expected object; got: %s"
   },
   {
     "old_key": "commands.debug.function.success.single",
@@ -296,6 +328,38 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "narration.component_list.usage",
+    "old_value": "按下Tab键移动到下一屏幕控件",
+    "old_en_us": "Press Tab to navigate to next element",
+    "new_key": "narration.component_list.usage",
+    "new_value": "按下Tab键移动到下一个屏幕控件",
+    "new_en_us": "Press Tab to navigate to the next element"
+  },
+  {
+    "old_key": "narration.selection.usage",
+    "old_value": "按下上键或下键以移动到另一项",
+    "old_en_us": "Press up and down buttons to move to another entry",
+    "new_key": "narration.selection.usage",
+    "new_value": "使用上下方向键移动到另一项",
+    "new_en_us": "Press the up and down buttons to move to another entry"
+  },
+  {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "按下键盘左键或键盘右键以更改数值",
+    "old_en_us": "Press left or right keyboard buttons to change value",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "使用左右方向键更改数值",
+    "new_en_us": "Press the left or right keyboard buttons to change the value"
+  },
+  {
+    "old_key": "narration.slider.usage.hovered",
+    "old_value": "拖动滑块以更改数值",
+    "old_en_us": "Drag slider to change value",
+    "new_key": "narration.slider.usage.hovered",
+    "new_value": "拖动滑块更改数值",
+    "new_en_us": "Drag the slider to change its value"
+  },
+  {
     "old_key": "narration.suggestion",
     "old_value": "选中了%2$s项建议中的第%1$s项：%3$s",
     "old_en_us": "Selected suggestion %d out of %d: %s",
@@ -350,6 +414,14 @@
     "new_key": "options.showSubtitles",
     "new_value": "隐藏式字幕",
     "new_en_us": "Closed Captions"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "resourcePack.vanilla.description",

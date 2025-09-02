@@ -301,13 +301,6 @@
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
-    "old_key": "argument.block.tag.disallowed",
-    "old_value": "此地不可用簽，但諸實塊耳",
-    "new_key": "argument.block.tag.disallowed",
-    "new_value": "此地不可用籤，但諸實塊耳",
-    "en_us": "Tags aren't allowed here, only actual blocks"
-  },
-  {
     "old_key": "argument.color.invalid",
     "old_value": "是色未知：「%s」",
     "new_key": "argument.color.invalid",
@@ -404,13 +397,6 @@
     "new_key": "argument.id.unknown",
     "new_value": "未明ID：%s",
     "en_us": "Unknown ID: %s"
-  },
-  {
-    "old_key": "argument.item.tag.disallowed",
-    "old_value": "標籤不允，實物可矣",
-    "new_key": "argument.item.tag.disallowed",
-    "new_value": "此地不可用籤，但諸實物耳",
-    "en_us": "Tags aren't allowed here, only actual items"
   },
   {
     "old_key": "argument.nbt.expected.key",
@@ -1771,13 +1757,6 @@
     "en_us": "Carrots"
   },
   {
-    "old_key": "block.minecraft.chain",
-    "old_value": "鏈",
-    "new_key": "block.minecraft.chain",
-    "new_value": "鐵鏈",
-    "en_us": "Chain"
-  },
-  {
     "old_key": "block.minecraft.chiseled_deepslate",
     "old_value": "鏨板巖",
     "new_key": "block.minecraft.chiseled_deepslate",
@@ -2961,6 +2940,20 @@
     "en_us": "Input message and press Enter to send"
   },
   {
+    "old_key": "chat.copy",
+    "old_value": "複刻於簿",
+    "new_key": "chat.copy",
+    "new_value": "鈔於簿",
+    "en_us": "Copy to Clipboard"
+  },
+  {
+    "old_key": "chat.copy.click",
+    "old_value": "擊以複刻之於簿",
+    "new_key": "chat.copy.click",
+    "new_value": "擊以鈔之於簿",
+    "en_us": "Click to Copy to Clipboard"
+  },
+  {
     "old_key": "chat.link.confirm",
     "old_value": "確欲啟是網頁乎？",
     "new_key": "chat.link.confirm",
@@ -2968,10 +2961,17 @@
     "en_us": "Are you sure you want to open the following website?"
   },
   {
+    "old_key": "chat.link.confirmTrusted",
+    "old_value": "啟之，抑複製於剪貼簿？",
+    "new_key": "chat.link.confirmTrusted",
+    "new_value": "啟之，抑鈔之於簿？",
+    "en_us": "Do you want to open this link or copy it to your clipboard?"
+  },
+  {
     "old_key": "chat.link.warning",
     "old_value": "勿啟子不信者之鏈接！",
     "new_key": "chat.link.warning",
-    "new_value": "勿啟子不信者之連結！",
+    "new_value": "勿啟子不信者之鏈！",
     "en_us": "Never open links from people that you don't trust!"
   },
   {
@@ -3015,34 +3015,6 @@
     "new_key": "command.failed",
     "new_value": "方行其令而生謬不虞",
     "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
-    "old_key": "commands.attribute.base_value.get.success",
-    "old_value": "實體%2$s之品%1$s，其基值爲%3$s",
-    "new_key": "commands.attribute.base_value.get.success",
-    "new_value": "實體%2$s之品%1$s，其基直爲%3$s",
-    "en_us": "Base value of attribute %s for entity %s is %s"
-  },
-  {
-    "old_key": "commands.attribute.base_value.set.success",
-    "old_value": "實體%2$s之品%1$s，其基值現爲%3$s",
-    "new_key": "commands.attribute.base_value.set.success",
-    "new_value": "實體%2$s之品%1$s，其基直現爲%3$s",
-    "en_us": "Base value for attribute %s for entity %s set to %s"
-  },
-  {
-    "old_key": "commands.attribute.modifier.value.get.success",
-    "old_value": "修飾符%1$s於實體%3$s之品%2$s，其值爲%4$s",
-    "new_key": "commands.attribute.modifier.value.get.success",
-    "new_value": "修飾符%1$s於實體%3$s之品%2$s，其直爲%4$s",
-    "en_us": "Value of modifier %s on attribute %s for entity %s is %s"
-  },
-  {
-    "old_key": "commands.attribute.value.get.success",
-    "old_value": "實體%2$s之品%1$s，其值爲%3$s",
-    "new_key": "commands.attribute.value.get.success",
-    "new_value": "實體%2$s之品%1$s，其直爲%3$s",
-    "en_us": "Value of attribute %s for entity %s is %s"
   },
   {
     "old_key": "commands.bossbar.create.failed",
@@ -3227,13 +3199,6 @@
     "en_us": "No bossbar exists with the ID '%s'"
   },
   {
-    "old_key": "commands.clone.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.clone.toobig",
-    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
     "old_key": "commands.data.get.invalid",
     "old_value": "%s不可得，但容數簽耳",
     "new_key": "commands.data.get.invalid",
@@ -3260,20 +3225,6 @@
     "new_key": "commands.data.merge.failed",
     "new_value": "無變。所定之性已爲是直",
     "en_us": "Nothing changed. The specified properties already have these values"
-  },
-  {
-    "old_key": "commands.data.modify.expected_list",
-    "old_value": "所期之簿，今得：%s",
-    "new_key": "commands.data.modify.expected_list",
-    "new_value": "應爲簿，今得：%s",
-    "en_us": "Expected list, got: %s"
-  },
-  {
-    "old_key": "commands.data.modify.expected_object",
-    "old_value": "所期之物，今得：%s",
-    "new_key": "commands.data.modify.expected_object",
-    "new_value": "應爲物，今得：%s",
-    "en_us": "Expected object, got: %s"
   },
   {
     "old_key": "commands.data.storage.query",
@@ -3332,13 +3283,6 @@
     "en_us": "Unable to apply this effect (target is either immune to effects, or has something stronger)"
   },
   {
-    "old_key": "commands.execute.blocks.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.execute.blocks.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
     "old_key": "commands.execute.conditional.fail",
     "old_value": "试未舉",
     "new_key": "commands.execute.conditional.fail",
@@ -3346,39 +3290,11 @@
     "en_us": "Test failed"
   },
   {
-    "old_key": "commands.execute.conditional.fail_count",
-    "old_value": "试未舉，凡%s次",
-    "new_key": "commands.execute.conditional.fail_count",
-    "new_value": "試未舉，凡%s次",
-    "en_us": "Test failed, count: %s"
-  },
-  {
     "old_key": "commands.execute.conditional.pass",
     "old_value": "试既舉",
     "new_key": "commands.execute.conditional.pass",
     "new_value": "試既舉",
     "en_us": "Test passed"
-  },
-  {
-    "old_key": "commands.execute.conditional.pass_count",
-    "old_value": "试既舉，凡%s次",
-    "new_key": "commands.execute.conditional.pass_count",
-    "new_value": "試既舉，凡%s次",
-    "en_us": "Test passed, count: %s"
-  },
-  {
-    "old_key": "commands.fill.toobig",
-    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
-    "new_key": "commands.fill.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
-    "en_us": "Too many blocks in the specified area (maximum %s, specified %s)"
-  },
-  {
-    "old_key": "commands.forceload.toobig",
-    "old_value": "所選區塊者多矣！可選之區塊有%s，君選%s",
-    "new_key": "commands.forceload.toobig",
-    "new_value": "所定之域內區塊量过載（至多%s，定量%s）",
-    "en_us": "Too many chunks in the specified area (maximum %s, specified %s)"
   },
   {
     "old_key": "commands.gamerule.query",
@@ -3801,11 +3717,25 @@
     "en_us": "Advanced tooltips: hidden"
   },
   {
+    "old_key": "debug.copy_location.message",
+    "old_value": "既複刻位於版",
+    "new_key": "debug.copy_location.message",
+    "new_value": "既鈔位於簿",
+    "en_us": "Copied location to clipboard"
+  },
+  {
     "old_key": "debug.crash.message",
     "old_value": "F3並C字鍵既抑，若非提之，使戲崩於頃也。",
     "new_key": "debug.crash.message",
     "new_value": "F3並C既押。手不釋鍵則戲將崩於頃刻。",
     "en_us": "F3 + C is held down. This will crash the game unless released."
+  },
+  {
+    "old_key": "debug.inspect.help",
+    "old_value": "【F3並I】複刻實體或塊之資於版",
+    "new_key": "debug.inspect.help",
+    "new_value": "【F3並I】鈔實體抑塊之資於簿",
+    "en_us": "F3 + I = Copy entity or block data to clipboard"
   },
   {
     "old_key": "debug.pause.help",
@@ -4935,13 +4865,6 @@
     "en_us": "Social Interactions Screen"
   },
   {
-    "old_key": "key.spectatorOutlines",
-    "old_value": "突顯戲者（旁觀者）",
-    "new_key": "key.spectatorOutlines",
-    "new_value": "彰戲者（覽者）",
-    "en_us": "Highlight Players (Spectators)"
-  },
-  {
     "old_key": "menu.multiplayer",
     "old_value": "衆戲",
     "new_key": "menu.multiplayer",
@@ -5017,13 +4940,6 @@
     "new_key": "multiplayer.downloadingTerrain",
     "new_value": "方載地勢⋯",
     "en_us": "Loading terrain..."
-  },
-  {
-    "old_key": "multiplayer.message_not_delivered",
-    "old_value": "無可傳送侃谈之訊， 請查伺服器之誌： %s",
-    "new_key": "multiplayer.message_not_delivered",
-    "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
-    "en_us": "Can't deliver chat message, check server logs: %s"
   },
   {
     "old_key": "multiplayer.socialInteractions.not_available",
@@ -5117,18 +5033,11 @@
     "en_us": "Press Enter to switch to %s"
   },
   {
-    "old_key": "narration.slider.usage.focused",
-    "old_value": "撃左右鍵以易其值",
-    "new_key": "narration.slider.usage.focused",
-    "new_value": "撃左右鍵以易其直",
-    "en_us": "Press left or right keyboard buttons to change value"
-  },
-  {
-    "old_key": "narration.slider.usage.hovered",
-    "old_value": "曳滑桿以更其值",
-    "new_key": "narration.slider.usage.hovered",
-    "new_value": "曳滑桿以更其直",
-    "en_us": "Drag slider to change value"
+    "old_key": "narrator.position.object_list",
+    "old_value": "擇%s列元素於%s列",
+    "new_key": "narrator.position.object_list",
+    "new_value": "擇%s列件於%s列",
+    "en_us": "Selected row element %s out of %s"
   },
   {
     "old_key": "narrator.position.screen",
@@ -5136,6 +5045,13 @@
     "new_key": "narrator.position.screen",
     "new_value": "%2$s幕件之%1$s",
     "en_us": "Screen element %s out of %s"
+  },
+  {
+    "old_key": "narrator.screen.usage",
+    "old_value": "以滑鼠或Tab擇其元",
+    "new_key": "narrator.screen.usage",
+    "new_value": "以滑鼠抑Tab擇其件",
+    "en_us": "Use mouse cursor or Tab button to select element"
   },
   {
     "old_key": "optimizeWorld.stage.counting",
@@ -5178,6 +5094,20 @@
     "new_key": "options.biomeBlendRadius.1",
     "new_value": "關（極速）",
     "en_us": "OFF (Fastest)"
+  },
+  {
+    "old_key": "options.chat.links",
+    "old_value": "萬維連結",
+    "new_key": "options.chat.links",
+    "new_value": "網鏈",
+    "en_us": "Web Links"
+  },
+  {
+    "old_key": "options.chat.links.prompt",
+    "old_value": "連結提示",
+    "new_key": "options.chat.links.prompt",
+    "new_value": "鏈詢",
+    "en_us": "Prompt on Links"
   },
   {
     "old_key": "options.chat.visibility.full",
@@ -5334,6 +5264,13 @@
     "en_us": "View Bobbing"
   },
   {
+    "old_key": "pack.copyFailure",
+    "old_value": "複刻錄囊未果",
+    "new_key": "pack.copyFailure",
+    "new_value": "鈔錄囊未果",
+    "en_us": "Failed to copy packs"
+  },
+  {
     "old_key": "pack.incompatible.confirm.new",
     "old_value": "此資囊專為新版礦藝而製，茲或不得遂行於此版。",
     "new_key": "pack.incompatible.confirm.new",
@@ -5353,13 +5290,6 @@
     "new_key": "parsing.bool.expected",
     "new_value": "當爲是非之直",
     "en_us": "Expected boolean"
-  },
-  {
-    "old_key": "parsing.bool.invalid",
-    "old_value": "是布爾值無效，應爲「true」抑「false」，尋「%s」",
-    "new_key": "parsing.bool.invalid",
-    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
-    "en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "parsing.float.expected",

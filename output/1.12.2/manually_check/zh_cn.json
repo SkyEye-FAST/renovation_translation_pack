@@ -72,6 +72,14 @@
     "new_en_us": "Cover Me with Diamonds"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "建筑高度限制是%s个方块",
     "old_en_us": "Height limit for building is %s blocks",
@@ -221,7 +229,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "用%1$s+%2$s来保存快捷栏",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -229,7 +237,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "已保存物品快捷栏（用%1$s+%2$s来加载）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "item.clay.name",
@@ -398,6 +406,14 @@
     "new_key": "key.saveToolbarActivator",
     "new_value": "保存快捷栏",
     "new_en_us": "Save Hotbar Activator"
+  },
+  {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
     "old_key": "multiplayer.disconnect.banned",

@@ -40,6 +40,14 @@
     "new_en_us": "Fill a Bucket with lava"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令方块没有在此服务器上启用",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "此服务器未启用命令方块",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未知的准则：'%s'",
     "old_en_us": "Unknown criteria '%s'",
@@ -54,6 +62,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻数必须为非负数",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "block.minecraft.smooth_quartz",
@@ -77,7 +93,7 @@
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
     "new_value": "未知或不完整的命令，错误见下",
-    "new_en_us": "Unknown or incomplete command, see below for error"
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.banip.info",
@@ -86,6 +102,22 @@
     "new_key": "commands.banip.info",
     "new_value": "此次封禁涉及%s名玩家：%s",
     "new_en_us": "This ban affects %s player(s): %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "需要列表，却发现了：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "应为列表，实际为：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "需要对象，却发现了：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "应为对象，实际为：%s",
+    "new_en_us": "Expected object; got: %s"
   },
   {
     "old_key": "commands.debug.alreadyRunning",
@@ -453,7 +485,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "用%1$s+%2$s来保存快捷栏",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -461,7 +493,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "已保存物品快捷栏（用%1$s+%2$s来加载）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "item.minecraft.clay_ball",
@@ -520,6 +552,14 @@
     "new_en_us": "Game Paused"
   },
   {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
+  },
+  {
     "old_key": "multiplayer.disconnect.outdated_client",
     "old_value": "客户端已过期！请使用%s",
     "old_en_us": "Outdated client! Please use %s",
@@ -549,7 +589,7 @@
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "无法发送聊天消息，请检查服务器日志：%s",
-    "new_en_us": "Can't deliver chat message, check server logs: %s"
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayer.status.request_handled",
@@ -614,6 +654,14 @@
     "new_key": "options.vsync",
     "new_value": "垂直同步",
     "new_en_us": "VSync"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "selectWorld.allowCommands",

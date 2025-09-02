@@ -2219,13 +2219,6 @@
     "en_us": "Take Screenshot"
   },
   {
-    "old_key": "key.spectatorOutlines",
-    "old_value": "標示玩家 (旁觀者)",
-    "new_key": "key.spectatorOutlines",
-    "new_value": "標示玩家（旁觀者）",
-    "en_us": "Highlight Players (Spectators)"
-  },
-  {
     "old_key": "key.use",
     "old_value": "使用物品/放置方塊",
     "new_key": "key.use",
@@ -2322,13 +2315,6 @@
     "new_key": "options.chat.visibility.full",
     "new_value": "顯示",
     "en_us": "Shown"
-  },
-  {
-    "old_key": "options.chunks",
-    "old_value": "%s 區塊",
-    "new_key": "options.chunks",
-    "new_value": "%s 個區塊",
-    "en_us": "%s chunks"
   },
   {
     "old_key": "options.framerate",

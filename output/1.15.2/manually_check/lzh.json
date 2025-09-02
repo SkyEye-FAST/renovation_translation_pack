@@ -136,6 +136,22 @@
     "new_en_us": "Construct a better Pickaxe"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "是伺服器禁命令塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "命令塊爲是伺服器所禁",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.block.tag.disallowed",
+    "old_value": "此地不可用簽，但诸實塊耳",
+    "old_en_us": "Tags aren't allowed here, only actual blocks",
+    "new_key": "argument.block.tag.disallowed",
+    "new_value": "此地不可用籤，但諸實塊耳",
+    "new_en_us": "Tags aren't allowed here; only actual blocks"
+  },
+  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未明之則：（%s）",
     "old_en_us": "Unknown criteria '%s'",
@@ -152,12 +168,36 @@
     "new_en_us": "Players with game mode"
   },
   {
+    "old_key": "argument.item.tag.disallowed",
+    "old_value": "標籤不允，實物可矣",
+    "old_en_us": "Tags aren't allowed here, only actual items",
+    "new_key": "argument.item.tag.disallowed",
+    "new_value": "此地不可用籤，但諸實物耳",
+    "new_en_us": "Tags aren't allowed here; only actual items"
+  },
+  {
+    "old_key": "argument.range.ints",
+    "old_value": "僅整數",
+    "old_en_us": "Only whole numbers allowed, not decimals",
+    "new_key": "argument.range.ints",
+    "new_value": "僅整數可置於此，小數不可",
+    "new_en_us": "Only whole numbers allowed; not decimals"
+  },
+  {
     "old_key": "argument.time.invalid_tick_count",
     "old_value": "刻數不可爲負",
     "old_en_us": "Tick count must be non-negative",
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻數須爲非赤",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "是綴合無效，應爲（x）（y）（z）之綴合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "是綴合無效，應爲「x」「y」「z」之綴合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "block.minecraft.bamboo_sapling",
@@ -196,7 +236,7 @@
     "old_value": "擊以複製於剪貼簿",
     "old_en_us": "Click to copy to Clipboard",
     "new_key": "chat.copy.click",
-    "new_value": "擊以複刻之於簿",
+    "new_value": "擊以鈔之於簿",
     "new_en_us": "Click to Copy to Clipboard"
   },
   {
@@ -205,7 +245,7 @@
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
     "new_value": "令未知或殘，請以備述",
-    "new_en_us": "Unknown or incomplete command, see below for error"
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.banip.info",
@@ -288,12 +328,36 @@
     "new_en_us": "Successfully cloned %s block(s)"
   },
   {
+    "old_key": "commands.clone.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.clone.toobig",
+    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.data.merge.failed",
     "old_value": "無變，所指之性已爲是值",
     "old_en_us": "Nothing changed, the specified properties already have these values",
     "new_key": "commands.data.merge.failed",
     "new_value": "無變。所定之性已爲是直",
     "new_en_us": "Nothing changed. The specified properties already have these values"
+  },
+  {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "所期之單，今得：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應爲簿，今得：%s",
+    "new_en_us": "Expected list; got: %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "所期之物，今得：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應爲物，今得：%s",
+    "new_en_us": "Expected object; got: %s"
   },
   {
     "old_key": "commands.datapack.list.available.success",
@@ -360,12 +424,52 @@
     "new_en_us": "Dropped %s %s from loot table %s"
   },
   {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "測挫，共：%s",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "試未舉，凡%s次",
+    "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "測通，共：%s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "試既舉，凡%s次",
+    "new_en_us": "Test passed. Count: %s"
+  },
+  {
     "old_key": "commands.fill.success",
     "old_value": "得填%s塊",
     "old_en_us": "Successfully filled %s blocks",
     "new_key": "commands.fill.success",
     "new_value": "既填%s塊",
     "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "所定之域内塊量过載（至多%s，定量%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "所選區塊者多矣！可選之區塊有%s，君選%s",
+    "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "所定之域內區塊量过載（至多%s，定量%s）",
+    "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.function.success.multiple",
@@ -752,6 +856,14 @@
     "new_en_us": "You Died!"
   },
   {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 複刻位爲/tp令，恒押 F3 + C 以崩戯",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "【F3並C】鈔位爲/tp令，恆押F3並C以崩戲",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
+  },
+  {
     "old_key": "debug.creative_spectator.error",
     "old_value": "法不可更；需權",
     "old_en_us": "Unable to switch gamemode, no permission",
@@ -861,7 +973,7 @@
     "old_en_us": "Save toolbar with %1$s+%2$s",
     "new_key": "inventory.hotbarInfo",
     "new_value": "撳%1$s與%2$s以儲捷槽",
-    "new_en_us": "Save hotbar with %1$s+%2$s"
+    "new_en_us": "Save hotbar with %1$s + %2$s"
   },
   {
     "old_key": "inventory.hotbarSaved",
@@ -869,7 +981,7 @@
     "old_en_us": "Item toolbar saved (restore with %1$s+%2$s)",
     "new_key": "inventory.hotbarSaved",
     "new_value": "既儲捷槽（撳%1$s與%2$s以復）",
-    "new_en_us": "Item hotbar saved (restore with %1$s+%2$s)"
+    "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
     "old_key": "item.minecraft.clay_ball",
@@ -968,6 +1080,14 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "彰戲者（覽者）",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "menu.paused",
     "old_value": "戲止",
     "old_en_us": "Game paused",
@@ -982,6 +1102,14 @@
     "new_key": "mount.onboard",
     "new_value": "撳%1$s以下騎",
     "new_en_us": "Press %1$s to Dismount"
+  },
+  {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "驗證伺服器暫停服務， 請稍後再試， 非常抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "驗證伺服器去矣，容後再試，深表歉意！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
     "old_key": "multiplayer.disconnect.outdated_client",
@@ -1013,7 +1141,7 @@
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
-    "new_en_us": "Can't deliver chat message, check server logs: %s"
+    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayer.status.request_handled",
@@ -1152,6 +1280,14 @@
     "new_en_us": "VSync"
   },
   {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "是布爾值無效，應爲（true）抑（false），尋（%s）",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "是是非直無效，應爲「true」抑「false」，尋「%s」",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
+  },
+  {
     "old_key": "record.nowPlaying",
     "old_value": "方奏%s",
     "old_en_us": "Now playing: %s",
@@ -1254,6 +1390,14 @@
     "new_key": "selectWorld.recreate.error.title",
     "new_value": "謬生！",
     "new_en_us": "An error occurred!"
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "若載此世，其或誤之！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "若讀此生界，其或成誤焉！",
+    "new_en_us": "and loading it could cause problems!"
   },
   {
     "old_key": "selectWorld.tooltip.snapshot1",

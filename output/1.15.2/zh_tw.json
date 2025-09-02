@@ -275,7 +275,7 @@
   "commands.debug.notRunning": "刻點分析器未啟動",
   "commands.debug.started": "開始刻點分析",
   "commands.debug.stopped": "已停止刻點分析，共耗時 %s 秒和 %s 刻（每秒 %s 刻）",
-  "commands.difficulty.failure": "難度沒有改變，它已經被設為 %s",
+  "commands.difficulty.failure": "難易度沒有改變，已設為 %s",
   "commands.difficulty.query": "目前難易度為 %s",
   "commands.difficulty.success": "已將難易度設為 %s",
   "commands.drop.success.single": "掉落了 %s 個 %s",
