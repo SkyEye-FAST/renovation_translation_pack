@@ -76,7 +76,7 @@
     "old_value": "命令方块没有在此服务器上启用",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
+    "new_value": "命令方块未启用",
     "new_en_us": "Command blocks are not enabled"
   },
   {
@@ -408,11 +408,19 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "高亮玩家（旁观者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "高亮玩家",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "multiplayer.disconnect.authservers_down",
     "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
+    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试。抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {

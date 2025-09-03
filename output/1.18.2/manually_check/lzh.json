@@ -816,6 +816,14 @@
     "new_en_us": "Swap Item With Off Hand"
   },
   {
+    "old_key": "multiplayer.disconnect.invalid_packet",
+    "old_value": "伺服器傳一舛囊也。",
+    "old_en_us": "Server sent an invalid packet",
+    "new_key": "multiplayer.disconnect.invalid_packet",
+    "new_value": "伺服器傳舛囊也",
+    "new_en_us": "The server sent an invalid packet"
+  },
+  {
     "old_key": "multiplayer.message_not_delivered",
     "old_value": "無可傳送侃谈之訊， 請查伺服器之誌： %s",
     "old_en_us": "Can't deliver chat message, check server logs: %s",
@@ -824,36 +832,12 @@
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
-    "old_key": "narration.component_list.usage",
-    "old_value": "擊Tab移至下者",
-    "old_en_us": "Press Tab to navigate to next element",
-    "new_key": "narration.component_list.usage",
-    "new_value": "擊Tab移至次件",
-    "new_en_us": "Press Tab to navigate to the next element"
-  },
-  {
     "old_key": "narration.recipe",
     "old_value": "製%s之方",
     "old_en_us": "Reciple for %s",
     "new_key": "narration.recipe",
     "new_value": "%s之方",
     "new_en_us": "Recipe for %s"
-  },
-  {
-    "old_key": "narration.slider.usage.focused",
-    "old_value": "撃左右鍵以易其值",
-    "old_en_us": "Press left or right keyboard buttons to change value",
-    "new_key": "narration.slider.usage.focused",
-    "new_value": "撃左右鍵以易其直",
-    "new_en_us": "Press the left or right keyboard buttons to change the value"
-  },
-  {
-    "old_key": "narration.slider.usage.hovered",
-    "old_value": "曳滑桿以更其值",
-    "old_en_us": "Drag slider to change value",
-    "new_key": "narration.slider.usage.hovered",
-    "new_value": "曳滑桿以更其直",
-    "new_en_us": "Drag the slider to change its value"
   },
   {
     "old_key": "options.accessibility.title",

@@ -1,5 +1,5 @@
 advMode.command=控制台命令
-advMode.notEnabled=此服务器未启用命令方块
+advMode.notEnabled=命令方块未启用
 advMode.setCommand=设置此方块的控制台命令
 advMode.setCommand.success=成功设置命令：%s
 attribute.modifier.plus.0=+%s %s
@@ -117,6 +117,7 @@ key.categories.inventory=物品栏
 key.command=输入命令
 key.fullscreen=切换全屏显示
 key.playerlist=显示玩家列表
+key.spectatorOutlines=高亮玩家
 lanServer.start=创建局域网世界
 language.code=zho-Hans_CN
 language.region=中国大陆

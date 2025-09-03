@@ -4,7 +4,7 @@
     "old_value": "命令方块没有在此服务器上启用",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
+    "new_value": "命令方块未启用",
     "new_en_us": "Command blocks are not enabled"
   },
   {

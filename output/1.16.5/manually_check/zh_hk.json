@@ -164,8 +164,16 @@
     "old_value": "依個伺服器已經停用命令方塊",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "此伺服器已經停用命令方塊",
+    "new_value": "命令方塊已經停用",
     "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.block.tag.disallowed",
+    "old_value": "此處無法使用標籤，只能用於實際方塊",
+    "old_en_us": "Tags aren't allowed here, only actual blocks",
+    "new_key": "argument.block.tag.disallowed",
+    "new_value": "此處無法使用標籤，僅用於實際方塊",
+    "new_en_us": "Tags aren't allowed here; only actual blocks"
   },
   {
     "old_key": "argument.entity.options.gamemode.description",
@@ -176,11 +184,19 @@
     "new_en_us": "Players with game mode"
   },
   {
+    "old_key": "argument.item.tag.disallowed",
+    "old_value": "此處無法使用標籤，只能用於實際物品",
+    "old_en_us": "Tags aren't allowed here, only actual items",
+    "new_key": "argument.item.tag.disallowed",
+    "new_value": "此處無法使用標籤，僅用於實際物品",
+    "new_en_us": "Tags aren't allowed here; only actual items"
+  },
+  {
     "old_key": "argument.range.ints",
     "old_value": "只准整數，不能為小數",
     "old_en_us": "Only whole numbers allowed, not decimals",
     "new_key": "argument.range.ints",
-    "new_value": "僅接受整數，不接受小數",
+    "new_value": "只准整數，唔准小數",
     "new_en_us": "Only whole numbers allowed; not decimals"
   },
   {
@@ -190,6 +206,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻數必須為非負數",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "無效搭配，應為 'x'、'y' 與 'z' 組合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "無效搭配，應為 「x」、「y」 與 「z」 組合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "block.minecraft.spawner",
@@ -864,11 +888,19 @@
     "new_en_us": "VSync"
   },
   {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "無效布爾值，應為 'true' 或 'false' 但出現 '%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "無效布林值，應為 'true' 或 'false' 但出現 '%s'",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
+  },
+  {
     "old_key": "selectWorld.locked",
     "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
     "old_en_us": "Locked by another running instance of Minecraft",
     "new_key": "selectWorld.locked",
-    "new_value": "被另一個開啟的 Minecraft 程式鎖定",
+    "new_value": "被另一個執行緊的 Minecraft 程式開緊鎖住",
     "new_en_us": "Locked by another running instance of Minecraft."
   },
   {

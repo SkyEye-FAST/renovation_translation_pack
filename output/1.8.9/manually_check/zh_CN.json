@@ -4,7 +4,7 @@
     "old_value": "命令方块没有在此服务器上启用",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
+    "new_value": "命令方块未启用",
     "new_en_us": "Command blocks are not enabled"
   },
   {
@@ -430,6 +430,14 @@
     "new_key": "key.inventory",
     "new_value": "开启/关闭物品栏",
     "new_en_us": "Open/Close Inventory"
+  },
+  {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "高亮玩家（旁观者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "高亮玩家",
+    "new_en_us": "Highlight Players"
   },
   {
     "old_key": "language.code",

@@ -40,6 +40,14 @@
     "new_en_us": "[+%s pending line(s)]"
   },
   {
+    "old_key": "command.unknown.command",
+    "old_value": "未知或不完整的指令，錯誤如下",
+    "old_en_us": "Unknown or incomplete command, see below for error",
+    "new_key": "command.unknown.command",
+    "new_value": "未知或不完整的指令，錯誤詳見以下說明",
+    "new_en_us": "Unknown or incomplete command. See below for error"
+  },
+  {
     "old_key": "commands.bossbar.get.players.some",
     "old_value": "自定義 Boss 狀態條 %s 目前有 %s 位玩家在線上：%s",
     "old_en_us": "Custom bossbar %s has %s players currently online: %s",
@@ -336,6 +344,14 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "標示玩家 (旁觀者)",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "key.swapOffhand",
     "old_value": "交換兩手物品",
     "old_en_us": "Swap Item With Offhand",
@@ -344,11 +360,27 @@
     "new_en_us": "Swap Item With Off Hand"
   },
   {
+    "old_key": "multiplayer.disconnect.authservers_down",
+    "old_value": "驗證伺服器暫停服務，請稍後再試，非常抱歉！",
+    "old_en_us": "Authentication servers are down. Please try again later, sorry!",
+    "new_key": "multiplayer.disconnect.authservers_down",
+    "new_value": "驗證伺服器暫停服務。請稍後再試，非常抱歉！",
+    "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
+  },
+  {
+    "old_key": "multiplayer.disconnect.missing_tags",
+    "old_value": "從伺服器接收到不完整的標籤集。\n請聯絡伺服器管理員。",
+    "old_en_us": "Incomplete set of tags received from server.\nPlease contact server operator.",
+    "new_key": "multiplayer.disconnect.missing_tags",
+    "new_value": "從伺服器接收到不完整的標籤集，請聯絡伺服器管理員。",
+    "new_en_us": "Incomplete set of tags received from the server.\nPlease contact a server operator."
+  },
+  {
     "old_key": "multiplayer.message_not_delivered",
     "old_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
     "old_en_us": "Can't deliver chat message, check server logs: %s",
     "new_key": "multiplayer.message_not_delivered",
-    "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
+    "new_value": "無法傳送聊天訊息，請檢查伺服器聊天記錄：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
@@ -366,14 +398,6 @@
     "new_key": "options.chat.title",
     "new_value": "聊天設定",
     "new_en_us": "Chat Settings"
-  },
-  {
-    "old_key": "options.chunks",
-    "old_value": "%s 區塊",
-    "old_en_us": "%s chunks",
-    "new_key": "options.chunks",
-    "new_value": "%s 個區塊",
-    "new_en_us": "%s Chunks"
   },
   {
     "old_key": "options.fovEffectScale.tooltip",

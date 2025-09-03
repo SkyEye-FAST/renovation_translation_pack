@@ -100,7 +100,7 @@
     "old_value": "未知的指令",
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的指令，錯誤如下",
+    "new_value": "未知或不完整的指令，錯誤詳見以下說明",
     "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
@@ -624,11 +624,19 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "標示玩家 (旁觀者)",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "multiplayer.disconnect.authservers_down",
     "old_value": "驗證伺服器暫停服務， 請稍後再試， 非常抱歉！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務，請稍後再試，非常抱歉！",
+    "new_value": "驗證伺服器暫停服務。請稍後再試，非常抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
@@ -652,7 +660,7 @@
     "old_value": "無法傳送聊天訊息， 請檢查伺服器記錄。 聊天訊息開頭為： %s",
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
-    "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
+    "new_value": "無法傳送聊天訊息，請檢查伺服器聊天記錄：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
@@ -686,14 +694,6 @@
     "new_key": "options.chat.title",
     "new_value": "聊天設定",
     "new_en_us": "Chat Settings"
-  },
-  {
-    "old_key": "options.chunks",
-    "old_value": "%s 區塊",
-    "old_en_us": "%s chunks",
-    "new_key": "options.chunks",
-    "new_value": "%s 個區塊",
-    "new_en_us": "%s Chunks"
   },
   {
     "old_key": "options.narrator.notavailable",

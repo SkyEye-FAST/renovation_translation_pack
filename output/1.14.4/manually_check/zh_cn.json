@@ -44,7 +44,7 @@
     "old_value": "命令方块没有在此服务器上启用",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "此服务器未启用命令方块",
+    "new_value": "命令方块未启用",
     "new_en_us": "Command blocks are not enabled"
   },
   {
@@ -54,6 +54,70 @@
     "new_key": "argument.criteria.invalid",
     "new_value": "未知的准则“%s”",
     "new_en_us": "Unknown criterion '%s'"
+  },
+  {
+    "old_key": "argument.double.big",
+    "old_value": "双精度浮点型数据不能大于%s，但发现了%s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "双精度浮点型数据不能大于%s：实际为%s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "双精度浮点型数据不能小于%s，但发现了%s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "双精度浮点型数据不能小于%s：实际为%s",
+    "new_en_us": "Double must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.big",
+    "old_value": "浮点型数据不能大于%s，但发现了%s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "单精度浮点型数据不能大于%s：实际为%s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "浮点型数据不能小于%s，但发现了%s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "浮点型数据不能小于%s：实际为%s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整型数据不能大于%s，但发现了%s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整型数据不能大于%s：实际为%s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整型数据不能小于%s，但发现了%s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整型数据不能小于%s：实际为%s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.big",
+    "old_value": "长整型数据不能大于%s，但发现了%s",
+    "old_en_us": "Long must not be more than %s, found %s",
+    "new_key": "argument.long.big",
+    "new_value": "长整型数据不能大于%s：实际为%s",
+    "new_en_us": "Long must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.low",
+    "old_value": "长整型数据不能小于%s，但发现了%s",
+    "old_en_us": "Long must not be less than %s, found %s",
+    "new_key": "argument.long.low",
+    "new_value": "长整型数据不能小于%s：实际为%s",
+    "new_en_us": "Long must not be less than %s: found %s"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -68,7 +132,7 @@
     "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
     "new_key": "arguments.swizzle.invalid",
-    "new_value": "无效的坐标组合，需要“x”、“y”和“z”的组合",
+    "new_value": "无效的坐标组合：需要“x”、“y”和“z”的组合",
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
@@ -92,7 +156,7 @@
     "old_value": "未知的命令",
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的命令，错误见下",
+    "new_value": "未知或不完整的命令。错误见下",
     "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
@@ -102,6 +166,14 @@
     "new_key": "commands.banip.info",
     "new_value": "此次封禁涉及%s名玩家：%s",
     "new_en_us": "This ban affects %s player(s): %s"
+  },
+  {
+    "old_key": "commands.clone.toobig",
+    "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.clone.toobig",
+    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.data.modify.expected_list",
@@ -168,12 +240,52 @@
     "new_en_us": "Dropped %s %s from loot table %s"
   },
   {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "测试失败，计数：%s",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "测试失败。总计：%s",
+    "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "测试通过，计数：%s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "测试通过。总计：%s",
+    "new_en_us": "Test passed. Count: %s"
+  },
+  {
     "old_key": "commands.fill.success",
     "old_value": "成功地填充了%s个方块",
     "old_en_us": "Successfully filled %s blocks",
     "new_key": "commands.fill.success",
     "new_value": "已成功填充%s个方块",
     "new_en_us": "Successfully filled %s block(s)"
+  },
+  {
+    "old_key": "commands.fill.toobig",
+    "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.fill.toobig",
+    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.forceload.toobig",
+    "old_value": "指定区域内区块过多（最大值为%s，指定值为%s）",
+    "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.forceload.toobig",
+    "new_value": "指定区域内区块过多（最大值为%s，但指定值为%s）",
+    "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
     "old_key": "commands.schedule.created.function",
@@ -400,6 +512,14 @@
     "new_en_us": "Title Screen"
   },
   {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "F3 + C = 将位置复制为/tp命令，或长按10秒使游戏崩溃",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
+  },
+  {
     "old_key": "debug.creative_spectator.help",
     "old_value": "F3 + N = 在创造和旁观模式间切换",
     "old_en_us": "F3 + N = Cycle creative <-> spectator",
@@ -544,6 +664,14 @@
     "new_en_us": "Save Hotbar Activator"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "高亮玩家（旁观者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "高亮玩家",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "menu.paused",
     "old_value": "游戏已暂停",
     "old_en_us": "Game paused",
@@ -556,7 +684,7 @@
     "old_value": "认证服务器处于宕机状态中。请稍后再试，抱歉！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
+    "new_value": "身份验证服务器目前处于宕机状态。请稍后再试。抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
@@ -588,7 +716,7 @@
     "old_value": "聊天消息无法发送，请检查服务器日志。截断后的消息：%s",
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
-    "new_value": "无法发送聊天消息，请检查服务器日志：%s",
+    "new_value": "无法发送聊天信息，请检查服务器日志：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
@@ -660,7 +788,7 @@
     "old_value": "无效的布尔型数据，需要'true'或'false'却找到了'%s'",
     "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
     "new_key": "parsing.bool.invalid",
-    "new_value": "无效的布尔型数据，应为“true”或“false”却出现了“%s”",
+    "new_value": "无效的布尔型数据：应为“true”或“false”，实际为“%s”",
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {

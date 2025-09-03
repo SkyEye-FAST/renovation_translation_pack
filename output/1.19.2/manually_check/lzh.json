@@ -736,12 +736,12 @@
     "new_en_us": "Swap Item With Off Hand"
   },
   {
-    "old_key": "multiplayer.disconnect.unsigned_chat",
-    "old_value": "受署名有闕或有舛之議囊也。",
-    "old_en_us": "Received chat packet with missing or invalid signature.",
-    "new_key": "multiplayer.disconnect.unsigned_chat",
-    "new_value": "受署名闕舛之議囊也。",
-    "new_en_us": "Received a chat packet with a missing or invalid signature."
+    "old_key": "multiplayer.disconnect.invalid_packet",
+    "old_value": "伺服器傳一舛囊也。",
+    "old_en_us": "Server sent an invalid packet",
+    "new_key": "multiplayer.disconnect.invalid_packet",
+    "new_value": "伺服器傳舛囊也",
+    "new_en_us": "The server sent an invalid packet"
   },
   {
     "old_key": "multiplayer.message_not_delivered",
@@ -750,30 +750,6 @@
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
-  },
-  {
-    "old_key": "narration.component_list.usage",
-    "old_value": "擊Tab移至下者",
-    "old_en_us": "Press Tab to navigate to next element",
-    "new_key": "narration.component_list.usage",
-    "new_value": "擊Tab移至次件",
-    "new_en_us": "Press Tab to navigate to the next element"
-  },
-  {
-    "old_key": "narration.slider.usage.focused",
-    "old_value": "撃左右鍵以易其值",
-    "old_en_us": "Press left or right keyboard buttons to change value",
-    "new_key": "narration.slider.usage.focused",
-    "new_value": "撃左右鍵以易其直",
-    "new_en_us": "Press the left or right keyboard buttons to change the value"
-  },
-  {
-    "old_key": "narration.slider.usage.hovered",
-    "old_value": "曳滑桿以更其值",
-    "old_en_us": "Drag slider to change value",
-    "new_key": "narration.slider.usage.hovered",
-    "new_value": "曳滑桿以更其直",
-    "new_en_us": "Drag the slider to change its value"
   },
   {
     "old_key": "options.accessibility.title",

@@ -32,6 +32,22 @@
     "new_en_us": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "此伺服器已經停用命令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "命令方塊已經停用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.block.tag.disallowed",
+    "old_value": "此處無法使用標籤，只能用於實際方塊",
+    "old_en_us": "Tags aren't allowed here, only actual blocks",
+    "new_key": "argument.block.tag.disallowed",
+    "new_value": "此處無法使用標籤，僅用於實際方塊",
+    "new_en_us": "Tags aren't allowed here; only actual blocks"
+  },
+  {
     "old_key": "argument.entity.options.gamemode.description",
     "old_value": "玩家嘅遊戲模式",
     "old_en_us": "Players with gamemode",
@@ -40,11 +56,19 @@
     "new_en_us": "Players with game mode"
   },
   {
+    "old_key": "argument.item.tag.disallowed",
+    "old_value": "此處無法使用標籤，只能用於實際物品",
+    "old_en_us": "Tags aren't allowed here, only actual items",
+    "new_key": "argument.item.tag.disallowed",
+    "new_value": "此處無法使用標籤，僅用於實際物品",
+    "new_en_us": "Tags aren't allowed here; only actual items"
+  },
+  {
     "old_key": "argument.range.ints",
     "old_value": "只准整數，不能為小數",
     "old_en_us": "Only whole numbers allowed, not decimals",
     "new_key": "argument.range.ints",
-    "new_value": "僅接受整數，不接受小數",
+    "new_value": "只准整數，唔准小數",
     "new_en_us": "Only whole numbers allowed; not decimals"
   },
   {
@@ -54,6 +78,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻數必須為非負數",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "無效搭配，應為 'x'、'y' 與 'z' 組合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "無效搭配，應為 「x」、「y」 與 「z」 組合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
     "old_key": "block.minecraft.spawner",
@@ -788,7 +820,7 @@
     "old_value": "伺服器需要使用所提供嘅資源包",
     "old_en_us": "Server requires a custom resource pack",
     "new_key": "multiplayer.requiredTexturePrompt.disconnect",
-    "new_value": "伺服器需要使用所提供的資源包",
+    "new_value": "伺服器要求使用由佢提供的資源包",
     "new_en_us": "This server requires a custom resource pack"
   },
   {
@@ -880,6 +912,14 @@
     "new_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again."
   },
   {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "無效布爾值，應為 'true' 或 'false' 但出現 '%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "無效布林值，應為 'true' 或 'false' 但出現 '%s'",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
+  },
+  {
     "old_key": "resourcePack.vanilla.description",
     "old_value": "Minecraft 預設資源包",
     "old_en_us": "The default resources for Minecraft",
@@ -908,7 +948,7 @@
     "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
     "old_en_us": "Locked by another running instance of Minecraft",
     "new_key": "selectWorld.locked",
-    "new_value": "被另一個開啟的 Minecraft 程式鎖定",
+    "new_value": "被另一個執行緊的 Minecraft 程式開緊鎖住",
     "new_en_us": "Locked by another running instance of Minecraft."
   },
   {
