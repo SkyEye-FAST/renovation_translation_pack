@@ -1,12 +1,5 @@
 [
   {
-    "old_key": "advancement.advancementNotFound",
-    "old_value": "未知進度：%s",
-    "new_key": "advancement.advancementNotFound",
-    "new_value": "未知的進度：%s",
-    "en_us": "Unknown advancement: %s"
-  },
-  {
     "old_key": "advancements.adventure.arbalistic.description",
     "old_value": "用弩一箭射殺五種生物",
     "new_key": "advancements.adventure.arbalistic.description",
@@ -423,14 +416,28 @@
     "old_key": "argument.block.id.invalid",
     "old_value": "未知嘅方塊類型 '%s",
     "new_key": "argument.block.id.invalid",
-    "new_value": "未知方塊類型 '%s'",
+    "new_value": "未知方塊類型「%s」",
     "en_us": "Unknown block type '%s'"
+  },
+  {
+    "old_key": "argument.block.property.duplicate",
+    "old_value": "'%s' 屬性只能為 %s 設置一次",
+    "new_key": "argument.block.property.duplicate",
+    "new_value": "'%s' 屬性僅可為 %s 設置一次",
+    "en_us": "Property '%s' can only be set once for block %s"
+  },
+  {
+    "old_key": "argument.block.property.invalid",
+    "old_value": "%s 方塊不接受以 '%s' 作為 %s 屬性",
+    "new_key": "argument.block.property.invalid",
+    "new_value": "%s 方塊不接受以「%s」作為 %s 屬性",
+    "en_us": "Block %s does not accept '%s' for %s property"
   },
   {
     "old_key": "argument.block.property.novalue",
     "old_value": "%s 上必須要有 '%s' 屬性",
     "new_key": "argument.block.property.novalue",
-    "new_value": "方塊 %s 內 '%s' 屬性必須要有值",
+    "new_value": "應為方塊 %s 內「%s」屬性必須要有值",
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
@@ -441,11 +448,39 @@
     "en_us": "Expected closing ] for block state properties"
   },
   {
+    "old_key": "argument.block.property.unknown",
+    "old_value": "%s 方塊並無屬性 '%s'",
+    "new_key": "argument.block.property.unknown",
+    "new_value": "%s 方塊並無屬性「%s」",
+    "en_us": "Block %s does not have property '%s'"
+  },
+  {
+    "old_key": "argument.color.invalid",
+    "old_value": "未知顏色 '%s'",
+    "new_key": "argument.color.invalid",
+    "new_value": "未知顏色「%s」",
+    "en_us": "Unknown color '%s'"
+  },
+  {
     "old_key": "argument.component.invalid",
     "old_value": "無效聊天組合：%s",
     "new_key": "argument.component.invalid",
     "new_value": "無效聊天元件：%s",
     "en_us": "Invalid chat component: %s"
+  },
+  {
+    "old_key": "argument.criteria.invalid",
+    "old_value": "未知條件 '%s'",
+    "new_key": "argument.criteria.invalid",
+    "new_value": "未知條件「%s」",
+    "en_us": "Unknown criterion '%s'"
+  },
+  {
+    "old_key": "argument.dimension.invalid",
+    "old_value": "未知維度 '%s'",
+    "new_key": "argument.dimension.invalid",
+    "new_value": "未知維度「%s」",
+    "en_us": "Unknown dimension '%s'"
   },
   {
     "old_key": "argument.entity.notfound.entity",
@@ -497,10 +532,17 @@
     "en_us": "Entities between z and z + dz"
   },
   {
+    "old_key": "argument.entity.options.inapplicable",
+    "old_value": "此處不適用 '%s' 選項",
+    "new_key": "argument.entity.options.inapplicable",
+    "new_value": "此處不適用「%s」選項",
+    "en_us": "Option '%s' isn't applicable here"
+  },
+  {
     "old_key": "argument.entity.options.mode.invalid",
     "old_value": "遊戲模式 '%s' 無效或不明",
     "new_key": "argument.entity.options.mode.invalid",
-    "new_value": "遊戲模式 '%s' 無效或未知",
+    "new_value": "遊戲模式「%s」無效或未知",
     "en_us": "Invalid or unknown game mode '%s'"
   },
   {
@@ -521,7 +563,7 @@
     "old_key": "argument.entity.options.sort.irreversible",
     "old_value": "排序類型 '%s' 無效或不明",
     "new_key": "argument.entity.options.sort.irreversible",
-    "new_value": "排序類型 '%s' 無效或未知",
+    "new_value": "排序類型「%s」無效或未知",
     "en_us": "Invalid or unknown sort type '%s'"
   },
   {
@@ -542,8 +584,22 @@
     "old_key": "argument.entity.options.type.invalid",
     "old_value": "實體類型 '%s' 無效或不明",
     "new_key": "argument.entity.options.type.invalid",
-    "new_value": "實體類型 '%s' 無效或未知",
+    "new_value": "實體類型「%s」無效或未知",
     "en_us": "Invalid or unknown entity type '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.unknown",
+    "old_value": "未知選項 '%s'",
+    "new_key": "argument.entity.options.unknown",
+    "new_value": "未知選項「%s」",
+    "en_us": "Unknown option '%s'"
+  },
+  {
+    "old_key": "argument.entity.options.valueless",
+    "old_value": "選項 '%s' 應為數值",
+    "new_key": "argument.entity.options.valueless",
+    "new_value": "選項「%s」應為數值",
+    "en_us": "Expected value for option '%s'"
   },
   {
     "old_key": "argument.entity.selector.nearestPlayer",
@@ -551,6 +607,48 @@
     "new_key": "argument.entity.selector.nearestPlayer",
     "new_value": "距離最近的玩家",
     "en_us": "Nearest player"
+  },
+  {
+    "old_key": "argument.entity.selector.unknown",
+    "old_value": "未知選擇器類型 '%s'",
+    "new_key": "argument.entity.selector.unknown",
+    "new_value": "未知選擇器類型「%s」",
+    "en_us": "Unknown selector type '%s'"
+  },
+  {
+    "old_key": "argument.entity.toomany",
+    "old_value": "僅接受單一實體，但所提供選擇器允許多於一個實體",
+    "new_key": "argument.entity.toomany",
+    "new_value": "僅接受單一實體，惟所提供選擇器允許多於一個實體",
+    "en_us": "Only one entity is allowed, but the provided selector allows more than one"
+  },
+  {
+    "old_key": "argument.item.id.invalid",
+    "old_value": "未知物品 '%s'",
+    "new_key": "argument.item.id.invalid",
+    "new_value": "未知物品「%s」",
+    "en_us": "Unknown item '%s'"
+  },
+  {
+    "old_key": "argument.nbt.array.invalid",
+    "old_value": "無效陣列類型 '%s'",
+    "new_key": "argument.nbt.array.invalid",
+    "new_value": "無效陣列類型「%s」",
+    "en_us": "Invalid array type '%s'"
+  },
+  {
+    "old_key": "argument.player.entities",
+    "old_value": "只有玩家受此命令影響，但所提供選擇器包含其他實體",
+    "new_key": "argument.player.entities",
+    "new_value": "僅玩家受此命令影響，惟所提供選擇器包含其他實體",
+    "en_us": "Only players may be affected by this command, but the provided selector includes entities"
+  },
+  {
+    "old_key": "argument.player.toomany",
+    "old_value": "僅接受單一玩家，但所提供選擇器允許多於一個玩家",
+    "new_key": "argument.player.toomany",
+    "new_value": "僅接受單一玩家，惟所提供選擇器允許多於一個玩家",
+    "en_us": "Only one player is allowed, but the provided selector allows more than one"
   },
   {
     "old_key": "argument.player.unknown",
@@ -602,6 +700,13 @@
     "en_us": "Incomplete (expected 2 coordinates)"
   },
   {
+    "old_key": "argument.scoreboardDisplaySlot.invalid",
+    "old_value": "未知顯示區 '%s'",
+    "new_key": "argument.scoreboardDisplaySlot.invalid",
+    "new_value": "未知顯示區「%s」",
+    "en_us": "Unknown display slot '%s'"
+  },
+  {
     "old_key": "argument.scoreHolder.empty",
     "old_value": "無法找到該分數相對應持有者",
     "new_key": "argument.scoreHolder.empty",
@@ -609,18 +714,53 @@
     "en_us": "No relevant score holders could be found"
   },
   {
+    "old_key": "arguments.block.tag.unknown",
+    "old_value": "未知方塊標籤 '%s'",
+    "new_key": "arguments.block.tag.unknown",
+    "new_value": "未知方塊標籤「%s」",
+    "en_us": "Unknown block tag '%s'"
+  },
+  {
+    "old_key": "arguments.function.tag.unknown",
+    "old_value": "未知函數標籤 '%s'",
+    "new_key": "arguments.function.tag.unknown",
+    "new_value": "未知函數標籤「%s」",
+    "en_us": "Unknown function tag '%s'"
+  },
+  {
+    "old_key": "arguments.item.overstacked",
+    "old_value": "%s 只能堆疊至 %s",
+    "new_key": "arguments.item.overstacked",
+    "new_value": "%s 僅可堆疊至 %s",
+    "en_us": "%s can only stack up to %s"
+  },
+  {
     "old_key": "arguments.item.tag.unknown",
     "old_value": "未知物品標籤 '%s'",
     "new_key": "arguments.item.tag.unknown",
-    "new_value": "未知的物品標籤 '%s'",
+    "new_value": "未知的物品標籤「%s」",
     "en_us": "Unknown item tag '%s'"
   },
   {
     "old_key": "arguments.nbtpath.nothing_found",
     "old_value": "無法揾到同 %s 相符嘅元素",
     "new_key": "arguments.nbtpath.nothing_found",
-    "new_value": "未發現同 %s 相符的元素",
+    "new_value": "未發現與 %s 相符的元素",
     "en_us": "Found no elements matching %s"
+  },
+  {
+    "old_key": "arguments.objective.notFound",
+    "old_value": "未知計分板目標 '%s'",
+    "new_key": "arguments.objective.notFound",
+    "new_value": "未知計分板目標「%s」",
+    "en_us": "Unknown scoreboard objective '%s'"
+  },
+  {
+    "old_key": "arguments.objective.readonly",
+    "old_value": "計分板目標 '%s' 僅限唯讀",
+    "new_key": "arguments.objective.readonly",
+    "new_value": "計分板目標「%s」僅限唯讀",
+    "en_us": "Scoreboard objective '%s' is read-only"
   },
   {
     "old_key": "arguments.operation.div0",
@@ -1575,6 +1715,13 @@
     "en_us": "%s says %s"
   },
   {
+    "old_key": "command.expected.separator",
+    "old_value": "引數結尾應為空白字符，但發現有尾隨數據",
+    "new_key": "command.expected.separator",
+    "new_value": "引數結尾應為空白字符，惟發現有尾隨數據",
+    "en_us": "Expected whitespace to end one argument, but found trailing data"
+  },
+  {
     "old_key": "command.failed",
     "old_value": "試圖執行依個命令時發生意外錯誤",
     "new_key": "command.failed",
@@ -1585,56 +1732,56 @@
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",
-    "new_value": "無法將進度 %2$s 的條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
+    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s 個玩家，因為所有人已擁有該條件",
     "en_us": "Couldn't grant criterion '%s' of advancement %s to %s players as they already have it"
   },
   {
     "old_key": "commands.advancement.grant.criterion.to.many.success",
     "old_value": "已將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家",
     "new_key": "commands.advancement.grant.criterion.to.many.success",
-    "new_value": "已將進度 %2$s 的條件 '%1$s' 賦予 %3$s 個玩家",
+    "new_value": "已將進度 %2$s 的條件「%1$s」賦予 %3$s 個玩家",
     "en_us": "Granted criterion '%s' of advancement %s to %s players"
   },
   {
     "old_key": "commands.advancement.grant.criterion.to.one.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s，因為已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.one.failure",
-    "new_value": "無法將進度 %2$s 的條件 '%1$s' 賦予 %3$s，因為已經擁有該條件",
+    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s，因為其已擁有該條件",
     "en_us": "Couldn't grant criterion '%s' of advancement %s to %s as they already have it"
   },
   {
     "old_key": "commands.advancement.grant.criterion.to.one.success",
     "old_value": "已將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s",
     "new_key": "commands.advancement.grant.criterion.to.one.success",
-    "new_value": "已將進度 %2$s 的條件 '%1$s' 賦予 %3$s",
+    "new_value": "已將進度 %2$s 的條件「%1$s」賦予 %3$s",
     "en_us": "Granted criterion '%s' of advancement %s to %s"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.many.failure",
     "old_value": "無法撤銷 %3$s 個嘅進度 %2$s 未達成嘅條件 '%1$s'",
     "new_key": "commands.advancement.revoke.criterion.to.many.failure",
-    "new_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "new_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件「%1$s」",
     "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s players as they don't have it"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.many.success",
     "old_value": "已撤銷 %3$s 個玩家嘅進度 %2$s 嘅條件 '%1$s'",
     "new_key": "commands.advancement.revoke.criterion.to.many.success",
-    "new_value": "已撤銷 %3$s 個玩家的進度 %2$s 內的條件 '%1$s'",
+    "new_value": "已撤銷 %3$s 個玩家的進度 %2$s 內的條件「%1$s」",
     "en_us": "Revoked criterion '%s' of advancement %s from %s players"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.one.failure",
     "old_value": "無法撤銷 %3$s 嘅進度 %2$s 未達成嘅條件 '%1$s'",
     "new_key": "commands.advancement.revoke.criterion.to.one.failure",
-    "new_value": "無法從 %3$s 身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "new_value": "無法從 %3$s 身上撤銷進度 %2$s 尚未取得的條件「%1$s」",
     "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s as they don't have it"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.one.success",
     "old_value": "已撤銷 %3$s 嘅進度 %2$s 嘅條件 '%1$s'",
     "new_key": "commands.advancement.revoke.criterion.to.one.success",
-    "new_value": "已撤銷 %3$s 的進度 %2$s 內的條件 '%1$s'",
+    "new_value": "已撤銷 %3$s 的進度 %2$s 內的條件「%1$s」",
     "en_us": "Revoked criterion '%s' of advancement %s from %s"
   },
   {
@@ -1837,7 +1984,7 @@
     "old_key": "commands.data.get.invalid",
     "old_value": "無法獲得 %s，只允許數字類型標籤",
     "new_key": "commands.data.get.invalid",
-    "new_value": "無法獲取 %s，只允許數字類型標籤",
+    "new_value": "無法獲取 %s，僅允許數字類型標籤",
     "en_us": "Can't get %s; only numeric tags are allowed"
   },
   {
@@ -1853,6 +2000,20 @@
     "new_key": "commands.data.storage.get",
     "new_value": "儲存於 %2$s 中的 %1$s 乘上 %3$s 倍率後為 %4$s",
     "en_us": "%s in storage %s after scale factor of %s is %s"
+  },
+  {
+    "old_key": "commands.datapack.disable.failed",
+    "old_value": "數據包 '%s' 未啟用！",
+    "new_key": "commands.datapack.disable.failed",
+    "new_value": "數據包「%s」未啟用！",
+    "en_us": "Pack '%s' is not enabled!"
+  },
+  {
+    "old_key": "commands.datapack.enable.failed",
+    "old_value": "數據包 '%s' 已經啟用！",
+    "new_key": "commands.datapack.enable.failed",
+    "new_value": "數據包「%s」已經啟用！",
+    "en_us": "Pack '%s' is already enabled!"
   },
   {
     "old_key": "commands.datapack.list.available.none",
@@ -2425,7 +2586,7 @@
     "old_key": "commands.stopsound.success.source.sound",
     "old_value": "已停止音源 '%2$s' 嘅音效 '%1$s'",
     "new_key": "commands.stopsound.success.source.sound",
-    "new_value": "已停止音源 '%2$s' 的音效 '%1$s'",
+    "new_value": "已停止音源「%2$s」的音效「%1$s」",
     "en_us": "Stopped sound '%s' on source '%s'"
   },
   {
@@ -2441,6 +2602,20 @@
     "new_key": "commands.summon.success",
     "new_value": "已召喚新的 %s",
     "en_us": "Summoned new %s"
+  },
+  {
+    "old_key": "commands.tag.add.success.multiple",
+    "old_value": "已為 %2$s 個實體增添 '%1$s' 標籤",
+    "new_key": "commands.tag.add.success.multiple",
+    "new_value": "已為 %2$s 個實體增添「%1$s」標籤",
+    "en_us": "Added tag '%s' to %s entities"
+  },
+  {
+    "old_key": "commands.tag.add.success.single",
+    "old_value": "已為 %2$s 增添 '%1$s' 標籤",
+    "new_key": "commands.tag.add.success.single",
+    "new_value": "已為 %2$s 增添「%1$s」標籤",
+    "en_us": "Added tag '%s' to %s"
   },
   {
     "old_key": "commands.tag.list.multiple.empty",
@@ -2609,6 +2784,13 @@
     "new_key": "commands.title.times.single",
     "new_value": "已變更 %s 的標題顯示時間",
     "en_us": "Changed title display times for %s"
+  },
+  {
+    "old_key": "commands.trigger.failed.invalid",
+    "old_value": "你只能觸發 '觸發項目' 類型目標",
+    "new_key": "commands.trigger.failed.invalid",
+    "new_value": "你僅可觸發「觸發項目」類型目標",
+    "en_us": "You can only trigger objectives that are 'trigger' type"
   },
   {
     "old_key": "commands.whitelist.none",
@@ -3400,6 +3582,34 @@
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "按右鍵以瞭解更多",
     "en_us": "Right Click for More"
+  },
+  {
+    "old_key": "gui.recipebook.toggleRecipes.blastable",
+    "old_value": "只顯示可用高爐熔煉",
+    "new_key": "gui.recipebook.toggleRecipes.blastable",
+    "new_value": "僅顯示可用高爐熔煉",
+    "en_us": "Showing Blastable"
+  },
+  {
+    "old_key": "gui.recipebook.toggleRecipes.craftable",
+    "old_value": "只顯示可合成",
+    "new_key": "gui.recipebook.toggleRecipes.craftable",
+    "new_value": "僅顯示可合成",
+    "en_us": "Showing Craftable"
+  },
+  {
+    "old_key": "gui.recipebook.toggleRecipes.smeltable",
+    "old_value": "只顯示可熔煉",
+    "new_key": "gui.recipebook.toggleRecipes.smeltable",
+    "new_value": "僅顯示可熔煉",
+    "en_us": "Showing Smeltable"
+  },
+  {
+    "old_key": "gui.recipebook.toggleRecipes.smokable",
+    "old_value": "只顯示可煙燻",
+    "new_key": "gui.recipebook.toggleRecipes.smokable",
+    "new_value": "僅顯示可煙燻",
+    "en_us": "Showing Smokable"
   },
   {
     "old_key": "gui.socialInteractions.empty_blocked",
@@ -4249,6 +4459,13 @@
     "en_us": "Rejecting this custom resource pack will disconnect you from this server."
   },
   {
+    "old_key": "multiplayer.socialInteractions.not_available",
+    "old_value": "線上社羣互動只會於多人地圖內提供",
+    "new_key": "multiplayer.socialInteractions.not_available",
+    "new_value": "線上社羣互動僅會於多人地圖內提供",
+    "en_us": "Social Interactions are only available in Multiplayer worlds"
+  },
+  {
     "old_key": "multiplayer.status.and_more",
     "old_value": "⋯⋯同另外 %s 人⋯⋯",
     "new_key": "multiplayer.status.and_more",
@@ -4329,7 +4546,7 @@
     "old_key": "optimizeWorld.confirm.description",
     "old_value": "依個操作會嘗試用最新嘅遊戲資料格式嚟最佳化你嘅世界。睇情況可能會用到好長一段時間。完成之後，你嘅世界可能會更順暢，但唔會再相容於舊版遊戲。你真係要繼續？",
     "new_key": "optimizeWorld.confirm.description",
-    "new_value": "此操作將會嘗試使用最新的遊戲資料格式儲存所有遊戲數據來最佳化你的世界。視情況可能會用上一段很長的時間。完成後，你的世界可能會更順暢，但將不再相容於舊版的遊戲。你確定要繼續？",
+    "new_value": "此操作將嘗試使用最新的遊戲資料格式儲存所有遊戲數據以達至最佳化。等待時間視乎世界具體情況，需時或會很長。完成之後，你的世界或會執行得更暢順，惟將不再相容舊版遊戲。你確定要繼續？",
     "en_us": "This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed?"
   },
   {
@@ -4338,6 +4555,13 @@
     "new_key": "optimizeWorld.stage.finished",
     "new_value": "即將完成⋯⋯",
     "en_us": "Finishing up..."
+  },
+  {
+    "old_key": "optimizeWorld.title",
+    "old_value": "正在最佳化 '%s'",
+    "new_key": "optimizeWorld.title",
+    "new_value": "正在最佳化「%s」",
+    "en_us": "Optimizing World '%s'"
   },
   {
     "old_key": "options.accessibility.link",
@@ -4359,6 +4583,13 @@
     "new_key": "options.attack.crosshair",
     "new_value": "十字準星",
     "en_us": "Crosshair"
+  },
+  {
+    "old_key": "options.chat.visibility.system",
+    "old_value": "只顯示命令",
+    "new_key": "options.chat.visibility.system",
+    "new_value": "僅顯示命令",
+    "en_us": "Commands Only"
   },
   {
     "old_key": "options.darkMojangStudiosBackgroundColor.tooltip",
@@ -4420,7 +4651,7 @@
     "old_key": "options.graphics.warning.message",
     "old_value": "檢測到顯示卡不支援 %s 畫質。\n\n不過你可以忽略，但如果你選擇 %s 畫質將唔會為你嘅顯示卡提供支援。",
     "new_key": "options.graphics.warning.message",
-    "new_value": "檢測到顯示卡不支援 %s 畫質。\n\n不過你可以忽略，但若你選擇 %s 畫質將不會為你的顯示卡提供支援。",
+    "new_value": "檢測到圖像設備不支援 %s 顯示卡選項。\n\n你可選擇忽略，惟當選擇 %s 畫質時，你的顯示卡將不受支援。",
     "en_us": "Your graphics device is detected as unsupported for the %s graphics option.\n\nYou may ignore this and continue, however support will not be provided for your device if you choose to use %s graphics."
   },
   {
@@ -4543,10 +4774,45 @@
     "en_us": "Open Pack Folder"
   },
   {
+    "old_key": "parsing.double.invalid",
+    "old_value": "無效雙精確度值 '%s'",
+    "new_key": "parsing.double.invalid",
+    "new_value": "無效雙精確度值「%s」",
+    "en_us": "Invalid double '%s'"
+  },
+  {
+    "old_key": "parsing.expected",
+    "old_value": "應為 '%s'",
+    "new_key": "parsing.expected",
+    "new_value": "應為「%s」",
+    "en_us": "Expected '%s'"
+  },
+  {
+    "old_key": "parsing.float.invalid",
+    "old_value": "無效浮點值 '%s'",
+    "new_key": "parsing.float.invalid",
+    "new_value": "無效浮點值「%s」",
+    "en_us": "Invalid float '%s'"
+  },
+  {
+    "old_key": "parsing.int.invalid",
+    "old_value": "無效整數 '%s'",
+    "new_key": "parsing.int.invalid",
+    "new_value": "無效整數「%s」",
+    "en_us": "Invalid integer '%s'"
+  },
+  {
+    "old_key": "parsing.long.invalid",
+    "old_value": "無效長整數 '%s'",
+    "new_key": "parsing.long.invalid",
+    "new_value": "無效長整數「%s」",
+    "en_us": "Invalid long '%s'"
+  },
+  {
     "old_key": "parsing.quote.escape",
     "old_value": "引號字串內嘅跳脱序列 '\\%s' 無效",
     "new_key": "parsing.quote.escape",
-    "new_value": "引號字串內的跳脱序列 '\\%s' 無效",
+    "new_value": "引號字串內的跳脱序列「\\%s」無效",
     "en_us": "Invalid escape sequence '\\%s' in quoted string"
   },
   {
@@ -4616,7 +4882,7 @@
     "old_key": "selectWorld.backupWarning.customized",
     "old_value": "唔好意思，依個版本嘅 Minecraft 並唔支援自訂世界。我哋仲可以完整載入依個世界，但任何新生成嘅區域唔會延用自訂設定。不便之處敬請諒解！",
     "new_key": "selectWorld.backupWarning.customized",
-    "new_value": "抱歉，此 Minecraft 版本不支援自訂世界。你可以完整載入此世界，但任何新生成的區域不再延用自訂設定。不便之處敬請諒解！",
+    "new_value": "抱歉，此 Minecraft 版本不支援自訂世界。你可完整載入此世界，惟任何新生成區域將不再沿用自訂設定。不便之處敬請諒解！",
     "en_us": "Unfortunately, we do not support customized worlds in this version of Minecraft. We can still load this world and keep everything the way it was, but any newly generated terrain will no longer be customized. We're sorry for the inconvenience!"
   },
   {
@@ -4665,15 +4931,22 @@
     "old_key": "selectWorld.gameMode.adventure.line1",
     "old_value": "同生存模式一樣，但唔可以",
     "new_key": "selectWorld.gameMode.adventure.line1",
-    "new_value": "同生存模式一樣，但不可以",
+    "new_value": "與生存模式相同，惟無法",
     "en_us": "Same as Survival Mode, but blocks can't"
   },
   {
     "old_key": "selectWorld.gameMode.hardcore.line1",
     "old_value": "同生存模式一樣，但難度鎖定為",
     "new_key": "selectWorld.gameMode.hardcore.line1",
-    "new_value": "與生存模式一樣，但難度鎖定為",
+    "new_value": "與生存模式相同，惟難度鎖定為",
     "en_us": "Same as Survival Mode, locked at hardest"
+  },
+  {
+    "old_key": "selectWorld.gameMode.hardcore.line2",
+    "old_value": "最高難度，並且只有一次生命",
+    "new_key": "selectWorld.gameMode.hardcore.line2",
+    "new_value": "最高難度，並且僅有一次生命",
+    "en_us": "difficulty, and one life only"
   },
   {
     "old_key": "selectWorld.gameMode.spectator.line1",
@@ -4714,7 +4987,7 @@
     "old_key": "selectWorld.recreate.customized.text",
     "old_value": "依個版本嘅 Minecraft 已經唔支援自訂世界。我哋可以嘗試利用相同嘅種子碼同埋屬性重新建立，但係所有自訂地形都會遺失。唔好意思同你帶來不便！",
     "new_key": "selectWorld.recreate.customized.text",
-    "new_value": "此 Minecraft 版本不再支援自訂世界。你可以嘗試利用相同的種子碼與屬性重新建立，但所有自訂地形都會遺失。不便之處敬請諒解！",
+    "new_value": "此 Minecraft 版本不再支援自訂世界。你可嘗試利用相同的種子碼與屬性重新建立該世界，惟所有自訂地形均會遺失。不便之處敬請諒解！",
     "en_us": "Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience!"
   },
   {

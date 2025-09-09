@@ -640,6 +640,14 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家 (旁觀者)",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "標示玩家",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "multiplayer.downloadingStats",
     "old_value": "下載統計及成就記錄中...",
     "old_en_us": "Downloading statistics & achievements...",

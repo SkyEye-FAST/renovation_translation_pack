@@ -56,6 +56,14 @@
     "new_en_us": "Invalid NBT path element"
   },
   {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "無效的搭配：應為 'x'、'y' 與 'z' 的組合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
+  },
+  {
     "old_key": "block.minecraft.lapis_block",
     "old_value": "青金石磚",
     "old_en_us": "Lapis Lazuli Block",
@@ -206,6 +214,14 @@
     "new_key": "commands.execute.blocks.toobig",
     "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "測試失敗，總計：%s",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "測試失敗。總計：%s",
+    "new_en_us": "Test failed. Count: %s"
   },
   {
     "old_key": "commands.fill.success",
@@ -564,7 +580,7 @@
     "old_value": "標示玩家（旁觀者）",
     "old_en_us": "Highlight Players (Spectators)",
     "new_key": "key.spectatorOutlines",
-    "new_value": "標示玩家 (旁觀者)",
+    "new_value": "標示玩家",
     "new_en_us": "Highlight Players"
   },
   {

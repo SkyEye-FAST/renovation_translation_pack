@@ -36,7 +36,7 @@
     "old_value": "此伺服器已經停用命令方塊",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "命令方塊已經停用",
+    "new_value": "命令方塊已停用",
     "new_en_us": "Command blocks are not enabled"
   },
   {
@@ -45,7 +45,23 @@
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "此處無法使用標籤，僅用於實際方塊",
-    "new_en_us": "Tags aren't allowed here; only actual blocks"
+    "new_en_us": "Tags aren't allowed here; only actual blocks are"
+  },
+  {
+    "old_key": "argument.double.big",
+    "old_value": "雙精確度值不得多於 %s，但發現 %s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "雙精確度值不得多於 %s，惟發現 %s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "雙精確度值不得少於 %s，但發現 %s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "雙精確度值不得少於 %s，惟發現 %s",
+    "new_en_us": "Double must not be less than %s: found %s"
   },
   {
     "old_key": "argument.entity.options.gamemode.description",
@@ -56,20 +72,68 @@
     "new_en_us": "Players with game mode"
   },
   {
+    "old_key": "argument.float.big",
+    "old_value": "浮點值不得多於 %s，但發現 %s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "浮點值不得多於 %s，惟發現 %s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "浮點值不得少於 %s，但發現 %s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "浮點值不得少於 %s，惟發現 %s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整數不得多於 %s，但發現 %s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整數不得多於 %s，惟發現 %s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整數不得少於 %s，但發現 %s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整數不得少於 %s，惟發現 %s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
     "old_key": "argument.item.tag.disallowed",
     "old_value": "此處無法使用標籤，只能用於實際物品",
     "old_en_us": "Tags aren't allowed here, only actual items",
     "new_key": "argument.item.tag.disallowed",
     "new_value": "此處無法使用標籤，僅用於實際物品",
-    "new_en_us": "Tags aren't allowed here; only actual items"
+    "new_en_us": "Tags aren't allowed here; only actual items are"
+  },
+  {
+    "old_key": "argument.long.big",
+    "old_value": "長整數不得多於 %s，但發現 %s",
+    "old_en_us": "Long must not be more than %s, found %s",
+    "new_key": "argument.long.big",
+    "new_value": "長整數不得多於 %s，惟發現 %s",
+    "new_en_us": "Long must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.low",
+    "old_value": "長整數不得少於 %s，但發現 %s",
+    "old_en_us": "Long must not be less than %s, found %s",
+    "new_key": "argument.long.low",
+    "new_value": "長整數不得少於 %s，惟發現 %s",
+    "new_en_us": "Long must not be less than %s: found %s"
   },
   {
     "old_key": "argument.range.ints",
     "old_value": "只准整數，不能為小數",
     "old_en_us": "Only whole numbers allowed, not decimals",
     "new_key": "argument.range.ints",
-    "new_value": "只准整數，唔准小數",
-    "new_en_us": "Only whole numbers allowed; not decimals"
+    "new_value": "僅接受整數，不接受小數",
+    "new_en_us": "Only whole numbers are allowed; not decimals"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -84,7 +148,7 @@
     "old_value": "無效搭配，應為 'x'、'y' 與 'z' 組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
     "new_key": "arguments.swizzle.invalid",
-    "new_value": "無效搭配，應為 「x」、「y」 與 「z」 組合",
+    "new_value": "無效搭配，應為「x」、「y」與「z」組合",
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
@@ -140,7 +204,7 @@
     "old_value": "未知或不完整命令，錯誤如下",
     "old_en_us": "Unknown or incomplete command, see below for error",
     "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的命令，錯誤如下",
+    "new_value": "命令未知或不完整，錯誤如下：",
     "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
@@ -396,7 +460,7 @@
     "old_value": "因為你選擇嘅數據包有問題，所以無法載入世界。\n你可以嘗試只用原版嘅數據包（「安全模式」），或者返去主畫面自己修復。",
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
-    "new_value": "你選擇的數據包有問題，導致無法載入世界。\n你可以嘗試只載入原版數據包（「安全模式」），或者返回主畫面手動修復。",
+    "new_value": "你選擇的數據包有問題，導致無法載入世界。\n你可以嘗試僅載入原版數據包（「安全模式」），或者返回主畫面手動修復。",
     "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
   },
   {
@@ -636,7 +700,7 @@
     "old_value": "如果啟用，玩家將只能夠使用已經解鎖嘅配方嚟進行合成",
     "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
     "new_key": "gamerule.doLimitedCrafting.description",
-    "new_value": "若啟用，玩家將只能夠合成已解鎖的配方。",
+    "new_value": "若啟用，玩家將僅可合成已解鎖的配方。",
     "new_en_us": "If enabled, players will be able to craft only unlocked recipes."
   },
   {
@@ -780,7 +844,7 @@
     "old_value": "驗證伺服器暫停服務，請稍後再試，唔好意思！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務，請稍後再試，抱歉！",
+    "new_value": "驗證伺服器暫停服務。請稍後再試。抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
@@ -804,7 +868,7 @@
     "old_value": "收到缺少或含有無效簽章嘅聊天封包。",
     "old_en_us": "Received chat packet with missing or invalid signature.",
     "new_key": "multiplayer.disconnect.unsigned_chat",
-    "new_value": "收到缺少或含有無效簽章的聊天封包。",
+    "new_value": "收到缺少或含有無效簽署的聊天封包。",
     "new_en_us": "Received a chat packet with a missing or invalid signature."
   },
   {
@@ -820,8 +884,24 @@
     "old_value": "伺服器需要使用所提供嘅資源包",
     "old_en_us": "Server requires a custom resource pack",
     "new_key": "multiplayer.requiredTexturePrompt.disconnect",
-    "new_value": "伺服器要求使用由佢提供的資源包",
+    "new_value": "此伺服器要求自訂資源包",
     "new_en_us": "This server requires a custom resource pack"
+  },
+  {
+    "old_key": "narration.component_list.usage",
+    "old_value": "按 Tab 鍵以移動到下一個控件",
+    "old_en_us": "Press Tab to navigate to next element",
+    "new_key": "narration.component_list.usage",
+    "new_value": "按 Tab 鍵以移動至下一個控件",
+    "new_en_us": "Press Tab to navigate to the next element"
+  },
+  {
+    "old_key": "narration.selection.usage",
+    "old_value": "按上下方向鍵以移動到其他項目",
+    "old_en_us": "Press up and down buttons to move to another entry",
+    "new_key": "narration.selection.usage",
+    "new_value": "按上下方向鍵以移動至其他項目",
+    "new_en_us": "Press the up and down buttons to move to another entry"
   },
   {
     "old_key": "options.accessibility.title",
@@ -908,7 +988,7 @@
     "old_value": "Minecraft 已耗盡記憶體。\n\n可能係因為遊戲有漏洞，或者分配於 JVM 嘅記憶體唔夠多。\n\n為防止世界損壞，已結束目前遊戲。我哋已嘗試清除記憶體，令你可以返到主畫面並繼續遊玩，但可能唔會有作用。\n\n如果你再次見到依條訊息，請重新啟動遊戲。",
     "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
     "new_key": "outOfMemory.message",
-    "new_value": "Minecraft 已耗盡記憶體。\n\n可能是因為遊戲有漏洞，或者分配於 JVM 的記憶體太少。\n\n為防止存檔損壞，已結束目前遊戲。我們已嘗試清除記憶體，令你可以回到主畫面並繼續遊玩，但可能不會有作用。\n\n若你再次見到此訊息，請重新啟動遊戲。",
+    "new_value": "Minecraft 已耗盡記憶體。\n\n此狀況可能源於遊戲存在漏洞，或分配給 Java 虛擬器的記憶體太少。\n\n為防止存檔損壞，目前遊戲已結束。我們已嘗試清除記憶體以令你回到主畫面繼續遊玩，惟未必奏效。\n\n若你再次見到此訊息，請重新啟動遊戲。",
     "new_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again."
   },
   {
@@ -916,7 +996,7 @@
     "old_value": "無效布爾值，應為 'true' 或 'false' 但出現 '%s'",
     "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
     "new_key": "parsing.bool.invalid",
-    "new_value": "無效布林值，應為 'true' 或 'false' 但出現 '%s'",
+    "new_value": "無效布爾值，應為「true」或「false」，惟出現「%s」",
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
@@ -948,7 +1028,7 @@
     "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
     "old_en_us": "Locked by another running instance of Minecraft",
     "new_key": "selectWorld.locked",
-    "new_value": "被另一個執行緊的 Minecraft 程式開緊鎖住",
+    "new_value": "被另一個開啟的 Minecraft 程式鎖定",
     "new_en_us": "Locked by another running instance of Minecraft."
   },
   {

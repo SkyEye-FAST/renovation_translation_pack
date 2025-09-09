@@ -132,7 +132,7 @@
     "old_value": "无效的坐标组合，需要'x'、'y'和'z'的组合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
     "new_key": "arguments.swizzle.invalid",
-    "new_value": "无效的坐标组合：需要“x”、“y”和“z”的组合",
+    "new_value": "无效的坐标组合：应为“x”、“y”和“z”的组合",
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
@@ -172,7 +172,7 @@
     "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.clone.toobig",
-    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_value": "指定区域内的方块过多（最大值为%s，但指定值为%s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -181,7 +181,7 @@
     "old_en_us": "Expected list, got: %s",
     "new_key": "commands.data.modify.expected_list",
     "new_value": "应为列表，实际为：%s",
-    "new_en_us": "Expected list; got: %s"
+    "new_en_us": "Expected a list: got %s"
   },
   {
     "old_key": "commands.data.modify.expected_object",
@@ -189,7 +189,7 @@
     "old_en_us": "Expected object, got: %s",
     "new_key": "commands.data.modify.expected_object",
     "new_value": "应为对象，实际为：%s",
-    "new_en_us": "Expected object; got: %s"
+    "new_en_us": "Expected an object: got %s"
   },
   {
     "old_key": "commands.debug.alreadyRunning",
@@ -244,7 +244,7 @@
     "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.execute.blocks.toobig",
-    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_value": "指定区域内的方块过多（最大值为%s，但指定值为%s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -276,7 +276,7 @@
     "old_value": "指定区域内的方块太多（最大值为%s，指定值为%s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.fill.toobig",
-    "new_value": "指定区域内的方块太多（最大值为%s，但指定值为%s）",
+    "new_value": "指定区域内的方块过多（最大值为%s，但指定值为%s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {

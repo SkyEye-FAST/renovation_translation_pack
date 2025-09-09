@@ -29,7 +29,7 @@
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "此地不可用籤，但諸實塊耳",
-    "new_en_us": "Tags aren't allowed here; only actual blocks"
+    "new_en_us": "Tags aren't allowed here; only actual blocks are"
   },
   {
     "old_key": "argument.item.tag.disallowed",
@@ -37,7 +37,7 @@
     "old_en_us": "Tags aren't allowed here, only actual items",
     "new_key": "argument.item.tag.disallowed",
     "new_value": "此地不可用籤，但諸實物耳",
-    "new_en_us": "Tags aren't allowed here; only actual items"
+    "new_en_us": "Tags aren't allowed here; only actual items are"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -94,6 +94,14 @@
     "new_key": "chat.tag.not_secure",
     "new_value": "未驗之訊也。弗能檢舉之。",
     "new_en_us": "Unverified message. Cannot be reported."
+  },
+  {
+    "old_key": "command.unknown.command",
+    "old_value": "令未知或殘，請以備述",
+    "old_en_us": "Unknown or incomplete command, see below for error",
+    "new_key": "command.unknown.command",
+    "new_value": "令未明抑殘，請以備述",
+    "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {
     "old_key": "commands.attribute.base_value.get.success",
@@ -205,7 +213,7 @@
     "old_en_us": "Expected list, got: %s",
     "new_key": "commands.data.modify.expected_list",
     "new_value": "應爲簿，今得：%s",
-    "new_en_us": "Expected list; got: %s"
+    "new_en_us": "Expected a list: got %s"
   },
   {
     "old_key": "commands.data.modify.expected_object",
@@ -213,7 +221,7 @@
     "old_en_us": "Expected object, got: %s",
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應爲物，今得：%s",
-    "new_en_us": "Expected object; got: %s"
+    "new_en_us": "Expected an object: got %s"
   },
   {
     "old_key": "commands.datapack.list.available.success",
@@ -252,7 +260,7 @@
     "old_value": "所定之域内塊量过載（至多%s，定量%s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.execute.blocks.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -260,7 +268,7 @@
     "old_value": "试未舉，凡%s次",
     "old_en_us": "Test failed, count: %s",
     "new_key": "commands.execute.conditional.fail_count",
-    "new_value": "試未舉，凡%s次",
+    "new_value": "試未舉。凡%s次",
     "new_en_us": "Test failed. Count: %s"
   },
   {
@@ -268,7 +276,7 @@
     "old_value": "试既舉，凡%s次",
     "old_en_us": "Test passed, count: %s",
     "new_key": "commands.execute.conditional.pass_count",
-    "new_value": "試既舉，凡%s次",
+    "new_value": "試既舉。凡%s次",
     "new_en_us": "Test passed. Count: %s"
   },
   {
@@ -276,7 +284,7 @@
     "old_value": "所定之域内塊量过載（至多%s，定量%s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.fill.toobig",
-    "new_value": "所定之域內塊量過載「至多%s，定量%s」",
+    "new_value": "所定之域內塊量過載（至多%s，定量%s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -284,7 +292,7 @@
     "old_value": "所定之域内區塊量过載（至多%s，定量%s）",
     "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.forceload.toobig",
-    "new_value": "所定之域內區塊量过載（至多%s，定量%s）",
+    "new_value": "所定之域內區塊量過載（至多%s，定量%s）",
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -556,7 +564,7 @@
     "old_value": "【F3並C】複刻位爲/tp令，恆押F3並C以崩戲",
     "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
     "new_key": "debug.copy_location.help",
-    "new_value": "【F3並C】鈔位爲/tp令，恆押F3並C以崩戲",
+    "new_value": "【F3並C】鈔位爲/tp令，押十秒以崩戲",
     "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
   },
   {
@@ -744,12 +752,60 @@
     "new_en_us": "The server sent an invalid packet"
   },
   {
+    "old_key": "multiplayer.disconnect.missing_tags",
+    "old_value": "伺服器之籤集未全。\n可訊伺服器之主。",
+    "old_en_us": "Incomplete set of tags received from server.\nPlease contact server operator.",
+    "new_key": "multiplayer.disconnect.missing_tags",
+    "new_value": "伺服器之籤集未全。\n請訊伺服器之主。",
+    "new_en_us": "Incomplete set of tags received from the server.\nPlease contact a server operator."
+  },
+  {
+    "old_key": "multiplayer.disconnect.unsigned_chat",
+    "old_value": "受署名有闕或有舛之議囊也。",
+    "old_en_us": "Received chat packet with missing or invalid signature.",
+    "new_key": "multiplayer.disconnect.unsigned_chat",
+    "new_value": "受署名闕舛之議囊也。",
+    "new_en_us": "Received a chat packet with a missing or invalid signature."
+  },
+  {
     "old_key": "multiplayer.message_not_delivered",
     "old_value": "無可傳送侃谈之訊， 請查伺服器之誌： %s",
     "old_en_us": "Can't deliver chat message, check server logs: %s",
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
+    "old_key": "narration.component_list.usage",
+    "old_value": "擊Tab移至下者",
+    "old_en_us": "Press Tab to navigate to next element",
+    "new_key": "narration.component_list.usage",
+    "new_value": "擊Tab移至次件",
+    "new_en_us": "Press Tab to navigate to the next element"
+  },
+  {
+    "old_key": "narration.selection.usage",
+    "old_value": "擊上下鍵以移之於餘項",
+    "old_en_us": "Press up and down buttons to move to another entry",
+    "new_key": "narration.selection.usage",
+    "new_value": "擊上下鍵以移至餘項",
+    "new_en_us": "Press the up and down buttons to move to another entry"
+  },
+  {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "撃左右鍵以易其值",
+    "old_en_us": "Press left or right keyboard buttons to change value",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "撃左右鍵以易其直",
+    "new_en_us": "Press the left or right keyboard buttons to change the value"
+  },
+  {
+    "old_key": "narration.slider.usage.hovered",
+    "old_value": "曳滑桿以更其值",
+    "old_en_us": "Drag slider to change value",
+    "new_key": "narration.slider.usage.hovered",
+    "new_value": "曳滑桿以更其直",
+    "new_en_us": "Drag the slider to change its value"
   },
   {
     "old_key": "options.accessibility.title",
@@ -894,6 +950,14 @@
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "鄉、沈舟等",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "若讀此生界，其或成誤焉！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "若載此世，其或謬焉！",
+    "new_en_us": "and loading it could cause problems!"
   },
   {
     "old_key": "soundCategory.voice",

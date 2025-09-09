@@ -405,6 +405,7 @@ key.inventory=開啟／關閉物品欄
 key.mouseButton=滑鼠鍵 %1$s
 key.playerlist=列出玩家
 key.screenshot=擷取螢幕畫面
+key.spectatorOutlines=標示玩家
 key.use=使用物品／放置方塊
 lanServer.start=開始區網世界
 lanServer.title=區網世界

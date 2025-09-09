@@ -24,6 +24,14 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "arguments.swizzle.invalid",
+    "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
+    "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
+    "new_key": "arguments.swizzle.invalid",
+    "new_value": "無效的搭配：應為 'x'、'y' 與 'z' 的組合",
+    "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "最大建築高度限制為 %s 格",
     "old_en_us": "Height limit for building is %s blocks",
@@ -126,6 +134,14 @@
     "new_key": "commands.debug.stopped",
     "new_value": "已停止刻點分析，共耗時 %s 秒和 %s 刻（每秒 %s 刻）",
     "new_en_us": "Stopped tick profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
+  },
+  {
+    "old_key": "commands.execute.conditional.fail_count",
+    "old_value": "測試失敗，總計：%s",
+    "old_en_us": "Test failed, count: %s",
+    "new_key": "commands.execute.conditional.fail_count",
+    "new_value": "測試失敗。總計：%s",
+    "new_en_us": "Test failed. Count: %s"
   },
   {
     "old_key": "commands.fill.success",
@@ -348,7 +364,7 @@
     "old_value": "標示玩家（旁觀者）",
     "old_en_us": "Highlight Players (Spectators)",
     "new_key": "key.spectatorOutlines",
-    "new_value": "標示玩家 (旁觀者)",
+    "new_value": "標示玩家",
     "new_en_us": "Highlight Players"
   },
   {

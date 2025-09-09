@@ -69,7 +69,7 @@
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "這裡無法使用標籤，只能用於實際方塊",
-    "new_en_us": "Tags aren't allowed here; only actual blocks"
+    "new_en_us": "Tags aren't allowed here; only actual blocks are"
   },
   {
     "old_key": "argument.item.tag.disallowed",
@@ -77,14 +77,14 @@
     "old_en_us": "Tags aren't allowed here, only actual items",
     "new_key": "argument.item.tag.disallowed",
     "new_value": "這裡無法使用標籤，只能用於實際物品",
-    "new_en_us": "Tags aren't allowed here; only actual items"
+    "new_en_us": "Tags aren't allowed here; only actual items are"
   },
   {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配， 應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
     "new_key": "arguments.swizzle.invalid",
-    "new_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
+    "new_value": "無效的搭配：應為 'x'、'y' 與 'z' 的組合",
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
@@ -181,7 +181,7 @@
     "old_en_us": "Expected list, got: %s",
     "new_key": "commands.data.modify.expected_list",
     "new_value": "應為串列，當前值：%s",
-    "new_en_us": "Expected list; got: %s"
+    "new_en_us": "Expected a list: got %s"
   },
   {
     "old_key": "commands.data.modify.expected_object",
@@ -189,7 +189,7 @@
     "old_en_us": "Expected object, got: %s",
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應為物件，當前值：%s",
-    "new_en_us": "Expected object; got: %s"
+    "new_en_us": "Expected an object: got %s"
   },
   {
     "old_key": "commands.datapack.list.enabled.success",
@@ -252,7 +252,7 @@
     "old_value": "測試失敗，總計： %s",
     "old_en_us": "Test failed, count: %s",
     "new_key": "commands.execute.conditional.fail_count",
-    "new_value": "測試失敗，總計：%s",
+    "new_value": "測試失敗。總計：%s",
     "new_en_us": "Test failed. Count: %s"
   },
   {
@@ -644,7 +644,7 @@
     "old_value": "標示玩家（旁觀者）",
     "old_en_us": "Highlight Players (Spectators)",
     "new_key": "key.spectatorOutlines",
-    "new_value": "標示玩家 (旁觀者)",
+    "new_value": "標示玩家",
     "new_en_us": "Highlight Players"
   },
   {

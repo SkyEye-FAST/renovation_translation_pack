@@ -322,6 +322,13 @@
     "en_us": "Unknown dimension '%s'"
   },
   {
+    "old_key": "argument.entity.invalid",
+    "old_value": "是實體無效",
+    "new_key": "argument.entity.invalid",
+    "new_value": "無效名抑戶碼",
+    "en_us": "Invalid name or UUID"
+  },
+  {
     "old_key": "argument.entity.options.distance.negative",
     "old_value": "距不得負",
     "new_key": "argument.entity.options.distance.negative",
@@ -334,6 +341,13 @@
     "new_key": "argument.entity.options.level.negative",
     "new_value": "階不當赤",
     "en_us": "Level shouldn't be negative"
+  },
+  {
+    "old_key": "argument.entity.options.mode.invalid",
+    "old_value": "是遊戲之法，或未知，或無效：「%s」",
+    "new_key": "argument.entity.options.mode.invalid",
+    "new_value": "無效抑未明之法「%s」",
+    "en_us": "Invalid or unknown game mode '%s'"
   },
   {
     "old_key": "argument.entity.options.predicate.description",
@@ -3759,11 +3773,39 @@
     "en_us": "F3 + C is held down. This will crash the game unless released."
   },
   {
+    "old_key": "debug.inspect.client.block",
+    "old_value": "既複刻客端之塊錄於版",
+    "new_key": "debug.inspect.client.block",
+    "new_value": "既鈔客端之塊錄於簿",
+    "en_us": "Copied client-side block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.client.entity",
+    "old_value": "既複刻客端之實體錄於版",
+    "new_key": "debug.inspect.client.entity",
+    "new_value": "既鈔客端之實體錄於簿",
+    "en_us": "Copied client-side entity data to clipboard"
+  },
+  {
     "old_key": "debug.inspect.help",
     "old_value": "【F3並I】複刻實體或塊之資於版",
     "new_key": "debug.inspect.help",
     "new_value": "【F3並I】鈔實體抑塊之資於簿",
     "en_us": "F3 + I = Copy entity or block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.server.block",
+    "old_value": "既複刻伺服器側之塊錄於版",
+    "new_key": "debug.inspect.server.block",
+    "new_value": "既鈔伺服器側之塊錄於簿",
+    "en_us": "Copied server-side block data to clipboard"
+  },
+  {
+    "old_key": "debug.inspect.server.entity",
+    "old_value": "既複刻伺服器側之實體錄於版",
+    "new_key": "debug.inspect.server.entity",
+    "new_value": "既鈔伺服器側之實體錄於簿",
+    "en_us": "Copied server-side entity data to clipboard"
   },
   {
     "old_key": "debug.pause.help",
