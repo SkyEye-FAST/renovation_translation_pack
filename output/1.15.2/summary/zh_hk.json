@@ -3206,6 +3206,13 @@
     "en_us": "Zombie Villager Spawn Egg"
   },
   {
+    "old_key": "key.drop",
+    "old_value": "丟棄已選擇物品",
+    "new_key": "key.drop",
+    "new_value": "拋棄已選擇物品",
+    "en_us": "Drop Selected Item"
+  },
+  {
     "old_key": "key.playerlist",
     "old_value": "玩家列表",
     "new_key": "key.playerlist",
@@ -3661,6 +3668,13 @@
     "en_us": "Press a key to select a command, and again to use it."
   },
   {
+    "old_key": "stat_type.minecraft.dropped",
+    "old_value": "丟棄數量",
+    "new_key": "stat_type.minecraft.dropped",
+    "new_value": "拋棄數量",
+    "en_us": "Dropped"
+  },
+  {
     "old_key": "stat_type.minecraft.killed",
     "old_value": "你殺死咗 %s 個 %s",
     "new_key": "stat_type.minecraft.killed",
@@ -3680,6 +3694,13 @@
     "new_key": "stat.minecraft.damage_dealt_resisted",
     "new_value": "造成傷害總量（被抵消）",
     "en_us": "Damage Dealt (Resisted)"
+  },
+  {
+    "old_key": "stat.minecraft.drop",
+    "old_value": "丟棄物品數量",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "拋棄物品數量",
+    "en_us": "Items Dropped"
   },
   {
     "old_key": "stat.minecraft.interact_with_beacon",

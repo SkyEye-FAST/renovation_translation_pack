@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "這個伺服器不允許使用指令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "指令方塊未啟用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "attribute.modifier.plus.0",
     "old_value": "+ %s%s",
     "old_en_us": "+%d %s",

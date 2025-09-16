@@ -424,6 +424,22 @@
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "應為列表，當前值：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應為列表：當前值 %s",
+    "new_en_us": "Expected a list: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "應為物件，當前值：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應為物件：當前值 %s",
+    "new_en_us": "Expected an object: got %s"
+  },
+  {
     "old_key": "commands.datapack.list.available.success",
     "old_value": "有 %s 個可用嘅數據包：%s",
     "old_en_us": "There are %s data packs available: %s",
@@ -888,6 +904,14 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "標示玩家",
+    "new_en_us": "Highlight Players"
+  },
+  {
     "old_key": "key.swapOffhand",
     "old_value": "交換雙手嘅物品",
     "old_en_us": "Swap Item With Offhand",
@@ -980,7 +1004,7 @@
     "old_value": "控制視角廣度隨速度狀態效果改變嘅程度。",
     "old_en_us": "Controls how much the field of view can change with speed effects.",
     "new_key": "options.fovEffectScale.tooltip",
-    "new_value": "控制視角廣度隨遊戲機制效果改變的程度。",
+    "new_value": "控制視角廣度隨遊戲機制效果變更程度。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
   },
   {

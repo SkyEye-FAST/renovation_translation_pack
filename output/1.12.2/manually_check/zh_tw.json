@@ -56,6 +56,14 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "這個伺服器不允許使用指令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "指令方塊未啟用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "build.tooHigh",
     "old_value": "最大建築高度限制為 %s 格",
     "old_en_us": "Height limit for building is %s blocks",
@@ -486,6 +494,14 @@
     "new_key": "options.chat.title",
     "new_value": "聊天設定",
     "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
   },
   {
     "old_key": "options.narrator.notavailable",

@@ -148,7 +148,7 @@
     "old_value": "需要列表，却发现了：%s",
     "old_en_us": "Expected list, got: %s",
     "new_key": "commands.data.modify.expected_list",
-    "new_value": "应为列表，实际为：%s",
+    "new_value": "应为列表：实际为%s",
     "new_en_us": "Expected a list: got %s"
   },
   {
@@ -156,7 +156,7 @@
     "old_value": "需要对象，却发现了：%s",
     "old_en_us": "Expected object, got: %s",
     "new_key": "commands.data.modify.expected_object",
-    "new_value": "应为对象，实际为：%s",
+    "new_value": "应为对象：实际为%s",
     "new_en_us": "Expected an object: got %s"
   },
   {

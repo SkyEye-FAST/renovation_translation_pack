@@ -1,6 +1,7 @@
 addServer.resourcePack=伺服器資源包
 addServer.resourcePack.disabled=已停用
 advMode.notAllowed=必須是創造模式中的管理員
+advMode.notEnabled=指令方塊未啟用
 advMode.previousOutput=先前輸出
 advMode.setCommand=設定指令方塊的指令
 attribute.modifier.plus.0=+%s %s

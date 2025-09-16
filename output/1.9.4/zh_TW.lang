@@ -1,6 +1,7 @@
 addServer.resourcePack.disabled=已停用
 advMode.mode.conditional=有條件
 advMode.mode.redstone=脈衝
+advMode.notEnabled=指令方塊未啟用
 advMode.setCommand=設定指令方塊的指令
 attribute.modifier.plus.0=+%s %s
 attribute.modifier.plus.1=+%s%% %s

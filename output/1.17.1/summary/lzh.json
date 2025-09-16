@@ -133,17 +133,24 @@
     "en_us": "Apply Honeycomb to a Copper block!"
   },
   {
+    "old_key": "advancements.nether.all_effects.description",
+    "old_value": "獲全態效於一時",
+    "new_key": "advancements.nether.all_effects.description",
+    "new_value": "咸獲態效於一時",
+    "en_us": "Have every effect applied at the same time"
+  },
+  {
     "old_key": "advancements.nether.all_potions.description",
     "old_value": "獲全藥效於同時",
     "new_key": "advancements.nether.all_potions.description",
-    "new_value": "獲全劑效於一時",
+    "new_value": "咸獲劑效於一時",
     "en_us": "Have every potion effect applied at the same time"
   },
   {
     "old_key": "advancements.nether.charge_respawn_anchor.description",
     "old_value": "於一涅槃之錨而充能至極",
     "new_key": "advancements.nether.charge_respawn_anchor.description",
-    "new_value": "於一復生錨而充其能至極",
+    "new_value": "充復生錨之能至其極",
     "en_us": "Charge a Respawn Anchor to the maximum"
   },
   {
@@ -544,13 +551,6 @@
     "new_key": "attribute.name.generic.movement_speed",
     "new_value": "緩急",
     "en_us": "Speed"
-  },
-  {
-    "old_key": "biome.minecraft.flower_forest",
-    "old_value": "芳林",
-    "new_key": "biome.minecraft.flower_forest",
-    "new_value": "繁花林",
-    "en_us": "Flower Forest"
   },
   {
     "old_key": "biome.minecraft.nether_wastes",
@@ -1603,18 +1603,116 @@
     "en_us": "Red Fess"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_right.black",
+    "old_value": "左玄縱",
+    "new_key": "block.minecraft.banner.stripe_right.black",
+    "new_value": "左玄",
+    "en_us": "Black Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.blue",
+    "old_value": "左靛縱",
+    "new_key": "block.minecraft.banner.stripe_right.blue",
+    "new_value": "左靛",
+    "en_us": "Blue Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.brown",
+    "old_value": "左褐縱",
+    "new_key": "block.minecraft.banner.stripe_right.brown",
+    "new_value": "左褐",
+    "en_us": "Brown Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.cyan",
+    "old_value": "左黛縱",
+    "new_key": "block.minecraft.banner.stripe_right.cyan",
+    "new_value": "左黛",
+    "en_us": "Cyan Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.gray",
+    "old_value": "左灰縱",
+    "new_key": "block.minecraft.banner.stripe_right.gray",
+    "new_value": "左灰",
+    "en_us": "Gray Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.green",
+    "old_value": "左綠縱",
+    "new_key": "block.minecraft.banner.stripe_right.green",
+    "new_value": "左綠",
+    "en_us": "Green Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.light_blue",
+    "old_value": "左縹縱",
+    "new_key": "block.minecraft.banner.stripe_right.light_blue",
+    "new_value": "左縹",
+    "en_us": "Light Blue Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.light_gray",
+    "old_value": "左蒼縱",
+    "new_key": "block.minecraft.banner.stripe_right.light_gray",
+    "new_value": "左蒼",
+    "en_us": "Light Gray Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.lime",
+    "old_value": "左翠縱",
+    "new_key": "block.minecraft.banner.stripe_right.lime",
+    "new_value": "左翠",
+    "en_us": "Lime Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.magenta",
+    "old_value": "左赬縱",
+    "new_key": "block.minecraft.banner.stripe_right.magenta",
+    "new_value": "左赬",
+    "en_us": "Magenta Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.orange",
+    "old_value": "左橙縱",
+    "new_key": "block.minecraft.banner.stripe_right.orange",
+    "new_value": "左橙",
+    "en_us": "Orange Pale Sinister"
+  },
+  {
     "old_key": "block.minecraft.banner.stripe_right.pink",
     "old_value": "左粉縱",
     "new_key": "block.minecraft.banner.stripe_right.pink",
-    "new_value": "左紅縱",
+    "new_value": "左紅",
     "en_us": "Pink Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.purple",
+    "old_value": "左紫縱",
+    "new_key": "block.minecraft.banner.stripe_right.purple",
+    "new_value": "左紫",
+    "en_us": "Purple Pale Sinister"
   },
   {
     "old_key": "block.minecraft.banner.stripe_right.red",
     "old_value": "左紅縱",
     "new_key": "block.minecraft.banner.stripe_right.red",
-    "new_value": "左赤縱",
+    "new_value": "左赤",
     "en_us": "Red Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.white",
+    "old_value": "左素縱",
+    "new_key": "block.minecraft.banner.stripe_right.white",
+    "new_value": "左素",
+    "en_us": "White Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_right.yellow",
+    "old_value": "左黃縱",
+    "new_key": "block.minecraft.banner.stripe_right.yellow",
+    "new_value": "左黃",
+    "en_us": "Yellow Pale Sinister"
   },
   {
     "old_key": "block.minecraft.banner.stripe_top.pink",
@@ -2728,6 +2826,13 @@
     "new_key": "block.minecraft.redstone_wire",
     "new_value": "赤石綫",
     "en_us": "Redstone Wire"
+  },
+  {
+    "old_key": "block.minecraft.rose_bush",
+    "old_value": "玫瑰簇",
+    "new_key": "block.minecraft.rose_bush",
+    "new_value": "玫瑰叢",
+    "en_us": "Rose Bush"
   },
   {
     "old_key": "block.minecraft.smooth_red_sandstone",
@@ -4350,7 +4455,7 @@
     "old_key": "item.canBreak",
     "old_value": "可損",
     "new_key": "item.canBreak",
-    "new_value": "可破",
+    "new_value": "可破：",
     "en_us": "Can break:"
   },
   {
@@ -4569,6 +4674,13 @@
     "new_key": "item.minecraft.leather_boots",
     "new_value": "革鞾",
     "en_us": "Leather Boots"
+  },
+  {
+    "old_key": "item.minecraft.leather_horse_armor",
+    "old_value": "皮馬甲",
+    "new_key": "item.minecraft.leather_horse_armor",
+    "new_value": "革馬甲",
+    "en_us": "Leather Horse Armor"
   },
   {
     "old_key": "item.minecraft.lingering_potion.effect.fire_resistance",
@@ -4858,6 +4970,27 @@
     "en_us": "Target Name:"
   },
   {
+    "old_key": "key.categories.creative",
+    "old_value": "創",
+    "new_key": "key.categories.creative",
+    "new_value": "創法",
+    "en_us": "Creative Mode"
+  },
+  {
+    "old_key": "key.categories.misc",
+    "old_value": "雜",
+    "new_key": "key.categories.misc",
+    "new_value": "雜物",
+    "en_us": "Miscellaneous"
+  },
+  {
+    "old_key": "key.categories.movement",
+    "old_value": "行",
+    "new_key": "key.categories.movement",
+    "new_value": "行止",
+    "en_us": "Movement"
+  },
+  {
     "old_key": "key.categories.multiplayer",
     "old_value": "衆戲",
     "new_key": "key.categories.multiplayer",
@@ -4868,7 +5001,7 @@
     "old_key": "key.categories.ui",
     "old_value": "嬉遊介面",
     "new_key": "key.categories.ui",
-    "new_value": "嬉遊之幕",
+    "new_value": "戲幕",
     "en_us": "Game Interface"
   },
   {

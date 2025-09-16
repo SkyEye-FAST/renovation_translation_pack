@@ -140,7 +140,7 @@
     "old_value": "是伺服器禁命令塊",
     "old_en_us": "Command blocks are not enabled on this server",
     "new_key": "advMode.notEnabled",
-    "new_value": "命令塊爲是伺服器所禁",
+    "new_value": "命令塊見禁",
     "new_en_us": "Command blocks are not enabled"
   },
   {

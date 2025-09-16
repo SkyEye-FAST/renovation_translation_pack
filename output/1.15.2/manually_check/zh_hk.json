@@ -352,6 +352,22 @@
     "new_en_us": "Nothing changed. The specified properties already have these values"
   },
   {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "應為列表，當前值：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應為列表：當前值 %s",
+    "new_en_us": "Expected a list: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "應為物件，當前值：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應為物件：當前值 %s",
+    "new_en_us": "Expected an object: got %s"
+  },
+  {
     "old_key": "commands.datapack.list.available.success",
     "old_value": "有 %s 個可用嘅數據包：%s",
     "old_en_us": "There are %s data packs available: %s",
@@ -1006,6 +1022,14 @@
     "new_key": "key.saveToolbarActivator",
     "new_value": "儲存快捷欄",
     "new_en_us": "Save Hotbar Activator"
+  },
+  {
+    "old_key": "key.spectatorOutlines",
+    "old_value": "標示玩家（旁觀者）",
+    "old_en_us": "Highlight Players (Spectators)",
+    "new_key": "key.spectatorOutlines",
+    "new_value": "標示玩家",
+    "new_en_us": "Highlight Players"
   },
   {
     "old_key": "multiplayer.disconnect.authservers_down",

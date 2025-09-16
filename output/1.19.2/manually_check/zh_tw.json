@@ -24,6 +24,78 @@
     "new_en_us": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "這個伺服器不允許使用指令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "指令方塊未啟用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.double.big",
+    "old_value": "倍精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "倍精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "倍精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "倍精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Double must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.big",
+    "old_value": "單精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "單精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "單精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "單精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整數不能多於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整數不能少於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.big",
+    "old_value": "長整數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Long must not be more than %s, found %s",
+    "new_key": "argument.long.big",
+    "new_value": "長整數不能多於 %s，但實際為 %s",
+    "new_en_us": "Long must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.low",
+    "old_value": "長整數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Long must not be less than %s, found %s",
+    "new_key": "argument.long.low",
+    "new_value": "長整數不能少於 %s，但實際為 %s",
+    "new_en_us": "Long must not be less than %s: found %s"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -112,6 +184,22 @@
     "new_en_us": "Removed %s item(s) from player %s"
   },
   {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "應為串列，當前值：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應為串列：當前值：%s",
+    "new_en_us": "Expected a list: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "應為物件，當前值：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應為物件：當前值：%s",
+    "new_en_us": "Expected an object: got %s"
+  },
+  {
     "old_key": "commands.datapack.list.available.success",
     "old_value": "有 %s 個可用的資料包：%s",
     "old_en_us": "There are %s data packs available: %s",
@@ -128,12 +216,28 @@
     "new_en_us": "Stopped tick profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
   },
   {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "指定區域內的方塊太多（指定 %s，但最大值為 %s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.execute.conditional.fail_count",
     "old_value": "測試失敗，總計：%s",
     "old_en_us": "Test failed, count: %s",
     "new_key": "commands.execute.conditional.fail_count",
     "new_value": "測試失敗。總計：%s",
     "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "測試通過，總計：%s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "測試通過。總計：%s",
+    "new_en_us": "Test passed. Count: %s"
   },
   {
     "old_key": "commands.fill.success",
@@ -254,6 +358,14 @@
     "new_key": "death.attack.onFire.player",
     "new_value": "%1$s 在與 %2$s 戰鬥時被火焰燒成灰燼",
     "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
+  },
+  {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 將位置複製為 /tp 指令，按住 F3 + C 使遊戲崩潰",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "F3 + C = 將位置複製為 /tp 指令，長按 10 秒使遊戲崩潰",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
   },
   {
     "old_key": "gameMode.hardcore",
@@ -456,6 +568,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
+  },
+  {
     "old_key": "options.directionalAudio.off.tooltip",
     "old_value": "經典立體音效",
     "old_en_us": "Classic Stereo sound",
@@ -494,6 +614,14 @@
     "new_key": "outOfMemory.message",
     "new_value": "Minecraft 記憶體不足。\n\n可能是由於遊戲錯誤，或配置給 Java 虛擬機器的記憶體不足。\n\n為防止世界損毀，已結束目前遊戲。我們已嘗試釋放記憶體，讓您返回主選單並繼續遊玩，但這個方法也可能無法解決問題。\n\n如果您再次看到此訊息，請重新啟動遊戲。",
     "new_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again."
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "無效的布林值，應為 'true' 或 'false' 但出現了 '%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "無效的布林值，應為 'true' 或 'false' 但實際為 '%s'",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "resourcePack.vanilla.description",

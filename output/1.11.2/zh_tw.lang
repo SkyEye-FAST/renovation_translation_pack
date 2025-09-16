@@ -1,3 +1,4 @@
+advMode.notEnabled=指令方塊未啟用
 advMode.setCommand=設定指令方塊的指令
 attribute.name.generic.luck=幸運
 book.finalizeButton=署名並完成
@@ -425,6 +426,7 @@ options.chat.opacity=聊天欄文字不透明度
 options.chat.scale=聊天室文字大小
 options.chat.title=聊天設定
 options.chat.visibility.full=顯示
+options.chunks=%s 個區塊
 options.framerate=%s fps
 options.graphics.fancy=精緻
 options.graphics.fast=流暢

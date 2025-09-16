@@ -4305,6 +4305,13 @@
     "en_us": "Saved Hotbars"
   },
   {
+    "old_key": "key.drop",
+    "old_value": "丟棄已選擇物品",
+    "new_key": "key.drop",
+    "new_value": "拋棄已選擇物品",
+    "en_us": "Drop Selected Item"
+  },
+  {
     "old_key": "key.screenshot",
     "old_value": "擷取螢幕畫面",
     "new_key": "key.screenshot",
@@ -4634,6 +4641,13 @@
     "en_us": "Commands Only"
   },
   {
+    "old_key": "options.darkMojangStudiosBackgroundColor",
+    "old_value": "黑白 Logo",
+    "new_key": "options.darkMojangStudiosBackgroundColor",
+    "new_value": "黑白標誌",
+    "en_us": "Monochrome Logo"
+  },
+  {
     "old_key": "options.darkMojangStudiosBackgroundColor.tooltip",
     "old_value": "將 Mojang Studios 載入畫面嘅背景顏色改成黑色。",
     "new_key": "options.darkMojangStudiosBackgroundColor.tooltip",
@@ -4735,7 +4749,7 @@
     "old_key": "pack.dropInfo",
     "old_value": "拖動檔案至此視窗嚟新增數據包",
     "new_key": "pack.dropInfo",
-    "new_value": "拖動檔案至此視窗來新增包",
+    "new_value": "拖動檔案至此視窗以新增包",
     "en_us": "Drag and drop files into this window to add packs"
   },
   {
@@ -5054,6 +5068,13 @@
     "en_us": "Press a key to select a command, and again to use it."
   },
   {
+    "old_key": "stat_type.minecraft.dropped",
+    "old_value": "丟棄數量",
+    "new_key": "stat_type.minecraft.dropped",
+    "new_value": "拋棄數量",
+    "en_us": "Dropped"
+  },
+  {
     "old_key": "stat_type.minecraft.killed",
     "old_value": "你殺死咗 %s 個 %s",
     "new_key": "stat_type.minecraft.killed",
@@ -5073,6 +5094,13 @@
     "new_key": "stat.minecraft.damage_dealt_resisted",
     "new_value": "造成傷害總量（被抵消）",
     "en_us": "Damage Dealt (Resisted)"
+  },
+  {
+    "old_key": "stat.minecraft.drop",
+    "old_value": "丟棄物品數量",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "拋棄物品數量",
+    "en_us": "Items Dropped"
   },
   {
     "old_key": "stat.minecraft.interact_with_beacon",

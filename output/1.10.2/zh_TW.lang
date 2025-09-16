@@ -1,4 +1,5 @@
 addServer.resourcePack.disabled=已停用
+advMode.notEnabled=指令方塊未啟用
 advMode.setCommand=設定指令方塊的指令
 attribute.modifier.plus.0=+%s %s
 attribute.modifier.plus.1=+%s%% %s

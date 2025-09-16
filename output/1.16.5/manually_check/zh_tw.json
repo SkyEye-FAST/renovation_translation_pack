@@ -24,6 +24,78 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "這個伺服器不允許使用指令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "指令方塊未啟用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.double.big",
+    "old_value": "倍精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "倍精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "倍精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "倍精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Double must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.big",
+    "old_value": "單精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "單精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "單精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "單精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整數不能多於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整數不能少於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.big",
+    "old_value": "長整數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Long must not be more than %s, found %s",
+    "new_key": "argument.long.big",
+    "new_value": "長整數不能多於 %s，但實際為 %s",
+    "new_en_us": "Long must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.long.low",
+    "old_value": "長整數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Long must not be less than %s, found %s",
+    "new_key": "argument.long.low",
+    "new_value": "長整數不能少於 %s，但實際為 %s",
+    "new_en_us": "Long must not be less than %s: found %s"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -96,6 +168,22 @@
     "new_en_us": "Removed %s item(s) from player %s"
   },
   {
+    "old_key": "commands.data.modify.expected_list",
+    "old_value": "應為串列，當前值：%s",
+    "old_en_us": "Expected list, got: %s",
+    "new_key": "commands.data.modify.expected_list",
+    "new_value": "應為串列：當前值：%s",
+    "new_en_us": "Expected a list: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.expected_object",
+    "old_value": "應為物件，當前值：%s",
+    "old_en_us": "Expected object, got: %s",
+    "new_key": "commands.data.modify.expected_object",
+    "new_value": "應為物件：當前值：%s",
+    "new_en_us": "Expected an object: got %s"
+  },
+  {
     "old_key": "commands.datapack.list.available.success",
     "old_value": "有 %s 個可用的資料包：%s",
     "old_en_us": "There are %s data packs available: %s",
@@ -136,12 +224,28 @@
     "new_en_us": "Stopped tick profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
   },
   {
+    "old_key": "commands.execute.blocks.toobig",
+    "old_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.execute.blocks.toobig",
+    "new_value": "指定區域內的方塊太多（指定 %s，但最大值為 %s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.execute.conditional.fail_count",
     "old_value": "測試失敗，總計：%s",
     "old_en_us": "Test failed, count: %s",
     "new_key": "commands.execute.conditional.fail_count",
     "new_value": "測試失敗。總計：%s",
     "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "測試通過，總計：%s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "測試通過。總計：%s",
+    "new_en_us": "Test passed. Count: %s"
   },
   {
     "old_key": "commands.fill.success",
@@ -262,6 +366,14 @@
     "new_key": "death.attack.onFire.player",
     "new_value": "%1$s 在與 %2$s 戰鬥時被火焰燒成灰燼",
     "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
+  },
+  {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 將位置複製為 /tp 指令，按住 F3 + C 使遊戲崩潰",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "F3 + C = 將位置複製為 /tp 指令，長按 10 秒使遊戲崩潰",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
   },
   {
     "old_key": "disconnect.loginFailedInfo.serversUnavailable",
@@ -416,6 +528,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
+  },
+  {
     "old_key": "options.fovEffectScale.tooltip",
     "old_value": "控制視角廣度隨速度狀態效果改變的程度。",
     "old_en_us": "Controls how much the field of view can change with speed effects.",
@@ -438,6 +558,14 @@
     "new_key": "options.vsync",
     "new_value": "垂直同步",
     "new_en_us": "VSync"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "無效的布林值，應為 'true' 或 'false' 但出現了 '%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "無效的布林值，應為 'true' 或 'false' 但實際為 '%s'",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "selectWorld.mapFeatures.info",

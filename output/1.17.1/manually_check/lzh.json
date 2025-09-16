@@ -184,6 +184,14 @@
     "new_en_us": "Construct a better Pickaxe"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "命令塊爲是伺服器所禁",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "命令塊見禁",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
     "old_key": "argument.block.tag.disallowed",
     "old_value": "此地不可用簽，但諸實塊耳",
     "old_en_us": "Tags aren't allowed here, only actual blocks",

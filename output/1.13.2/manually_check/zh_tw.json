@@ -48,6 +48,62 @@
     "new_en_us": "Smelt an Iron Ingot"
   },
   {
+    "old_key": "advMode.notEnabled",
+    "old_value": "這個伺服器不允許使用指令方塊",
+    "old_en_us": "Command blocks are not enabled on this server",
+    "new_key": "advMode.notEnabled",
+    "new_value": "指令方塊未啟用",
+    "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "argument.double.big",
+    "old_value": "倍精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be more than %s, found %s",
+    "new_key": "argument.double.big",
+    "new_value": "倍精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Double must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.double.low",
+    "old_value": "倍精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Double must not be less than %s, found %s",
+    "new_key": "argument.double.low",
+    "new_value": "倍精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Double must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.big",
+    "old_value": "單精度浮點數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be more than %s, found %s",
+    "new_key": "argument.float.big",
+    "new_value": "單精度浮點數不能多於 %s，但實際為 %s",
+    "new_en_us": "Float must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.float.low",
+    "old_value": "單精度浮點數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Float must not be less than %s, found %s",
+    "new_key": "argument.float.low",
+    "new_value": "單精度浮點數不能少於 %s，但實際為 %s",
+    "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.big",
+    "old_value": "整數不能多於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be more than %s, found %s",
+    "new_key": "argument.integer.big",
+    "new_value": "整數不能多於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be more than %s: found %s"
+  },
+  {
+    "old_key": "argument.integer.low",
+    "old_value": "整數不能少於 %s，但找到的是 %s",
+    "old_en_us": "Integer must not be less than %s, found %s",
+    "new_key": "argument.integer.low",
+    "new_value": "整數不能少於 %s，但實際為 %s",
+    "new_en_us": "Integer must not be less than %s: found %s"
+  },
+  {
     "old_key": "arguments.nbtpath.node.invalid",
     "old_value": "無效的 NBT 路徑，應為元素名稱或索引",
     "old_en_us": "Invalid NBT path, expected element name or index",
@@ -212,7 +268,7 @@
     "old_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.execute.blocks.toobig",
-    "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "new_value": "指定區域內的方塊太多（指定 %s，但最大值為 %s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -222,6 +278,14 @@
     "new_key": "commands.execute.conditional.fail_count",
     "new_value": "測試失敗。總計：%s",
     "new_en_us": "Test failed. Count: %s"
+  },
+  {
+    "old_key": "commands.execute.conditional.pass_count",
+    "old_value": "測試通過，總計：%s",
+    "old_en_us": "Test passed, count: %s",
+    "new_key": "commands.execute.conditional.pass_count",
+    "new_value": "測試通過。總計：%s",
+    "new_en_us": "Test passed. Count: %s"
   },
   {
     "old_key": "commands.fill.success",
@@ -430,6 +494,14 @@
     "new_key": "deathScreen.title",
     "new_value": "你死了！",
     "new_en_us": "You Died!"
+  },
+  {
+    "old_key": "debug.copy_location.help",
+    "old_value": "F3 + C = 將位置複製為 /tp 指令，按住 F3 + C 使遊戲崩潰",
+    "old_en_us": "F3 + C = Copy location as /tp command, hold F3 + C to crash the game",
+    "new_key": "debug.copy_location.help",
+    "new_value": "F3 + C = 將位置複製為 /tp 指令，長按 10 秒使遊戲崩潰",
+    "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
   },
   {
     "old_key": "debug.creative_spectator.help",
@@ -664,6 +736,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.chunks",
+    "old_value": "%s 區塊",
+    "old_en_us": "%s chunks",
+    "new_key": "options.chunks",
+    "new_value": "%s 個區塊",
+    "new_en_us": "%s Chunks"
+  },
+  {
     "old_key": "options.narrator.notavailable",
     "old_value": "不可用",
     "old_en_us": "Not available",
@@ -686,6 +766,14 @@
     "new_key": "options.vsync",
     "new_value": "垂直同步",
     "new_en_us": "VSync"
+  },
+  {
+    "old_key": "parsing.bool.invalid",
+    "old_value": "無效的布林值，應為 'true' 或 'false' 但出現了 '%s'",
+    "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
+    "new_key": "parsing.bool.invalid",
+    "new_value": "無效的布林值，應為 'true' 或 'false' 但實際為 '%s'",
+    "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
     "old_key": "selectWorld.allowCommands",
