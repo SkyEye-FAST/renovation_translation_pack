@@ -252,7 +252,7 @@
     "old_value": "應為串列，當前值： %s",
     "old_en_us": "Expected list, got: %s",
     "new_key": "commands.data.modify.expected_list",
-    "new_value": "應為串列：當前值：%s",
+    "new_value": "應為串列：當前值 %s",
     "new_en_us": "Expected a list: got %s"
   },
   {
@@ -260,7 +260,7 @@
     "old_value": "應為物件，當前值： %s",
     "old_en_us": "Expected object, got: %s",
     "new_key": "commands.data.modify.expected_object",
-    "new_value": "應為物件：當前值：%s",
+    "new_value": "應為物件：當前值 %s",
     "new_en_us": "Expected an object: got %s"
   },
   {
