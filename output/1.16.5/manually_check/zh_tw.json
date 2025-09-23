@@ -120,14 +120,6 @@
     "new_en_us": "[+%s pending line(s)]"
   },
   {
-    "old_key": "command.unknown.command",
-    "old_value": "未知或不完整的指令，錯誤如下",
-    "old_en_us": "Unknown or incomplete command, see below for error",
-    "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的指令，錯誤詳見以下說明",
-    "new_en_us": "Unknown or incomplete command. See below for error"
-  },
-  {
     "old_key": "commands.bossbar.get.players.some",
     "old_value": "自定義 Boss 狀態條 %s 目前有 %s 位玩家在線上：%s",
     "old_en_us": "Custom bossbar %s has %s players currently online: %s",

@@ -156,7 +156,7 @@
     "old_value": "未知的指令",
     "old_en_us": "Unknown command",
     "new_key": "command.unknown.command",
-    "new_value": "未知或不完整的指令，錯誤詳見以下說明",
+    "new_value": "未知或不完整的指令，錯誤如下",
     "new_en_us": "Unknown or incomplete command. See below for error"
   },
   {

@@ -44,7 +44,7 @@
     "old_value": "使用營火喺唔激嬲蜜蜂嘅情況下用玻璃樽喺蜂箱入面攞到蜂蜜",
     "old_en_us": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
     "new_key": "advancements.husbandry.safely_harvest_honey.description",
-    "new_value": "使用營火在不激怒蜜蜂的情況下用玻璃樽從蜂巢中取得蜜糖",
+    "new_value": "用營火及玻璃樽獲取蜜糖，過程中不激怒蜂巢中的蜜蜂",
     "new_en_us": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees"
   },
   {
@@ -532,7 +532,7 @@
     "old_value": "已經將世界重生點設為 %s, %s, %s",
     "old_en_us": "Set the world spawn point to %s, %s, %s",
     "new_key": "commands.setworldspawn.success",
-    "new_value": "已將世界重生點設成 %s, %s, %s [%s]",
+    "new_value": "已將世界重生點設為 %s, %s, %s [%s]",
     "new_en_us": "Set the world spawn point to %s, %s, %s [%s]"
   },
   {
@@ -540,7 +540,7 @@
     "old_value": "已經將 %4$s 名玩家嘅重生點設為 %1$s, %2$s, %3$s",
     "old_en_us": "Set spawn point to %s, %s, %s for %s players",
     "new_key": "commands.spawnpoint.success.multiple",
-    "new_value": "已將 %6$s 個玩家在 %5$s 的重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "new_value": "已將 %6$s 個玩家於 %5$s 的重生點設為 %1$s, %2$s, %3$s [%4$s]",
     "new_en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s players"
   },
   {
@@ -548,7 +548,7 @@
     "old_value": "已經將 %4$s 嘅重生點設為 %1$s, %2$s, %3$s",
     "old_en_us": "Set spawn point to %s, %s, %s for %s",
     "new_key": "commands.spawnpoint.success.single",
-    "new_value": "已將 %6$s 在 %5$s 的重生點設成 %1$s, %2$s, %3$s [%4$s]",
+    "new_value": "已將 %6$s 於 %5$s 的重生點設為 %1$s, %2$s, %3$s [%4$s]",
     "new_en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
   },
   {

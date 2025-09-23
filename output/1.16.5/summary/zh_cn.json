@@ -35,6 +35,13 @@
     "en_us": "Distract Piglins with gold"
   },
   {
+    "old_key": "advancements.nether.find_fortress.description",
+    "old_value": "用你的方式进入下界要塞",
+    "new_key": "advancements.nether.find_fortress.description",
+    "new_value": "闯入下界要塞",
+    "en_us": "Break your way into a Nether Fortress"
+  },
+  {
     "old_key": "advancements.nether.summon_wither.description",
     "old_value": "召唤一只凋灵",
     "new_key": "advancements.nether.summon_wither.description",
@@ -110,6 +117,13 @@
     "new_key": "argument.color.invalid",
     "new_value": "未知的颜色“%s”",
     "en_us": "Unknown color '%s'"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "无效的聊天组件： %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "无效的聊天组件：%s",
+    "en_us": "Invalid chat component: %s"
   },
   {
     "old_key": "argument.criteria.invalid",
@@ -208,13 +222,6 @@
     "new_key": "argument.player.entities",
     "new_value": "只有玩家会受此命令的影响，但提供的选择器包括其他实体",
     "en_us": "Only players may be affected by this command, but the provided selector includes entities"
-  },
-  {
-    "old_key": "argument.pos.missing.double",
-    "old_value": "需要一个坐标",
-    "new_key": "argument.pos.missing.double",
-    "new_value": "应为一个坐标",
-    "en_us": "Expected a coordinate"
   },
   {
     "old_key": "argument.pos.missing.int",

@@ -84,7 +84,7 @@
     "old_value": "用地獄合金錠升級一個鋤頭，然後重新思考一生嘅選擇",
     "old_en_us": "Use a Netherite ingot to upgrade a hoe, and then reevaluate your life choices",
     "new_key": "advancements.husbandry.netherite_hoe.description",
-    "new_value": "使用地獄合金錠升級一把鋤頭，然後重新衡量你的人生抉擇",
+    "new_value": "用地獄合金錠升級一把鋤頭，然後重新衡量你的人生抉擇",
     "new_en_us": "Use a Netherite Ingot to upgrade a Hoe, and then reevaluate your life choices"
   },
   {
@@ -92,7 +92,7 @@
     "old_value": "使用營火喺唔激嬲蜜蜂嘅情況下用玻璃樽喺蜂箱入面攞蜂蜜",
     "old_en_us": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
     "new_key": "advancements.husbandry.safely_harvest_honey.description",
-    "new_value": "使用營火在不激怒蜜蜂的情況下用玻璃樽從蜂巢中取得蜜糖",
+    "new_value": "用營火及玻璃樽獲取蜜糖，過程中不激怒蜂巢中的蜜蜂",
     "new_en_us": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees"
   },
   {

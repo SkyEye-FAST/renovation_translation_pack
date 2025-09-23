@@ -63,6 +63,13 @@
     "en_us": "Subspace Bubble"
   },
   {
+    "old_key": "advancements.nether.find_fortress.description",
+    "old_value": "用你的方式进入下界要塞",
+    "new_key": "advancements.nether.find_fortress.description",
+    "new_value": "闯入下界要塞",
+    "en_us": "Break your way into a Nether Fortress"
+  },
+  {
     "old_key": "advancements.nether.find_fortress.title",
     "old_value": "可怕的要塞",
     "new_key": "advancements.nether.find_fortress.title",
@@ -171,7 +178,7 @@
     "old_key": "argument.component.invalid",
     "old_value": "无效的聊天文本： %s",
     "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件： %s",
+    "new_value": "无效的聊天组件：%s",
     "en_us": "Invalid chat component: %s"
   },
   {
@@ -271,13 +278,6 @@
     "new_key": "argument.player.toomany",
     "new_value": "只允许一名玩家，但提供的选择器允许多名玩家",
     "en_us": "Only one player is allowed, but the provided selector allows more than one"
-  },
-  {
-    "old_key": "argument.pos.missing.double",
-    "old_value": "需要一个坐标",
-    "new_key": "argument.pos.missing.double",
-    "new_value": "应为一个坐标",
-    "en_us": "Expected a coordinate"
   },
   {
     "old_key": "argument.pos.missing.int",

@@ -240,7 +240,7 @@
   "chat.copy.click": "按此複製到剪貼簿",
   "command.exception": "無法解析指令：%s",
   "command.expected.separator": "引數結尾應為空白字元，但發現有尾隨資料",
-  "command.unknown.command": "未知或不完整的指令，錯誤詳見以下說明",
+  "command.unknown.command": "未知或不完整的指令，錯誤如下",
   "commands.advancement.grant.criterion.to.many.failure": "無法將進度 %2$s 的條件 '%1$s' 給予 %3$s 個玩家，因為他們已經擁有該條件",
   "commands.advancement.grant.criterion.to.one.failure": "無法將進度 %2$s 的條件 '%1$s' 給予 %3$s，因為他已經擁有該條件",
   "commands.advancement.grant.many.to.many.failure": "無法將 %s 個進度給予 %s 個玩家，因為他們已達成那些進度",
