@@ -1771,6 +1771,34 @@
     "en_us": "Right Click for More"
   },
   {
+    "old_key": "gui.socialInteractions.empty_blocked",
+    "old_value": "聊天室中沒有已封鎖的玩家",
+    "new_key": "gui.socialInteractions.empty_blocked",
+    "new_value": "聊天欄中沒有已封鎖的玩家",
+    "en_us": "No blocked players in chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.empty_hidden",
+    "old_value": "聊天室中沒有被隱藏的玩家",
+    "new_key": "gui.socialInteractions.empty_hidden",
+    "new_value": "聊天欄中沒有被隱藏的玩家",
+    "en_us": "No players hidden in chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.hide",
+    "old_value": "在聊天室中隱藏",
+    "new_key": "gui.socialInteractions.hide",
+    "new_value": "在聊天欄中隱藏",
+    "en_us": "Hide in Chat"
+  },
+  {
+    "old_key": "gui.socialInteractions.show",
+    "old_value": "在聊天室中顯示",
+    "new_key": "gui.socialInteractions.show",
+    "new_value": "在聊天欄中顯示",
+    "en_us": "Show in Chat"
+  },
+  {
     "old_key": "menu.modded",
     "old_value": " （模組）",
     "new_key": "menu.modded",
@@ -1874,6 +1902,13 @@
     "new_key": "options.biomeBlendRadius.15",
     "new_value": "15×15（極限）",
     "en_us": "15x15 (Maximum)"
+  },
+  {
+    "old_key": "options.chat.scale",
+    "old_value": "聊天室文字大小",
+    "new_key": "options.chat.scale",
+    "new_value": "聊天欄文字大小",
+    "en_us": "Chat Text Size"
   },
   {
     "old_key": "options.graphics.fabulous.tooltip",

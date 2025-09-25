@@ -436,7 +436,7 @@
     "old_value": "範圍",
     "old_en_us": "Scale",
     "new_key": "options.chat.scale",
-    "new_value": "聊天室文字大小",
+    "new_value": "聊天欄文字大小",
     "new_en_us": "Chat Text Size"
   },
   {

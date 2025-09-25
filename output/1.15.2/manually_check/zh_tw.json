@@ -240,6 +240,14 @@
     "new_en_us": "Removed %s item(s) from player %s"
   },
   {
+    "old_key": "commands.clone.toobig",
+    "old_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
+    "new_key": "commands.clone.toobig",
+    "new_value": "指定區域內的方塊太多（指定 %2$s，但最大值為 %1$s）",
+    "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
+  },
+  {
     "old_key": "commands.data.merge.failed",
     "old_value": "未進行任何變更，指定的屬性已經是該值",
     "old_en_us": "Nothing changed, the specified properties already have these values",
@@ -324,7 +332,7 @@
     "old_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.execute.blocks.toobig",
-    "new_value": "指定區域內的方塊太多（指定 %s，但最大值為 %s）",
+    "new_value": "指定區域內的方塊太多（指定 %2$s，但最大值為 %1$s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -356,7 +364,7 @@
     "old_value": "指定區域內的方塊太多（最大值為 %s，指定為 %s）",
     "old_en_us": "Too many blocks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.fill.toobig",
-    "new_value": "指定區域內的方塊太多（指定 %2$s 但最大值為 %1$s）",
+    "new_value": "指定區域內的方塊太多（指定 %2$s，但最大值為 %1$s）",
     "new_en_us": "Too many blocks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -364,7 +372,7 @@
     "old_value": "指定區域內的區塊太多（最大值為 %s， 指定為 %s）",
     "old_en_us": "Too many chunks in the specified area (maximum %s, specified %s)",
     "new_key": "commands.forceload.toobig",
-    "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
+    "new_value": "指定區域內的區塊太多（指定 %2$s，但最大值為 %1$s）",
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
@@ -756,7 +764,7 @@
     "old_value": "無法傳送聊天訊息， 請檢查伺服器記錄。 聊天訊息開頭為： %s",
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
-    "new_value": "無法傳送聊天訊息，請檢查伺服器聊天記錄：%s",
+    "new_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
@@ -812,7 +820,7 @@
     "old_value": "範圍",
     "old_en_us": "Scale",
     "new_key": "options.chat.scale",
-    "new_value": "聊天室文字大小",
+    "new_value": "聊天欄文字大小",
     "new_en_us": "Chat Text Size"
   },
   {
