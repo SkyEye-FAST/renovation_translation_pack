@@ -420,7 +420,7 @@
     "old_value": "驗證伺服器暫停服務，請稍後再嘗試，抱歉！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務。請稍後再試，非常抱歉！",
+    "new_value": "驗證伺服器沒有回應。請稍後再試。非常抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
@@ -614,6 +614,14 @@
     "new_key": "selectWorld.mapType",
     "new_value": "世界類型",
     "new_en_us": "World Type"
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "載入這個世界可能會導致出現問題！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "載入這個世界可能會出現問題！",
+    "new_en_us": "and loading it could cause problems!"
   },
   {
     "old_key": "selectWorld.tooltip.snapshot1",

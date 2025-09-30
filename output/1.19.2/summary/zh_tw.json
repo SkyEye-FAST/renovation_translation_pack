@@ -1435,6 +1435,13 @@
     "en_us": "Wheat Crops"
   },
   {
+    "old_key": "chat_screen.title",
+    "old_value": "聊天畫面",
+    "new_key": "chat_screen.title",
+    "new_value": "聊天欄",
+    "en_us": "Chat screen"
+  },
+  {
     "old_key": "chat.cannotSend",
     "old_value": "無法發送聊天訊息",
     "new_key": "chat.cannotSend",

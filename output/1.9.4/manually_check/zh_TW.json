@@ -880,6 +880,14 @@
     "new_en_us": "World Type"
   },
   {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "載入這個世界可能會導致出現問題！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "載入這個世界可能會出現問題！",
+    "new_en_us": "and loading it could cause problems!"
+  },
+  {
     "old_key": "selectWorld.tooltip.snapshot1",
     "old_value": "不要忘記在你載入這個世界之前",
     "old_en_us": "Don't forget to backup this world",

@@ -476,16 +476,16 @@
     "old_value": "驗證伺服器暫停服務，請稍後再試，非常抱歉！",
     "old_en_us": "Authentication servers are down. Please try again later, sorry!",
     "new_key": "multiplayer.disconnect.authservers_down",
-    "new_value": "驗證伺服器暫停服務。請稍後再試，非常抱歉！",
+    "new_value": "驗證伺服器沒有回應。請稍後再試。非常抱歉！",
     "new_en_us": "Authentication servers are down. Please try again later. Sorry!"
   },
   {
-    "old_key": "multiplayer.disconnect.missing_tags",
-    "old_value": "從伺服器接收到不完整的標籤集。\n請聯絡伺服器管理員。",
-    "old_en_us": "Incomplete set of tags received from server.\nPlease contact server operator.",
-    "new_key": "multiplayer.disconnect.missing_tags",
-    "new_value": "從伺服器接收到不完整的標籤集，請聯絡伺服器管理員。",
-    "new_en_us": "Incomplete set of tags received from the server.\nPlease contact a server operator."
+    "old_key": "multiplayer.disconnect.invalid_packet",
+    "old_value": "伺服器發送無效的封包",
+    "old_en_us": "Server sent an invalid packet",
+    "new_key": "multiplayer.disconnect.invalid_packet",
+    "new_value": "伺服器傳送了無效的封包",
+    "new_en_us": "The server sent an invalid packet"
   },
   {
     "old_key": "multiplayer.message_not_delivered",
@@ -496,20 +496,20 @@
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
-    "old_key": "multiplayer.requiredTexturePrompt.disconnect",
-    "old_value": "伺服器要求使用其自訂的資源包",
-    "old_en_us": "Server requires a custom resource pack",
-    "new_key": "multiplayer.requiredTexturePrompt.disconnect",
-    "new_value": "伺服器要求使用其所提供的資源包",
-    "new_en_us": "This server requires a custom resource pack"
+    "old_key": "narration.component_list.usage",
+    "old_value": "按 Tab 移動到下個元素",
+    "old_en_us": "Press Tab to navigate to next element",
+    "new_key": "narration.component_list.usage",
+    "new_value": "按 Tab 移動到下一個元素",
+    "new_en_us": "Press Tab to navigate to the next element"
   },
   {
-    "old_key": "narration.slider.usage.hovered",
-    "old_value": "拉動滑桿以變更數值",
-    "old_en_us": "Drag slider to change value",
-    "new_key": "narration.slider.usage.hovered",
-    "new_value": "若要變更數值請拉動滑桿",
-    "new_en_us": "Drag the slider to change its value"
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "按下左右方向鍵變更數值",
+    "old_en_us": "Press left or right keyboard buttons to change value",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "按下左右方向鍵調整數值",
+    "new_en_us": "Press the left or right keyboard buttons to change the value"
   },
   {
     "old_key": "options.accessibility.title",
@@ -556,7 +556,7 @@
     "old_value": "防止打雷造成天空閃爍。閃電本身依然可見。",
     "old_en_us": "Prevents lightning bolts from making the sky flash. The bolts themselves will still be visible.",
     "new_key": "options.hideLightningFlashes.tooltip",
-    "new_value": "防止打雷或其他環境效果造成天空閃爍。閃光來源本身依然可見。",
+    "new_value": "防止打雷或其他環境效果造成天空閃爍。造成閃爍的光源依然可見。",
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
@@ -572,7 +572,7 @@
     "old_value": "無效的布林值，應為 'true' 或 'false' 但出現了 '%s'",
     "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
     "new_key": "parsing.bool.invalid",
-    "new_value": "無效的布林值，應為 'true' 或 'false' 但實際為 '%s'",
+    "new_value": "無效的布林值，應為 'true' 或 'false'，但實際為 '%s'",
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
@@ -600,12 +600,28 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions."
   },
   {
+    "old_key": "selectWorld.locked",
+    "old_value": "被另一個正在執行的 Minecraft 鎖定",
+    "old_en_us": "Locked by another running instance of Minecraft",
+    "new_key": "selectWorld.locked",
+    "new_value": "被另一個正在執行的 Minecraft 鎖定。",
+    "new_en_us": "Locked by another running instance of Minecraft."
+  },
+  {
     "old_key": "selectWorld.mapFeatures.info",
     "old_value": "村莊、地牢等",
     "old_en_us": "Villages, dungeons etc.",
     "new_key": "selectWorld.mapFeatures.info",
     "new_value": "例如村莊、沉船等等",
     "new_en_us": "Villages, Shipwrecks, etc."
+  },
+  {
+    "old_key": "selectWorld.tooltip.fromNewerVersion2",
+    "old_value": "載入這個世界可能會導致出現問題！",
+    "old_en_us": "loading this world could cause problems!",
+    "new_key": "selectWorld.tooltip.fromNewerVersion2",
+    "new_value": "載入這個世界可能會出現問題！",
+    "new_en_us": "and loading it could cause problems!"
   },
   {
     "old_key": "soundCategory.voice",

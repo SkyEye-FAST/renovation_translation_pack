@@ -467,6 +467,7 @@ selectWorld.mapType=世界類型
 selectWorld.mapType.normal=正常
 selectWorld.recreate=重新建立
 selectWorld.tooltip.fromNewerVersion1=世界是以較新的版本儲存，
+selectWorld.tooltip.fromNewerVersion2=載入這個世界可能會出現問題！
 selectWorld.tooltip.snapshot1=以目前版本載入之前
 selectWorld.tooltip.snapshot2=別忘了先備份這個世界。
 selectWorld.versionJoinButton=依然載入
