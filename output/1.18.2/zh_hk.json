@@ -731,6 +731,7 @@
   "key.swapOffhand": "雙手物品對換",
   "lanServer.otherPlayers": "對其他玩家的設定",
   "lanServer.scanning": "正在在你的 LAN 內尋找可供加入的遊戲",
+  "lectern.take_book": "取走書本",
   "multiplayer.disconnect.authservers_down": "驗證伺服器暫停服務。請稍後再試。抱歉！",
   "multiplayer.disconnect.banned": "你已經被此伺服器封鎖",
   "multiplayer.disconnect.banned.expiration": "\n你的封鎖將於 %s 解除",

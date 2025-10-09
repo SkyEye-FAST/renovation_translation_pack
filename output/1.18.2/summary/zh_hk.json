@@ -4305,6 +4305,13 @@
     "en_us": "Scanning for games on your local network"
   },
   {
+    "old_key": "lectern.take_book",
+    "old_value": "攞走書本",
+    "new_key": "lectern.take_book",
+    "new_value": "取走書本",
+    "en_us": "Take Book"
+  },
+  {
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
