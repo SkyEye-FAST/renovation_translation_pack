@@ -1015,6 +1015,13 @@
     "en_us": "Controls..."
   },
   {
+    "old_key": "options.graphics.fancy.tooltip",
+    "old_value": "高品质画质会为大多数设备平衡性能和质量。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
+    "new_key": "options.graphics.fancy.tooltip",
+    "new_value": "高品质画质会为大多数设备平衡性能和画面效果。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
+    "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
+  },
+  {
     "old_key": "parsing.bool.expected",
     "old_value": "需要布尔型",
     "new_key": "parsing.bool.expected",

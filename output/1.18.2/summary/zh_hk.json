@@ -290,7 +290,7 @@
     "old_key": "advancements.nether.ride_strider_in_overworld_lava.description",
     "old_value": "喺主世界嘅熔岩湖上面騎住熾足獸去一次超長途旅行",
     "new_key": "advancements.nether.ride_strider_in_overworld_lava.description",
-    "new_value": "在主世界的熔岩湖上和熾足獸來一段超長途旅行",
+    "new_value": "在主世界的熔巖湖上和熾足獸來一段超長途旅行",
     "en_us": "Take a Strider for a loooong ride on a lava lake in the Overworld"
   },
   {
@@ -784,11 +784,46 @@
     "en_us": "Zombie Reinforcements"
   },
   {
+    "old_key": "biome.minecraft.basalt_deltas",
+    "old_value": "玄武岩三角洲",
+    "new_key": "biome.minecraft.basalt_deltas",
+    "new_value": "玄武巖三角洲",
+    "en_us": "Basalt Deltas"
+  },
+  {
     "old_key": "block.minecraft.acacia_wall_sign",
     "old_value": "牆上嘅相思木指示牌",
     "new_key": "block.minecraft.acacia_wall_sign",
     "new_value": "牆上的相思木指示牌",
     "en_us": "Acacia Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.andesite",
+    "old_value": "安山岩",
+    "new_key": "block.minecraft.andesite",
+    "new_value": "安山巖",
+    "en_us": "Andesite"
+  },
+  {
+    "old_key": "block.minecraft.andesite_slab",
+    "old_value": "安山岩半磚",
+    "new_key": "block.minecraft.andesite_slab",
+    "new_value": "安山巖半磚",
+    "en_us": "Andesite Slab"
+  },
+  {
+    "old_key": "block.minecraft.andesite_stairs",
+    "old_value": "安山岩樓梯",
+    "new_key": "block.minecraft.andesite_stairs",
+    "new_value": "安山巖樓梯",
+    "en_us": "Andesite Stairs"
+  },
+  {
+    "old_key": "block.minecraft.andesite_wall",
+    "old_value": "安山岩牆",
+    "new_key": "block.minecraft.andesite_wall",
+    "new_value": "安山巖牆",
+    "en_us": "Andesite Wall"
   },
   {
     "old_key": "block.minecraft.attached_melon_stem",
@@ -817,6 +852,13 @@
     "new_key": "block.minecraft.banner.stripe_top.light_gray",
     "new_value": "頂部淺灰色橫條",
     "en_us": "Light Gray Chief"
+  },
+  {
+    "old_key": "block.minecraft.basalt",
+    "old_value": "玄武岩",
+    "new_key": "block.minecraft.basalt",
+    "new_value": "玄武巖",
+    "en_us": "Basalt"
   },
   {
     "old_key": "block.minecraft.beacon",
@@ -859,6 +901,13 @@
     "new_key": "block.minecraft.bed.too_far_away",
     "new_value": "你現時無法休息，牀距離過遠",
     "en_us": "You may not rest now; the bed is too far away"
+  },
+  {
+    "old_key": "block.minecraft.bedrock",
+    "old_value": "基岩",
+    "new_key": "block.minecraft.bedrock",
+    "new_value": "基巖",
+    "en_us": "Bedrock"
   },
   {
     "old_key": "block.minecraft.big_dripleaf_stem",
@@ -910,6 +959,13 @@
     "en_us": "Bubble Coral Wall Fan"
   },
   {
+    "old_key": "block.minecraft.budding_amethyst",
+    "old_value": "紫水晶母岩",
+    "new_key": "block.minecraft.budding_amethyst",
+    "new_value": "紫水晶母巖",
+    "en_us": "Budding Amethyst"
+  },
+  {
     "old_key": "block.minecraft.candle_cake",
     "old_value": "插咗蠟燭嘅蛋糕",
     "new_key": "block.minecraft.candle_cake",
@@ -922,6 +978,69 @@
     "new_key": "block.minecraft.chipped_anvil",
     "new_value": "開裂的鐵砧",
     "en_us": "Chipped Anvil"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_deepslate",
+    "old_value": "浮雕深板岩",
+    "new_key": "block.minecraft.chiseled_deepslate",
+    "new_value": "浮雕深板巖",
+    "en_us": "Chiseled Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_red_sandstone",
+    "old_value": "浮雕紅砂岩",
+    "new_key": "block.minecraft.chiseled_red_sandstone",
+    "new_value": "浮雕紅砂巖",
+    "en_us": "Chiseled Red Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.chiseled_sandstone",
+    "old_value": "浮雕砂岩",
+    "new_key": "block.minecraft.chiseled_sandstone",
+    "new_value": "浮雕砂巖",
+    "en_us": "Chiseled Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.cobbled_deepslate",
+    "old_value": "深板岩碎石",
+    "new_key": "block.minecraft.cobbled_deepslate",
+    "new_value": "深板巖碎石",
+    "en_us": "Cobbled Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.cobbled_deepslate_slab",
+    "old_value": "深板岩碎石半磚",
+    "new_key": "block.minecraft.cobbled_deepslate_slab",
+    "new_value": "深板巖碎石半磚",
+    "en_us": "Cobbled Deepslate Slab"
+  },
+  {
+    "old_key": "block.minecraft.cobbled_deepslate_stairs",
+    "old_value": "深板岩碎石樓梯",
+    "new_key": "block.minecraft.cobbled_deepslate_stairs",
+    "new_value": "深板巖碎石樓梯",
+    "en_us": "Cobbled Deepslate Stairs"
+  },
+  {
+    "old_key": "block.minecraft.cobbled_deepslate_wall",
+    "old_value": "深板岩碎石牆",
+    "new_key": "block.minecraft.cobbled_deepslate_wall",
+    "new_value": "深板巖碎石牆",
+    "en_us": "Cobbled Deepslate Wall"
+  },
+  {
+    "old_key": "block.minecraft.cracked_deepslate_bricks",
+    "old_value": "裂紋深板岩磚",
+    "new_key": "block.minecraft.cracked_deepslate_bricks",
+    "new_value": "裂紋深板巖磚",
+    "en_us": "Cracked Deepslate Bricks"
+  },
+  {
+    "old_key": "block.minecraft.cracked_deepslate_tiles",
+    "old_value": "裂紋深板岩瓦",
+    "new_key": "block.minecraft.cracked_deepslate_tiles",
+    "new_value": "裂紋深板巖瓦",
+    "en_us": "Cracked Deepslate Tiles"
   },
   {
     "old_key": "block.minecraft.creeper_wall_head",
@@ -943,6 +1062,34 @@
     "new_key": "block.minecraft.crimson_wall_sign",
     "new_value": "牆上的猩紅菌木指示牌",
     "en_us": "Crimson Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.cut_red_sandstone",
+    "old_value": "切製紅砂岩",
+    "new_key": "block.minecraft.cut_red_sandstone",
+    "new_value": "切製紅砂巖",
+    "en_us": "Cut Red Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.cut_red_sandstone_slab",
+    "old_value": "切製紅砂岩半磚",
+    "new_key": "block.minecraft.cut_red_sandstone_slab",
+    "new_value": "切製紅砂巖半磚",
+    "en_us": "Cut Red Sandstone Slab"
+  },
+  {
+    "old_key": "block.minecraft.cut_sandstone",
+    "old_value": "切製砂岩",
+    "new_key": "block.minecraft.cut_sandstone",
+    "new_value": "切製砂巖",
+    "en_us": "Cut Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.cut_sandstone_slab",
+    "old_value": "切製砂岩半磚",
+    "new_key": "block.minecraft.cut_sandstone_slab",
+    "new_value": "切製砂巖半磚",
+    "en_us": "Cut Sandstone Slab"
   },
   {
     "old_key": "block.minecraft.cyan_candle_cake",
@@ -1001,6 +1148,97 @@
     "en_us": "Dead Tube Coral Wall Fan"
   },
   {
+    "old_key": "block.minecraft.deepslate",
+    "old_value": "深板岩",
+    "new_key": "block.minecraft.deepslate",
+    "new_value": "深板巖",
+    "en_us": "Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_brick_slab",
+    "old_value": "深板岩磚半磚",
+    "new_key": "block.minecraft.deepslate_brick_slab",
+    "new_value": "深板巖磚半磚",
+    "en_us": "Deepslate Brick Slab"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_brick_stairs",
+    "old_value": "深板岩磚樓梯",
+    "new_key": "block.minecraft.deepslate_brick_stairs",
+    "new_value": "深板巖磚樓梯",
+    "en_us": "Deepslate Brick Stairs"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_brick_wall",
+    "old_value": "深板岩磚牆",
+    "new_key": "block.minecraft.deepslate_brick_wall",
+    "new_value": "深板巖磚牆",
+    "en_us": "Deepslate Brick Wall"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_bricks",
+    "old_value": "深板岩磚",
+    "new_key": "block.minecraft.deepslate_bricks",
+    "new_value": "深板巖磚",
+    "en_us": "Deepslate Bricks"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_tile_slab",
+    "old_value": "深板岩瓦半磚",
+    "new_key": "block.minecraft.deepslate_tile_slab",
+    "new_value": "深板巖瓦半磚",
+    "en_us": "Deepslate Tile Slab"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_tile_stairs",
+    "old_value": "深板岩瓦樓梯",
+    "new_key": "block.minecraft.deepslate_tile_stairs",
+    "new_value": "深板巖瓦樓梯",
+    "en_us": "Deepslate Tile Stairs"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_tile_wall",
+    "old_value": "深板岩瓦牆",
+    "new_key": "block.minecraft.deepslate_tile_wall",
+    "new_value": "深板巖瓦牆",
+    "en_us": "Deepslate Tile Wall"
+  },
+  {
+    "old_key": "block.minecraft.deepslate_tiles",
+    "old_value": "深板岩瓦",
+    "new_key": "block.minecraft.deepslate_tiles",
+    "new_value": "深板巖瓦",
+    "en_us": "Deepslate Tiles"
+  },
+  {
+    "old_key": "block.minecraft.diorite",
+    "old_value": "閃長岩",
+    "new_key": "block.minecraft.diorite",
+    "new_value": "閃長巖",
+    "en_us": "Diorite"
+  },
+  {
+    "old_key": "block.minecraft.diorite_slab",
+    "old_value": "閃長岩半磚",
+    "new_key": "block.minecraft.diorite_slab",
+    "new_value": "閃長巖半磚",
+    "en_us": "Diorite Slab"
+  },
+  {
+    "old_key": "block.minecraft.diorite_stairs",
+    "old_value": "閃長岩樓梯",
+    "new_key": "block.minecraft.diorite_stairs",
+    "new_value": "閃長巖樓梯",
+    "en_us": "Diorite Stairs"
+  },
+  {
+    "old_key": "block.minecraft.diorite_wall",
+    "old_value": "閃長岩牆",
+    "new_key": "block.minecraft.diorite_wall",
+    "new_value": "閃長巖牆",
+    "en_us": "Diorite Wall"
+  },
+  {
     "old_key": "block.minecraft.dragon_wall_head",
     "old_value": "牆上嘅龍頭",
     "new_key": "block.minecraft.dragon_wall_head",
@@ -1057,6 +1295,34 @@
     "en_us": "Flowering Azalea Leaves"
   },
   {
+    "old_key": "block.minecraft.granite",
+    "old_value": "花崗岩",
+    "new_key": "block.minecraft.granite",
+    "new_value": "花崗巖",
+    "en_us": "Granite"
+  },
+  {
+    "old_key": "block.minecraft.granite_slab",
+    "old_value": "花崗岩半磚",
+    "new_key": "block.minecraft.granite_slab",
+    "new_value": "花崗巖半磚",
+    "en_us": "Granite Slab"
+  },
+  {
+    "old_key": "block.minecraft.granite_stairs",
+    "old_value": "花崗岩樓梯",
+    "new_key": "block.minecraft.granite_stairs",
+    "new_value": "花崗巖樓梯",
+    "en_us": "Granite Stairs"
+  },
+  {
+    "old_key": "block.minecraft.granite_wall",
+    "old_value": "花崗岩牆",
+    "new_key": "block.minecraft.granite_wall",
+    "new_value": "花崗巖牆",
+    "en_us": "Granite Wall"
+  },
+  {
     "old_key": "block.minecraft.gray_candle_cake",
     "old_value": "插咗灰色蠟燭嘅蛋糕",
     "new_key": "block.minecraft.gray_candle_cake",
@@ -1102,7 +1368,7 @@
     "old_key": "block.minecraft.infested_deepslate",
     "old_value": "蛀蝕嘅深板岩",
     "new_key": "block.minecraft.infested_deepslate",
-    "new_value": "蛀蝕的深板岩",
+    "new_value": "蛀蝕的深板巖",
     "en_us": "Infested Deepslate"
   },
   {
@@ -1141,10 +1407,17 @@
     "en_us": "Large Amethyst Bud"
   },
   {
+    "old_key": "block.minecraft.lava",
+    "old_value": "熔岩",
+    "new_key": "block.minecraft.lava",
+    "new_value": "熔巖",
+    "en_us": "Lava"
+  },
+  {
     "old_key": "block.minecraft.lava_cauldron",
     "old_value": "裝熔岩嘅鍋",
     "new_key": "block.minecraft.lava_cauldron",
-    "new_value": "裝熔岩的鍋",
+    "new_value": "裝熔巖的鍋",
     "en_us": "Lava Cauldron"
   },
   {
@@ -1181,6 +1454,13 @@
     "new_key": "block.minecraft.magenta_candle_cake",
     "new_value": "插上紫紅色蠟燭的蛋糕",
     "en_us": "Cake with Magenta Candle"
+  },
+  {
+    "old_key": "block.minecraft.magma_block",
+    "old_value": "岩漿塊",
+    "new_key": "block.minecraft.magma_block",
+    "new_value": "巖漿塊",
+    "en_us": "Magma Block"
   },
   {
     "old_key": "block.minecraft.medium_amethyst_bud",
@@ -1274,6 +1554,104 @@
     "en_us": "Player Wall Head"
   },
   {
+    "old_key": "block.minecraft.polished_andesite",
+    "old_value": "拋光安山岩",
+    "new_key": "block.minecraft.polished_andesite",
+    "new_value": "拋光安山巖",
+    "en_us": "Polished Andesite"
+  },
+  {
+    "old_key": "block.minecraft.polished_andesite_slab",
+    "old_value": "拋光安山岩半磚",
+    "new_key": "block.minecraft.polished_andesite_slab",
+    "new_value": "拋光安山巖半磚",
+    "en_us": "Polished Andesite Slab"
+  },
+  {
+    "old_key": "block.minecraft.polished_andesite_stairs",
+    "old_value": "拋光安山岩樓梯",
+    "new_key": "block.minecraft.polished_andesite_stairs",
+    "new_value": "拋光安山巖樓梯",
+    "en_us": "Polished Andesite Stairs"
+  },
+  {
+    "old_key": "block.minecraft.polished_basalt",
+    "old_value": "拋光玄武岩",
+    "new_key": "block.minecraft.polished_basalt",
+    "new_value": "拋光玄武巖",
+    "en_us": "Polished Basalt"
+  },
+  {
+    "old_key": "block.minecraft.polished_deepslate",
+    "old_value": "拋光深板岩",
+    "new_key": "block.minecraft.polished_deepslate",
+    "new_value": "拋光深板巖",
+    "en_us": "Polished Deepslate"
+  },
+  {
+    "old_key": "block.minecraft.polished_deepslate_slab",
+    "old_value": "拋光深板岩半磚",
+    "new_key": "block.minecraft.polished_deepslate_slab",
+    "new_value": "拋光深板巖半磚",
+    "en_us": "Polished Deepslate Slab"
+  },
+  {
+    "old_key": "block.minecraft.polished_deepslate_stairs",
+    "old_value": "拋光深板岩樓梯",
+    "new_key": "block.minecraft.polished_deepslate_stairs",
+    "new_value": "拋光深板巖樓梯",
+    "en_us": "Polished Deepslate Stairs"
+  },
+  {
+    "old_key": "block.minecraft.polished_deepslate_wall",
+    "old_value": "拋光深板岩牆",
+    "new_key": "block.minecraft.polished_deepslate_wall",
+    "new_value": "拋光深板巖牆",
+    "en_us": "Polished Deepslate Wall"
+  },
+  {
+    "old_key": "block.minecraft.polished_diorite",
+    "old_value": "拋光閃長岩",
+    "new_key": "block.minecraft.polished_diorite",
+    "new_value": "拋光閃長巖",
+    "en_us": "Polished Diorite"
+  },
+  {
+    "old_key": "block.minecraft.polished_diorite_slab",
+    "old_value": "拋光閃長岩半磚",
+    "new_key": "block.minecraft.polished_diorite_slab",
+    "new_value": "拋光閃長巖半磚",
+    "en_us": "Polished Diorite Slab"
+  },
+  {
+    "old_key": "block.minecraft.polished_diorite_stairs",
+    "old_value": "拋光閃長岩樓梯",
+    "new_key": "block.minecraft.polished_diorite_stairs",
+    "new_value": "拋光閃長巖樓梯",
+    "en_us": "Polished Diorite Stairs"
+  },
+  {
+    "old_key": "block.minecraft.polished_granite",
+    "old_value": "拋光花崗岩",
+    "new_key": "block.minecraft.polished_granite",
+    "new_value": "拋光花崗巖",
+    "en_us": "Polished Granite"
+  },
+  {
+    "old_key": "block.minecraft.polished_granite_slab",
+    "old_value": "拋光花崗岩半磚",
+    "new_key": "block.minecraft.polished_granite_slab",
+    "new_value": "拋光花崗巖半磚",
+    "en_us": "Polished Granite Slab"
+  },
+  {
+    "old_key": "block.minecraft.polished_granite_stairs",
+    "old_value": "拋光花崗岩樓梯",
+    "new_key": "block.minecraft.polished_granite_stairs",
+    "new_value": "拋光花崗巖樓梯",
+    "en_us": "Polished Granite Stairs"
+  },
+  {
     "old_key": "block.minecraft.potted_flowering_azalea_bush",
     "old_value": "開花嘅杜鵑叢盆栽",
     "new_key": "block.minecraft.potted_flowering_azalea_bush",
@@ -1309,6 +1687,34 @@
     "en_us": "Cake with Red Candle"
   },
   {
+    "old_key": "block.minecraft.red_sandstone",
+    "old_value": "紅砂岩",
+    "new_key": "block.minecraft.red_sandstone",
+    "new_value": "紅砂巖",
+    "en_us": "Red Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.red_sandstone_slab",
+    "old_value": "紅砂岩半磚",
+    "new_key": "block.minecraft.red_sandstone_slab",
+    "new_value": "紅砂巖半磚",
+    "en_us": "Red Sandstone Slab"
+  },
+  {
+    "old_key": "block.minecraft.red_sandstone_stairs",
+    "old_value": "紅砂岩樓梯",
+    "new_key": "block.minecraft.red_sandstone_stairs",
+    "new_value": "紅砂巖樓梯",
+    "en_us": "Red Sandstone Stairs"
+  },
+  {
+    "old_key": "block.minecraft.red_sandstone_wall",
+    "old_value": "紅砂岩牆",
+    "new_key": "block.minecraft.red_sandstone_wall",
+    "new_value": "紅砂巖牆",
+    "en_us": "Red Sandstone Wall"
+  },
+  {
     "old_key": "block.minecraft.redstone_wall_torch",
     "old_value": "牆上嘅紅石火炬",
     "new_key": "block.minecraft.redstone_wall_torch",
@@ -1321,6 +1727,34 @@
     "new_key": "block.minecraft.rooted_dirt",
     "new_value": "扎根土",
     "en_us": "Rooted Dirt"
+  },
+  {
+    "old_key": "block.minecraft.sandstone",
+    "old_value": "砂岩",
+    "new_key": "block.minecraft.sandstone",
+    "new_value": "砂巖",
+    "en_us": "Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.sandstone_slab",
+    "old_value": "砂岩半磚",
+    "new_key": "block.minecraft.sandstone_slab",
+    "new_value": "砂巖半磚",
+    "en_us": "Sandstone Slab"
+  },
+  {
+    "old_key": "block.minecraft.sandstone_stairs",
+    "old_value": "砂岩樓梯",
+    "new_key": "block.minecraft.sandstone_stairs",
+    "new_value": "砂巖樓梯",
+    "en_us": "Sandstone Stairs"
+  },
+  {
+    "old_key": "block.minecraft.sandstone_wall",
+    "old_value": "砂岩牆",
+    "new_key": "block.minecraft.sandstone_wall",
+    "new_value": "砂巖牆",
+    "en_us": "Sandstone Wall"
   },
   {
     "old_key": "block.minecraft.skeleton_skull",
@@ -1342,6 +1776,55 @@
     "new_key": "block.minecraft.small_amethyst_bud",
     "new_value": "小型紫水晶芽",
     "en_us": "Small Amethyst Bud"
+  },
+  {
+    "old_key": "block.minecraft.smooth_basalt",
+    "old_value": "平滑玄武岩",
+    "new_key": "block.minecraft.smooth_basalt",
+    "new_value": "平滑玄武巖",
+    "en_us": "Smooth Basalt"
+  },
+  {
+    "old_key": "block.minecraft.smooth_red_sandstone",
+    "old_value": "平滑紅砂岩",
+    "new_key": "block.minecraft.smooth_red_sandstone",
+    "new_value": "平滑紅砂巖",
+    "en_us": "Smooth Red Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.smooth_red_sandstone_slab",
+    "old_value": "平滑紅砂岩半磚",
+    "new_key": "block.minecraft.smooth_red_sandstone_slab",
+    "new_value": "平滑紅砂巖半磚",
+    "en_us": "Smooth Red Sandstone Slab"
+  },
+  {
+    "old_key": "block.minecraft.smooth_red_sandstone_stairs",
+    "old_value": "平滑紅砂岩樓梯",
+    "new_key": "block.minecraft.smooth_red_sandstone_stairs",
+    "new_value": "平滑紅砂巖樓梯",
+    "en_us": "Smooth Red Sandstone Stairs"
+  },
+  {
+    "old_key": "block.minecraft.smooth_sandstone",
+    "old_value": "平滑砂岩",
+    "new_key": "block.minecraft.smooth_sandstone",
+    "new_value": "平滑砂巖",
+    "en_us": "Smooth Sandstone"
+  },
+  {
+    "old_key": "block.minecraft.smooth_sandstone_slab",
+    "old_value": "平滑砂岩半磚",
+    "new_key": "block.minecraft.smooth_sandstone_slab",
+    "new_value": "平滑砂巖半磚",
+    "en_us": "Smooth Sandstone Slab"
+  },
+  {
+    "old_key": "block.minecraft.smooth_sandstone_stairs",
+    "old_value": "平滑砂岩樓梯",
+    "new_key": "block.minecraft.smooth_sandstone_stairs",
+    "new_value": "平滑砂巖樓梯",
+    "en_us": "Smooth Sandstone Stairs"
   },
   {
     "old_key": "block.minecraft.snow",
@@ -1398,6 +1881,13 @@
     "new_key": "block.minecraft.tube_coral_wall_fan",
     "new_value": "牆上的扇狀管珊瑚",
     "en_us": "Tube Coral Wall Fan"
+  },
+  {
+    "old_key": "block.minecraft.tuff",
+    "old_value": "凝灰岩",
+    "new_key": "block.minecraft.tuff",
+    "new_value": "凝灰巖",
+    "en_us": "Tuff"
   },
   {
     "old_key": "block.minecraft.wall_torch",
@@ -2702,6 +3192,20 @@
     "en_us": "Invalid position for teleport"
   },
   {
+    "old_key": "commands.teleport.success.location.multiple",
+    "old_value": "已經傳送 %s 個實體到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.multiple",
+    "new_value": "已傳送 %s 個實體至 %s, %s, %s",
+    "en_us": "Teleported %s entities to %s, %s, %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.single",
+    "old_value": "已傳送 %s 到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.single",
+    "new_value": "已傳送 %s 至 %s, %s, %s",
+    "en_us": "Teleported %s to %s, %s, %s"
+  },
+  {
     "old_key": "commands.title.cleared.multiple",
     "old_value": "已清除 %s 個玩家嘅標題",
     "new_key": "commands.title.cleared.multiple",
@@ -2873,14 +3377,14 @@
     "old_key": "death.attack.arrow",
     "old_value": "%1$s 被 %2$s 射死咗",
     "new_key": "death.attack.arrow",
-    "new_value": "%1$s 被 %2$s 射死了",
+    "new_value": "%1$s 被 %2$s 射死",
     "en_us": "%1$s was shot by %2$s"
   },
   {
     "old_key": "death.attack.arrow.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 射死咗",
     "new_key": "death.attack.arrow.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 射死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 射死",
     "en_us": "%1$s was shot by %2$s using %3$s"
   },
   {
@@ -2894,14 +3398,14 @@
     "old_key": "death.attack.badRespawnPoint.message",
     "old_value": "%1$s 被 %2$s 殺死咗",
     "new_key": "death.attack.badRespawnPoint.message",
-    "new_value": "%1$s 被 %2$s 殺死了",
+    "new_value": "%1$s 被 %2$s 殺死",
     "en_us": "%1$s was killed by %2$s"
   },
   {
     "old_key": "death.attack.cactus",
     "old_value": "%1$s 被仙人掌拮死咗",
     "new_key": "death.attack.cactus",
-    "new_value": "%1$s 被仙人掌刺死了",
+    "new_value": "%1$s 被仙人掌刺死",
     "en_us": "%1$s was pricked to death"
   },
   {
@@ -2922,7 +3426,7 @@
     "old_key": "death.attack.even_more_magic",
     "old_value": "%1$s 被更可怕嘅神祕力量殺死咗",
     "new_key": "death.attack.even_more_magic",
-    "new_value": "%1$s 被更可怕的神祕力量殺死了",
+    "new_value": "%1$s 被更可怕的神祕力量殺死",
     "en_us": "%1$s was killed by even more magic"
   },
   {
@@ -2964,21 +3468,21 @@
     "old_key": "death.attack.fallingStalactite",
     "old_value": "%1$s 被跌落嚟嘅鐘乳石刺死咗",
     "new_key": "death.attack.fallingStalactite",
-    "new_value": "%1$s 被跌落的鐘乳石刺死了",
+    "new_value": "%1$s 被跌落的鐘乳石刺死",
     "en_us": "%1$s was skewered by a falling stalactite"
   },
   {
     "old_key": "death.attack.fireball",
     "old_value": "%1$s 被 %2$s 嘅火球殺死咗",
     "new_key": "death.attack.fireball",
-    "new_value": "%1$s 被 %2$s 的火球殺死了",
+    "new_value": "%1$s 被 %2$s 的火球殺死",
     "en_us": "%1$s was fireballed by %2$s"
   },
   {
     "old_key": "death.attack.fireball.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 發射嘅火球殺死咗",
     "new_key": "death.attack.fireball.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 發射的火球殺死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 發射的火球殺死",
     "en_us": "%1$s was fireballed by %2$s using %3$s"
   },
   {
@@ -2992,56 +3496,56 @@
     "old_key": "death.attack.fireworks.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 射出嘅煙花炸死咗",
     "new_key": "death.attack.fireworks.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 射出的煙花炸死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 射出的煙花炸死",
     "en_us": "%1$s went off with a bang due to a firework fired from %3$s by %2$s"
   },
   {
     "old_key": "death.attack.flyIntoWall",
     "old_value": "%1$s 撞死咗",
     "new_key": "death.attack.flyIntoWall",
-    "new_value": "%1$s 撞死了",
+    "new_value": "%1$s 被撞死",
     "en_us": "%1$s experienced kinetic energy"
   },
   {
     "old_key": "death.attack.freeze",
     "old_value": "%1$s 凍死咗",
     "new_key": "death.attack.freeze",
-    "new_value": "%1$s 凍死了",
+    "new_value": "%1$s 已凍死",
     "en_us": "%1$s froze to death"
   },
   {
     "old_key": "death.attack.freeze.player",
     "old_value": "%1$s 被 %2$s 凍死咗",
     "new_key": "death.attack.freeze.player",
-    "new_value": "%1$s 被 %2$s 凍死了",
+    "new_value": "%1$s 被 %2$s 凍死",
     "en_us": "%1$s was frozen to death by %2$s"
   },
   {
     "old_key": "death.attack.generic",
     "old_value": "%1$s 死咗",
     "new_key": "death.attack.generic",
-    "new_value": "%1$s 死了",
+    "new_value": "%1$s 死亡",
     "en_us": "%1$s died"
   },
   {
     "old_key": "death.attack.hotFloor",
     "old_value": "%1$s 發覺地板係熔岩鋪嘅",
     "new_key": "death.attack.hotFloor",
-    "new_value": "%1$s 發現地板是熔岩",
+    "new_value": "%1$s 發現地板是熔巖",
     "en_us": "%1$s discovered the floor was lava"
   },
   {
     "old_key": "death.attack.indirectMagic",
     "old_value": "%1$s 被 %2$s 嘅神祕力量殺死咗",
     "new_key": "death.attack.indirectMagic",
-    "new_value": "%1$s 被 %2$s 的神祕力量殺死了",
+    "new_value": "%1$s 被 %2$s 的神祕力量殺死",
     "en_us": "%1$s was killed by %2$s using magic"
   },
   {
     "old_key": "death.attack.indirectMagic.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
     "new_key": "death.attack.indirectMagic.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死",
     "en_us": "%1$s was killed by %2$s using %3$s"
   },
   {
@@ -3062,8 +3566,15 @@
     "old_key": "death.attack.lava",
     "old_value": "%1$s 諗住喺熔岩入面游水",
     "new_key": "death.attack.lava",
-    "new_value": "%1$s 試圖在熔岩內游泳",
+    "new_value": "%1$s 試圖在熔巖內游泳",
     "en_us": "%1$s tried to swim in lava"
+  },
+  {
+    "old_key": "death.attack.lava.player",
+    "old_value": "%1$s 試圖逃離 %2$s 時跳入熔岩",
+    "new_key": "death.attack.lava.player",
+    "new_value": "%1$s 試圖逃離 %2$s 時跳入熔巖",
+    "en_us": "%1$s tried to swim in lava to escape %2$s"
   },
   {
     "old_key": "death.attack.lightningBolt",
@@ -3076,21 +3587,21 @@
     "old_key": "death.attack.mob",
     "old_value": "%1$s 被 %2$s 殺死咗",
     "new_key": "death.attack.mob",
-    "new_value": "%1$s 被 %2$s 殺死了",
+    "new_value": "%1$s 被 %2$s 殺死",
     "en_us": "%1$s was slain by %2$s"
   },
   {
     "old_key": "death.attack.mob.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
     "new_key": "death.attack.mob.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死",
     "en_us": "%1$s was slain by %2$s using %3$s"
   },
   {
     "old_key": "death.attack.onFire",
     "old_value": "%1$s 燒燶咗",
     "new_key": "death.attack.onFire",
-    "new_value": "%1$s 燒糊了",
+    "new_value": "%1$s 被燒死",
     "en_us": "%1$s burned to death"
   },
   {
@@ -3111,77 +3622,77 @@
     "old_key": "death.attack.player",
     "old_value": "%1$s 被 %2$s 殺死咗",
     "new_key": "death.attack.player",
-    "new_value": "%1$s 被 %2$s 殺死了",
+    "new_value": "%1$s 被 %2$s 殺死",
     "en_us": "%1$s was slain by %2$s"
   },
   {
     "old_key": "death.attack.player.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 殺死咗",
     "new_key": "death.attack.player.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 殺死了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 殺死",
     "en_us": "%1$s was slain by %2$s using %3$s"
   },
   {
     "old_key": "death.attack.stalagmite",
     "old_value": "%1$s 被石筍刺死咗",
     "new_key": "death.attack.stalagmite",
-    "new_value": "%1$s 被石筍刺死了",
+    "new_value": "%1$s 被石筍刺死",
     "en_us": "%1$s was impaled on a stalagmite"
   },
   {
     "old_key": "death.attack.starve",
     "old_value": "%1$s 變成咗餓鬼",
     "new_key": "death.attack.starve",
-    "new_value": "%1$s 成了餓鬼",
+    "new_value": "%1$s 變成餓鬼",
     "en_us": "%1$s starved to death"
   },
   {
     "old_key": "death.attack.sting",
     "old_value": "%1$s 被叮死咗",
     "new_key": "death.attack.sting",
-    "new_value": "%1$s 被叮死了",
+    "new_value": "%1$s 被叮死",
     "en_us": "%1$s was stung to death"
   },
   {
     "old_key": "death.attack.sting.player",
     "old_value": "%1$s 被 %2$s 叮死咗",
     "new_key": "death.attack.sting.player",
-    "new_value": "%1$s 被 %2$s 叮死了",
+    "new_value": "%1$s 被 %2$s 叮死",
     "en_us": "%1$s was stung to death by %2$s"
   },
   {
     "old_key": "death.attack.sweetBerryBush",
     "old_value": "%1$s 被甜莓灌木叢拮死咗",
     "new_key": "death.attack.sweetBerryBush",
-    "new_value": "%1$s 被甜莓灌木叢刺死了",
+    "new_value": "%1$s 被甜莓灌木叢刺死",
     "en_us": "%1$s was poked to death by a sweet berry bush"
   },
   {
     "old_key": "death.attack.trident",
     "old_value": "%1$s 被 %2$s 拮穿咗",
     "new_key": "death.attack.trident",
-    "new_value": "%1$s 被 %2$s 刺穿了",
+    "new_value": "%1$s 被 %2$s 刺穿",
     "en_us": "%1$s was impaled by %2$s"
   },
   {
     "old_key": "death.attack.trident.item",
     "old_value": "%1$s 被 %2$s 用 %3$s 拮穿咗",
     "new_key": "death.attack.trident.item",
-    "new_value": "%1$s 被 %2$s 用 %3$s 刺穿了",
+    "new_value": "%1$s 被 %2$s 用 %3$s 刺穿",
     "en_us": "%1$s was impaled by %2$s with %3$s"
   },
   {
     "old_key": "death.attack.wither",
     "old_value": "%1$s 凋零咗",
     "new_key": "death.attack.wither",
-    "new_value": "%1$s 凋零了",
+    "new_value": "%1$s 化為凋零",
     "en_us": "%1$s withered away"
   },
   {
     "old_key": "death.attack.witherSkull",
     "old_value": "%1$s 被 %2$s 發射嘅頭顱射中咗",
     "new_key": "death.attack.witherSkull",
-    "new_value": "%1$s 被 %2$s 發射的頭顱射中了",
+    "new_value": "%1$s 被 %2$s 發射的頭顱射中",
     "en_us": "%1$s was shot by a skull from %2$s"
   },
   {
@@ -3449,6 +3960,13 @@
     "new_key": "entity.minecraft.glow_squid",
     "new_value": "熒光墨魚",
     "en_us": "Glow Squid"
+  },
+  {
+    "old_key": "entity.minecraft.magma_cube",
+    "old_value": "岩漿史萊姆",
+    "new_key": "entity.minecraft.magma_cube",
+    "new_value": "巖漿史萊姆",
+    "en_us": "Magma Cube"
   },
   {
     "old_key": "entity.minecraft.pufferfish",
@@ -3885,6 +4403,13 @@
     "en_us": "Husk Spawn Egg"
   },
   {
+    "old_key": "item.minecraft.lava_bucket",
+    "old_value": "熔岩桶",
+    "new_key": "item.minecraft.lava_bucket",
+    "new_value": "熔巖桶",
+    "en_us": "Lava Bucket"
+  },
+  {
     "old_key": "item.minecraft.lingering_potion.effect.empty",
     "old_value": "滯留型不可合成嘅藥水",
     "new_key": "item.minecraft.lingering_potion.effect.empty",
@@ -3899,10 +4424,17 @@
     "en_us": "Llama Spawn Egg"
   },
   {
+    "old_key": "item.minecraft.magma_cream",
+    "old_value": "岩漿球",
+    "new_key": "item.minecraft.magma_cream",
+    "new_value": "巖漿球",
+    "en_us": "Magma Cream"
+  },
+  {
     "old_key": "item.minecraft.magma_cube_spawn_egg",
     "old_value": "岩漿史萊姆 生成蛋",
     "new_key": "item.minecraft.magma_cube_spawn_egg",
-    "new_value": "岩漿史萊姆生成蛋",
+    "new_value": "巖漿史萊姆生成蛋",
     "en_us": "Magma Cube Spawn Egg"
   },
   {
@@ -4455,7 +4987,7 @@
     "old_key": "multiplayer.player.left",
     "old_value": "%s 離開咗遊戲",
     "new_key": "multiplayer.player.left",
-    "new_value": "%s 離開了遊戲",
+    "new_value": "%s 已離開遊戲",
     "en_us": "%s left the game"
   },
   {
@@ -4651,7 +5183,7 @@
     "old_key": "options.graphics.fabulous.tooltip",
     "old_value": "「%s」畫質用影像着色器嚟描繪天氣、雲層，同埋水後面、透明方塊嘅粒子。\n不過，配搭流動裝置或者 4K 設備嗰陣有機會嚴重影響效能。",
     "new_key": "options.graphics.fabulous.tooltip",
-    "new_value": "「%s」畫質用影像着色器來描繪天氣、雲層，以及水後面、透明方塊的粒子。\n不過，配搭流動裝置或者 4K 設備時可能會嚴重影響效能。",
+    "new_value": "%s 畫質用影像着色器在不透明方塊與水後方繪製天氣、雲層及粒子。\n此選項或會嚴重影響流動裝置及 4K 設備的效能。",
     "en_us": "%s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and water.\nThis may severely impact performance for portable devices and 4K displays."
   },
   {
@@ -5071,14 +5603,14 @@
     "old_key": "stat_type.minecraft.killed",
     "old_value": "你殺死咗 %s 個 %s",
     "new_key": "stat_type.minecraft.killed",
-    "new_value": "你殺死了 %s 個 %s",
+    "new_value": "你已殺死 %s 個 %s",
     "en_us": "You killed %s %s"
   },
   {
     "old_key": "stat_type.minecraft.killed_by",
     "old_value": "%s 殺咗你 %s 次",
     "new_key": "stat_type.minecraft.killed_by",
-    "new_value": "%s 殺死了你 %s 次",
+    "new_value": "%s 殺死過你 %s 次",
     "en_us": "%s killed you %s time(s)"
   },
   {
@@ -5194,6 +5726,13 @@
     "en_us": "Shears scrape"
   },
   {
+    "old_key": "subtitles.block.bell.resonate",
+    "old_value": "鐘聲回響",
+    "new_key": "subtitles.block.bell.resonate",
+    "new_value": "鐘回響聲",
+    "en_us": "Bell resonates"
+  },
+  {
     "old_key": "subtitles.block.dispenser.dispense",
     "old_value": "發射器射出物品",
     "new_key": "subtitles.block.dispenser.dispense",
@@ -5208,6 +5747,34 @@
     "en_us": "Sliding down a honey block"
   },
   {
+    "old_key": "subtitles.block.lava.ambient",
+    "old_value": "熔岩冒泡聲",
+    "new_key": "subtitles.block.lava.ambient",
+    "new_value": "熔巖冒泡聲",
+    "en_us": "Lava pops"
+  },
+  {
+    "old_key": "subtitles.block.lava.extinguish",
+    "old_value": "熔岩嘶嘶聲",
+    "new_key": "subtitles.block.lava.extinguish",
+    "new_value": "熔巖嘶嘶聲",
+    "en_us": "Lava hisses"
+  },
+  {
+    "old_key": "subtitles.block.pointed_dripstone.drip_lava",
+    "old_value": "熔岩滴落",
+    "new_key": "subtitles.block.pointed_dripstone.drip_lava",
+    "new_value": "熔巖滴落",
+    "en_us": "Lava drips"
+  },
+  {
+    "old_key": "subtitles.block.pointed_dripstone.drip_lava_into_cauldron",
+    "old_value": "熔岩滴入鍋",
+    "new_key": "subtitles.block.pointed_dripstone.drip_lava_into_cauldron",
+    "new_value": "熔巖滴入鍋",
+    "en_us": "Lava drips into Cauldron"
+  },
+  {
     "old_key": "subtitles.block.pumpkin.carve",
     "old_value": "鉸剪雕刻",
     "new_key": "subtitles.block.pumpkin.carve",
@@ -5218,14 +5785,14 @@
     "old_key": "subtitles.entity.axolotl.idle_air",
     "old_value": "墨西哥蠑螈啾啾聲",
     "new_key": "subtitles.entity.axolotl.idle_air",
-    "new_value": "墨西哥蠑螈鳴叫",
+    "new_value": "墨西哥蠑螈鳴叫聲",
     "en_us": "Axolotl chirps"
   },
   {
     "old_key": "subtitles.entity.axolotl.idle_water",
     "old_value": "墨西哥蠑螈啾啾聲",
     "new_key": "subtitles.entity.axolotl.idle_water",
-    "new_value": "墨西哥蠑螈鳴叫",
+    "new_value": "墨西哥蠑螈鳴叫聲",
     "en_us": "Axolotl chirps"
   },
   {
@@ -5551,6 +6118,27 @@
     "en_us": "Llama eats"
   },
   {
+    "old_key": "subtitles.entity.magma_cube.death",
+    "old_value": "岩漿史萊姆死亡",
+    "new_key": "subtitles.entity.magma_cube.death",
+    "new_value": "巖漿史萊姆死亡",
+    "en_us": "Magma Cube dies"
+  },
+  {
+    "old_key": "subtitles.entity.magma_cube.hurt",
+    "old_value": "岩漿史萊姆受傷",
+    "new_key": "subtitles.entity.magma_cube.hurt",
+    "new_value": "巖漿史萊姆受傷",
+    "en_us": "Magma Cube hurts"
+  },
+  {
+    "old_key": "subtitles.entity.magma_cube.squish",
+    "old_value": "岩漿史萊姆彈跳聲",
+    "new_key": "subtitles.entity.magma_cube.squish",
+    "new_value": "巖漿史萊姆彈跳聲",
+    "en_us": "Magma Cube squishes"
+  },
+  {
     "old_key": "subtitles.entity.mooshroom.eat",
     "old_value": "蘑菇牛食嘢",
     "new_key": "subtitles.entity.mooshroom.eat",
@@ -5670,6 +6258,13 @@
     "en_us": "Parrot murmurs"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.ravager",
+    "old_value": "鸚鵡呼嚕聲",
+    "new_key": "subtitles.entity.parrot.imitate.ravager",
+    "new_value": "鸚鵡叫聲",
+    "en_us": "Parrot grunts"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.vex",
     "old_value": "鸚鵡發嬲",
     "new_key": "subtitles.entity.parrot.imitate.vex",
@@ -5680,7 +6275,7 @@
     "old_key": "subtitles.entity.parrot.imitate.vindicator",
     "old_value": "鸚鵡吱吱斟",
     "new_key": "subtitles.entity.parrot.imitate.vindicator",
-    "new_value": "鸚鵡低語",
+    "new_value": "鸚鵡喃喃聲",
     "en_us": "Parrot mutters"
   },
   {
@@ -5778,7 +6373,7 @@
     "old_key": "subtitles.entity.ravager.ambient",
     "old_value": "劫毀獸吱吱斟",
     "new_key": "subtitles.entity.ravager.ambient",
-    "new_value": "劫毀獸咕嚕聲",
+    "new_value": "劫毀獸叫聲",
     "en_us": "Ravager grunts"
   },
   {
@@ -5869,7 +6464,7 @@
     "old_key": "subtitles.entity.vindicator.ambient",
     "old_value": "衞道士吱吱斟",
     "new_key": "subtitles.entity.vindicator.ambient",
-    "new_value": "衞道士低語聲",
+    "new_value": "衞道士喃喃聲",
     "en_us": "Vindicator mutters"
   },
   {

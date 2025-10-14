@@ -265,6 +265,7 @@
   "options.chat.title": "聊天设置",
   "options.controls": "按键控制…",
   "options.fovEffectScale.tooltip": "控制游戏机制效果改变视场角的程度。",
+  "options.graphics.fancy.tooltip": "高品质画质会为大多数设备平衡性能和画面效果。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
   "options.graphics.fast.tooltip": "流畅画质将减少雨雪的可见数量。\n树叶等方块的透明效果将被禁用。",
   "options.mipmapLevels": "Mipmap级别",
   "options.modelPart.jacket": "外套",

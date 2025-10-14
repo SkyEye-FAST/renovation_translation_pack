@@ -394,6 +394,7 @@ options.renderClouds=雲
 options.renderDistance=顯示距離
 options.sensitivity=靈敏度
 options.sensitivity.max=超高速！！！
+options.showSubtitles=隱藏式字幕
 options.skinCustomisation=外觀自訂...
 options.skinCustomisation.title=外觀自訂
 options.sounds=音樂和音效...

@@ -358,6 +358,7 @@
   "options.hideLightningFlashes.tooltip": "防止打雷或其他環境效果造成天空閃爍。造成閃爍的光源依然可見。",
   "options.pixel_value": "%s：%spx",
   "options.realmsNotifications": "Realms 新聞及邀請",
+  "options.showSubtitles": "隱藏式字幕",
   "outOfMemory.message": "Minecraft 記憶體不足。\n\n可能是由於遊戲錯誤，或配置給 Java 虛擬機器的記憶體不足。\n\n為防止世界損毀，已結束目前遊戲。我們已嘗試釋放記憶體，讓您返回主選單並繼續遊玩，但這個方法也可能無法解決問題。\n\n如果您再次看到此訊息，請重新啟動遊戲。",
   "parsing.bool.invalid": "無效的布林值，應為 'true' 或 'false'，但實際為 '%s'",
   "resourcePack.broken_assets": "偵測到損壞的資源檔案",

@@ -325,6 +325,7 @@
   "options.hideLightningFlashes.tooltip": "防止打雷或其他環境效果造成天空閃爍。造成閃爍的光源依然可見。",
   "options.pixel_value": "%s：%spx",
   "options.realmsNotifications": "Realms 新聞及邀請",
+  "options.showSubtitles": "隱藏式字幕",
   "parsing.bool.invalid": "無效的布林值，應為 'true' 或 'false'，但實際為 '%s'",
   "resourcePack.broken_assets": "偵測到損壞的資源檔案",
   "resourcePack.vanilla.description": "Minecraft 預設的視覺與環境效果",

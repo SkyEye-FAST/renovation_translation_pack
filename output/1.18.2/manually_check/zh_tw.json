@@ -568,6 +568,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "顯示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隱藏式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "parsing.bool.invalid",
     "old_value": "無效的布林值，應為 'true' 或 'false' 但出現了 '%s'",
     "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",

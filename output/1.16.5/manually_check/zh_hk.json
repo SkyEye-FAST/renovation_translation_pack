@@ -128,6 +128,14 @@
     "new_en_us": "Upgrade your Pickaxe"
   },
   {
+    "old_key": "advancements.story.lava_bucket.description",
+    "old_value": "用鐵桶裝熔岩",
+    "old_en_us": "Fill a bucket with lava",
+    "new_key": "advancements.story.lava_bucket.description",
+    "new_value": "用鐵桶裝熔巖",
+    "new_en_us": "Fill a Bucket with lava"
+  },
+  {
     "old_key": "advancements.story.mine_stone.description",
     "old_value": "用你嘅新鎬挖掘石頭",
     "old_en_us": "Mine stone with your new pickaxe",
@@ -604,7 +612,7 @@
     "old_value": "%1$s 試圖逃離 %2$s 時被仙人掌拮死咗",
     "old_en_us": "%1$s walked into a cactus whilst trying to escape %2$s",
     "new_key": "death.attack.cactus.player",
-    "new_value": "%1$s 試圖逃離 %2$s 時被仙人掌刺死了",
+    "new_value": "%1$s 試圖逃離 %2$s 時被仙人掌刺死",
     "new_en_us": "%1$s walked into a cactus while trying to escape %2$s"
   },
   {
@@ -612,7 +620,7 @@
     "old_value": "%1$s 被龍之吐息燒燶咗",
     "old_en_us": "%1$s was roasted in dragon breath",
     "new_key": "death.attack.dragonBreath",
-    "new_value": "%1$s 被龍之吐息燒焦了",
+    "new_value": "%1$s 被龍之吐息燒焦",
     "new_en_us": "%1$s was roasted in dragon's breath"
   },
   {
@@ -620,7 +628,7 @@
     "old_value": "%1$s 被 %2$s 嘅龍之吐息燒燶咗",
     "old_en_us": "%1$s was roasted in dragon breath by %2$s",
     "new_key": "death.attack.dragonBreath.player",
-    "new_value": "%1$s 被 %2$s 的龍之吐息燒焦了",
+    "new_value": "%1$s 被 %2$s 的龍之吐息燒焦",
     "new_en_us": "%1$s was roasted in dragon's breath by %2$s"
   },
   {
@@ -660,7 +668,7 @@
     "old_value": "%1$s 試圖逃離 %2$s 時撞死咗",
     "old_en_us": "%1$s experienced kinetic energy whilst trying to escape %2$s",
     "new_key": "death.attack.flyIntoWall.player",
-    "new_value": "%1$s 試圖逃離 %2$s 時撞死了",
+    "new_value": "%1$s 試圖逃離 %2$s 時被撞死",
     "new_en_us": "%1$s experienced kinetic energy while trying to escape %2$s"
   },
   {
@@ -700,7 +708,7 @@
     "old_value": "%1$s 試圖逃離 %2$s 時被神祕力量殺死咗",
     "old_en_us": "%1$s was killed by magic whilst trying to escape %2$s",
     "new_key": "death.attack.magic.player",
-    "new_value": "%1$s 試圖逃離 %2$s 時被神祕力量殺死了",
+    "new_value": "%1$s 試圖逃離 %2$s 時被神祕力量殺死",
     "new_en_us": "%1$s was killed by magic while trying to escape %2$s"
   },
   {
@@ -716,7 +724,7 @@
     "old_value": "%1$s 同 %2$s 戰鬥時燒燶咗",
     "old_en_us": "%1$s was burnt to a crisp whilst fighting %2$s",
     "new_key": "death.attack.onFire.player",
-    "new_value": "%1$s 與 %2$s 戰鬥時被燒糊了",
+    "new_value": "%1$s 與 %2$s 戰鬥時被燒死",
     "new_en_us": "%1$s was burned to a crisp while fighting %2$s"
   },
   {
@@ -724,7 +732,7 @@
     "old_value": "%1$s 同 %2$s 戰鬥時變做餓鬼",
     "old_en_us": "%1$s starved to death whilst fighting %2$s",
     "new_key": "death.attack.starve.player",
-    "new_value": "%1$s 與 %2$s 戰鬥時成了餓鬼",
+    "new_value": "%1$s 與 %2$s 戰鬥時變成餓鬼",
     "new_en_us": "%1$s starved to death while fighting %2$s"
   },
   {
@@ -732,7 +740,7 @@
     "old_value": "%1$s 試圖逃離 %2$s 時被甜莓灌木叢拮死咗",
     "old_en_us": "%1$s was poked to death by a sweet berry bush whilst trying to escape %2$s",
     "new_key": "death.attack.sweetBerryBush.player",
-    "new_value": "%1$s 試圖逃離 %2$s 時被甜莓灌木叢刺死了",
+    "new_value": "%1$s 試圖逃離 %2$s 時被甜莓灌木叢刺死",
     "new_en_us": "%1$s was poked to death by a sweet berry bush while trying to escape %2$s"
   },
   {
@@ -740,7 +748,7 @@
     "old_value": "%1$s 同 %2$s 戰鬥時凋零咗",
     "old_en_us": "%1$s withered away whilst fighting %2$s",
     "new_key": "death.attack.wither.player",
-    "new_value": "%1$s 與 %2$s 戰鬥時凋零了",
+    "new_value": "%1$s 與 %2$s 戰鬥時化為凋零",
     "new_en_us": "%1$s withered away while fighting %2$s"
   },
   {
@@ -902,6 +910,22 @@
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
+    "old_key": "narration.suggestion",
+    "old_value": "已經從 %2$s 項建議中選擇第 %1$s 項：%3$s",
+    "old_en_us": "Selected suggestion %d out of %d: %s",
+    "new_key": "narration.suggestion",
+    "new_value": "已從 %2$s 項建議中選擇第 %1$s 項：%3$s",
+    "new_en_us": "Selected suggestion %s out of %s: %s"
+  },
+  {
+    "old_key": "narration.suggestion.tooltip",
+    "old_value": "已經從 %2$s 項建議中選擇第 %1$s 項：%3$s（%4$s）",
+    "old_en_us": "Selected suggestion %d out of %d: %s (%s)",
+    "new_key": "narration.suggestion.tooltip",
+    "new_value": "已從 %2$s 項建議中選擇第 %1$s 項：%3$s（%4$s）",
+    "new_en_us": "Selected suggestion %s out of %s: %s (%s)"
   },
   {
     "old_key": "options.accessibility.title",

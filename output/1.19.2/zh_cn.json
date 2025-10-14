@@ -225,6 +225,7 @@
   "options.chat.title": "聊天设置",
   "options.controls": "按键控制…",
   "options.directionalAudio.off.tooltip": "经典立体声。",
+  "options.graphics.fancy.tooltip": "高品质画质会为大多数设备平衡性能和画面效果。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
   "options.hideLightningFlashes": "隐藏天空闪烁效果",
   "options.hideLightningFlashes.tooltip": "防止闪电束或其他环境效果使天空闪烁。闪烁源本身仍将可见。",
   "options.realmsNotifications": "Realms新闻与邀请",

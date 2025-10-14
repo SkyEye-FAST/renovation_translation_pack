@@ -168,6 +168,13 @@
     "en_us": "Explore all Nether biomes"
   },
   {
+    "old_key": "advancements.nether.find_fortress.description",
+    "old_value": "尋其徑以入焱界府",
+    "new_key": "advancements.nether.find_fortress.description",
+    "new_value": "尋徑而入焱界府",
+    "en_us": "Break your way into a Nether Fortress"
+  },
+  {
     "old_key": "advancements.nether.get_wither_skull.description",
     "old_value": "得凋靈髑之首",
     "new_key": "advancements.nether.get_wither_skull.description",
@@ -187,6 +194,13 @@
     "new_key": "advancements.nether.return_to_sender.description",
     "new_value": "以火圓殺魄",
     "en_us": "Destroy a Ghast with a fireball"
+  },
+  {
+    "old_key": "advancements.nether.return_to_sender.title",
+    "old_value": "以牙還牙",
+    "new_key": "advancements.nether.return_to_sender.title",
+    "new_value": "悉數奉還",
+    "en_us": "Return to Sender"
   },
   {
     "old_key": "advancements.nether.ride_strider.description",
@@ -5943,6 +5957,13 @@
     "en_us": "Dolphin whistles"
   },
   {
+    "old_key": "subtitles.entity.donkey.angry",
+    "old_value": "驢鳴",
+    "new_key": "subtitles.entity.donkey.angry",
+    "new_value": "驢嘶鳴",
+    "en_us": "Donkey neighs"
+  },
+  {
     "old_key": "subtitles.entity.donkey.chest",
     "old_value": "驢獲箱",
     "new_key": "subtitles.entity.donkey.chest",
@@ -6088,6 +6109,20 @@
     "new_key": "subtitles.entity.guardian.ambient_land",
     "new_value": "海衛擺尾",
     "en_us": "Guardian flaps"
+  },
+  {
+    "old_key": "subtitles.entity.horse.ambient",
+    "old_value": "馬鳴",
+    "new_key": "subtitles.entity.horse.ambient",
+    "new_value": "馬嘶鳴",
+    "en_us": "Horse neighs"
+  },
+  {
+    "old_key": "subtitles.entity.horse.angry",
+    "old_value": "馬鳴",
+    "new_key": "subtitles.entity.horse.angry",
+    "new_value": "馬嘶鳴",
+    "en_us": "Horse neighs"
   },
   {
     "old_key": "subtitles.entity.horse.armor",

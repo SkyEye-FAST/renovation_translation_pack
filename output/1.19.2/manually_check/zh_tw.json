@@ -616,6 +616,14 @@
     "new_en_us": "Realms News & Invites"
   },
   {
+    "old_key": "options.showSubtitles",
+    "old_value": "顯示字幕",
+    "old_en_us": "Show Subtitles",
+    "new_key": "options.showSubtitles",
+    "new_value": "隱藏式字幕",
+    "new_en_us": "Closed Captions"
+  },
+  {
     "old_key": "outOfMemory.message",
     "old_value": "Minecraft 記憶體不足。\n\n可能是由於遊戲錯誤或配置給 Java 虛擬機器的記憶體不足。\n\n為防止世界損毀，已結束目前遊戲。我們已嘗試釋放記憶體，讓您返回主選單並繼續遊玩，但這個方法也可能無法解決問題。\n\n如果您再次看到此訊息，請重新啟動遊戲。",
     "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
