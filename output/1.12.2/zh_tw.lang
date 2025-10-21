@@ -37,6 +37,7 @@ debug.advanced_tooltips.off=進階提示：隱藏
 debug.advanced_tooltips.on=進階提示：顯示
 debug.creative_spectator.help=F3 + N = 循環切換 先前的遊戲模式 <-> 旁觀者模式
 debug.help.help=F3 + Q = 顯示此清單
+debug.pause_focus.help=F3 + P = 在失去焦點時暫停
 demo.day.1=試玩版只有五天的遊戲內時間。盡你所能吧！
 demo.day.6=你度過了你的第五天。按下 %s 來為你的創作保存一張擷圖。
 demo.help.inventory=使用 %1$s 鍵來開啟您的物品欄

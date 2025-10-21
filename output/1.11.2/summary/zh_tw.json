@@ -266,6 +266,13 @@
     "en_us": "F3 + Q = Show this list"
   },
   {
+    "old_key": "debug.pause_focus.help",
+    "old_value": "F3 + P = 在失焦時暫停",
+    "new_key": "debug.pause_focus.help",
+    "new_value": "F3 + P = 在失去焦點時暫停",
+    "en_us": "F3 + P = Pause on lost focus"
+  },
+  {
     "old_key": "demo.day.warning",
     "old_value": "你的時間即將用盡！",
     "new_key": "demo.day.warning",

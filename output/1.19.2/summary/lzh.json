@@ -52,7 +52,7 @@
     "old_key": "advancements.adventure.ol_betsy.description",
     "old_value": "以弩射",
     "new_key": "advancements.adventure.ol_betsy.description",
-    "new_value": "弩射之",
+    "new_value": "射以弩",
     "en_us": "Shoot a Crossbow"
   },
   {
@@ -276,14 +276,14 @@
     "old_key": "advancements.nether.find_fortress.description",
     "old_value": "尋其徑以入焱界府",
     "new_key": "advancements.nether.find_fortress.description",
-    "new_value": "尋徑而入焱界府",
+    "new_value": "披荊斬棘以入焱界府",
     "en_us": "Break your way into a Nether Fortress"
   },
   {
     "old_key": "advancements.nether.get_wither_skull.description",
     "old_value": "得凋靈髑之首",
     "new_key": "advancements.nether.get_wither_skull.description",
-    "new_value": "得凋靈骷髏之首",
+    "new_value": "得凋靈髑首",
     "en_us": "Obtain a Wither Skeleton's skull"
   },
   {

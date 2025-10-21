@@ -6142,7 +6142,7 @@
     "old_key": "selectWorld.gameMode.spectator.line1",
     "old_value": "你可以睇但唔可以摸",
     "new_key": "selectWorld.gameMode.spectator.line1",
-    "new_value": "你可以看但不可以觸摸",
+    "new_value": "你可以旁觀，惟無法交互",
     "en_us": "You can look but don't touch"
   },
   {

@@ -274,6 +274,7 @@
   "debug.advanced_tooltips.off": "進階提示：隱藏",
   "debug.advanced_tooltips.on": "進階提示：顯示",
   "debug.copy_location.help": "F3 + C = 將位置複製為 /tp 指令，長按 10 秒使遊戲崩潰",
+  "debug.pause_focus.help": "F3 + P = 在失去焦點時暫停",
   "difficulty.lock.question": "你確定要鎖定這個世界的難易度嗎？ 這個世界的難易度將永久設為%1$s，且無法再被更改。",
   "entity.minecraft.leash_knot": "拴繩結",
   "gameMode.hardcore": "極限模式",

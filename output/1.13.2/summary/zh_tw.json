@@ -2086,6 +2086,13 @@
     "en_us": "F3 + Q = Show this list"
   },
   {
+    "old_key": "debug.pause_focus.help",
+    "old_value": "F3 + P = 在失焦時暫停",
+    "new_key": "debug.pause_focus.help",
+    "new_value": "F3 + P = 在失去焦點時暫停",
+    "en_us": "F3 + P = Pause on lost focus"
+  },
+  {
     "old_key": "difficulty.lock.question",
     "old_value": "你確定要把此世界的難易度鎖定嗎？這樣會把此世界永久設置為%1$s，而無法再被更改。",
     "new_key": "difficulty.lock.question",

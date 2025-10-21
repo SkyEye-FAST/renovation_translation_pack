@@ -362,6 +362,7 @@
   "debug.copy_location.help": "F3 + C = 將位置複製為 /tp 指令，長按 10 秒使遊戲崩潰",
   "debug.creative_spectator.help": "F3 + N = 循環切換 先前的遊戲模式 <-> 旁觀者模式",
   "debug.help.help": "F3 + Q = 顯示此清單",
+  "debug.pause_focus.help": "F3 + P = 在失去焦點時暫停",
   "demo.day.1": "試玩版只有五天的遊戲內時間。盡你所能吧！",
   "demo.day.6": "你度過了你的第五天。按下 %s 來為你的創作保存一張擷圖。",
   "demo.reminder": "試玩時間已經結束。請購買遊戲來繼續，或重新開始一個新的世界！",

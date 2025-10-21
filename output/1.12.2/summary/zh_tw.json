@@ -140,6 +140,13 @@
     "en_us": "F3 + Q = Show this list"
   },
   {
+    "old_key": "debug.pause_focus.help",
+    "old_value": "F3 + P = 在失焦時暫停",
+    "new_key": "debug.pause_focus.help",
+    "new_value": "F3 + P = 在失去焦點時暫停",
+    "en_us": "F3 + P = Pause on lost focus"
+  },
+  {
     "old_key": "demo.help.inventory",
     "old_value": "使用 %1$s 鍵來打開你的物品欄",
     "new_key": "demo.help.inventory",

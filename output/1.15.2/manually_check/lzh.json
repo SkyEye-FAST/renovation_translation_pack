@@ -1,13 +1,5 @@
 [
   {
-    "old_key": "advancements.adventure.ol_betsy.description",
-    "old_value": "射以弩",
-    "old_en_us": "Shoot a crossbow",
-    "new_key": "advancements.adventure.ol_betsy.description",
-    "new_value": "弩射之",
-    "new_en_us": "Shoot a Crossbow"
-  },
-  {
     "old_key": "advancements.adventure.shoot_arrow.description",
     "old_value": "射而中獸",
     "old_en_us": "Shoot something with a bow and arrow",

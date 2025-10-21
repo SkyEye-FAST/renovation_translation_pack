@@ -2002,6 +2002,13 @@
     "en_us": "Chunk borders: shown"
   },
   {
+    "old_key": "debug.pause_focus.help",
+    "old_value": "F3 + P = 在失焦時暫停",
+    "new_key": "debug.pause_focus.help",
+    "new_value": "F3 + P = 在失去焦點時暫停",
+    "en_us": "F3 + P = Pause on lost focus"
+  },
+  {
     "old_key": "debug.pause_focus.off",
     "old_value": "在失去焦點時暫停： 停用",
     "new_key": "debug.pause_focus.off",
