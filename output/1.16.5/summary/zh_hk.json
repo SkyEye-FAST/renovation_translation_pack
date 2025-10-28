@@ -1816,7 +1816,7 @@
     "old_key": "commands.bossbar.unknown",
     "old_value": "並無 ID 為 '%s' 嘅 Boss 狀態條",
     "new_key": "commands.bossbar.unknown",
-    "new_value": "並無 ID 為 '%s' 的 Boss 狀態條",
+    "new_value": "並無 ID 為「%s」的 Boss 狀態條",
     "en_us": "No bossbar exists with the ID '%s'"
   },
   {
@@ -1902,6 +1902,13 @@
     "new_key": "commands.datapack.list.enabled.none",
     "new_value": "並無啟用的數據包",
     "en_us": "There are no data packs enabled"
+  },
+  {
+    "old_key": "commands.datapack.unknown",
+    "old_value": "未知數據包 '%s'",
+    "new_key": "commands.datapack.unknown",
+    "new_value": "未知數據包「%s」",
+    "en_us": "Unknown data pack '%s'"
   },
   {
     "old_key": "commands.deop.success",
@@ -2448,6 +2455,20 @@
     "new_key": "commands.tag.remove.failed",
     "new_value": "對象並無此標籤",
     "en_us": "Target does not have this tag"
+  },
+  {
+    "old_key": "commands.tag.remove.success.multiple",
+    "old_value": "已從 %2$s 個實體上移除 '%1$s' 標籤",
+    "new_key": "commands.tag.remove.success.multiple",
+    "new_value": "已從 %2$s 個實體上移除「%1$s」標籤",
+    "en_us": "Removed tag '%s' from %s entities"
+  },
+  {
+    "old_key": "commands.tag.remove.success.single",
+    "old_value": "已從 %2$s 上移除 '%1$s' 標籤",
+    "new_key": "commands.tag.remove.success.single",
+    "new_value": "已從 %2$s 上移除「%1$s」標籤",
+    "en_us": "Removed tag '%s' from %s"
   },
   {
     "old_key": "commands.team.add.duplicate",
@@ -4784,7 +4805,7 @@
     "old_key": "structure_block.load_success",
     "old_value": "已經從 '%s' 載入結構",
     "new_key": "structure_block.load_success",
-    "new_value": "已從 '%s' 載入結構",
+    "new_value": "已從「%s」載入結構",
     "en_us": "Structure loaded from '%s'"
   },
   {

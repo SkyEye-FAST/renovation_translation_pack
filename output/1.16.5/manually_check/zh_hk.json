@@ -488,6 +488,14 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.function.success.single",
+    "old_value": "已從函數 '%2$s' 內執行 %1$s 個命令",
+    "old_en_us": "Executed %s commands from function '%s'",
+    "new_key": "commands.function.success.single",
+    "new_value": "已從函數「%2$s」內執行 %1$s 個命令",
+    "new_en_us": "Executed %s command(s) from function '%s'"
+  },
+  {
     "old_key": "commands.recipe.take.success.multiple",
     "old_value": "已移除 %2$s 個玩家嘅 %1$s 條合成配方",
     "old_en_us": "Took %s recipes from %s players",

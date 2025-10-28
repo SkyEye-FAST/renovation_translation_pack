@@ -320,6 +320,14 @@
     "new_en_us": "There are %s data pack(s) enabled: %s"
   },
   {
+    "old_key": "commands.debug.function.success.single",
+    "old_value": "已追蹤函數 '%2$s' 內 %1$s 條命令到輸出檔案 %3$s",
+    "old_en_us": "Traced %s commands from function '%s' to output file %s",
+    "new_key": "commands.debug.function.success.single",
+    "new_value": "已追蹤函數「%2$s」內 %1$s 條命令到輸出檔案 %3$s",
+    "new_en_us": "Traced %s command(s) from function '%s' to output file %s"
+  },
+  {
     "old_key": "commands.debug.stopped",
     "old_value": "已停止持續 %s 秒（%s 刻）嘅刻點分析器（每秒 %s 刻）",
     "old_en_us": "Stopped tick profiling after %s seconds and %s ticks (%s ticks per second)",
@@ -358,6 +366,14 @@
     "new_key": "commands.forceload.toobig",
     "new_value": "指定區域內的區塊太多（最大值為 %s，指定為 %s）",
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.function.success.single",
+    "old_value": "已從函數 '%2$s' 內執行 %1$s 個命令",
+    "old_en_us": "Executed %s commands from function '%s'",
+    "new_key": "commands.function.success.single",
+    "new_value": "已從函數「%2$s」內執行 %1$s 個命令",
+    "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
     "old_key": "commands.perf.stopped",
