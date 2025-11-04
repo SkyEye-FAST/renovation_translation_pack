@@ -241,7 +241,7 @@
     "old_key": "advancements.nether.ride_strider.description",
     "old_value": "利用迷離菌菇魚竿騎乘熾足獸",
     "new_key": "advancements.nether.ride_strider.description",
-    "new_value": "用迷離菌菇魚竿騎乘熾足獸",
+    "new_value": "用迷離菌菇魚竿策騎熾足獸",
     "en_us": "Ride a Strider with a Warped Fungus on a Stick"
   },
   {
@@ -1106,6 +1106,13 @@
     "en_us": "Infested Stone Bricks"
   },
   {
+    "old_key": "block.minecraft.iron_trapdoor",
+    "old_value": "鐵製地板門",
+    "new_key": "block.minecraft.iron_trapdoor",
+    "new_value": "鐵地板門",
+    "en_us": "Iron Trapdoor"
+  },
+  {
     "old_key": "block.minecraft.jungle_wall_sign",
     "old_value": "牆上嘅叢林木指示牌",
     "new_key": "block.minecraft.jungle_wall_sign",
@@ -1405,6 +1412,20 @@
     "new_key": "block.minecraft.spruce_wall_sign",
     "new_value": "牆上的杉木指示牌",
     "en_us": "Spruce Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.stone_button",
+    "old_value": "石製按鈕",
+    "new_key": "block.minecraft.stone_button",
+    "new_value": "石按鈕",
+    "en_us": "Stone Button"
+  },
+  {
+    "old_key": "block.minecraft.stone_pressure_plate",
+    "old_value": "石製壓力板",
+    "new_key": "block.minecraft.stone_pressure_plate",
+    "new_value": "石壓力板",
+    "en_us": "Stone Pressure Plate"
   },
   {
     "old_key": "block.minecraft.stripped_crimson_stem",
@@ -2229,7 +2250,7 @@
     "old_key": "commands.scoreboard.objectives.modify.rendertype",
     "old_value": "已更改目標 %s 嘅顯示類型",
     "new_key": "commands.scoreboard.objectives.modify.rendertype",
-    "new_value": "已變更目標 %s 的顯示類型",
+    "new_value": "已變更目標 %s 的渲染類型",
     "en_us": "Changed the render type of objective %s"
   },
   {
@@ -3181,7 +3202,7 @@
     "old_key": "demo.help.inventory",
     "old_value": "使用 %1$s 鍵來打開你嘅物品欄",
     "new_key": "demo.help.inventory",
-    "new_value": "使用 %1$s 鍵來打開你的物品欄",
+    "new_value": "用 %1$s 鍵打開你的物品欄",
     "en_us": "Use the %1$s key to open your inventory"
   },
   {
@@ -3190,6 +3211,13 @@
     "new_key": "demo.help.movement",
     "new_value": "用 %1$s、%2$s、%3$s、%4$s 鍵與滑鼠移動",
     "en_us": "Use the %1$s, %2$s, %3$s, %4$s keys and the mouse to move around"
+  },
+  {
+    "old_key": "demo.help.movementMouse",
+    "old_value": "使用滑鼠來環顧四周",
+    "new_key": "demo.help.movementMouse",
+    "new_value": "用滑鼠環顧四周",
+    "en_us": "Look around using the mouse"
   },
   {
     "old_key": "demo.help.movementShort",
@@ -4410,6 +4438,13 @@
     "en_us": "Graphics Device Unsupported"
   },
   {
+    "old_key": "options.renderDistance",
+    "old_value": "顯示距離",
+    "new_key": "options.renderDistance",
+    "new_value": "渲染距離",
+    "en_us": "Render Distance"
+  },
+  {
     "old_key": "options.screenEffectScale.tooltip",
     "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
     "new_key": "options.screenEffectScale.tooltip",
@@ -4774,6 +4809,13 @@
     "en_us": "Items Dropped"
   },
   {
+    "old_key": "stat.minecraft.horse_one_cm",
+    "old_value": "騎馬移動距離",
+    "new_key": "stat.minecraft.horse_one_cm",
+    "new_value": "馬策騎距離",
+    "en_us": "Distance by Horse"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_beacon",
     "old_value": "烽火台使用次數",
     "new_key": "stat.minecraft.interact_with_beacon",
@@ -4781,11 +4823,25 @@
     "en_us": "Interactions with Beacon"
   },
   {
+    "old_key": "stat.minecraft.pig_one_cm",
+    "old_value": "騎豬移動距離",
+    "new_key": "stat.minecraft.pig_one_cm",
+    "new_value": "豬策騎距離",
+    "en_us": "Distance by Pig"
+  },
+  {
     "old_key": "stat.minecraft.sleep_in_bed",
     "old_value": "瞓覺次數",
     "new_key": "stat.minecraft.sleep_in_bed",
     "new_value": "入睡次數",
     "en_us": "Times Slept in a Bed"
+  },
+  {
+    "old_key": "stat.minecraft.strider_one_cm",
+    "old_value": "騎熾足獸移動距離",
+    "new_key": "stat.minecraft.strider_one_cm",
+    "new_value": "熾足獸策騎距離",
+    "en_us": "Distance by Strider"
   },
   {
     "old_key": "structure_block.load_not_found",
@@ -4970,6 +5026,13 @@
     "en_us": "Egg flies"
   },
   {
+    "old_key": "subtitles.entity.ender_dragon.growl",
+    "old_value": "終界龍咆哮聲",
+    "new_key": "subtitles.entity.ender_dragon.growl",
+    "new_value": "終界龍吼叫聲",
+    "en_us": "Dragon growls"
+  },
+  {
     "old_key": "subtitles.entity.ender_eye.launch",
     "old_value": "終界之眼被掟出",
     "new_key": "subtitles.entity.ender_eye.launch",
@@ -5073,6 +5136,20 @@
     "new_key": "subtitles.entity.generic.swim",
     "new_value": "游泳",
     "en_us": "Swimming"
+  },
+  {
+    "old_key": "subtitles.entity.ghast.ambient",
+    "old_value": "地獄幽靈喊聲",
+    "new_key": "subtitles.entity.ghast.ambient",
+    "new_value": "地獄幽靈哭泣聲",
+    "en_us": "Ghast cries"
+  },
+  {
+    "old_key": "subtitles.entity.hoglin.ambient",
+    "old_value": "野豬獸咆哮聲",
+    "new_key": "subtitles.entity.hoglin.ambient",
+    "new_value": "野豬獸吼叫聲",
+    "en_us": "Hoglin growls"
   },
   {
     "old_key": "subtitles.entity.horse.eat",
@@ -5271,11 +5348,25 @@
     "en_us": "Parrot cries"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.hoglin",
+    "old_value": "鸚鵡咆哮聲",
+    "new_key": "subtitles.entity.parrot.imitate.hoglin",
+    "new_value": "鸚鵡吼叫聲",
+    "en_us": "Parrot growls"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.illusioner",
     "old_value": "鸚鵡吱吱斟",
     "new_key": "subtitles.entity.parrot.imitate.illusioner",
     "new_value": "鸚鵡低語",
     "en_us": "Parrot murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.parrot.imitate.piglin",
+    "old_value": "鸚鵡叫聲",
+    "new_key": "subtitles.entity.parrot.imitate.piglin",
+    "new_value": "鸚鵡哼叫聲",
+    "en_us": "Parrot snorts"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.pillager",
@@ -5313,6 +5404,13 @@
     "en_us": "Parrot angers"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.zoglin",
+    "old_value": "鸚鵡咆哮聲",
+    "new_key": "subtitles.entity.parrot.imitate.zoglin",
+    "new_value": "鸚鵡吼叫聲",
+    "en_us": "Parrot growls"
+  },
+  {
     "old_key": "subtitles.entity.phantom.bite",
     "old_value": "夜魅咬嘢",
     "new_key": "subtitles.entity.phantom.bite",
@@ -5320,10 +5418,17 @@
     "en_us": "Phantom bites"
   },
   {
+    "old_key": "subtitles.entity.piglin_brute.ambient",
+    "old_value": "殘暴豬人叫聲",
+    "new_key": "subtitles.entity.piglin_brute.ambient",
+    "new_value": "殘暴豬人哼叫聲",
+    "en_us": "Piglin Brute snorts"
+  },
+  {
     "old_key": "subtitles.entity.piglin_brute.angry",
     "old_value": "殘暴豬人憤怒叫聲",
     "new_key": "subtitles.entity.piglin_brute.angry",
-    "new_value": "殘暴豬人發怒叫聲",
+    "new_value": "殘暴豬人發怒哼叫聲",
     "en_us": "Piglin Brute snorts angrily"
   },
   {
@@ -5334,11 +5439,32 @@
     "en_us": "Piglin Brute converts to Zombified Piglin"
   },
   {
+    "old_key": "subtitles.entity.piglin.ambient",
+    "old_value": "豬人叫聲",
+    "new_key": "subtitles.entity.piglin.ambient",
+    "new_value": "豬人哼叫聲",
+    "en_us": "Piglin snorts"
+  },
+  {
+    "old_key": "subtitles.entity.piglin.angry",
+    "old_value": "豬人憤怒叫聲",
+    "new_key": "subtitles.entity.piglin.angry",
+    "new_value": "豬人憤怒哼叫聲",
+    "en_us": "Piglin snorts angrily"
+  },
+  {
     "old_key": "subtitles.entity.piglin.converted_to_zombified",
     "old_value": "豬人變成殭屍豬人",
     "new_key": "subtitles.entity.piglin.converted_to_zombified",
     "new_value": "豬人變成喪屍豬人",
     "en_us": "Piglin converts to Zombified Piglin"
+  },
+  {
+    "old_key": "subtitles.entity.piglin.jealous",
+    "old_value": "豬人妒忌叫聲",
+    "new_key": "subtitles.entity.piglin.jealous",
+    "new_value": "豬人妒忌哼叫聲",
+    "en_us": "Piglin snorts enviously"
   },
   {
     "old_key": "subtitles.entity.pillager.ambient",
@@ -5409,6 +5535,13 @@
     "new_key": "subtitles.entity.ravager.attack",
     "new_value": "劫毀獸啃咬",
     "en_us": "Ravager bites"
+  },
+  {
+    "old_key": "subtitles.entity.skeleton_horse.ambient",
+    "old_value": "骷髏骨馬嘶叫聲",
+    "new_key": "subtitles.entity.skeleton_horse.ambient",
+    "new_value": "骷髏骨馬嘶鳴聲",
+    "en_us": "Skeleton Horse cries"
   },
   {
     "old_key": "subtitles.entity.skeleton_horse.swim",
@@ -5516,10 +5649,24 @@
     "en_us": "Wither angers"
   },
   {
+    "old_key": "subtitles.entity.zoglin.ambient",
+    "old_value": "豬屍獸咆哮聲",
+    "new_key": "subtitles.entity.zoglin.ambient",
+    "new_value": "豬屍獸吼叫聲",
+    "en_us": "Zoglin growls"
+  },
+  {
+    "old_key": "subtitles.entity.zoglin.angry",
+    "old_value": "豬屍獸憤怒咆哮聲",
+    "new_key": "subtitles.entity.zoglin.angry",
+    "new_value": "豬屍獸憤怒吼叫聲",
+    "en_us": "Zoglin growls angrily"
+  },
+  {
     "old_key": "subtitles.entity.zombie_horse.ambient",
     "old_value": "殭屍馬嘶叫聲",
     "new_key": "subtitles.entity.zombie_horse.ambient",
-    "new_value": "喪屍馬嘶叫聲",
+    "new_value": "喪屍馬嘶鳴聲",
     "en_us": "Zombie Horse cries"
   },
   {

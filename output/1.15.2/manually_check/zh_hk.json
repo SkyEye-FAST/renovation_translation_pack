@@ -540,7 +540,7 @@
     "old_value": "已變更目標 %s 嘅顯示類型",
     "old_en_us": "Changed objective %s render type",
     "new_key": "commands.scoreboard.objectives.modify.rendertype",
-    "new_value": "已變更目標 %s 的顯示類型",
+    "new_value": "已變更目標 %s 的渲染類型",
     "new_en_us": "Changed the render type of objective %s"
   },
   {
