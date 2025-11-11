@@ -1,5 +1,12 @@
 [
   {
+    "old_key": "advancements.adventure.arbalistic.description",
+    "old_value": "用弩一发击杀五只不同的生物",
+    "new_key": "advancements.adventure.arbalistic.description",
+    "new_value": "用弩一发击杀五种生物",
+    "en_us": "Kill five unique mobs with one crossbow shot"
+  },
+  {
     "old_key": "advancements.adventure.honey_block_slide.description",
     "old_value": "跳入蜂蜜块以缓解摔落",
     "new_key": "advancements.adventure.honey_block_slide.description",
@@ -1127,6 +1134,13 @@
     "en_us": "You can only trigger objectives that are 'trigger' type"
   },
   {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "正在将世界边界的宽度扩大为%s个方块，时间%s秒",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
+    "en_us": "Growing the world border to %s blocks wide over %s seconds"
+  },
+  {
     "old_key": "connect.authorizing",
     "old_value": "登入中…",
     "new_key": "connect.authorizing",
@@ -1230,6 +1244,13 @@
     "new_key": "debug.show_hitboxes.on",
     "new_value": "判定箱：显示",
     "en_us": "Hitboxes: shown"
+  },
+  {
+    "old_key": "demo.help.jump",
+    "old_value": "按%1$s来跳跃",
+    "new_key": "demo.help.jump",
+    "new_value": "按下%1$s键来跳跃",
+    "en_us": "Jump by pressing the %1$s key"
   },
   {
     "old_key": "demo.help.later",
@@ -1778,6 +1799,69 @@
     "en_us": "You killed %s %s"
   },
   {
+    "old_key": "stat.minecraft.climb_one_cm",
+    "old_value": "已攀爬距离",
+    "new_key": "stat.minecraft.climb_one_cm",
+    "new_value": "攀爬距离",
+    "en_us": "Distance Climbed"
+  },
+  {
+    "old_key": "stat.minecraft.damage_absorbed",
+    "old_value": "吸收的伤害",
+    "new_key": "stat.minecraft.damage_absorbed",
+    "new_value": "吸收伤害量",
+    "en_us": "Damage Absorbed"
+  },
+  {
+    "old_key": "stat.minecraft.damage_dealt",
+    "old_value": "造成伤害",
+    "new_key": "stat.minecraft.damage_dealt",
+    "new_value": "造成伤害量",
+    "en_us": "Damage Dealt"
+  },
+  {
+    "old_key": "stat.minecraft.damage_dealt_absorbed",
+    "old_value": "造成伤害（被吸收）",
+    "new_key": "stat.minecraft.damage_dealt_absorbed",
+    "new_value": "造成伤害量（被吸收）",
+    "en_us": "Damage Dealt (Absorbed)"
+  },
+  {
+    "old_key": "stat.minecraft.damage_dealt_resisted",
+    "old_value": "造成伤害（被抵挡）",
+    "new_key": "stat.minecraft.damage_dealt_resisted",
+    "new_value": "造成伤害量（被抵挡）",
+    "en_us": "Damage Dealt (Resisted)"
+  },
+  {
+    "old_key": "stat.minecraft.damage_resisted",
+    "old_value": "抵挡的伤害",
+    "new_key": "stat.minecraft.damage_resisted",
+    "new_value": "抵挡伤害量",
+    "en_us": "Damage Resisted"
+  },
+  {
+    "old_key": "stat.minecraft.damage_taken",
+    "old_value": "受到伤害",
+    "new_key": "stat.minecraft.damage_taken",
+    "new_value": "承受伤害量",
+    "en_us": "Damage Taken"
+  },
+  {
+    "old_key": "stat.minecraft.drop",
+    "old_value": "物品掉落",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丢弃物品次数",
+    "en_us": "Items Dropped"
+  },
+  {
+    "old_key": "stat.minecraft.eat_cake_slice",
+    "old_value": "吃掉的蛋糕片数",
+    "new_key": "stat.minecraft.eat_cake_slice",
+    "new_value": "食用蛋糕片数",
+    "en_us": "Cake Slices Eaten"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_anvil",
     "old_value": "与铁砧互动次数",
     "new_key": "stat.minecraft.interact_with_anvil",
@@ -1867,6 +1951,13 @@
     "new_key": "stat.minecraft.interact_with_stonecutter",
     "new_value": "与切石机交互次数",
     "en_us": "Interactions with Stonecutter"
+  },
+  {
+    "old_key": "stat.minecraft.sleep_in_bed",
+    "old_value": "躺在床上的次数",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "入眠次数",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "structure_block.invalid_structure_name",

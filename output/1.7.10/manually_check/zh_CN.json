@@ -172,7 +172,7 @@
     "old_value": "按 %1$s 跳跃",
     "old_en_us": "Jump by pressing %1$s",
     "new_key": "demo.help.jump",
-    "new_value": "按%1$s来跳跃",
+    "new_value": "按下%1$s键来跳跃",
     "new_en_us": "Jump by pressing the %1$s key"
   },
   {

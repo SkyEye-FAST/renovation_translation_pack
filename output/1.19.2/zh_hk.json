@@ -954,7 +954,7 @@
   "options.difficulty": "難度",
   "options.difficulty.online": "伺服器難度",
   "options.directionalAudio.off.tooltip": "經典立體聲效果。",
-  "options.directionalAudio.on.tooltip": "使用以 HRTF 為基礎的環繞音訊，令 3D 音訊模擬得更好。需要相容的 HRTF 音訊硬體，而且需要佩戴耳機先可以獲得最佳體驗。",
+  "options.directionalAudio.on.tooltip": "採用基於 HRTF 的環繞音訊以提升 3D 音訊的模擬效果。此選項須配備相容的 HRTF 硬件方可啟用。佩戴頭戴式耳機可獲最佳體驗。",
   "options.fovEffectScale.tooltip": "控制視角廣度隨遊戲機制效果變更程度。",
   "options.generic_value": "%s：%s",
   "options.graphics.fabulous": "極佳！",

@@ -1827,6 +1827,34 @@
     "en_us": "More World Options..."
   },
   {
+    "old_key": "stat.climbOneCm",
+    "old_value": "已攀爬距离",
+    "new_key": "stat.minecraft.climb_one_cm",
+    "new_value": "攀爬距离",
+    "en_us": "Distance Climbed"
+  },
+  {
+    "old_key": "stat.damageDealt",
+    "old_value": "造成伤害",
+    "new_key": "stat.minecraft.damage_dealt",
+    "new_value": "造成伤害量",
+    "en_us": "Damage Dealt"
+  },
+  {
+    "old_key": "stat.damageTaken",
+    "old_value": "受到伤害",
+    "new_key": "stat.minecraft.damage_taken",
+    "new_value": "承受伤害量",
+    "en_us": "Damage Taken"
+  },
+  {
+    "old_key": "stat.drop",
+    "old_value": "物品掉落",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丢弃物品次数",
+    "en_us": "Items Dropped"
+  },
+  {
     "old_key": "stat.entityKilledBy.none",
     "old_value": "你从来没有被 %s 杀死过",
     "new_key": "stat_type.minecraft.killed_by.none",

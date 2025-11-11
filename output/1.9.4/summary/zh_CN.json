@@ -1589,11 +1589,46 @@
     "en_us": "Interactions with Brewing Stand"
   },
   {
+    "old_key": "stat.cakeSlicesEaten",
+    "old_value": "吃掉的蛋糕片数",
+    "new_key": "stat.minecraft.eat_cake_slice",
+    "new_value": "食用蛋糕片数",
+    "en_us": "Cake Slices Eaten"
+  },
+  {
     "old_key": "stat.chestOpened",
     "old_value": "开箱次数",
     "new_key": "stat.minecraft.open_chest",
     "new_value": "箱子打开次数",
     "en_us": "Chests Opened"
+  },
+  {
+    "old_key": "stat.climbOneCm",
+    "old_value": "已攀爬距离",
+    "new_key": "stat.minecraft.climb_one_cm",
+    "new_value": "攀爬距离",
+    "en_us": "Distance Climbed"
+  },
+  {
+    "old_key": "stat.damageDealt",
+    "old_value": "造成伤害",
+    "new_key": "stat.minecraft.damage_dealt",
+    "new_value": "造成伤害量",
+    "en_us": "Damage Dealt"
+  },
+  {
+    "old_key": "stat.damageTaken",
+    "old_value": "受到伤害",
+    "new_key": "stat.minecraft.damage_taken",
+    "new_value": "承受伤害量",
+    "en_us": "Damage Taken"
+  },
+  {
+    "old_key": "stat.drop",
+    "old_value": "物品掉落",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丢弃物品次数",
+    "en_us": "Items Dropped"
   },
   {
     "old_key": "stat.enderchestOpened",
@@ -1622,6 +1657,13 @@
     "new_key": "stat.minecraft.interact_with_furnace",
     "new_value": "与熔炉交互次数",
     "en_us": "Interactions with Furnace"
+  },
+  {
+    "old_key": "stat.sleepInBed",
+    "old_value": "躺在床上的次数",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "入眠次数",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "stat.workbenchInteraction",
