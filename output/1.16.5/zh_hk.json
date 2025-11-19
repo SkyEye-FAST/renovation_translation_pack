@@ -813,7 +813,7 @@
   "soundCategory.voice": "朗讀功能／語音",
   "spectatorMenu.root.prompt": "按任意鍵選擇命令，再按一次此鍵以使用。",
   "stat.minecraft.damage_dealt_resisted": "造成傷害總量（被抵消）",
-  "stat.minecraft.drop": "拋棄物品數量",
+  "stat.minecraft.drop": "拋棄物品次數",
   "stat.minecraft.horse_one_cm": "馬策騎距離",
   "stat.minecraft.interact_with_beacon": "燈標使用次數",
   "stat.minecraft.pig_one_cm": "豬策騎距離",

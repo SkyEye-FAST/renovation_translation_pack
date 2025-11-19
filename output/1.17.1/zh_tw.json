@@ -339,6 +339,7 @@
   "selectWorld.mapFeatures.info": "例如村莊、沉船等等",
   "selectWorld.tooltip.fromNewerVersion2": "載入這個世界可能會出現問題！",
   "soundCategory.voice": "朗讀功能／語音",
+  "stat.minecraft.drop": "丟棄物品次數",
   "stat.minecraft.interact_with_stonecutter": "切石機使用次數",
   "stat.minecraft.sprint_one_cm": "跑步距離",
   "subtitles.block.composter.empty": "清空堆肥箱",

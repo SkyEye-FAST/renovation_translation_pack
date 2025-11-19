@@ -2429,6 +2429,13 @@
     "en_us": "You have never killed %s"
   },
   {
+    "old_key": "stat.minecraft.drop",
+    "old_value": "丟棄物品數量",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丟棄物品次數",
+    "en_us": "Items Dropped"
+  },
+  {
     "old_key": "stat.minecraft.sprint_one_cm",
     "old_value": "疾走距離",
     "new_key": "stat.minecraft.sprint_one_cm",

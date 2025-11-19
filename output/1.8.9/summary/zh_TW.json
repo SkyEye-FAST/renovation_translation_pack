@@ -2387,6 +2387,13 @@
     "en_us": "Damage Taken"
   },
   {
+    "old_key": "stat.drop",
+    "old_value": "丟棄物品數量",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丟棄物品次數",
+    "en_us": "Items Dropped"
+  },
+  {
     "old_key": "stat.entityKilledBy.none",
     "old_value": "你沒有被%s 殺死過",
     "new_key": "stat_type.minecraft.killed_by.none",

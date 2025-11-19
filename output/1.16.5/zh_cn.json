@@ -321,6 +321,7 @@
   "soundCategory.voice": "复述功能/语音",
   "stat.minecraft.climb_one_cm": "攀爬距离",
   "stat.minecraft.damage_absorbed": "吸收伤害量",
+  "stat.minecraft.damage_blocked_by_shield": "盾牌格挡伤害量",
   "stat.minecraft.damage_dealt": "造成伤害量",
   "stat.minecraft.damage_dealt_absorbed": "造成伤害量（被吸收）",
   "stat.minecraft.damage_dealt_resisted": "造成伤害量（被抵挡）",

@@ -5701,7 +5701,7 @@
     "old_key": "stat.minecraft.drop",
     "old_value": "丟棄物品數量",
     "new_key": "stat.minecraft.drop",
-    "new_value": "拋棄物品數量",
+    "new_value": "拋棄物品次數",
     "en_us": "Items Dropped"
   },
   {

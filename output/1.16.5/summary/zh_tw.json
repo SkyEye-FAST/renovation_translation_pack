@@ -2086,6 +2086,13 @@
     "en_us": "Customized worlds are no longer supported"
   },
   {
+    "old_key": "stat.minecraft.drop",
+    "old_value": "丟棄物品數量",
+    "new_key": "stat.minecraft.drop",
+    "new_value": "丟棄物品次數",
+    "en_us": "Items Dropped"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_stonecutter",
     "old_value": "砂輪使用次數",
     "new_key": "stat.minecraft.interact_with_stonecutter",

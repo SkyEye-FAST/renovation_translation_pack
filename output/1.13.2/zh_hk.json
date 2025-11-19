@@ -3214,7 +3214,7 @@
   "stat.minecraft.damage_resisted": "傷害抵消量",
   "stat.minecraft.damage_taken": "承受傷害總量",
   "stat.minecraft.deaths": "死亡次數",
-  "stat.minecraft.drop": "拋棄物品數量",
+  "stat.minecraft.drop": "拋棄物品次數",
   "stat.minecraft.eat_cake_slice": "蛋糕片食用數量",
   "stat.minecraft.enchant_item": "物品附魔次數",
   "stat.minecraft.fall_one_cm": "跌落高度",

@@ -1218,6 +1218,13 @@
     "en_us": "Damage Absorbed"
   },
   {
+    "old_key": "stat.minecraft.damage_blocked_by_shield",
+    "old_value": "盾牌抵挡的伤害",
+    "new_key": "stat.minecraft.damage_blocked_by_shield",
+    "new_value": "盾牌格挡伤害量",
+    "en_us": "Damage Blocked by Shield"
+  },
+  {
     "old_key": "stat.minecraft.damage_dealt",
     "old_value": "造成伤害",
     "new_key": "stat.minecraft.damage_dealt",

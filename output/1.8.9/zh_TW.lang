@@ -458,6 +458,7 @@ stat.climbOneCm=攀爬距離
 stat.damageDealt=造成傷害總量
 stat.damageTaken=承受傷害總量
 stat.depleted=損壞次數
+stat.drop=丟棄物品次數
 stat.entityKilledBy=你被%s殺死過 %s 次
 stat.entityKilledBy.none=你沒有被%s殺死過
 stat.entityKills=你殺死過 %s 隻%s

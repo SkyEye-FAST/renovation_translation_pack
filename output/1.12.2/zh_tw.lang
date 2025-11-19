@@ -371,6 +371,7 @@ selectWorld.versionJoinButton=依然載入
 selectWorld.versionWarning=這個世界最後遊玩的版本為 %s，使用目前版本載入可能會導致損壞！
 soundCategory.voice=朗讀功能／語音
 stat.depleted=損壞次數
+stat.drop=丟棄物品次數
 stat.entityKilledBy=你被%s殺死過 %s 次
 stat.entityKilledBy.none=你沒有被%s殺死過
 stat.entityKills=你殺死過 %s 隻%s

@@ -450,6 +450,7 @@
   "selectWorld.tooltip.fromNewerVersion2": "載入這個世界可能會出現問題！",
   "selectWorld.versionWarning": "這個世界最後遊玩的版本為 %s，使用目前版本載入可能會導致損壞！",
   "soundCategory.voice": "朗讀功能／語音",
+  "stat.minecraft.drop": "丟棄物品次數",
   "stat.minecraft.interact_with_stonecutter": "切石機使用次數",
   "stat.minecraft.sprint_one_cm": "跑步距離",
   "stat_type.minecraft.killed": "你殺死過 %s 隻%s",
