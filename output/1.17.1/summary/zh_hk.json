@@ -514,21 +514,21 @@
     "old_key": "argument.entity.options.dx.description",
     "old_value": "位於 x 同 x + dx 之間嘅實體",
     "new_key": "argument.entity.options.dx.description",
-    "new_value": "位於 x 同 x + dx 之間實體",
+    "new_value": "位於 x 與 x + dx 之間實體",
     "en_us": "Entities between x and x + dx"
   },
   {
     "old_key": "argument.entity.options.dy.description",
     "old_value": "位於 y 同 y + dy 之間嘅實體",
     "new_key": "argument.entity.options.dy.description",
-    "new_value": "位於 y 同 y + dy 之間實體",
+    "new_value": "位於 y 與 y + dy 之間實體",
     "en_us": "Entities between y and y + dy"
   },
   {
     "old_key": "argument.entity.options.dz.description",
     "old_value": "位於 z 同 z + dz 之間嘅實體",
     "new_key": "argument.entity.options.dz.description",
-    "new_value": "位於 z 同 z + dz 之間實體",
+    "new_value": "位於 z 與 z + dz 之間實體",
     "en_us": "Entities between z and z + dz"
   },
   {
@@ -852,6 +852,13 @@
     "new_key": "block.minecraft.banner.stripe_top.light_gray",
     "new_value": "頂部淺灰色橫條",
     "en_us": "Light Gray Chief"
+  },
+  {
+    "old_key": "block.minecraft.barrier",
+    "old_value": "障幕",
+    "new_key": "block.minecraft.barrier",
+    "new_value": "屏障",
+    "en_us": "Barrier"
   },
   {
     "old_key": "block.minecraft.basalt",

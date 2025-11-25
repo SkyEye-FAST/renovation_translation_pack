@@ -1078,6 +1078,13 @@
     "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
   },
   {
+    "old_key": "options.onlyShowSecureChat.tooltip",
+    "old_value": "仅显示来自其他玩家的可验证为该玩家发送且未被修改的消息。",
+    "new_key": "options.onlyShowSecureChat.tooltip",
+    "new_value": "对于来自其他玩家的消息，仅当其经过验证，确认为由本人发送且未被修改时，才会显示。",
+    "en_us": "Only display messages from other players that can be verified to have been sent by that player, and have not been modified."
+  },
+  {
     "old_key": "parsing.bool.expected",
     "old_value": "需要布尔型",
     "new_key": "parsing.bool.expected",

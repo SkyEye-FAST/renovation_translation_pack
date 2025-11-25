@@ -231,6 +231,7 @@
   "options.graphics.fancy.tooltip": "高品质画质会为大多数设备平衡性能和画面效果。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
   "options.hideLightningFlashes": "隐藏天空闪烁效果",
   "options.hideLightningFlashes.tooltip": "防止闪电束或其他环境效果使天空闪烁。闪烁源本身仍将可见。",
+  "options.onlyShowSecureChat.tooltip": "对于来自其他玩家的消息，仅当其经过验证，确认为由本人发送且未被修改时，才会显示。",
   "options.realmsNotifications": "Realms新闻与邀请",
   "options.showSubtitles": "隐藏式字幕",
   "outOfMemory.message": "Minecraft已耗尽内存。\n\n原因可能是游戏存在漏洞，或分配给Java虚拟机的内存过少。\n\n为避免世界损坏，当前游戏已退出。我们已尝试腾出内存，让你可以回到主菜单并继续游戏，但这不一定奏效。\n\n如果你再次看见此消息，请重启游戏。",
