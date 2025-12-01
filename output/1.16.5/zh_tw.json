@@ -222,6 +222,7 @@
   "chat.coordinates.tooltip": "按此傳送",
   "chat.copy.click": "按此複製到剪貼簿",
   "chat.queue": "[+%s 則待傳送訊息]",
+  "commands.advancement.revoke.criterion.to.many.failure": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
   "commands.attribute.modifier.remove.success": "已從實體 %3$s 的屬性 %2$s 移除修飾符 %1$s",
   "commands.bossbar.create.success": "已建立自訂 Boss 狀態條 %s",
   "commands.bossbar.get.max": "自訂 Boss 狀態條 %s 的最大值為 %s",

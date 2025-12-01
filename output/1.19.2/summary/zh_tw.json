@@ -1470,6 +1470,13 @@
     "en_us": "Chat disabled due to expired profile public key. Please try reconnecting."
   },
   {
+    "old_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "old_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的的條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "new_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s players as they don't have it"
+  },
+  {
     "old_key": "commands.attribute.modifier.remove.success",
     "old_value": "已從實體 %3$s 的屬性 %2$s 刪除修飾符 %1$s",
     "new_key": "commands.attribute.modifier.remove.success",

@@ -227,6 +227,7 @@
   "chat.disabled.profile": "聊天功能受到帳號設定限制。請重新按下「%s」以取得更多資訊。",
   "chat.queue": "[+%s 則待傳送訊息]",
   "chat_screen.title": "聊天欄",
+  "commands.advancement.revoke.criterion.to.many.failure": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
   "commands.attribute.modifier.remove.success": "已從實體 %3$s 的屬性 %2$s 移除修飾符 %1$s",
   "commands.clear.success.multiple": "已移除 %2$s 個玩家的 %1$s 個物品",
   "commands.clear.success.single": "已移除玩家 %2$s 的 %1$s 個物品",

@@ -1568,6 +1568,13 @@
     "en_us": "Couldn't grant advancement %s to %s as they already have it"
   },
   {
+    "old_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "old_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的的條件 '%1$s'",
+    "new_key": "commands.advancement.revoke.criterion.to.many.failure",
+    "new_value": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
+    "en_us": "Couldn't revoke criterion '%s' of advancement %s from %s players as they don't have it"
+  },
+  {
     "old_key": "commands.ban.success",
     "old_value": "%s 已被封鎖： %s",
     "new_key": "commands.ban.success",

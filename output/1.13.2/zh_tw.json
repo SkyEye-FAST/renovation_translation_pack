@@ -253,6 +253,7 @@
   "commands.advancement.grant.many.to.one.failure": "無法將 %s 個進度給予 %s，因為他已達成此進度",
   "commands.advancement.grant.one.to.many.failure": "無法將進度 %s 給予 %s 個玩家，因為他們已達成此進度",
   "commands.advancement.grant.one.to.one.failure": "無法將進度 %s 給予 %s，因為他已達成此進度",
+  "commands.advancement.revoke.criterion.to.many.failure": "無法從 %3$s 個玩家身上撤銷進度 %2$s 尚未取得的條件 '%1$s'",
   "commands.ban.success": "%s 已被封鎖：%s",
   "commands.banip.info": "這次封鎖作用於 %s 個玩家：%s",
   "commands.banip.success": "已封鎖 IP %s: %s",
