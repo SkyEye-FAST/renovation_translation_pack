@@ -44,7 +44,7 @@
     "old_value": "喺建築高度上限處同村民交易",
     "old_en_us": "Trade with a villager at the build height limit",
     "new_key": "advancements.adventure.trade_at_world_height.description",
-    "new_value": "在建築高度上限處同村民交易",
+    "new_value": "於建築高度上限處與村民交易",
     "new_en_us": "Trade with a Villager at the build height limit"
   },
   {

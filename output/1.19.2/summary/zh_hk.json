@@ -122,7 +122,7 @@
     "old_key": "advancements.adventure.trade_at_world_height.description",
     "old_value": "喺建築高度上限處同村民交易",
     "new_key": "advancements.adventure.trade_at_world_height.description",
-    "new_value": "在建築高度上限處同村民交易",
+    "new_value": "於建築高度上限處與村民交易",
     "en_us": "Trade with a Villager at the build height limit"
   },
   {
@@ -612,7 +612,7 @@
     "old_key": "argument.block.property.duplicate",
     "old_value": "'%s' 屬性只能為 %s 設置一次",
     "new_key": "argument.block.property.duplicate",
-    "new_value": "'%s' 屬性僅可為 %s 設置一次",
+    "new_value": "「%s」 屬性僅可為 %s 設置一次",
     "en_us": "Property '%s' can only be set once for block %s"
   },
   {
@@ -4462,7 +4462,7 @@
     "old_key": "gamerule.sendCommandFeedback",
     "old_value": "回傳命令反饋",
     "new_key": "gamerule.sendCommandFeedback",
-    "new_value": "回傳命令回饋",
+    "new_value": "傳送命令執行資訊",
     "en_us": "Send command feedback"
   },
   {
@@ -5472,6 +5472,13 @@
     "new_key": "lectern.take_book",
     "new_value": "取走書本",
     "en_us": "Take Book"
+  },
+  {
+    "old_key": "menu.sendFeedback",
+    "old_value": "提供意見回饋",
+    "new_key": "menu.sendFeedback",
+    "new_value": "反映意見",
+    "en_us": "Give Feedback"
   },
   {
     "old_key": "multiplayer.disconnect.banned",

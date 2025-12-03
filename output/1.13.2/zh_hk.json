@@ -143,7 +143,7 @@
   "advancements.toast.task": "進度達成！",
   "argument.anchor.invalid": "無效實體錨點位置 %s",
   "argument.block.id.invalid": "未知方塊類型「%s」",
-  "argument.block.property.duplicate": "'%s' 屬性僅可為 %s 設置一次",
+  "argument.block.property.duplicate": "「%s」 屬性僅可為 %s 設置一次",
   "argument.block.property.invalid": "%s 方塊不接受以「%s」作為 %s 屬性",
   "argument.block.property.novalue": "應為方塊 %s 內「%s」屬性必須要有值",
   "argument.block.property.unclosed": "方塊狀態屬性結尾應為 ]",
