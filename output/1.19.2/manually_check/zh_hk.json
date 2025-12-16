@@ -828,7 +828,7 @@
     "old_value": "我哋已經成功收到你嘅舉報。多謝！\n\n我哋嘅團隊將會盡早審閱此舉報。",
     "old_en_us": "We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.",
     "new_key": "gui.chatReport.report_sent_msg",
-    "new_value": "我們已經成功收到你的舉報。多謝！\n\n我們的團隊將會盡早審閱此舉報。",
+    "new_value": "我們已成功收到你的舉報。多謝！\n\n我們的團隊將盡早審閲此舉報。",
     "new_en_us": "We've successfully received your report. Thank you!\n\nOur team will review it as soon as possible."
   },
   {
@@ -1124,7 +1124,7 @@
     "old_value": "數據模式 ─ 遊戲邏輯標記",
     "old_en_us": "Data mode - Game Logic Marker",
     "new_key": "structure_block.mode_info.data",
-    "new_value": "資料模式 - 遊戲邏輯記號",
+    "new_value": "數據模式 - 遊戲邏輯記號",
     "new_en_us": "Data Mode - Game logic marker"
   },
   {

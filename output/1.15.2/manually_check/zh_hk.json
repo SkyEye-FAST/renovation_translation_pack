@@ -1280,14 +1280,6 @@
     "new_en_us": "Narrator/Voice"
   },
   {
-    "old_key": "structure_block.mode_info.data",
-    "old_value": "數據模式 - 遊戲邏輯記號",
-    "old_en_us": "Data mode - game logic marker",
-    "new_key": "structure_block.mode_info.data",
-    "new_value": "資料模式 - 遊戲邏輯記號",
-    "new_en_us": "Data Mode - Game logic marker"
-  },
-  {
     "old_key": "subtitles.block.iron_trapdoor.close",
     "old_value": "地板門被打開",
     "old_en_us": "Trapdoor opens",

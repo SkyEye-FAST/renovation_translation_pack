@@ -1164,7 +1164,7 @@
     "old_value": "數據模式 ─ 遊戲邏輯標記",
     "old_en_us": "Data mode - Game Logic Marker",
     "new_key": "structure_block.mode_info.data",
-    "new_value": "資料模式 - 遊戲邏輯記號",
+    "new_value": "數據模式 - 遊戲邏輯記號",
     "new_en_us": "Data Mode - Game logic marker"
   },
   {

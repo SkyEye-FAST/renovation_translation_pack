@@ -1694,6 +1694,769 @@
     "en_us": "Show in Chat"
   },
   {
+    "old_key": "item.minecraft.axolotl_spawn_egg",
+    "old_value": "六角恐龍 生怪蛋",
+    "new_key": "item.minecraft.axolotl_spawn_egg",
+    "new_value": "六角恐龍生怪蛋",
+    "en_us": "Axolotl Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.bat_spawn_egg",
+    "old_value": "蝙蝠 生怪蛋",
+    "new_key": "item.minecraft.bat_spawn_egg",
+    "new_value": "蝙蝠生怪蛋",
+    "en_us": "Bat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.bee_spawn_egg",
+    "old_value": "蜜蜂 生怪蛋",
+    "new_key": "item.minecraft.bee_spawn_egg",
+    "new_value": "蜜蜂生怪蛋",
+    "en_us": "Bee Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.blaze_spawn_egg",
+    "old_value": "烈焰使者 生怪蛋",
+    "new_key": "item.minecraft.blaze_spawn_egg",
+    "new_value": "烈焰使者生怪蛋",
+    "en_us": "Blaze Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cat_spawn_egg",
+    "old_value": "貓 生怪蛋",
+    "new_key": "item.minecraft.cat_spawn_egg",
+    "new_value": "貓生怪蛋",
+    "en_us": "Cat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cave_spider_spawn_egg",
+    "old_value": "洞穴蜘蛛 生怪蛋",
+    "new_key": "item.minecraft.cave_spider_spawn_egg",
+    "new_value": "洞穴蜘蛛生怪蛋",
+    "en_us": "Cave Spider Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.chicken_spawn_egg",
+    "old_value": "雞 生怪蛋",
+    "new_key": "item.minecraft.chicken_spawn_egg",
+    "new_value": "雞生怪蛋",
+    "en_us": "Chicken Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cod_spawn_egg",
+    "old_value": "鱈魚 生怪蛋",
+    "new_key": "item.minecraft.cod_spawn_egg",
+    "new_value": "鱈魚生怪蛋",
+    "en_us": "Cod Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.cow_spawn_egg",
+    "old_value": "牛 生怪蛋",
+    "new_key": "item.minecraft.cow_spawn_egg",
+    "new_value": "牛生怪蛋",
+    "en_us": "Cow Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.creeper_spawn_egg",
+    "old_value": "苦力怕 生怪蛋",
+    "new_key": "item.minecraft.creeper_spawn_egg",
+    "new_value": "苦力怕生怪蛋",
+    "en_us": "Creeper Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.dolphin_spawn_egg",
+    "old_value": "海豚 生怪蛋",
+    "new_key": "item.minecraft.dolphin_spawn_egg",
+    "new_value": "海豚生怪蛋",
+    "en_us": "Dolphin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.donkey_spawn_egg",
+    "old_value": "驢子 生怪蛋",
+    "new_key": "item.minecraft.donkey_spawn_egg",
+    "new_value": "驢子生怪蛋",
+    "en_us": "Donkey Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.drowned_spawn_egg",
+    "old_value": "沉屍 生怪蛋",
+    "new_key": "item.minecraft.drowned_spawn_egg",
+    "new_value": "沉屍生怪蛋",
+    "en_us": "Drowned Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.elder_guardian_spawn_egg",
+    "old_value": "遠古深海守衛 生怪蛋",
+    "new_key": "item.minecraft.elder_guardian_spawn_egg",
+    "new_value": "遠古深海守衛生怪蛋",
+    "en_us": "Elder Guardian Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.enderman_spawn_egg",
+    "old_value": "終界使者 生怪蛋",
+    "new_key": "item.minecraft.enderman_spawn_egg",
+    "new_value": "終界使者生怪蛋",
+    "en_us": "Enderman Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.endermite_spawn_egg",
+    "old_value": "終界蟎 生怪蛋",
+    "new_key": "item.minecraft.endermite_spawn_egg",
+    "new_value": "終界蟎生怪蛋",
+    "en_us": "Endermite Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.evoker_spawn_egg",
+    "old_value": "喚魔者 生怪蛋",
+    "new_key": "item.minecraft.evoker_spawn_egg",
+    "new_value": "喚魔者生怪蛋",
+    "en_us": "Evoker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.fox_spawn_egg",
+    "old_value": "狐狸 生怪蛋",
+    "new_key": "item.minecraft.fox_spawn_egg",
+    "new_value": "狐狸生怪蛋",
+    "en_us": "Fox Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ghast_spawn_egg",
+    "old_value": "地獄幽靈 生怪蛋",
+    "new_key": "item.minecraft.ghast_spawn_egg",
+    "new_value": "地獄幽靈生怪蛋",
+    "en_us": "Ghast Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.glow_squid_spawn_egg",
+    "old_value": "螢光魷魚 生怪蛋",
+    "new_key": "item.minecraft.glow_squid_spawn_egg",
+    "new_value": "螢光魷魚生怪蛋",
+    "en_us": "Glow Squid Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.goat_spawn_egg",
+    "old_value": "山羊 生怪蛋",
+    "new_key": "item.minecraft.goat_spawn_egg",
+    "new_value": "山羊生怪蛋",
+    "en_us": "Goat Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.guardian_spawn_egg",
+    "old_value": "深海守衛 生怪蛋",
+    "new_key": "item.minecraft.guardian_spawn_egg",
+    "new_value": "深海守衛生怪蛋",
+    "en_us": "Guardian Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.hoglin_spawn_egg",
+    "old_value": "豬布獸 生怪蛋",
+    "new_key": "item.minecraft.hoglin_spawn_egg",
+    "new_value": "豬布獸生怪蛋",
+    "en_us": "Hoglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.horse_spawn_egg",
+    "old_value": "馬 生怪蛋",
+    "new_key": "item.minecraft.horse_spawn_egg",
+    "new_value": "馬生怪蛋",
+    "en_us": "Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.husk_spawn_egg",
+    "old_value": "屍殼 生怪蛋",
+    "new_key": "item.minecraft.husk_spawn_egg",
+    "new_value": "屍殼生怪蛋",
+    "en_us": "Husk Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.awkward",
+    "old_value": "滯留 基礎藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.awkward",
+    "new_value": "滯留基礎藥水",
+    "en_us": "Awkward Lingering Potion"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.empty",
+    "old_value": "滯留 不可合成的藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.empty",
+    "new_value": "滯留不可合成的藥水",
+    "en_us": "Lingering Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.fire_resistance",
+    "old_value": "滯留 抗火藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.fire_resistance",
+    "new_value": "滯留抗火藥水",
+    "en_us": "Lingering Potion of Fire Resistance"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.harming",
+    "old_value": "滯留 傷害藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.harming",
+    "new_value": "滯留傷害藥水",
+    "en_us": "Lingering Potion of Harming"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.healing",
+    "old_value": "滯留 治療藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.healing",
+    "new_value": "滯留治療藥水",
+    "en_us": "Lingering Potion of Healing"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.invisibility",
+    "old_value": "滯留 隱形藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.invisibility",
+    "new_value": "滯留隱形藥水",
+    "en_us": "Lingering Potion of Invisibility"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.leaping",
+    "old_value": "滯留 跳躍藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.leaping",
+    "new_value": "滯留跳躍藥水",
+    "en_us": "Lingering Potion of Leaping"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.levitation",
+    "old_value": "滯留 懸浮藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.levitation",
+    "new_value": "滯留懸浮藥水",
+    "en_us": "Lingering Potion of Levitation"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.luck",
+    "old_value": "滯留 幸運藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.luck",
+    "new_value": "滯留幸運藥水",
+    "en_us": "Lingering Potion of Luck"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.mundane",
+    "old_value": "滯留 平凡藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.mundane",
+    "new_value": "滯留平凡藥水",
+    "en_us": "Mundane Lingering Potion"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.night_vision",
+    "old_value": "滯留 夜視藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.night_vision",
+    "new_value": "滯留夜視藥水",
+    "en_us": "Lingering Potion of Night Vision"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.poison",
+    "old_value": "滯留 劇毒藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.poison",
+    "new_value": "滯留劇毒藥水",
+    "en_us": "Lingering Potion of Poison"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.regeneration",
+    "old_value": "滯留 回復藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.regeneration",
+    "new_value": "滯留回復藥水",
+    "en_us": "Lingering Potion of Regeneration"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.slow_falling",
+    "old_value": "滯留 緩降藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.slow_falling",
+    "new_value": "滯留緩降藥水",
+    "en_us": "Lingering Potion of Slow Falling"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.slowness",
+    "old_value": "滯留 緩速藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.slowness",
+    "new_value": "滯留緩速藥水",
+    "en_us": "Lingering Potion of Slowness"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.strength",
+    "old_value": "滯留 力量藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.strength",
+    "new_value": "滯留力量藥水",
+    "en_us": "Lingering Potion of Strength"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.swiftness",
+    "old_value": "滯留 迅捷藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.swiftness",
+    "new_value": "滯留迅捷藥水",
+    "en_us": "Lingering Potion of Swiftness"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.thick",
+    "old_value": "滯留 黏稠藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.thick",
+    "new_value": "滯留黏稠藥水",
+    "en_us": "Thick Lingering Potion"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.turtle_master",
+    "old_value": "滯留 龜仙藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.turtle_master",
+    "new_value": "滯留龜仙藥水",
+    "en_us": "Lingering Potion of the Turtle Master"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.water_breathing",
+    "old_value": "滯留 水下呼吸藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.water_breathing",
+    "new_value": "滯留水下呼吸藥水",
+    "en_us": "Lingering Potion of Water Breathing"
+  },
+  {
+    "old_key": "item.minecraft.lingering_potion.effect.weakness",
+    "old_value": "滯留 虛弱藥水",
+    "new_key": "item.minecraft.lingering_potion.effect.weakness",
+    "new_value": "滯留虛弱藥水",
+    "en_us": "Lingering Potion of Weakness"
+  },
+  {
+    "old_key": "item.minecraft.llama_spawn_egg",
+    "old_value": "駱馬 生怪蛋",
+    "new_key": "item.minecraft.llama_spawn_egg",
+    "new_value": "駱馬生怪蛋",
+    "en_us": "Llama Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.magma_cube_spawn_egg",
+    "old_value": "岩漿立方怪 生怪蛋",
+    "new_key": "item.minecraft.magma_cube_spawn_egg",
+    "new_value": "岩漿立方怪生怪蛋",
+    "en_us": "Magma Cube Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.mooshroom_spawn_egg",
+    "old_value": "哞菇 生怪蛋",
+    "new_key": "item.minecraft.mooshroom_spawn_egg",
+    "new_value": "哞菇生怪蛋",
+    "en_us": "Mooshroom Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.mule_spawn_egg",
+    "old_value": "騾子 生怪蛋",
+    "new_key": "item.minecraft.mule_spawn_egg",
+    "new_value": "騾子生怪蛋",
+    "en_us": "Mule Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ocelot_spawn_egg",
+    "old_value": "山貓 生怪蛋",
+    "new_key": "item.minecraft.ocelot_spawn_egg",
+    "new_value": "山貓生怪蛋",
+    "en_us": "Ocelot Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.panda_spawn_egg",
+    "old_value": "貓熊 生怪蛋",
+    "new_key": "item.minecraft.panda_spawn_egg",
+    "new_value": "貓熊生怪蛋",
+    "en_us": "Panda Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.parrot_spawn_egg",
+    "old_value": "鸚鵡 生怪蛋",
+    "new_key": "item.minecraft.parrot_spawn_egg",
+    "new_value": "鸚鵡生怪蛋",
+    "en_us": "Parrot Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.phantom_spawn_egg",
+    "old_value": "夜魅 生怪蛋",
+    "new_key": "item.minecraft.phantom_spawn_egg",
+    "new_value": "夜魅生怪蛋",
+    "en_us": "Phantom Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.pig_spawn_egg",
+    "old_value": "豬 生怪蛋",
+    "new_key": "item.minecraft.pig_spawn_egg",
+    "new_value": "豬生怪蛋",
+    "en_us": "Pig Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.piglin_brute_spawn_egg",
+    "old_value": "豬布林蠻兵 生怪蛋",
+    "new_key": "item.minecraft.piglin_brute_spawn_egg",
+    "new_value": "豬布林蠻兵生怪蛋",
+    "en_us": "Piglin Brute Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.piglin_spawn_egg",
+    "old_value": "豬布林 生怪蛋",
+    "new_key": "item.minecraft.piglin_spawn_egg",
+    "new_value": "豬布林生怪蛋",
+    "en_us": "Piglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.pillager_spawn_egg",
+    "old_value": "掠奪者 生怪蛋",
+    "new_key": "item.minecraft.pillager_spawn_egg",
+    "new_value": "掠奪者生怪蛋",
+    "en_us": "Pillager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.polar_bear_spawn_egg",
+    "old_value": "北極熊 生怪蛋",
+    "new_key": "item.minecraft.polar_bear_spawn_egg",
+    "new_value": "北極熊生怪蛋",
+    "en_us": "Polar Bear Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.pufferfish_spawn_egg",
+    "old_value": "河豚 生怪蛋",
+    "new_key": "item.minecraft.pufferfish_spawn_egg",
+    "new_value": "河豚生怪蛋",
+    "en_us": "Pufferfish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.rabbit_spawn_egg",
+    "old_value": "兔子 生怪蛋",
+    "new_key": "item.minecraft.rabbit_spawn_egg",
+    "new_value": "兔子生怪蛋",
+    "en_us": "Rabbit Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.ravager_spawn_egg",
+    "old_value": "劫毀獸 生怪蛋",
+    "new_key": "item.minecraft.ravager_spawn_egg",
+    "new_value": "劫毀獸生怪蛋",
+    "en_us": "Ravager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.salmon_spawn_egg",
+    "old_value": "鮭魚 生怪蛋",
+    "new_key": "item.minecraft.salmon_spawn_egg",
+    "new_value": "鮭魚生怪蛋",
+    "en_us": "Salmon Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.sheep_spawn_egg",
+    "old_value": "綿羊 生怪蛋",
+    "new_key": "item.minecraft.sheep_spawn_egg",
+    "new_value": "綿羊生怪蛋",
+    "en_us": "Sheep Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.shulker_spawn_egg",
+    "old_value": "界伏蚌 生怪蛋",
+    "new_key": "item.minecraft.shulker_spawn_egg",
+    "new_value": "界伏蚌生怪蛋",
+    "en_us": "Shulker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.silverfish_spawn_egg",
+    "old_value": "蠹魚 生怪蛋",
+    "new_key": "item.minecraft.silverfish_spawn_egg",
+    "new_value": "蠹魚生怪蛋",
+    "en_us": "Silverfish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.skeleton_horse_spawn_egg",
+    "old_value": "骷髏馬 生怪蛋",
+    "new_key": "item.minecraft.skeleton_horse_spawn_egg",
+    "new_value": "骷髏馬生怪蛋",
+    "en_us": "Skeleton Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.skeleton_spawn_egg",
+    "old_value": "骷髏 生怪蛋",
+    "new_key": "item.minecraft.skeleton_spawn_egg",
+    "new_value": "骷髏生怪蛋",
+    "en_us": "Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.slime_spawn_egg",
+    "old_value": "史萊姆 生怪蛋",
+    "new_key": "item.minecraft.slime_spawn_egg",
+    "new_value": "史萊姆生怪蛋",
+    "en_us": "Slime Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.spider_spawn_egg",
+    "old_value": "蜘蛛 生怪蛋",
+    "new_key": "item.minecraft.spider_spawn_egg",
+    "new_value": "蜘蛛生怪蛋",
+    "en_us": "Spider Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.awkward",
+    "old_value": "飛濺 基礎藥水",
+    "new_key": "item.minecraft.splash_potion.effect.awkward",
+    "new_value": "飛濺基礎藥水",
+    "en_us": "Awkward Splash Potion"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.empty",
+    "old_value": "飛濺 不可合成的藥水",
+    "new_key": "item.minecraft.splash_potion.effect.empty",
+    "new_value": "飛濺不可合成的藥水",
+    "en_us": "Splash Uncraftable Potion"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "old_value": "飛濺 抗火藥水",
+    "new_key": "item.minecraft.splash_potion.effect.fire_resistance",
+    "new_value": "飛濺抗火藥水",
+    "en_us": "Splash Potion of Fire Resistance"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.harming",
+    "old_value": "飛濺 傷害藥水",
+    "new_key": "item.minecraft.splash_potion.effect.harming",
+    "new_value": "飛濺傷害藥水",
+    "en_us": "Splash Potion of Harming"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.healing",
+    "old_value": "飛濺 治療藥水",
+    "new_key": "item.minecraft.splash_potion.effect.healing",
+    "new_value": "飛濺治療藥水",
+    "en_us": "Splash Potion of Healing"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.invisibility",
+    "old_value": "飛濺 隱形藥水",
+    "new_key": "item.minecraft.splash_potion.effect.invisibility",
+    "new_value": "飛濺隱形藥水",
+    "en_us": "Splash Potion of Invisibility"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.leaping",
+    "old_value": "飛濺 跳躍藥水",
+    "new_key": "item.minecraft.splash_potion.effect.leaping",
+    "new_value": "飛濺跳躍藥水",
+    "en_us": "Splash Potion of Leaping"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.levitation",
+    "old_value": "飛濺 懸浮藥水",
+    "new_key": "item.minecraft.splash_potion.effect.levitation",
+    "new_value": "飛濺懸浮藥水",
+    "en_us": "Splash Potion of Levitation"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.luck",
+    "old_value": "飛濺 幸運藥水",
+    "new_key": "item.minecraft.splash_potion.effect.luck",
+    "new_value": "飛濺幸運藥水",
+    "en_us": "Splash Potion of Luck"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.mundane",
+    "old_value": "飛濺 平凡藥水",
+    "new_key": "item.minecraft.splash_potion.effect.mundane",
+    "new_value": "飛濺平凡藥水",
+    "en_us": "Mundane Splash Potion"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.night_vision",
+    "old_value": "飛濺 夜視藥水",
+    "new_key": "item.minecraft.splash_potion.effect.night_vision",
+    "new_value": "飛濺夜視藥水",
+    "en_us": "Splash Potion of Night Vision"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.poison",
+    "old_value": "飛濺 劇毒藥水",
+    "new_key": "item.minecraft.splash_potion.effect.poison",
+    "new_value": "飛濺劇毒藥水",
+    "en_us": "Splash Potion of Poison"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.regeneration",
+    "old_value": "飛濺 回復藥水",
+    "new_key": "item.minecraft.splash_potion.effect.regeneration",
+    "new_value": "飛濺回復藥水",
+    "en_us": "Splash Potion of Regeneration"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.slow_falling",
+    "old_value": "飛濺 緩降藥水",
+    "new_key": "item.minecraft.splash_potion.effect.slow_falling",
+    "new_value": "飛濺緩降藥水",
+    "en_us": "Splash Potion of Slow Falling"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.slowness",
+    "old_value": "飛濺 緩速藥水",
+    "new_key": "item.minecraft.splash_potion.effect.slowness",
+    "new_value": "飛濺緩速藥水",
+    "en_us": "Splash Potion of Slowness"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.strength",
+    "old_value": "飛濺 力量藥水",
+    "new_key": "item.minecraft.splash_potion.effect.strength",
+    "new_value": "飛濺力量藥水",
+    "en_us": "Splash Potion of Strength"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.swiftness",
+    "old_value": "飛濺 迅捷藥水",
+    "new_key": "item.minecraft.splash_potion.effect.swiftness",
+    "new_value": "飛濺迅捷藥水",
+    "en_us": "Splash Potion of Swiftness"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.thick",
+    "old_value": "飛濺 黏稠藥水",
+    "new_key": "item.minecraft.splash_potion.effect.thick",
+    "new_value": "飛濺黏稠藥水",
+    "en_us": "Thick Splash Potion"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.turtle_master",
+    "old_value": "飛濺 龜仙藥水",
+    "new_key": "item.minecraft.splash_potion.effect.turtle_master",
+    "new_value": "飛濺龜仙藥水",
+    "en_us": "Splash Potion of the Turtle Master"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.water_breathing",
+    "old_value": "飛濺 水下呼吸藥水",
+    "new_key": "item.minecraft.splash_potion.effect.water_breathing",
+    "new_value": "飛濺水下呼吸藥水",
+    "en_us": "Splash Potion of Water Breathing"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.weakness",
+    "old_value": "飛濺 虛弱藥水",
+    "new_key": "item.minecraft.splash_potion.effect.weakness",
+    "new_value": "飛濺虛弱藥水",
+    "en_us": "Splash Potion of Weakness"
+  },
+  {
+    "old_key": "item.minecraft.squid_spawn_egg",
+    "old_value": "魷魚 生怪蛋",
+    "new_key": "item.minecraft.squid_spawn_egg",
+    "new_value": "魷魚生怪蛋",
+    "en_us": "Squid Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.stray_spawn_egg",
+    "old_value": "流髑 生怪蛋",
+    "new_key": "item.minecraft.stray_spawn_egg",
+    "new_value": "流髑生怪蛋",
+    "en_us": "Stray Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.strider_spawn_egg",
+    "old_value": "熾足獸 生怪蛋",
+    "new_key": "item.minecraft.strider_spawn_egg",
+    "new_value": "熾足獸生怪蛋",
+    "en_us": "Strider Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.trader_llama_spawn_egg",
+    "old_value": "商駝 生怪蛋",
+    "new_key": "item.minecraft.trader_llama_spawn_egg",
+    "new_value": "商駝生怪蛋",
+    "en_us": "Trader Llama Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.tropical_fish_spawn_egg",
+    "old_value": "熱帶魚 生怪蛋",
+    "new_key": "item.minecraft.tropical_fish_spawn_egg",
+    "new_value": "熱帶魚生怪蛋",
+    "en_us": "Tropical Fish Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.turtle_spawn_egg",
+    "old_value": "海龜 生怪蛋",
+    "new_key": "item.minecraft.turtle_spawn_egg",
+    "new_value": "海龜生怪蛋",
+    "en_us": "Turtle Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.vex_spawn_egg",
+    "old_value": "惱鬼 生怪蛋",
+    "new_key": "item.minecraft.vex_spawn_egg",
+    "new_value": "惱鬼生怪蛋",
+    "en_us": "Vex Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.villager_spawn_egg",
+    "old_value": "村民 生怪蛋",
+    "new_key": "item.minecraft.villager_spawn_egg",
+    "new_value": "村民生怪蛋",
+    "en_us": "Villager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.vindicator_spawn_egg",
+    "old_value": "衛道士 生怪蛋",
+    "new_key": "item.minecraft.vindicator_spawn_egg",
+    "new_value": "衛道士生怪蛋",
+    "en_us": "Vindicator Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wandering_trader_spawn_egg",
+    "old_value": "流浪商人 生怪蛋",
+    "new_key": "item.minecraft.wandering_trader_spawn_egg",
+    "new_value": "流浪商人生怪蛋",
+    "en_us": "Wandering Trader Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.witch_spawn_egg",
+    "old_value": "女巫 生怪蛋",
+    "new_key": "item.minecraft.witch_spawn_egg",
+    "new_value": "女巫生怪蛋",
+    "en_us": "Witch Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wither_skeleton_spawn_egg",
+    "old_value": "凋零骷髏 生怪蛋",
+    "new_key": "item.minecraft.wither_skeleton_spawn_egg",
+    "new_value": "凋零骷髏生怪蛋",
+    "en_us": "Wither Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.wolf_spawn_egg",
+    "old_value": "狼 生怪蛋",
+    "new_key": "item.minecraft.wolf_spawn_egg",
+    "new_value": "狼生怪蛋",
+    "en_us": "Wolf Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zoglin_spawn_egg",
+    "old_value": "豬屍獸 生怪蛋",
+    "new_key": "item.minecraft.zoglin_spawn_egg",
+    "new_value": "豬屍獸生怪蛋",
+    "en_us": "Zoglin Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_horse_spawn_egg",
+    "old_value": "殭屍馬 生怪蛋",
+    "new_key": "item.minecraft.zombie_horse_spawn_egg",
+    "new_value": "殭屍馬生怪蛋",
+    "en_us": "Zombie Horse Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_spawn_egg",
+    "old_value": "殭屍 生怪蛋",
+    "new_key": "item.minecraft.zombie_spawn_egg",
+    "new_value": "殭屍生怪蛋",
+    "en_us": "Zombie Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_villager_spawn_egg",
+    "old_value": "殭屍村民 生怪蛋",
+    "new_key": "item.minecraft.zombie_villager_spawn_egg",
+    "new_value": "殭屍村民生怪蛋",
+    "en_us": "Zombie Villager Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombified_piglin_spawn_egg",
+    "old_value": "殭屍化豬布林 生怪蛋",
+    "new_key": "item.minecraft.zombified_piglin_spawn_egg",
+    "new_value": "殭屍化豬布林生怪蛋",
+    "en_us": "Zombified Piglin Spawn Egg"
+  },
+  {
     "old_key": "menu.modded",
     "old_value": " （模組）",
     "new_key": "menu.modded",

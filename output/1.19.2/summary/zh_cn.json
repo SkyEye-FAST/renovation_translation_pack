@@ -35,6 +35,13 @@
     "en_us": "Catch an Axolotl in a Bucket"
   },
   {
+    "old_key": "advancements.husbandry.root.description",
+    "old_value": "世界无处没有朋友与美食",
+    "new_key": "advancements.husbandry.root.description",
+    "new_value": "这个世界充满朋友与美食",
+    "en_us": "The world is full of friends and food"
+  },
+  {
     "old_key": "advancements.husbandry.tadpole_in_a_bucket.description",
     "old_value": "用桶捕获一只蝌蚪",
     "new_key": "advancements.husbandry.tadpole_in_a_bucket.description",

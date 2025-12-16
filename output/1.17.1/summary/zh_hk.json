@@ -423,7 +423,7 @@
     "old_key": "argument.block.property.duplicate",
     "old_value": "'%s' 屬性只能為 %s 設置一次",
     "new_key": "argument.block.property.duplicate",
-    "new_value": "「%s」 屬性僅可為 %s 設置一次",
+    "new_value": "「%s」屬性僅可為 %s 設置一次",
     "en_us": "Property '%s' can only be set once for block %s"
   },
   {
@@ -4949,6 +4949,13 @@
     "en_us": "Give Feedback"
   },
   {
+    "old_key": "menu.shareToLan",
+    "old_value": "開放到 LAN",
+    "new_key": "menu.shareToLan",
+    "new_value": "開放至 LAN",
+    "en_us": "Open to LAN"
+  },
+  {
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
@@ -5071,7 +5078,7 @@
     "old_key": "multiplayer.disconnect.unexpected_query_response",
     "old_value": "喺用户端接收到預期外嘅自訂數據",
     "new_key": "multiplayer.disconnect.unexpected_query_response",
-    "new_value": "在客户端接收到預期外的自訂數據",
+    "new_value": "從客户端接收到預期外的自訂數據",
     "en_us": "Unexpected custom data from client"
   },
   {
