@@ -2002,6 +2002,13 @@
     "en_us": "Lingering Potion of the Turtle Master"
   },
   {
+    "old_key": "item.minecraft.lingering_potion.effect.water",
+    "old_value": "滯留 水瓶",
+    "new_key": "item.minecraft.lingering_potion.effect.water",
+    "new_value": "滯留水瓶",
+    "en_us": "Lingering Water Bottle"
+  },
+  {
     "old_key": "item.minecraft.lingering_potion.effect.water_breathing",
     "old_value": "滯留 水下呼吸藥水",
     "new_key": "item.minecraft.lingering_potion.effect.water_breathing",
@@ -2315,6 +2322,13 @@
     "new_key": "item.minecraft.splash_potion.effect.turtle_master",
     "new_value": "飛濺龜仙藥水",
     "en_us": "Splash Potion of the Turtle Master"
+  },
+  {
+    "old_key": "item.minecraft.splash_potion.effect.water",
+    "old_value": "飛濺 水瓶",
+    "new_key": "item.minecraft.splash_potion.effect.water",
+    "new_value": "飛濺水瓶",
+    "en_us": "Splash Water Bottle"
   },
   {
     "old_key": "item.minecraft.splash_potion.effect.water_breathing",

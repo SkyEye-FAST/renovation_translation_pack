@@ -560,6 +560,13 @@
     "en_us": "Entities with scores"
   },
   {
+    "old_key": "argument.entity.options.sort.description",
+    "old_value": "對實體進行排序",
+    "new_key": "argument.entity.options.sort.description",
+    "new_value": "對實體排序",
+    "en_us": "Sort the entities"
+  },
+  {
     "old_key": "argument.entity.options.sort.irreversible",
     "old_value": "排序類型 '%s' 無效或不明",
     "new_key": "argument.entity.options.sort.irreversible",
@@ -2394,6 +2401,20 @@
     "en_us": "Removed modifier %s from attribute %s for entity %s"
   },
   {
+    "old_key": "commands.ban.failed",
+    "old_value": "未進行任何變更。此玩家已被封鎖",
+    "new_key": "commands.ban.failed",
+    "new_value": "未作任何變更。此玩家已被封鎖",
+    "en_us": "Nothing changed. The player is already banned"
+  },
+  {
+    "old_key": "commands.banip.failed",
+    "old_value": "未進行任何變更。此 IP 已被封鎖",
+    "new_key": "commands.banip.failed",
+    "new_value": "未作任何變更。此 IP 已被封鎖",
+    "en_us": "Nothing changed. That IP is already banned"
+  },
+  {
     "old_key": "commands.banlist.none",
     "old_value": "並無被封鎖嘅玩家",
     "new_key": "commands.banlist.none",
@@ -2436,11 +2457,39 @@
     "en_us": "Custom bossbar %s has changed color"
   },
   {
+    "old_key": "commands.bossbar.set.color.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為此顏色",
+    "new_key": "commands.bossbar.set.color.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條已為此顏色",
+    "en_us": "Nothing changed. That's already the color of this bossbar"
+  },
+  {
     "old_key": "commands.bossbar.set.max.success",
     "old_value": "已將自訂 Boss 狀態條 %s 嘅最大值變更為 %s",
     "new_key": "commands.bossbar.set.max.success",
     "new_value": "已將自訂 Boss 狀態條 %s 的最大值變更為 %s",
     "en_us": "Custom bossbar %s has changed maximum to %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條已為最大值",
+    "en_us": "Nothing changed. That's already the max of this bossbar"
+  },
+  {
+    "old_key": "commands.bossbar.set.name.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為此名稱",
+    "new_key": "commands.bossbar.set.name.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條已為此名稱",
+    "en_us": "Nothing changed. That's already the name of this bossbar"
+  },
+  {
+    "old_key": "commands.bossbar.set.players.unchanged",
+    "old_value": "未進行任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
+    "new_key": "commands.bossbar.set.players.unchanged",
+    "new_value": "未作任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
+    "en_us": "Nothing changed. Those players are already on the bossbar with nobody to add or remove"
   },
   {
     "old_key": "commands.bossbar.set.style.success",
@@ -2450,11 +2499,39 @@
     "en_us": "Custom bossbar %s has changed style"
   },
   {
+    "old_key": "commands.bossbar.set.style.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為此樣式",
+    "new_key": "commands.bossbar.set.style.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條已為此樣式",
+    "en_us": "Nothing changed. That's already the style of this bossbar"
+  },
+  {
     "old_key": "commands.bossbar.set.value.success",
     "old_value": "已將自訂 Boss 狀態條 %s 嘅數值更改為 %s",
     "new_key": "commands.bossbar.set.value.success",
     "new_value": "已將自訂 Boss 狀態條 %s 的數值變更為 %s",
     "en_us": "Custom bossbar %s has changed value to %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.value.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為此數值",
+    "new_key": "commands.bossbar.set.value.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條已為此數值",
+    "en_us": "Nothing changed. That's already the value of this bossbar"
+  },
+  {
+    "old_key": "commands.bossbar.set.visibility.unchanged.hidden",
+    "old_value": "未進行任何變更。此 Boss 狀態條已被隱藏",
+    "new_key": "commands.bossbar.set.visibility.unchanged.hidden",
+    "new_value": "未作任何變更。此 Boss 狀態條已被隱藏",
+    "en_us": "Nothing changed. The bossbar is already hidden"
+  },
+  {
+    "old_key": "commands.bossbar.set.visibility.unchanged.visible",
+    "old_value": "未進行任何變更。此 Boss 狀態條已設為可見",
+    "new_key": "commands.bossbar.set.visibility.unchanged.visible",
+    "new_value": "未作任何變更。此 Boss 狀態條已設為可見",
+    "en_us": "Nothing changed. The bossbar is already visible"
   },
   {
     "old_key": "commands.bossbar.unknown",
@@ -2509,7 +2586,7 @@
     "old_key": "commands.data.merge.failed",
     "old_value": "未進行任何變更。指定嘅屬性已有此值",
     "new_key": "commands.data.merge.failed",
-    "new_value": "未進行任何變更。指定的屬性已有此值",
+    "new_value": "未作任何變更。指定的屬性已有此值",
     "en_us": "Nothing changed. The specified properties already have these values"
   },
   {
@@ -2553,6 +2630,13 @@
     "new_key": "commands.datapack.unknown",
     "new_value": "未知數據包「%s」",
     "en_us": "Unknown data pack '%s'"
+  },
+  {
+    "old_key": "commands.deop.failed",
+    "old_value": "未進行任何變更。此玩家並非管理員",
+    "new_key": "commands.deop.failed",
+    "new_value": "未作任何變更。此玩家並非管理員",
+    "en_us": "Nothing changed. The player is not an operator"
   },
   {
     "old_key": "commands.deop.success",
@@ -2623,6 +2707,13 @@
     "new_key": "commands.effect.give.success.single",
     "new_value": "已將 %s 效果作用於 %s",
     "en_us": "Applied effect %s to %s"
+  },
+  {
+    "old_key": "commands.enchant.failed",
+    "old_value": "未進行任何變更。對象手中無物品或無法套用此附魔",
+    "new_key": "commands.enchant.failed",
+    "new_value": "未作任何變更。對象手中無物品或無法套用此附魔",
+    "en_us": "Nothing changed. Targets either have no item in their hands or the enchantment could not be applied"
   },
   {
     "old_key": "commands.enchant.failed.entity",
@@ -2842,6 +2933,27 @@
     "en_us": "You whisper to %s: %s"
   },
   {
+    "old_key": "commands.op.failed",
+    "old_value": "未進行任何變更。此玩家已為管理員",
+    "new_key": "commands.op.failed",
+    "new_value": "未作任何變更。此玩家已為管理員",
+    "en_us": "Nothing changed. The player already is an operator"
+  },
+  {
+    "old_key": "commands.pardon.failed",
+    "old_value": "未進行任何變更。此玩家未被封鎖",
+    "new_key": "commands.pardon.failed",
+    "new_value": "未作任何變更。此玩家未被封鎖",
+    "en_us": "Nothing changed. The player isn't banned"
+  },
+  {
+    "old_key": "commands.pardonip.failed",
+    "old_value": "未進行任何變更。此 IP 未被封鎖",
+    "new_key": "commands.pardonip.failed",
+    "new_value": "未作任何變更。此 IP 未被封鎖",
+    "en_us": "Nothing changed. That IP isn't banned"
+  },
+  {
     "old_key": "commands.perf.reportSaved",
     "old_value": "已經喺 %s 建立除錯報吿",
     "new_key": "commands.perf.reportSaved",
@@ -2912,6 +3024,20 @@
     "en_us": "An objective already exists by that name"
   },
   {
+    "old_key": "commands.scoreboard.objectives.display.alreadyEmpty",
+    "old_value": "未進行任何變更。顯示區原本就為空",
+    "new_key": "commands.scoreboard.objectives.display.alreadyEmpty",
+    "new_value": "未作任何變更。顯示區原本就為空",
+    "en_us": "Nothing changed. That display slot is already empty"
+  },
+  {
+    "old_key": "commands.scoreboard.objectives.display.alreadySet",
+    "old_value": "未進行任何變更。顯示區已顯示此目標",
+    "new_key": "commands.scoreboard.objectives.display.alreadySet",
+    "new_value": "未作任何變更。顯示區已顯示此目標",
+    "en_us": "Nothing changed. That display slot is already showing that objective"
+  },
+  {
     "old_key": "commands.scoreboard.objectives.display.cleared",
     "old_value": "已清除 %s 顯示區嘅所有目標",
     "new_key": "commands.scoreboard.objectives.display.cleared",
@@ -2952,6 +3078,13 @@
     "new_key": "commands.scoreboard.players.add.success.single",
     "new_value": "已為 %3$s 的 %2$s 增加 %1$s（目前為 %4$s）",
     "en_us": "Added %s to %s for %s (now %s)"
+  },
+  {
+    "old_key": "commands.scoreboard.players.enable.failed",
+    "old_value": "未進行任何變更。觸發項目已經啟用",
+    "new_key": "commands.scoreboard.players.enable.failed",
+    "new_value": "未作任何變更。觸發項目已經啟用",
+    "en_us": "Nothing changed. That trigger is already enabled"
   },
   {
     "old_key": "commands.scoreboard.players.enable.invalid",
@@ -3171,11 +3304,25 @@
     "en_us": "A team already exists by that name"
   },
   {
+    "old_key": "commands.team.empty.unchanged",
+    "old_value": "未進行任何變更。此隊伍已空",
+    "new_key": "commands.team.empty.unchanged",
+    "new_value": "未作任何變更。此隊伍已空",
+    "en_us": "Nothing changed. That team is already empty"
+  },
+  {
     "old_key": "commands.team.option.collisionRule.success",
     "old_value": "隊伍 %s 嘅碰撞規則依家係「%s」",
     "new_key": "commands.team.option.collisionRule.success",
     "new_value": "隊伍 %s 的碰撞規則目前為「%s」",
     "en_us": "Collision rule for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.team.option.collisionRule.unchanged",
+    "old_value": "未進行任何變更。碰撞規則已為該數值",
+    "new_key": "commands.team.option.collisionRule.unchanged",
+    "new_value": "未作任何變更。碰撞規則已為該數值",
+    "en_us": "Nothing changed. Collision rule is already that value"
   },
   {
     "old_key": "commands.team.option.color.success",
@@ -3185,11 +3332,39 @@
     "en_us": "Updated the color for team %s to %s"
   },
   {
+    "old_key": "commands.team.option.color.unchanged",
+    "old_value": "未進行任何變更。隊伍已擁有此顏色",
+    "new_key": "commands.team.option.color.unchanged",
+    "new_value": "未作任何變更。隊伍已擁有此顏色",
+    "en_us": "Nothing changed. That team already has that color"
+  },
+  {
     "old_key": "commands.team.option.deathMessageVisibility.success",
     "old_value": "隊伍 %s 嘅死亡訊息可見度依家係「%s」",
     "new_key": "commands.team.option.deathMessageVisibility.success",
     "new_value": "隊伍 %s 的死亡訊息可見度目前為「%s」",
     "en_us": "Death message visibility for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.team.option.deathMessageVisibility.unchanged",
+    "old_value": "未進行任何變更。死亡訊息可見度已為該數值",
+    "new_key": "commands.team.option.deathMessageVisibility.unchanged",
+    "new_value": "未作任何變更。死亡訊息可見度已為該數值",
+    "en_us": "Nothing changed. Death message visibility is already that value"
+  },
+  {
+    "old_key": "commands.team.option.friendlyfire.alreadyDisabled",
+    "old_value": "未進行任何變更。此隊伍已經停用同隊相殘",
+    "new_key": "commands.team.option.friendlyfire.alreadyDisabled",
+    "new_value": "未作任何變更。此隊伍已經停用同隊相殘",
+    "en_us": "Nothing changed. Friendly fire is already disabled for that team"
+  },
+  {
+    "old_key": "commands.team.option.friendlyfire.alreadyEnabled",
+    "old_value": "未進行任何變更。此隊伍已經啟用同隊相殘",
+    "new_key": "commands.team.option.friendlyfire.alreadyEnabled",
+    "new_value": "未作任何變更。此隊伍已經啟用同隊相殘",
+    "en_us": "Nothing changed. Friendly fire is already enabled for that team"
   },
   {
     "old_key": "commands.team.option.name.success",
@@ -3199,6 +3374,13 @@
     "en_us": "Updated the name of team %s"
   },
   {
+    "old_key": "commands.team.option.name.unchanged",
+    "old_value": "未進行任何變更。隊伍已擁有此名稱",
+    "new_key": "commands.team.option.name.unchanged",
+    "new_value": "未作任何變更。隊伍已擁有此名稱",
+    "en_us": "Nothing changed. That team already has that name"
+  },
+  {
     "old_key": "commands.team.option.nametagVisibility.success",
     "old_value": "隊伍 %s 嘅名稱可見度依家係「%s」",
     "new_key": "commands.team.option.nametagVisibility.success",
@@ -3206,17 +3388,24 @@
     "en_us": "Nametag visibility for team %s is now \"%s\""
   },
   {
+    "old_key": "commands.team.option.nametagVisibility.unchanged",
+    "old_value": "未進行任何變更。名牌可見度已為該數值",
+    "new_key": "commands.team.option.nametagVisibility.unchanged",
+    "new_value": "未作任何變更。名牌可見度已為該數值",
+    "en_us": "Nothing changed. Nametag visibility is already that value"
+  },
+  {
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
     "old_value": "未進行任何變更。此隊伍已經無法發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
-    "new_value": "未進行任何變更。此隊伍已經無法發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍已經無法發現隱身的隊友",
     "en_us": "Nothing changed. That team already can't see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
     "old_value": "未進行任何變更。此隊伍已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
-    "new_value": "未進行任何變更。此隊伍已經可以發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍已經可以發現隱身的隊友",
     "en_us": "Nothing changed. That team can already see invisible teammates"
   },
   {
@@ -3353,6 +3542,20 @@
     "en_us": "There are no whitelisted players"
   },
   {
+    "old_key": "commands.worldborder.center.failed",
+    "old_value": "未進行任何變更。世界界限中心已經設定於該處",
+    "new_key": "commands.worldborder.center.failed",
+    "new_value": "未作任何變更。世界界限中心已經設定於該處",
+    "en_us": "Nothing changed. The world border is already centered there"
+  },
+  {
+    "old_key": "commands.worldborder.damage.amount.failed",
+    "old_value": "未進行任何變更。世界界限傷害已為該值",
+    "new_key": "commands.worldborder.damage.amount.failed",
+    "new_value": "未作任何變更。世界界限傷害已為該值",
+    "en_us": "Nothing changed. The world border damage is already that amount"
+  },
+  {
     "old_key": "commands.worldborder.damage.amount.success",
     "old_value": "已將世界界限每秒嘅傷害設為每遠離一格增加 %s",
     "new_key": "commands.worldborder.damage.amount.success",
@@ -3360,11 +3563,39 @@
     "en_us": "Set the world border damage to %s per block each second"
   },
   {
+    "old_key": "commands.worldborder.damage.buffer.failed",
+    "old_value": "未進行任何變更。世界界限傷害緩衝區已為該距離",
+    "new_key": "commands.worldborder.damage.buffer.failed",
+    "new_value": "未作任何變更。世界界限傷害緩衝區已為該距離",
+    "en_us": "Nothing changed. The world border damage buffer is already that distance"
+  },
+  {
+    "old_key": "commands.worldborder.set.failed.nochange",
+    "old_value": "未進行任何變更。世界界限已為該尺寸",
+    "new_key": "commands.worldborder.set.failed.nochange",
+    "new_value": "未作任何變更。世界界限已為該尺寸",
+    "en_us": "Nothing changed. The world border is already that size"
+  },
+  {
     "old_key": "commands.worldborder.set.grow",
     "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
     "new_key": "commands.worldborder.set.grow",
     "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
     "en_us": "Growing the world border to %s blocks wide over %s seconds"
+  },
+  {
+    "old_key": "commands.worldborder.warning.distance.failed",
+    "old_value": "未進行任何變更。世界界限警吿距離已為該距離",
+    "new_key": "commands.worldborder.warning.distance.failed",
+    "new_value": "未作任何變更。世界界限警吿距離已為該距離",
+    "en_us": "Nothing changed. The world border warning is already that distance"
+  },
+  {
+    "old_key": "commands.worldborder.warning.time.failed",
+    "old_value": "未進行任何變更。世界界限警吿時間已為此時間",
+    "new_key": "commands.worldborder.warning.time.failed",
+    "new_value": "未作任何變更。世界界限警吿時間已為此時間",
+    "en_us": "Nothing changed. The world border warning is already that amount of time"
   },
   {
     "old_key": "compliance.playtime.greaterThan24Hours",
@@ -6856,7 +7087,7 @@
     "old_key": "title.32bit.deprecation.realms",
     "old_value": "Minecraft 不久後會需要 64 位元系統來進行遊戲，致使您無法在本裝置遊玩或使用 Realms。您將需要自行取消所有的 Realms 訂閱。",
     "new_key": "title.32bit.deprecation.realms",
-    "new_value": "Minecraft 即將僅支援 64 位元系統，届時你將無法於當前裝置遊玩或使用 Realms，並需要自行取消所有 Realms 的訂閱。",
+    "new_value": "Minecraft 即將僅支援 64 位元系統，届時你將無法於當前裝置遊玩或使用 Realms，並需要自行取消所有 Realms 訂閲。",
     "en_us": "Minecraft will soon require a 64-bit system, which will prevent you from playing or using Realms on this device. You will need to manually cancel any Realms subscription."
   },
   {

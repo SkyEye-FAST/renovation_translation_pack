@@ -252,7 +252,7 @@
     "old_value": "测试失败，计数：%s",
     "old_en_us": "Test failed, count: %s",
     "new_key": "commands.execute.conditional.fail_count",
-    "new_value": "测试失败。总计：%s",
+    "new_value": "测试失败。计数：%s",
     "new_en_us": "Test failed. Count: %s"
   },
   {
@@ -260,7 +260,7 @@
     "old_value": "测试通过，计数：%s",
     "old_en_us": "Test passed, count: %s",
     "new_key": "commands.execute.conditional.pass_count",
-    "new_value": "测试通过。总计：%s",
+    "new_value": "测试通过。计数：%s",
     "new_en_us": "Test passed. Count: %s"
   },
   {

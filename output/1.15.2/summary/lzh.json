@@ -2492,6 +2492,13 @@
     "en_us": "Blue Carpet"
   },
   {
+    "old_key": "block.minecraft.blue_ice",
+    "old_value": "藍冰",
+    "new_key": "block.minecraft.blue_ice",
+    "new_value": "靛冰",
+    "en_us": "Blue Ice"
+  },
+  {
     "old_key": "block.minecraft.brewing_stand",
     "old_value": "煉藥台",
     "new_key": "block.minecraft.brewing_stand",
@@ -2952,6 +2959,13 @@
     "new_key": "block.minecraft.light_gray_carpet",
     "new_value": "蒼氍毹",
     "en_us": "Light Gray Carpet"
+  },
+  {
+    "old_key": "block.minecraft.lily_pad",
+    "old_value": "蓮葉",
+    "new_key": "block.minecraft.lily_pad",
+    "new_value": "睡蓮",
+    "en_us": "Lily Pad"
   },
   {
     "old_key": "block.minecraft.lime_carpet",
@@ -7773,7 +7787,7 @@
     "old_key": "item.minecraft.slime_ball",
     "old_value": "史萊姆球",
     "new_key": "item.minecraft.slime_ball",
-    "new_value": "黏膠球",
+    "new_value": "黏膠團",
     "en_us": "Slimeball"
   },
   {
@@ -9814,17 +9828,31 @@
     "en_us": "Structure loaded from '%s'"
   },
   {
+    "old_key": "structure_block.mode.corner",
+    "old_value": "角",
+    "new_key": "structure_block.mode.corner",
+    "new_value": "角式",
+    "en_us": "Corner"
+  },
+  {
     "old_key": "structure_block.mode.data",
     "old_value": "資",
     "new_key": "structure_block.mode.data",
-    "new_value": "錄",
+    "new_value": "錄式",
     "en_us": "Data"
+  },
+  {
+    "old_key": "structure_block.mode.load",
+    "old_value": "讀",
+    "new_key": "structure_block.mode.load",
+    "new_value": "讀式",
+    "en_us": "Load"
   },
   {
     "old_key": "structure_block.mode.save",
     "old_value": "存",
     "new_key": "structure_block.mode.save",
-    "new_value": "記",
+    "new_value": "記式",
     "en_us": "Save"
   },
   {

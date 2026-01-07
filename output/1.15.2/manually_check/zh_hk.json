@@ -356,7 +356,7 @@
     "old_value": "未進行任何變更，指定嘅屬性已有此值",
     "old_en_us": "Nothing changed, the specified properties already have these values",
     "new_key": "commands.data.merge.failed",
-    "new_value": "未進行任何變更。指定的屬性已有此值",
+    "new_value": "未作任何變更。指定的屬性已有此值",
     "new_en_us": "Nothing changed. The specified properties already have these values"
   },
   {
