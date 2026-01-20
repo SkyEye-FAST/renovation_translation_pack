@@ -2030,6 +2030,13 @@
     "en_us": "Made %s no longer a server operator"
   },
   {
+    "old_key": "commands.difficulty.failure",
+    "old_value": "難度未變更，已經設為 %s",
+    "new_key": "commands.difficulty.failure",
+    "new_value": "難度未變更，已設為 %s",
+    "en_us": "The difficulty did not change; it is already set to %s"
+  },
+  {
     "old_key": "commands.drop.no_held_items",
     "old_value": "依個實體無法持有任何物品",
     "new_key": "commands.drop.no_held_items",
@@ -5215,6 +5222,13 @@
     "en_us": "Shears carve"
   },
   {
+    "old_key": "subtitles.entity.cat.ambient",
+    "old_value": "貓叫聲",
+    "new_key": "subtitles.entity.cat.ambient",
+    "new_value": "貓喵叫聲",
+    "en_us": "Cat meows"
+  },
+  {
     "old_key": "subtitles.entity.cat.eat",
     "old_value": "貓食嘢",
     "new_key": "subtitles.entity.cat.eat",
@@ -5670,6 +5684,13 @@
     "en_us": "Phantom bites"
   },
   {
+    "old_key": "subtitles.entity.pig.ambient",
+    "old_value": "豬叫聲",
+    "new_key": "subtitles.entity.pig.ambient",
+    "new_value": "豬哼叫聲",
+    "en_us": "Pig oinks"
+  },
+  {
     "old_key": "subtitles.entity.piglin_brute.ambient",
     "old_value": "殘暴豬人叫聲",
     "new_key": "subtitles.entity.piglin_brute.ambient",
@@ -5899,6 +5920,13 @@
     "new_key": "subtitles.entity.wither.ambient",
     "new_value": "凋零怪發怒",
     "en_us": "Wither angers"
+  },
+  {
+    "old_key": "subtitles.entity.wolf.growl",
+    "old_value": "狼嚎",
+    "new_key": "subtitles.entity.wolf.growl",
+    "new_value": "狼嚎叫聲",
+    "en_us": "Wolf growls"
   },
   {
     "old_key": "subtitles.entity.zoglin.ambient",

@@ -756,6 +756,13 @@
     "en_us": "A bossbar already exists with the ID '%s'"
   },
   {
+    "old_key": "commands.bossbar.set.style.success",
+    "old_value": "已改变自定义Boss栏%s的样式",
+    "new_key": "commands.bossbar.set.style.success",
+    "new_value": "已更改自定义Boss栏%s的样式",
+    "en_us": "Custom bossbar %s has changed style"
+  },
+  {
     "old_key": "commands.bossbar.unknown",
     "old_value": "不存在ID为'%s'的Boss栏",
     "new_key": "commands.bossbar.unknown",
@@ -880,6 +887,13 @@
     "new_key": "commands.seed.success",
     "new_value": "种子：%s",
     "en_us": "Seed: %s"
+  },
+  {
+    "old_key": "commands.setblock.success",
+    "old_value": "更改了位于%s, %s, %s的方块",
+    "new_key": "commands.setblock.success",
+    "new_value": "已更改位于%s, %s, %s的方块",
+    "en_us": "Changed the block at %s, %s, %s"
   },
   {
     "old_key": "commands.spawnpoint.success.multiple",
