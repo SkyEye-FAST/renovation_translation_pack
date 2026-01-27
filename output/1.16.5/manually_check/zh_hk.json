@@ -304,6 +304,14 @@
     "new_en_us": "Height limit for building is %s"
   },
   {
+    "old_key": "chat.queue",
+    "old_value": "[+%s 條待傳送訊息]",
+    "old_en_us": "[+%s pending lines]",
+    "new_key": "chat.queue",
+    "new_value": "[+%s 行待傳送]",
+    "new_en_us": "[+%s pending line(s)]"
+  },
+  {
     "old_key": "command.unknown.command",
     "old_value": "未知或不完整命令，錯誤如下",
     "old_en_us": "Unknown or incomplete command, see below for error",
@@ -524,7 +532,7 @@
     "old_value": "已將函數 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
     "old_en_us": "Scheduled function '%s' in %s ticks at gametime %s",
     "new_key": "commands.schedule.created.function",
-    "new_value": "已將函數 '%s' 計劃於 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_value": "已將函數「%s」計劃於 %s 刻後，即遊戲時間為 %s 時執行",
     "new_en_us": "Scheduled function '%s' in %s tick(s) at gametime %s"
   },
   {
@@ -532,7 +540,7 @@
     "old_value": "已將標籤 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
     "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
     "new_key": "commands.schedule.created.tag",
-    "new_value": "已將標籤 '%s' 計劃在 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_value": "已將標籤「%s」計劃在 %s 刻後，即遊戲時間為 %s 時執行",
     "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
   },
   {

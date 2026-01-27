@@ -1991,14 +1991,14 @@
     "old_key": "commands.experience.set.levels.success.multiple",
     "old_value": "已將 %2$s 個玩家嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.multiple",
-    "new_value": "已將 %2$s 個玩家的經驗等級設定為 %1$s 級",
+    "new_value": "已將 %2$s 個玩家的經驗等級設為 %1$s 級",
     "en_us": "Set %s experience levels on %s players"
   },
   {
     "old_key": "commands.experience.set.levels.success.single",
     "old_value": "已將 %2$s 嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.single",
-    "new_value": "已將 %2$s 的經驗等級設定為 %1$s 級",
+    "new_value": "已將 %2$s 的經驗等級設為 %1$s 級",
     "en_us": "Set %s experience levels on %s"
   },
   {
@@ -4303,6 +4303,13 @@
     "new_key": "selectWorld.recreate.customized.text",
     "new_value": "此 Minecraft 版本不再支援自訂世界。你可嘗試利用相同的種子碼與屬性重新建立該世界，惟所有自訂地形均會遺失。不便之處敬請諒解！",
     "en_us": "Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience!"
+  },
+  {
+    "old_key": "selectWorld.recreate.customized.title",
+    "old_value": "自訂世界已經不再受支援",
+    "new_key": "selectWorld.recreate.customized.title",
+    "new_value": "自訂世界已不再受支援",
+    "en_us": "Customized worlds are no longer supported"
   },
   {
     "old_key": "selectWorld.tooltip.fromNewerVersion1",

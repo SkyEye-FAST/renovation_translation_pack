@@ -516,7 +516,7 @@
     "old_value": "已將函數 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
     "old_en_us": "Scheduled function '%s' in %s ticks at gametime %s",
     "new_key": "commands.schedule.created.function",
-    "new_value": "已將函數 '%s' 計劃於 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_value": "已將函數「%s」計劃於 %s 刻後，即遊戲時間為 %s 時執行",
     "new_en_us": "Scheduled function '%s' in %s tick(s) at gametime %s"
   },
   {
@@ -524,7 +524,7 @@
     "old_value": "已將標籤 '%s' 計劃喺 %s 刻後，即遊戲時間為 %s 時執行",
     "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
     "new_key": "commands.schedule.created.tag",
-    "new_value": "已將標籤 '%s' 計劃在 %s 刻後，即遊戲時間為 %s 時執行",
+    "new_value": "已將標籤「%s」計劃在 %s 刻後，即遊戲時間為 %s 時執行",
     "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
   },
   {
@@ -1278,6 +1278,14 @@
     "new_key": "soundCategory.voice",
     "new_value": "朗讀功能／語音",
     "new_en_us": "Narrator/Voice"
+  },
+  {
+    "old_key": "stat.minecraft.time_since_rest",
+    "old_value": "距離上次瞓覺",
+    "old_en_us": "Since Last Rest",
+    "new_key": "stat.minecraft.time_since_rest",
+    "new_value": "距離上次入睡",
+    "new_en_us": "Time Since Last Rest"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",

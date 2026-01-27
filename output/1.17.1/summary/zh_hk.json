@@ -2761,14 +2761,14 @@
     "old_key": "commands.experience.set.levels.success.multiple",
     "old_value": "已將 %2$s 個玩家嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.multiple",
-    "new_value": "已將 %2$s 個玩家的經驗等級設定為 %1$s 級",
+    "new_value": "已將 %2$s 個玩家的經驗等級設為 %1$s 級",
     "en_us": "Set %s experience levels on %s players"
   },
   {
     "old_key": "commands.experience.set.levels.success.single",
     "old_value": "已將 %2$s 嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.single",
-    "new_value": "已將 %2$s 的經驗等級設定為 %1$s 級",
+    "new_value": "已將 %2$s 的經驗等級設為 %1$s 級",
     "en_us": "Set %s experience levels on %s"
   },
   {
@@ -5866,6 +5866,13 @@
     "en_us": "Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience!"
   },
   {
+    "old_key": "selectWorld.recreate.customized.title",
+    "old_value": "自訂世界已經不再受支援",
+    "new_key": "selectWorld.recreate.customized.title",
+    "new_value": "自訂世界已不再受支援",
+    "en_us": "Customized worlds are no longer supported"
+  },
+  {
     "old_key": "selectWorld.tooltip.fromNewerVersion1",
     "old_value": "世界係以較新嘅版本儲存嘅，",
     "new_key": "selectWorld.tooltip.fromNewerVersion1",
@@ -5997,6 +6004,13 @@
     "new_key": "stat.minecraft.strider_one_cm",
     "new_value": "熾足獸策騎距離",
     "en_us": "Distance by Strider"
+  },
+  {
+    "old_key": "stat.minecraft.time_since_rest",
+    "old_value": "距離上次瞓覺",
+    "new_key": "stat.minecraft.time_since_rest",
+    "new_value": "距離上次入睡",
+    "en_us": "Time Since Last Rest"
   },
   {
     "old_key": "structure_block.load_not_found",
