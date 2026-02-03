@@ -3304,6 +3304,13 @@
     "en_us": "No recipes could be forgotten"
   },
   {
+    "old_key": "commands.save.alreadyOn",
+    "old_value": "儲存功能已經打開",
+    "new_key": "commands.save.alreadyOn",
+    "new_value": "儲存功能已打開",
+    "en_us": "Saving is already turned on"
+  },
+  {
     "old_key": "commands.save.saving",
     "old_value": "儲存遊戲中（可能需要啲時間！）",
     "new_key": "commands.save.saving",
@@ -6830,6 +6837,13 @@
     "new_key": "subtitles.entity.cow.milk",
     "new_value": "牛被擠奶",
     "en_us": "Cow gets milked"
+  },
+  {
+    "old_key": "subtitles.entity.dolphin.ambient",
+    "old_value": "海豚啾啾聲",
+    "new_key": "subtitles.entity.dolphin.ambient",
+    "new_value": "海豚鳴叫聲",
+    "en_us": "Dolphin chirps"
   },
   {
     "old_key": "subtitles.entity.dolphin.eat",

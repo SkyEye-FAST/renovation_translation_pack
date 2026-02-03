@@ -540,7 +540,7 @@
     "old_value": "%1$s於去持%3$s之%2$s之時爲厲嘯所夷",
     "old_en_us": "%1$s was obliterated by a sonically-charged shriek whilst trying to escape %2$s wielding %3$s",
     "new_key": "death.attack.sonic_boom.item",
-    "new_value": "%1$s於去持%3$s之%2$s之時為厲嘯所夷",
+    "new_value": "去%2$s持%3$s者之時%1$s爲厲嘯所夷",
     "new_en_us": "%1$s was obliterated by a sonically-charged shriek while trying to escape %2$s wielding %3$s"
   },
   {

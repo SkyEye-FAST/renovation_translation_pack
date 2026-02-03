@@ -645,7 +645,7 @@
   "death.attack.message_too_long": "祈蒙見恕，是訃誠甚長而弗能皆示。概如是：%s",
   "death.attack.onFire.item": "搏%2$s持%3$s者之時%1$s灼斃",
   "death.attack.onFire.player": "搏%2$s之時%1$s灼斃",
-  "death.attack.sonic_boom.item": "%1$s於去持%3$s之%2$s之時為厲嘯所夷",
+  "death.attack.sonic_boom.item": "去%2$s持%3$s者之時%1$s爲厲嘯所夷",
   "death.attack.stalagmite.player": "搏%2$s之時%1$s爲石筍穿之",
   "death.attack.starve.player": "搏%2$s之時%1$s飢斃",
   "death.attack.thrown": "%1$s爲%2$s所擲殺",
