@@ -255,7 +255,7 @@
     "old_key": "advancements.husbandry.breed_all_animals.description",
     "old_value": "繁殖俱獸",
     "new_key": "advancements.husbandry.breed_all_animals.description",
-    "new_value": "咸媾諸獸",
+    "new_value": "咸媾諸獸！",
     "en_us": "Breed all the animals!"
   },
   {
@@ -264,6 +264,13 @@
     "new_key": "advancements.husbandry.breed_an_animal.description",
     "new_value": "媾二獸",
     "en_us": "Breed two animals together"
+  },
+  {
+    "old_key": "advancements.husbandry.root.description",
+    "old_value": "友與食充世",
+    "new_key": "advancements.husbandry.root.description",
+    "new_value": "嘉朋遍天下，美饌盈人間",
+    "en_us": "The world is full of friends and food"
   },
   {
     "old_key": "advancements.husbandry.safely_harvest_honey.title",
@@ -654,7 +661,7 @@
     "old_key": "argument.entity.options.level.description",
     "old_value": "經驗等級",
     "new_key": "argument.entity.options.level.description",
-    "new_value": "經驗之層",
+    "new_value": "經驗之階",
     "en_us": "Experience level"
   },
   {
@@ -966,6 +973,13 @@
     "en_us": "Cannot divide by zero"
   },
   {
+    "old_key": "biome.minecraft.badlands",
+    "old_value": "塬",
+    "new_key": "biome.minecraft.badlands",
+    "new_value": "墝埆",
+    "en_us": "Badlands"
+  },
+  {
     "old_key": "biome.minecraft.deep_cold_ocean",
     "old_value": "深涼海",
     "new_key": "biome.minecraft.deep_cold_ocean",
@@ -999,6 +1013,13 @@
     "new_key": "biome.minecraft.end_midlands",
     "new_value": "終界漠嶼",
     "en_us": "End Midlands"
+  },
+  {
+    "old_key": "biome.minecraft.eroded_badlands",
+    "old_value": "劣塬",
+    "new_key": "biome.minecraft.eroded_badlands",
+    "new_value": "風蝕墝埆",
+    "en_us": "Eroded Badlands"
   },
   {
     "old_key": "biome.minecraft.flower_forest",
@@ -2644,6 +2665,27 @@
     "new_key": "block.minecraft.damaged_anvil",
     "new_value": "壞鐵砧",
     "en_us": "Damaged Anvil"
+  },
+  {
+    "old_key": "block.minecraft.dark_prismarine",
+    "old_value": "黯磷",
+    "new_key": "block.minecraft.dark_prismarine",
+    "new_value": "黯海磷",
+    "en_us": "Dark Prismarine"
+  },
+  {
+    "old_key": "block.minecraft.dark_prismarine_slab",
+    "old_value": "黯磷版",
+    "new_key": "block.minecraft.dark_prismarine_slab",
+    "new_value": "黯海磷版",
+    "en_us": "Dark Prismarine Slab"
+  },
+  {
+    "old_key": "block.minecraft.dark_prismarine_stairs",
+    "old_value": "黯磷階",
+    "new_key": "block.minecraft.dark_prismarine_stairs",
+    "new_value": "黯海磷階",
+    "en_us": "Dark Prismarine Stairs"
   },
   {
     "old_key": "block.minecraft.dead_bush",
@@ -4637,14 +4679,14 @@
     "old_key": "commands.experience.add.levels.success.multiple",
     "old_value": "既予%s等經驗於%s戲者",
     "new_key": "commands.experience.add.levels.success.multiple",
-    "new_value": "既予%s層經驗於%s戲者",
+    "new_value": "既予%s階經驗於%s戲者",
     "en_us": "Gave %s experience levels to %s players"
   },
   {
     "old_key": "commands.experience.add.levels.success.single",
     "old_value": "既予%s等經驗於%s",
     "new_key": "commands.experience.add.levels.success.single",
-    "new_value": "既予%s層經驗於%s",
+    "new_value": "既予%s階經驗於%s",
     "en_us": "Gave %s experience levels to %s"
   },
   {
@@ -4665,14 +4707,14 @@
     "old_key": "commands.experience.set.levels.success.multiple",
     "old_value": "已定%2$s戯者之經驗爲%1$s品",
     "new_key": "commands.experience.set.levels.success.multiple",
-    "new_value": "已定%2$s戲者之經驗爲%1$s層",
+    "new_value": "既定%2$s戲者之經驗爲%1$s階",
     "en_us": "Set %s experience levels on %s players"
   },
   {
     "old_key": "commands.experience.set.levels.success.single",
     "old_value": "已定%2$s之經驗爲%1$s品",
     "new_key": "commands.experience.set.levels.success.single",
-    "new_value": "已定%2$s之經驗爲%1$s層",
+    "new_value": "既定%2$s之經驗爲%1$s階",
     "en_us": "Set %s experience levels on %s"
   },
   {
@@ -6345,7 +6387,7 @@
     "old_key": "entity.minecraft.area_effect_cloud",
     "old_value": "藥雲",
     "new_key": "entity.minecraft.area_effect_cloud",
-    "new_value": "劑雲",
+    "new_value": "效雲",
     "en_us": "Area Effect Cloud"
   },
   {
@@ -8165,7 +8207,7 @@
     "old_key": "key.screenshot",
     "old_value": "攝屏",
     "new_key": "key.screenshot",
-    "new_value": "爲屏作畫",
+    "new_value": "爲屛作畫",
     "en_us": "Take Screenshot"
   },
   {

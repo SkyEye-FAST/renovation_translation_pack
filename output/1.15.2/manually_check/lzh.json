@@ -1448,6 +1448,22 @@
     "new_en_us": "Data Mode - Game logic marker"
   },
   {
+    "old_key": "structure_block.mode_info.load",
+    "old_value": "取 ─ 出案",
+    "old_en_us": "Load mode - load from file",
+    "new_key": "structure_block.mode_info.load",
+    "new_value": "讀 — 讀案",
+    "new_en_us": "Load Mode - Load from file"
+  },
+  {
+    "old_key": "structure_block.mode_info.save",
+    "old_value": "存 ─ 入案",
+    "old_en_us": "Save mode - write to file",
+    "new_key": "structure_block.mode_info.save",
+    "new_value": "記 — 入案",
+    "new_en_us": "Save Mode - Write to file"
+  },
+  {
     "old_key": "structure_block.show_air",
     "old_value": "現不可視塊：",
     "old_en_us": "Show invisible blocks:",

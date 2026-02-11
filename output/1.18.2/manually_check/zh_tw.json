@@ -605,7 +605,7 @@
     "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
     "new_key": "selectWorld.backupWarning.snapshot",
     "new_value": "這個世界最後遊玩的版本為 %s，您的當前版本為 %s。請先備份以避免損壞您的世界。",
-    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions."
+    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
   },
   {
     "old_key": "selectWorld.locked",

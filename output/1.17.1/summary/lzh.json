@@ -94,7 +94,7 @@
     "old_key": "advancements.husbandry.breed_all_animals.description",
     "old_value": "繁殖俱獸",
     "new_key": "advancements.husbandry.breed_all_animals.description",
-    "new_value": "咸媾諸獸",
+    "new_value": "咸媾諸獸！",
     "en_us": "Breed all the animals!"
   },
   {
@@ -117,6 +117,13 @@
     "new_key": "advancements.husbandry.ride_a_boat_with_a_goat.title",
     "new_value": "漂羊過海",
     "en_us": "Whatever Floats Your Goat!"
+  },
+  {
+    "old_key": "advancements.husbandry.root.description",
+    "old_value": "友與食充世",
+    "new_key": "advancements.husbandry.root.description",
+    "new_value": "嘉朋遍天下，美饌盈人間",
+    "en_us": "The world is full of friends and food"
   },
   {
     "old_key": "advancements.husbandry.wax_off.description",
@@ -357,6 +364,13 @@
     "en_us": "Distance cannot be negative"
   },
   {
+    "old_key": "argument.entity.options.level.description",
+    "old_value": "經驗之層",
+    "new_key": "argument.entity.options.level.description",
+    "new_value": "經驗之階",
+    "en_us": "Experience level"
+  },
+  {
     "old_key": "argument.entity.options.level.negative",
     "old_value": "級不應負",
     "new_key": "argument.entity.options.level.negative",
@@ -560,11 +574,32 @@
     "en_us": "Flying Speed"
   },
   {
+    "old_key": "attribute.name.generic.knockback_resistance",
+    "old_value": "禦力",
+    "new_key": "attribute.name.generic.knockback_resistance",
+    "new_value": "禦退",
+    "en_us": "Knockback Resistance"
+  },
+  {
     "old_key": "attribute.name.generic.movement_speed",
     "old_value": "速",
     "new_key": "attribute.name.generic.movement_speed",
     "new_value": "緩急",
     "en_us": "Speed"
+  },
+  {
+    "old_key": "biome.minecraft.badlands",
+    "old_value": "塬",
+    "new_key": "biome.minecraft.badlands",
+    "new_value": "墝埆",
+    "en_us": "Badlands"
+  },
+  {
+    "old_key": "biome.minecraft.eroded_badlands",
+    "old_value": "劣塬",
+    "new_key": "biome.minecraft.eroded_badlands",
+    "new_value": "風蝕墝埆",
+    "en_us": "Eroded Badlands"
   },
   {
     "old_key": "biome.minecraft.nether_wastes",
@@ -2016,6 +2051,27 @@
     "en_us": "Cake with Cyan Candle"
   },
   {
+    "old_key": "block.minecraft.dark_prismarine",
+    "old_value": "黯磷",
+    "new_key": "block.minecraft.dark_prismarine",
+    "new_value": "黯海磷",
+    "en_us": "Dark Prismarine"
+  },
+  {
+    "old_key": "block.minecraft.dark_prismarine_slab",
+    "old_value": "黯磷版",
+    "new_key": "block.minecraft.dark_prismarine_slab",
+    "new_value": "黯海磷版",
+    "en_us": "Dark Prismarine Slab"
+  },
+  {
+    "old_key": "block.minecraft.dark_prismarine_stairs",
+    "old_value": "黯磷階",
+    "new_key": "block.minecraft.dark_prismarine_stairs",
+    "new_value": "黯海磷階",
+    "en_us": "Dark Prismarine Stairs"
+  },
+  {
     "old_key": "block.minecraft.deepslate",
     "old_value": "板巖",
     "new_key": "block.minecraft.deepslate",
@@ -2863,6 +2919,13 @@
     "en_us": "Rose Bush"
   },
   {
+    "old_key": "block.minecraft.shroomlight",
+    "old_value": "螢蕈體",
+    "new_key": "block.minecraft.shroomlight",
+    "new_value": "熒蕈體",
+    "en_us": "Shroomlight"
+  },
+  {
     "old_key": "block.minecraft.smooth_red_sandstone",
     "old_value": "潤紅砂",
     "new_key": "block.minecraft.smooth_red_sandstone",
@@ -3442,6 +3505,34 @@
     "new_key": "commands.execute.conditional.pass",
     "new_value": "試既舉",
     "en_us": "Test passed"
+  },
+  {
+    "old_key": "commands.experience.add.levels.success.multiple",
+    "old_value": "既予%s層經驗於%s戲者",
+    "new_key": "commands.experience.add.levels.success.multiple",
+    "new_value": "既予%s階經驗於%s戲者",
+    "en_us": "Gave %s experience levels to %s players"
+  },
+  {
+    "old_key": "commands.experience.add.levels.success.single",
+    "old_value": "既予%s層經驗於%s",
+    "new_key": "commands.experience.add.levels.success.single",
+    "new_value": "既予%s階經驗於%s",
+    "en_us": "Gave %s experience levels to %s"
+  },
+  {
+    "old_key": "commands.experience.set.levels.success.multiple",
+    "old_value": "已定%2$s戲者之經驗爲%1$s層",
+    "new_key": "commands.experience.set.levels.success.multiple",
+    "new_value": "既定%2$s戲者之經驗爲%1$s階",
+    "en_us": "Set %s experience levels on %s players"
+  },
+  {
+    "old_key": "commands.experience.set.levels.success.single",
+    "old_value": "已定%2$s之經驗爲%1$s層",
+    "new_key": "commands.experience.set.levels.success.single",
+    "new_value": "既定%2$s之經驗爲%1$s階",
+    "en_us": "Set %s experience levels on %s"
   },
   {
     "old_key": "commands.gamerule.query",
@@ -4042,7 +4133,7 @@
     "old_key": "entity.minecraft.area_effect_cloud",
     "old_value": "藥雲",
     "new_key": "entity.minecraft.area_effect_cloud",
-    "new_value": "劑雲",
+    "new_value": "效雲",
     "en_us": "Area Effect Cloud"
   },
   {
@@ -5066,6 +5157,13 @@
     "new_key": "key.mouse",
     "new_value": "鍵 %1$s",
     "en_us": "Button %1$s"
+  },
+  {
+    "old_key": "key.screenshot",
+    "old_value": "爲屏作畫",
+    "new_key": "key.screenshot",
+    "new_value": "爲屛作畫",
+    "en_us": "Take Screenshot"
   },
   {
     "old_key": "key.socialInteractions",

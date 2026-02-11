@@ -940,7 +940,7 @@
     "old_value": "讀 ─ 讀案",
     "old_en_us": "Load mode - Load from File",
     "new_key": "structure_block.mode_info.load",
-    "new_value": "取 ─ 出案",
+    "new_value": "讀 — 讀案",
     "new_en_us": "Load Mode - Load from file"
   },
   {
@@ -948,7 +948,7 @@
     "old_value": "記 ─ 入案",
     "old_en_us": "Save Mode - Write to File",
     "new_key": "structure_block.mode_info.save",
-    "new_value": "存 ─ 入案",
+    "new_value": "記 — 入案",
     "new_en_us": "Save Mode - Write to file"
   },
   {
