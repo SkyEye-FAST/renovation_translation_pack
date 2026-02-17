@@ -612,7 +612,7 @@
     "old_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。请备份你的世界，以防世界崩溃！",
     "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
     "new_key": "selectWorld.backupWarning.snapshot",
-    "new_value": "这个世界上次是在%s版本中打开的，你正在使用%s版本。请备份你的世界，以防世界崩溃。",
+    "new_value": "此世界上次打开于%s版本，而你正在使用%s版本。请先创建备份以防世界损坏。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
   },
   {

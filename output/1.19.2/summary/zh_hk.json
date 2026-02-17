@@ -511,6 +511,13 @@
     "en_us": "Fill a Bucket with lava"
   },
   {
+    "old_key": "advancements.story.mine_diamond.description",
+    "old_value": "獲得鑽石",
+    "new_key": "advancements.story.mine_diamond.description",
+    "new_value": "獲取鑽石",
+    "en_us": "Acquire diamonds"
+  },
+  {
     "old_key": "advancements.story.mine_stone.description",
     "old_value": "用你嘅新鎬挖掘石頭",
     "new_key": "advancements.story.mine_stone.description",
@@ -2800,6 +2807,13 @@
     "en_us": "Can't get %s; only numeric tags are allowed"
   },
   {
+    "old_key": "commands.data.get.unknown",
+    "old_value": "無法獲得 %s，標籤不存在",
+    "new_key": "commands.data.get.unknown",
+    "new_value": "無法獲取 %s，標籤不存在",
+    "en_us": "Can't get %s; tag doesn't exist"
+  },
+  {
     "old_key": "commands.data.merge.failed",
     "old_value": "未進行任何變更。指定嘅屬性已有此值",
     "new_key": "commands.data.merge.failed",
@@ -3426,7 +3440,7 @@
     "old_key": "commands.scoreboard.players.get.null",
     "old_value": "無法獲得 %2$s 嘅 %1$s 數值，數值未設定",
     "new_key": "commands.scoreboard.players.get.null",
-    "new_value": "無法獲得 %2$s 的 %1$s 數值，數值未設定",
+    "new_value": "無法獲取 %2$s 的 %1$s 數值，數值未設定",
     "en_us": "Can't get value of %s for %s; none is set"
   },
   {
@@ -4826,14 +4840,14 @@
     "old_key": "gui.banned.description",
     "old_value": "%s\n\n%s\n\n訪問以下連結以了解更多：%s",
     "new_key": "gui.banned.description",
-    "new_value": "%s\n\n%s\n\n訪問以下連結以瞭解更多：%s",
+    "new_value": "%s\n\n%s\n\n訪問以下連結瞭解更多：%s",
     "en_us": "%s\n\n%s\n\nLearn more at the following link: %s"
   },
   {
     "old_key": "gui.banned.description.reason",
     "old_value": "我哋最近收到一封關於你嘅帳户存在不良行為嘅舉報。審核員現已審閱此舉報，認定其為「%s」並違反 Minecraft 社羣準則。",
     "new_key": "gui.banned.description.reason",
-    "new_value": "我們近日收到舉報稱你的帳户存在不良行為。審核員已審閲你的個案，認定其為「%s」並違反 Minecraft 社羣準則。",
+    "new_value": "我們近日收到舉報稱你的帳户存在不良行為。審核員已審閲你的個案，認定其為「%s」並違反 Minecraft 社羣守則。",
     "en_us": "We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified it as %s, which goes against the Minecraft Community Standards."
   },
   {
@@ -4847,7 +4861,7 @@
     "old_key": "gui.banned.description.unknownreason",
     "old_value": "我哋最近收到一封關於你嘅帳户存在不良行為嘅舉報。審核員現已審閲此舉報，並認定你已違反 Minecraft 社羣準則。",
     "new_key": "gui.banned.description.unknownreason",
-    "new_value": "我們近日收到舉報稱你的帳户存在不良行為。審核員已審閲你的個案，並認定其違反 Minecraft 社羣準則。",
+    "new_value": "我們近日收到舉報稱你的帳户存在不良行為。審核員已審閲你的個案，並認定其違反 Minecraft 社羣守則。",
     "en_us": "We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified that it goes against the Minecraft Community Standards."
   },
   {
@@ -4924,7 +4938,7 @@
     "old_key": "gui.recipebook.moreRecipes",
     "old_value": "按右鍵以了解更多",
     "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按右鍵以瞭解更多",
+    "new_value": "按右鍵瞭解更多",
     "en_us": "Right Click for More"
   },
   {
@@ -6741,6 +6755,20 @@
     "en_us": "Dispensed item"
   },
   {
+    "old_key": "subtitles.block.door.toggle",
+    "old_value": "門聲",
+    "new_key": "subtitles.block.door.toggle",
+    "new_value": "門作響",
+    "en_us": "Door creaks"
+  },
+  {
+    "old_key": "subtitles.block.fence_gate.toggle",
+    "old_value": "閘門聲",
+    "new_key": "subtitles.block.fence_gate.toggle",
+    "new_value": "閘門作響",
+    "en_us": "Fence Gate creaks"
+  },
+  {
     "old_key": "subtitles.block.honey_block.slide",
     "old_value": "喺蜜糖塊上面滑落嚟",
     "new_key": "subtitles.block.honey_block.slide",
@@ -6783,6 +6811,13 @@
     "en_us": "Shears carve"
   },
   {
+    "old_key": "subtitles.block.trapdoor.toggle",
+    "old_value": "地板門響聲",
+    "new_key": "subtitles.block.trapdoor.toggle",
+    "new_value": "地板門作響",
+    "en_us": "Trapdoor creaks"
+  },
+  {
     "old_key": "subtitles.entity.allay.ambient_with_item",
     "old_value": "悦靈揾嘢",
     "new_key": "subtitles.entity.allay.ambient_with_item",
@@ -6821,7 +6856,7 @@
     "old_key": "subtitles.entity.cat.ambient",
     "old_value": "貓叫聲",
     "new_key": "subtitles.entity.cat.ambient",
-    "new_value": "貓喵叫聲",
+    "new_value": "貓喵喵叫",
     "en_us": "Cat meows"
   },
   {
@@ -6935,6 +6970,13 @@
     "new_key": "subtitles.entity.evoker.ambient",
     "new_value": "喚魔者低語",
     "en_us": "Evoker murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.experience_orb.pickup",
+    "old_value": "獲得經驗值",
+    "new_key": "subtitles.entity.experience_orb.pickup",
+    "new_value": "獲取經驗值",
+    "en_us": "Experience gained"
   },
   {
     "old_key": "subtitles.entity.fishing_bobber.retrieve",

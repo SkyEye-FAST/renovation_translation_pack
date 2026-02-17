@@ -340,7 +340,7 @@
     "old_value": "帳户設定已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat not allowed by account settings. Cannot send message",
     "new_key": "chat.disabled.profile",
-    "new_value": "聊天功能受到帳户設定限制。再次按「%s」以獲得更多資訊。",
+    "new_value": "聊天功能受帳户設定限制。再次按「%s」獲取更多資訊。",
     "new_en_us": "Chat is not allowed by account settings. Press '%s' again for more information."
   },
   {
@@ -1124,7 +1124,7 @@
     "old_value": "依個世界最後遊玩嘅版本為 %s，你嘅當前版本為 %s。請先備份以避免你嘅世界損壞！",
     "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
     "new_key": "selectWorld.backupWarning.snapshot",
-    "new_value": "此世界最後於 %s 版本遊玩，而你目前遊玩 %s 版本。請先備份以避免世界損壞。",
+    "new_value": "此世界上次遊玩時的版本為 %s，而你現時的版本為 %s。請建立備份以防世界損壞。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
   },
   {

@@ -304,7 +304,7 @@
   "selectWorld.backupJoinConfirmButton": "创建备份并加载",
   "selectWorld.backupQuestion.experimental": "使用“实验性设置”的世界不受支持",
   "selectWorld.backupWarning.downgrade": "这个世界上次是在%s版本中打开的，你正在使用%s版本。降低世界的游戏版本可能会导致存档损坏，我们无法保证它可以被加载和运行。如果你仍要继续，请备份该存档。",
-  "selectWorld.backupWarning.snapshot": "这个世界上次是在%s版本中打开的，你正在使用%s版本。请备份你的世界，以防世界崩溃。",
+  "selectWorld.backupWarning.snapshot": "此世界上次打开于%s版本，而你正在使用%s版本。请先创建备份以防世界损坏。",
   "selectWorld.futureworld.error.text": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
   "selectWorld.gameMode.adventure.line1": "与生存模式相同，但无法",
   "selectWorld.gameMode.adventure.line2": "放置或者移除方块",

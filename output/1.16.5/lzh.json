@@ -572,6 +572,7 @@
   "connect.negotiating": "方商其連⋯",
   "container.barrel": "木桶",
   "container.brewing": "煉藥臺",
+  "container.enchant.clue": "%s⋯？",
   "container.enchant.level.many": "並%s階經驗",
   "container.enchant.level.one": "並1階經驗",
   "container.enchant.level.requirement": "需%s階",

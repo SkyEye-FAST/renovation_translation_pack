@@ -245,6 +245,13 @@
     "en_us": "Isn't It Iron Pick"
   },
   {
+    "old_key": "advancements.story.mine_diamond.description",
+    "old_value": "獲得鑽石",
+    "new_key": "advancements.story.mine_diamond.description",
+    "new_value": "獲取鑽石",
+    "en_us": "Acquire diamonds"
+  },
+  {
     "old_key": "advancements.story.root.description",
     "old_value": "遊戲嘅核心同埋故事",
     "new_key": "advancements.story.root.description",
@@ -1834,6 +1841,13 @@
     "en_us": "Can't get %s; only numeric tags are allowed"
   },
   {
+    "old_key": "commands.data.get.unknown",
+    "old_value": "無法獲得 %s，標籤不存在",
+    "new_key": "commands.data.get.unknown",
+    "new_value": "無法獲取 %s，標籤不存在",
+    "en_us": "Can't get %s; tag doesn't exist"
+  },
+  {
     "old_key": "commands.data.storage.get",
     "old_value": "儲存於 %2$s 中嘅 %1$s 乘上 %3$s 倍率後為 %4$s",
     "new_key": "commands.data.storage.get",
@@ -2292,7 +2306,7 @@
     "old_key": "commands.scoreboard.players.get.null",
     "old_value": "無法獲得 %2$s 嘅 %1$s 數值，數值未設定",
     "new_key": "commands.scoreboard.players.get.null",
-    "new_value": "無法獲得 %2$s 的 %1$s 數值，數值未設定",
+    "new_value": "無法獲取 %2$s 的 %1$s 數值，數值未設定",
     "en_us": "Can't get value of %s for %s; none is set"
   },
   {
@@ -4522,6 +4536,20 @@
     "en_us": "Chest opens"
   },
   {
+    "old_key": "subtitles.block.door.toggle",
+    "old_value": "門聲",
+    "new_key": "subtitles.block.door.toggle",
+    "new_value": "門作響",
+    "en_us": "Door creaks"
+  },
+  {
+    "old_key": "subtitles.block.fence_gate.toggle",
+    "old_value": "閘門聲",
+    "new_key": "subtitles.block.fence_gate.toggle",
+    "new_value": "閘門作響",
+    "en_us": "Fence Gate creaks"
+  },
+  {
     "old_key": "subtitles.block.fire.extinguish",
     "old_value": "火焰被熄滅",
     "new_key": "subtitles.block.fire.extinguish",
@@ -4564,6 +4592,13 @@
     "en_us": "Torch fizzes"
   },
   {
+    "old_key": "subtitles.block.trapdoor.toggle",
+    "old_value": "地板門響聲",
+    "new_key": "subtitles.block.trapdoor.toggle",
+    "new_value": "地板門作響",
+    "en_us": "Trapdoor creaks"
+  },
+  {
     "old_key": "subtitles.block.tripwire.attach",
     "old_value": "撠線被連接",
     "new_key": "subtitles.block.tripwire.attach",
@@ -4581,7 +4616,7 @@
     "old_key": "subtitles.entity.cat.ambient",
     "old_value": "貓叫聲",
     "new_key": "subtitles.entity.cat.ambient",
-    "new_value": "貓喵叫聲",
+    "new_value": "貓喵喵叫",
     "en_us": "Cat meows"
   },
   {
@@ -4688,6 +4723,13 @@
     "new_key": "subtitles.entity.evoker.ambient",
     "new_value": "喚魔者低語",
     "en_us": "Evoker murmurs"
+  },
+  {
+    "old_key": "subtitles.entity.experience_orb.pickup",
+    "old_value": "獲得經驗值",
+    "new_key": "subtitles.entity.experience_orb.pickup",
+    "new_value": "獲取經驗值",
+    "en_us": "Experience gained"
   },
   {
     "old_key": "subtitles.entity.fishing_bobber.throw",

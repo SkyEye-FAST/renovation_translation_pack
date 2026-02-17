@@ -944,14 +944,6 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
   },
   {
-    "old_key": "selectWorld.backupWarning.snapshot",
-    "old_value": "昔戲此生界於%s ，今欲以%s入，備以防其損！",
-    "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
-    "new_key": "selectWorld.backupWarning.snapshot",
-    "new_value": "此生界昔見遊於%s，今汝爲%s。備以防其損！",
-    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
-  },
-  {
     "old_key": "selectWorld.mapFeatures.info",
     "old_value": "構如鄉、地牢之屬。",
     "old_en_us": "Villages, dungeons etc.",

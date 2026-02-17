@@ -3822,6 +3822,13 @@
     "en_us": "Brewing Stand"
   },
   {
+    "old_key": "container.enchant.clue",
+    "old_value": "%s…？",
+    "new_key": "container.enchant.clue",
+    "new_value": "%s⋯？",
+    "en_us": "%s . . . ?"
+  },
+  {
     "old_key": "container.enchant.level.many",
     "old_value": "靈%s層",
     "new_key": "container.enchant.level.many",
