@@ -3061,7 +3061,7 @@
   "options.visible": "顯示",
   "options.vsync": "垂直同步",
   "parsing.bool.expected": "應為布爾值",
-  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟出現「%s」",
+  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟發現「%s」",
   "parsing.double.expected": "應為雙精確度類型",
   "parsing.double.invalid": "無效雙精確度值「%s」",
   "parsing.expected": "應為「%s」",

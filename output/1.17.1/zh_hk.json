@@ -947,7 +947,7 @@
   "pack.incompatible.new": "（適用於新版本的Minecraft）",
   "pack.incompatible.old": "（適用於舊版本的Minecraft）",
   "pack.openFolder": "打開包文件夾",
-  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟出現「%s」",
+  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟發現「%s」",
   "parsing.double.invalid": "無效雙精確度值「%s」",
   "parsing.expected": "應為「%s」",
   "parsing.float.invalid": "無效浮點值「%s」",

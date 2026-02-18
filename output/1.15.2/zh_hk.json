@@ -739,7 +739,7 @@
   "options.sounds": "音樂與音效⋯⋯",
   "options.sounds.title": "音樂與音效選項",
   "options.vsync": "垂直同步",
-  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟出現「%s」",
+  "parsing.bool.invalid": "無效布爾值，應為「true」或「false」，惟發現「%s」",
   "parsing.double.invalid": "無效雙精確度值「%s」",
   "parsing.expected": "應為「%s」",
   "parsing.float.invalid": "無效浮點值「%s」",

@@ -1172,7 +1172,7 @@
     "old_value": "無效布爾值，應為 'true' 或 'false' 但出現 '%s'",
     "old_en_us": "Invalid boolean, expected 'true' or 'false' but found '%s'",
     "new_key": "parsing.bool.invalid",
-    "new_value": "無效布爾值，應為「true」或「false」，惟出現「%s」",
+    "new_value": "無效布爾值，應為「true」或「false」，惟發現「%s」",
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
