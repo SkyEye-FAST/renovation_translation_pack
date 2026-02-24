@@ -284,7 +284,7 @@
     "old_value": "最大建築高度限制為 %s 格",
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
-    "new_value": "最大建築高度限制為 %s",
+    "new_value": "建築高度上限為 %s",
     "new_en_us": "Height limit for building is %s"
   },
   {

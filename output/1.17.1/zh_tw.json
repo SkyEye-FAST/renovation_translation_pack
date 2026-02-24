@@ -445,7 +445,7 @@
   "selectServer.deleteQuestion": "你確定要移除這個伺服器嗎？",
   "selectServer.deleteWarning": "「%s」將會永遠消失！（非常久！）",
   "selectWorld.backupWarning.downgrade": "這個世界最後一次遊玩的版本為 %s，您現在的版本為 %s。降低世界版本可能導致資料毀損，我們無法保證世界能讀取運作。若您仍要繼續，請先進行備份。",
-  "selectWorld.backupWarning.snapshot": "這個世界最後一次遊玩的版本為 %s，而您使用的版本為 %s。請先建立備份，以防發生世界損毀。",
+  "selectWorld.backupWarning.snapshot": "這個世界最後一次遊玩的版本為 %s，而您使用的版本為 %s。請先建立備份，以防世界損毀。",
   "selectWorld.deleteWarning": "「%s」將會永遠消失！（非常久！）",
   "selectWorld.locked": "被另一個正在執行的 Minecraft 鎖定。",
   "selectWorld.mapFeatures.info": "例如村莊、沉船等等",

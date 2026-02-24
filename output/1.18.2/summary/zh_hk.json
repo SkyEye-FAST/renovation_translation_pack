@@ -546,6 +546,13 @@
     "en_us": "Option '%s' isn't applicable here"
   },
   {
+    "old_key": "argument.entity.options.limit.description",
+    "old_value": "最大回傳實體數",
+    "new_key": "argument.entity.options.limit.description",
+    "new_value": "最大返回實體數",
+    "en_us": "Maximum number of entities to return"
+  },
+  {
     "old_key": "argument.entity.options.mode.invalid",
     "old_value": "遊戲模式 '%s' 無效或不明",
     "new_key": "argument.entity.options.mode.invalid",
@@ -2168,6 +2175,13 @@
     "new_key": "book.generation.3",
     "new_value": "破舊的",
     "en_us": "Tattered"
+  },
+  {
+    "old_key": "build.tooHigh",
+    "old_value": "最大建築高度限制為 %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建築高度上限為 %s",
+    "en_us": "Height limit for building is %s"
   },
   {
     "old_key": "chat_screen.message",
