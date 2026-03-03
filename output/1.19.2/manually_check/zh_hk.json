@@ -924,7 +924,7 @@
     "old_value": "收到缺少或含有無效簽章嘅聊天封包。",
     "old_en_us": "Received chat packet with missing or invalid signature.",
     "new_key": "multiplayer.disconnect.unsigned_chat",
-    "new_value": "收到缺少或含有無效簽署的聊天封包。",
+    "new_value": "接收到缺少或含有無效簽署的聊天封包。",
     "new_en_us": "Received a chat packet with a missing or invalid signature."
   },
   {

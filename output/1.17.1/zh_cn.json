@@ -114,6 +114,7 @@
   "block.minecraft.wheat": "小麦植株",
   "block.minecraft.wither_rose": "凋灵玫瑰",
   "book.pageIndicator": "第%1$s页/共%2$s页",
+  "build.tooHigh": "建筑高度上限是%s",
   "chat.copy.click": "单击复制到剪贴板",
   "chat.disabled.launcher": "聊天在启动器选项中被禁用。无法发送消息。",
   "chat.disabled.options": "聊天在客户端选项中被禁用。",

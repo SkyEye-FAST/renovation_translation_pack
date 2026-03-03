@@ -581,6 +581,13 @@
     "en_us": "Wither Rose"
   },
   {
+    "old_key": "build.tooHigh",
+    "old_value": "建筑高度限制是%s",
+    "new_key": "build.tooHigh",
+    "new_value": "建筑高度上限是%s",
+    "en_us": "Height limit for building is %s"
+  },
+  {
     "old_key": "chat.copy.click",
     "old_value": "单击复制到剪切板",
     "new_key": "chat.copy.click",

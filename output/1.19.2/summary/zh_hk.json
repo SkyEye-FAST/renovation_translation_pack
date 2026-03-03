@@ -1893,7 +1893,7 @@
     "old_key": "block.minecraft.potted_flowering_azalea_bush",
     "old_value": "開花嘅杜鵑叢盆栽",
     "new_key": "block.minecraft.potted_flowering_azalea_bush",
-    "new_value": "開花的杜鵑叢盆栽",
+    "new_value": "盛開的杜鵑叢盆栽",
     "en_us": "Potted Flowering Azalea"
   },
   {
@@ -2726,7 +2726,7 @@
     "old_key": "commands.bossbar.set.players.unchanged",
     "old_value": "未進行任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
     "new_key": "commands.bossbar.set.players.unchanged",
-    "new_value": "未作任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
+    "new_value": "未作任何變更。玩家已在此 Boss 狀態條中，無法加入或移除",
     "en_us": "Nothing changed. Those players are already on the bossbar with nobody to add or remove"
   },
   {
@@ -3342,7 +3342,7 @@
     "old_key": "commands.save.saving",
     "old_value": "儲存遊戲中（可能需要啲時間！）",
     "new_key": "commands.save.saving",
-    "new_value": "儲存遊戲中（可能需要些時間！）",
+    "new_value": "儲存遊戲中（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
   },
   {
@@ -3748,21 +3748,21 @@
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
     "old_value": "未進行任何變更。此隊伍已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
-    "new_value": "未作任何變更。此隊伍已經可以發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍已可發現隱身的隊友",
     "en_us": "Nothing changed. That team can already see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.disabled",
     "old_value": "隊伍 %s 不再可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.disabled",
-    "new_value": "隊伍 %s 不再可以發現隱身的隊友",
+    "new_value": "隊伍 %s 不再可發現隱身的隊友",
     "en_us": "Team %s can no longer see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.enabled",
     "old_value": "隊伍 %s 已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.enabled",
-    "new_value": "隊伍 %s 已經可以發現隱身的隊友",
+    "new_value": "隊伍 %s 已可發現隱身的隊友",
     "en_us": "Team %s can now see invisible teammates"
   },
   {
@@ -4539,7 +4539,7 @@
     "old_key": "demo.reminder",
     "old_value": "試玩時間已經結束，請購買遊戲來繼續，或者重新開始一個新嘅世界！",
     "new_key": "demo.reminder",
-    "new_value": "試玩時間已經結束，請購買遊戲來繼續，或者重新開始一個新的世界！",
+    "new_value": "試玩時間已結束。請購買遊戲以繼續，或重新開始一個新世界！",
     "en_us": "The demo time has expired. Buy the game to continue or start a new world!"
   },
   {
@@ -4721,7 +4721,7 @@
     "old_key": "gamerule.playersSleepingPercentage",
     "old_value": "瞓覺百分比",
     "new_key": "gamerule.playersSleepingPercentage",
-    "new_value": "睡覺百分比",
+    "new_value": "入睡百分比",
     "en_us": "Sleep percentage"
   },
   {
@@ -4812,14 +4812,21 @@
     "old_key": "gui.abuseReport.reason.self_harm_or_suicide.description",
     "old_value": "有人威脅將會喺現實中傷害自己，或者正在談論現實生活中傷害自己嘅行為。",
     "new_key": "gui.abuseReport.reason.self_harm_or_suicide.description",
-    "new_value": "有人威脅將會在現實中傷害自己，或者正在談論現實生活中傷害自己的行為。",
+    "new_value": "有人威脅將於現實自殘，或談及於現實自殘。",
     "en_us": "Someone is threatening to harm themselves in real life or talking about harming themselves in real life."
+  },
+  {
+    "old_key": "gui.abuseReport.reason.terrorism_or_violent_extremism.description",
+    "old_value": "有人因為政治、宗教、思想或其他原因，談論、推廣或威脅實行恐怖主義或極端暴力。",
+    "new_key": "gui.abuseReport.reason.terrorism_or_violent_extremism.description",
+    "new_value": "有人因為政治、宗教、意識形態或其他原因，談論、推廣或威脅實施恐怖主義或極端暴力行為。",
+    "en_us": "Someone is talking about, promoting, or threatening to commit acts of terrorism or violent extremism for political, religious, ideological, or other reasons."
   },
   {
     "old_key": "gui.abuseReport.send.error_message",
     "old_value": "傳送舉報時回傳咗錯誤：\n'%s'",
     "new_key": "gui.abuseReport.send.error_message",
-    "new_value": "傳送舉報時回傳錯誤：\n「%s」",
+    "new_value": "傳送舉報時返回錯誤：\n「%s」",
     "en_us": "An error was returned while sending your report:\n'%s'"
   },
   {
@@ -4919,6 +4926,13 @@
     "new_key": "gui.chatReport.select_chat",
     "new_value": "選擇要舉報的聊天訊息",
     "en_us": "Select Chat Messages to Report"
+  },
+  {
+    "old_key": "gui.chatReport.selected_chat",
+    "old_value": "已選取 %s 則待舉報訊息",
+    "new_key": "gui.chatReport.selected_chat",
+    "new_value": "已選擇 %s 則待舉報訊息",
+    "en_us": "%s Chat Message(s) Selected to Report"
   },
   {
     "old_key": "gui.chatReport.send.no_reported_messages",
@@ -5771,7 +5785,7 @@
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
-    "new_value": "你已經被此伺服器封鎖",
+    "new_value": "你已被此伺服器封鎖",
     "en_us": "You are banned from this server"
   },
   {
@@ -5799,14 +5813,14 @@
     "old_key": "multiplayer.disconnect.banned.reason",
     "old_value": "你已經被依個伺服器封鎖。\n原因：%s",
     "new_key": "multiplayer.disconnect.banned.reason",
-    "new_value": "你已經被此伺服器封鎖。\n原因：%s",
+    "new_value": "你已被此伺服器封鎖。\n原因：%s",
     "en_us": "You are banned from this server.\nReason: %s"
   },
   {
     "old_key": "multiplayer.disconnect.duplicate_login",
     "old_value": "你已經喺其他位置登入",
     "new_key": "multiplayer.disconnect.duplicate_login",
-    "new_value": "你已經在其他位置登入",
+    "new_value": "你已於其他位置登入",
     "en_us": "You logged in from another location"
   },
   {
@@ -5876,7 +5890,7 @@
     "old_key": "multiplayer.disconnect.out_of_order_chat",
     "old_value": "接收到失序嘅聊天封包。你嘅系統時間係唔係變更咗？",
     "new_key": "multiplayer.disconnect.out_of_order_chat",
-    "new_value": "收到的聊天封包順序不正確。你的系統時間是否已變更？",
+    "new_value": "接收到的聊天封包順序不正確。你的系統時間是否已變更？",
     "en_us": "Out-of-order chat packet received. Did your system time change?"
   },
   {
@@ -6569,7 +6583,7 @@
     "old_key": "sleep.not_possible",
     "old_value": "已經瞓着嘅玩家嘅數量未夠跳過夜晚",
     "new_key": "sleep.not_possible",
-    "new_value": "已經睡覺的玩家的數量未夠跳過夜晚",
+    "new_value": "已入睡的玩家數量未足以跳過夜晚",
     "en_us": "No amount of rest can pass this night"
   },
   {

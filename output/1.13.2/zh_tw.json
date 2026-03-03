@@ -244,7 +244,7 @@
   "block.minecraft.smooth_quartz": "平滑石英方塊",
   "block.minecraft.spruce_planks": "杉木材",
   "block.minecraft.wheat": "小麥植株",
-  "build.tooHigh": "最大建築高度限制為 %s",
+  "build.tooHigh": "建築高度上限為 %s",
   "chat.cannotSend": "無法傳送聊天訊息",
   "chat.coordinates.tooltip": "按此傳送",
   "command.unknown.command": "未知或不完整的指令，錯誤如下",

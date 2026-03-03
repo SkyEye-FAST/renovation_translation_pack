@@ -1753,7 +1753,7 @@
     "old_key": "commands.bossbar.set.players.unchanged",
     "old_value": "未進行任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
     "new_key": "commands.bossbar.set.players.unchanged",
-    "new_value": "未作任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
+    "new_value": "未作任何變更。玩家已在此 Boss 狀態條中，無法加入或移除",
     "en_us": "Nothing changed. Those players are already on the bossbar with nobody to add or remove"
   },
   {
@@ -2215,7 +2215,7 @@
     "old_key": "commands.save.saving",
     "old_value": "儲存遊戲中（可能需要啲時間！）",
     "new_key": "commands.save.saving",
-    "new_value": "儲存遊戲中（可能需要些時間！）",
+    "new_value": "儲存遊戲中（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
   },
   {
@@ -2586,21 +2586,21 @@
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
     "old_value": "未進行任何變更。此隊伍已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
-    "new_value": "未作任何變更。此隊伍已經可以發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍已可發現隱身的隊友",
     "en_us": "Nothing changed. That team can already see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.disabled",
     "old_value": "隊伍 %s 不再可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.disabled",
-    "new_value": "隊伍 %s 不再可以發現隱身的隊友",
+    "new_value": "隊伍 %s 不再可發現隱身的隊友",
     "en_us": "Team %s can no longer see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.enabled",
     "old_value": "隊伍 %s 已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.enabled",
-    "new_value": "隊伍 %s 已經可以發現隱身的隊友",
+    "new_value": "隊伍 %s 已可發現隱身的隊友",
     "en_us": "Team %s can now see invisible teammates"
   },
   {
@@ -3951,7 +3951,7 @@
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "你已經被依個伺服器封鎖。原因：",
     "new_key": "multiplayer.disconnect.banned",
-    "new_value": "你已經被此伺服器封鎖",
+    "new_value": "你已被此伺服器封鎖",
     "en_us": "You are banned from this server"
   },
   {
@@ -3979,14 +3979,14 @@
     "old_key": "multiplayer.disconnect.banned.reason",
     "old_value": "你已經被依個伺服器封鎖。\n原因：%s",
     "new_key": "multiplayer.disconnect.banned.reason",
-    "new_value": "你已經被此伺服器封鎖。\n原因：%s",
+    "new_value": "你已被此伺服器封鎖。\n原因：%s",
     "en_us": "You are banned from this server.\nReason: %s"
   },
   {
     "old_key": "multiplayer.disconnect.duplicate_login",
     "old_value": "你已經喺其他位置登入",
     "new_key": "multiplayer.disconnect.duplicate_login",
-    "new_value": "你已經在其他位置登入",
+    "new_value": "你已於其他位置登入",
     "en_us": "You logged in from another location"
   },
   {

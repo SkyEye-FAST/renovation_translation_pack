@@ -218,6 +218,7 @@
   "block.minecraft.dragon_wall_head": "牆上的龍首",
   "block.minecraft.iron_trapdoor": "鐵地板門",
   "block.minecraft.wheat": "小麥植株",
+  "build.tooHigh": "建築高度上限為 %s",
   "chat.cannotSend": "無法傳送聊天訊息",
   "chat.coordinates.tooltip": "按此傳送",
   "chat.copy.click": "按此複製到剪貼簿",

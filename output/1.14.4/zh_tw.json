@@ -237,7 +237,7 @@
   "block.minecraft.smooth_quartz": "平滑石英方塊",
   "block.minecraft.wheat": "小麥植株",
   "book.finalizeWarning": "注意！當您在這本書署名後，將無法再修改書中內容。",
-  "build.tooHigh": "最大建築高度限制為 %s",
+  "build.tooHigh": "建築高度上限為 %s",
   "chat.cannotSend": "無法傳送聊天訊息",
   "chat.coordinates.tooltip": "按此傳送",
   "command.exception": "無法解析指令：%s",

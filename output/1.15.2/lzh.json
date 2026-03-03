@@ -1544,6 +1544,7 @@
   "stat.minecraft.damage_dealt_absorbed": "所施之傷（爲受者）",
   "stat.minecraft.damage_dealt_resisted": "所施之傷（得禦之者）",
   "stat.minecraft.damage_resisted": "禦傷之總",
+  "stat.minecraft.drop": "棄數",
   "stat.minecraft.eat_cake_slice": "食洋糕數",
   "stat.minecraft.enchant_item": "淬靈物數",
   "stat.minecraft.fish_caught": "漁獲",
