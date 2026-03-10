@@ -721,6 +721,13 @@
     "en_us": "Attached Pumpkin Stem"
   },
   {
+    "old_key": "block.minecraft.azure_bluet",
+    "old_value": "雛草",
+    "new_key": "block.minecraft.azure_bluet",
+    "new_value": "藍花美耳草",
+    "en_us": "Azure Bluet"
+  },
+  {
     "old_key": "block.minecraft.banner.diagonal_right.lime",
     "old_value": "左上淺藍色三角",
     "new_key": "block.minecraft.banner.diagonal_right.lime",
@@ -1232,6 +1239,13 @@
     "en_us": "Polished Granite Stairs"
   },
   {
+    "old_key": "block.minecraft.potted_azure_bluet",
+    "old_value": "雛草盆栽",
+    "new_key": "block.minecraft.potted_azure_bluet",
+    "new_value": "藍花美耳草盆栽",
+    "en_us": "Potted Azure Bluet"
+  },
+  {
     "old_key": "block.minecraft.pumpkin_stem",
     "old_value": "南瓜椗",
     "new_key": "block.minecraft.pumpkin_stem",
@@ -1515,14 +1529,14 @@
     "old_key": "chat.type.advancement.goal",
     "old_value": "%s 達成咗目標 %s",
     "new_key": "chat.type.advancement.goal",
-    "new_value": "%s 達成了目標 %s",
+    "new_value": "%s 已達成目標 %s",
     "en_us": "%s has reached the goal %s"
   },
   {
     "old_key": "chat.type.advancement.task",
     "old_value": "%s 達成咗進度 %s",
     "new_key": "chat.type.advancement.task",
-    "new_value": "%s 達成了進度 %s",
+    "new_value": "%s 已達成進度 %s",
     "en_us": "%s has made the advancement %s"
   },
   {
@@ -2009,6 +2023,13 @@
     "en_us": "Applied enchantment %s to %s's item"
   },
   {
+    "old_key": "commands.experience.query.points",
+    "old_value": "%s 擁有 %s 經驗點",
+    "new_key": "commands.experience.query.points",
+    "new_value": "%s 擁有 %s 點經驗值",
+    "en_us": "%s has %s experience points"
+  },
+  {
     "old_key": "commands.experience.set.levels.success.multiple",
     "old_value": "已將 %2$s 個玩家嘅經驗等級設定為 %1$s 級",
     "new_key": "commands.experience.set.levels.success.multiple",
@@ -2026,7 +2047,7 @@
     "old_key": "commands.experience.set.points.invalid",
     "old_value": "無法將經驗點設為高於玩家目前等級最高經驗點",
     "new_key": "commands.experience.set.points.invalid",
-    "new_value": "無法將經驗點設為高於玩家目前等級的最高經驗點",
+    "new_value": "無法設定經驗值，該數值已超過玩家目前等級允許的上限",
     "en_us": "Cannot set experience points above the maximum points for the player's current level"
   },
   {
