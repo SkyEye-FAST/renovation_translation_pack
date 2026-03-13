@@ -4410,6 +4410,13 @@
     "en_us": "Chainmail Boots"
   },
   {
+    "old_key": "item.minecraft.clock",
+    "old_value": "時鐘",
+    "new_key": "item.minecraft.clock",
+    "new_value": "晷漏",
+    "en_us": "Clock"
+  },
+  {
     "old_key": "item.minecraft.cocoa_beans",
     "old_value": "可可豆",
     "new_key": "item.minecraft.cocoa_beans",
