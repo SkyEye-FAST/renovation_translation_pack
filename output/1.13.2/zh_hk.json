@@ -1835,7 +1835,7 @@
   "commands.title.show.subtitle.single": "已對 %s 顯示新的副標題",
   "commands.title.show.title.multiple": "已對 %s 個玩家顯示新的標題",
   "commands.title.show.title.single": "已對 %s 顯示新的標題",
-  "commands.title.times.multiple": "已變更%s 個玩家的標題顯示時間",
+  "commands.title.times.multiple": "已變更 %s 個玩家的標題顯示時間",
   "commands.title.times.single": "已變更 %s 的標題顯示時間",
   "commands.trigger.add.success": "已觸發 %s（將數值增加 %s）",
   "commands.trigger.failed.invalid": "你僅可觸發「觸發項目」類型目標",

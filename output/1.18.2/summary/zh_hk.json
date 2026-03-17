@@ -3580,7 +3580,7 @@
     "old_key": "commands.title.times.multiple",
     "old_value": "已更改 %s 個玩家嘅標題顯示時間",
     "new_key": "commands.title.times.multiple",
-    "new_value": "已變更%s 個玩家的標題顯示時間",
+    "new_value": "已變更 %s 個玩家的標題顯示時間",
     "en_us": "Changed title display times for %s players"
   },
   {
