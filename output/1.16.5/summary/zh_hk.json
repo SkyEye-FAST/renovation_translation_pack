@@ -73,7 +73,7 @@
     "old_key": "advancements.empty",
     "old_value": "依度好似乜都冇⋯⋯",
     "new_key": "advancements.empty",
-    "new_value": "這裏好像什麼都沒有⋯⋯",
+    "new_value": "此處似乎空無一物⋯⋯",
     "en_us": "There doesn't seem to be anything here..."
   },
   {
@@ -101,7 +101,7 @@
     "old_key": "advancements.end.find_end_city.description",
     "old_value": "入去，又會點啫？",
     "new_key": "advancements.end.find_end_city.description",
-    "new_value": "進去，又會發生什麼？",
+    "new_value": "進入吧，又能出甚麼事？",
     "en_us": "Go on in, what could happen?"
   },
   {
@@ -173,6 +173,13 @@
     "new_key": "advancements.husbandry.silk_touch_nest.title",
     "new_value": "「蜂」裝物流",
     "en_us": "Total Beelocation"
+  },
+  {
+    "old_key": "advancements.nether.all_effects.title",
+    "old_value": "點解會變成咁樣？",
+    "new_key": "advancements.nether.all_effects.title",
+    "new_value": "點解會變成噉樣？",
+    "en_us": "How Did We Get Here?"
   },
   {
     "old_key": "advancements.nether.brew_potion.title",

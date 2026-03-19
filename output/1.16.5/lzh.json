@@ -860,6 +860,8 @@
   "options.viewBobbing": "視綫之搖",
   "options.vsync": "繪顯同調",
   "pack.copyFailure": "鈔錄囊未果",
+  "pack.dropConfirm": "汝確欲增下列諸囊至礦藝乎？",
+  "pack.dropInfo": "曳案至此戶以增囊",
   "pack.incompatible.confirm.new": "此資囊專爲新版礦藝而製，茲或不得遂行於此版。",
   "pack.source.world": "界",
   "parsing.bool.expected": "當爲是非之直",

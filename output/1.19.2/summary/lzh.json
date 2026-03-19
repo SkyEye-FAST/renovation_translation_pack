@@ -5978,6 +5978,20 @@
     "en_us": "Failed to copy packs"
   },
   {
+    "old_key": "pack.dropConfirm",
+    "old_value": "汝確以將下其之資囊增至礦藝乎？",
+    "new_key": "pack.dropConfirm",
+    "new_value": "汝確欲增下列諸囊至礦藝乎？",
+    "en_us": "Do you want to add the following packs to Minecraft?"
+  },
+  {
+    "old_key": "pack.dropInfo",
+    "old_value": "曳案至此戶以增一資囊",
+    "new_key": "pack.dropInfo",
+    "new_value": "曳案至此戶以增囊",
+    "en_us": "Drag and drop files into this window to add packs"
+  },
+  {
     "old_key": "pack.source.world",
     "old_value": "生界",
     "new_key": "pack.source.world",

@@ -918,6 +918,8 @@
   "options.video": "成像置設⋯",
   "options.viewBobbing": "視綫之搖",
   "pack.copyFailure": "鈔錄囊未果",
+  "pack.dropConfirm": "汝確欲增下列諸囊至礦藝乎？",
+  "pack.dropInfo": "曳案至此戶以增囊",
   "pack.source.world": "界",
   "parsing.bool.expected": "當爲是非之直",
   "parsing.bool.invalid": "是是非直無效，應爲「true」抑「false」，尋「%s」",
