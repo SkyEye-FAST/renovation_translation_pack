@@ -805,6 +805,13 @@
     "en_us": "%1$s was skewered by a falling stalactite"
   },
   {
+    "old_key": "demo.help.inventory",
+    "old_value": "按%1$s来打开你的物品栏",
+    "new_key": "demo.help.inventory",
+    "new_value": "按下%1$s键打开物品栏",
+    "en_us": "Use the %1$s key to open your inventory"
+  },
+  {
     "old_key": "demo.help.jump",
     "old_value": "按%1$s来跳跃",
     "new_key": "demo.help.jump",
@@ -1162,6 +1169,13 @@
     "en_us": "Worlds using Experimental Settings are not supported"
   },
   {
+    "old_key": "selectWorld.backupWarning.customized",
+    "old_value": "不巧，我们在这个版本的Minecraft中不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。抱歉给你带来不便。",
+    "new_key": "selectWorld.backupWarning.customized",
+    "new_value": "抱歉，此Minecraft版本不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。若有不便还请谅解。",
+    "en_us": "Unfortunately, we do not support customized worlds in this version of Minecraft. We can still load this world and keep everything the way it was, but any newly generated terrain will no longer be customized. We're sorry for the inconvenience!"
+  },
+  {
     "old_key": "selectWorld.futureworld.error.text",
     "old_value": "当我们试图加载一份来自未来版本的世界时，发生了一些错误。这本就并非万无一失，很抱歉没能成功。",
     "new_key": "selectWorld.futureworld.error.text",
@@ -1202,6 +1216,13 @@
     "new_key": "sign.edit",
     "new_value": "编辑告示牌消息",
     "en_us": "Edit Sign Message"
+  },
+  {
+    "old_key": "spectatorMenu.root.prompt",
+    "old_value": "按下一个键来选择命令，再按一次来使用它。",
+    "new_key": "spectatorMenu.root.prompt",
+    "new_value": "按下任意键选择命令，再次按下使用该键。",
+    "en_us": "Press a key to select a command, and again to use it."
   },
   {
     "old_key": "stat_type.minecraft.killed",
@@ -1531,6 +1552,13 @@
     "new_key": "tutorial.bundleInsert.description",
     "new_value": "单击鼠标右键收纳物品",
     "en_us": "Right Click to add items"
+  },
+  {
+    "old_key": "tutorial.find_tree.description",
+    "old_value": "敲击木头来收集它",
+    "new_key": "tutorial.find_tree.description",
+    "new_value": "敲击木头来采集它",
+    "en_us": "Punch it to collect wood"
   },
   {
     "old_key": "tutorial.look.title",

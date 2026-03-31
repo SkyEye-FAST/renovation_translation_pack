@@ -292,6 +292,7 @@
   "demo.day.6": "你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。",
   "demo.day.warning": "你的试玩时间即将结束！",
   "demo.help.fullWrapped": "这个试玩将会持续游戏内5天的时间（现实时间大约为1小时40分钟）。查看进度来获得提示！祝你玩得开心！",
+  "demo.help.inventory": "按下%1$s键打开物品栏",
   "demo.help.jump": "按下%1$s键来跳跃",
   "demo.help.later": "继续游戏！",
   "demo.help.movement": "使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动",
@@ -405,7 +406,7 @@
   "selectWorld.allowCommands": "允许作弊",
   "selectWorld.allowCommands.info": "例如/gamemode、/experience等命令",
   "selectWorld.backupJoinConfirmButton": "创建备份并加载",
-  "selectWorld.backupWarning.customized": "不巧，我们在这个版本的Minecraft中不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。抱歉给你带来不便。",
+  "selectWorld.backupWarning.customized": "抱歉，此Minecraft版本不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。若有不便还请谅解。",
   "selectWorld.bonusItems": "奖励箱",
   "selectWorld.deleteWarning": "“%s”将会永久消失！（真的很久！）",
   "selectWorld.edit.save": "保存",
@@ -423,6 +424,7 @@
   "sign.edit": "编辑告示牌消息",
   "slot.unknown": "未知的槽位“%s”",
   "soundCategory.voice": "复述功能/语音",
+  "spectatorMenu.root.prompt": "按下任意键选择命令，再次按下使用该键。",
   "spectatorMenu.team_teleport.prompt": "选择一支队伍作为传送目标",
   "spectatorMenu.teleport.prompt": "选择一名玩家作为传送目标",
   "stat.minecraft.climb_one_cm": "攀爬距离",
@@ -527,5 +529,6 @@
   "subtitles.item.hoe.till": "锄：犁地",
   "subtitles.item.shears.shear": "剪刀：咔嚓",
   "team.notFound": "未知的队伍“%s”",
+  "tutorial.find_tree.description": "敲击木头来采集它",
   "tutorial.look.title": "环顾四周"
 }

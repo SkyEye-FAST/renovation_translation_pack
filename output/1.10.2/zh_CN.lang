@@ -39,6 +39,7 @@ demo.day.1=此试玩版会在5个游戏日后结束，尽力而为吧！
 demo.day.6=你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。
 demo.day.warning=你的试玩时间即将结束！
 demo.help.fullWrapped=这个试玩将会持续游戏内5天的时间（现实时间大约为1小时40分钟）。查看进度来获得提示！祝你玩得开心！
+demo.help.inventory=按下%1$s键打开物品栏
 demo.help.jump=按下%1$s键来跳跃
 demo.help.later=继续游戏！
 demo.help.movement=使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动

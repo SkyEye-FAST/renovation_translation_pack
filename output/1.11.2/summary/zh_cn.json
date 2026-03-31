@@ -651,6 +651,13 @@
     "en_us": "before you load it in this snapshot."
   },
   {
+    "old_key": "spectatorMenu.root.prompt",
+    "old_value": "按下一个键来选择命令，再按一次来使用它。",
+    "new_key": "spectatorMenu.root.prompt",
+    "new_value": "按下任意键选择命令，再次按下使用该键。",
+    "en_us": "Press a key to select a command, and again to use it."
+  },
+  {
     "old_key": "spectatorMenu.team_teleport.prompt",
     "old_value": "选择一个想要传送到的队伍",
     "new_key": "spectatorMenu.team_teleport.prompt",

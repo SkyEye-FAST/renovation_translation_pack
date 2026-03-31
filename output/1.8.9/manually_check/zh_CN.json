@@ -180,7 +180,7 @@
     "old_value": "按 %1$s 打开你的道具栏",
     "old_en_us": "Use %1$s to open your inventory",
     "new_key": "demo.help.inventory",
-    "new_value": "按%1$s来打开你的物品栏",
+    "new_value": "按下%1$s键打开物品栏",
     "new_en_us": "Use the %1$s key to open your inventory"
   },
   {

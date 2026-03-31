@@ -249,6 +249,7 @@
   "debug.show_hitboxes.on": "判定箱：显示",
   "demo.day.1": "此试玩版会在5个游戏日后结束，尽力而为吧！",
   "demo.day.6": "你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。",
+  "demo.help.inventory": "按下%1$s键打开物品栏",
   "demo.help.jump": "按下%1$s键来跳跃",
   "demo.help.later": "继续游戏！",
   "demo.help.movement": "使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动",
@@ -355,6 +356,7 @@
   "selectServer.deleteWarning": "“%s”将会永久消失！（真的很久！）",
   "selectWorld.allowCommands": "允许作弊",
   "selectWorld.backupJoinConfirmButton": "创建备份并加载",
+  "selectWorld.backupWarning.customized": "抱歉，此Minecraft版本不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。若有不便还请谅解。",
   "selectWorld.bonusItems": "奖励箱",
   "selectWorld.deleteWarning": "“%s”将会永久消失！（真的很久！）",
   "selectWorld.futureworld.error.text": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
@@ -370,6 +372,7 @@
   "sign.edit": "编辑告示牌消息",
   "slot.unknown": "未知的槽位“%s”",
   "soundCategory.voice": "复述功能/语音",
+  "spectatorMenu.root.prompt": "按下任意键选择命令，再次按下使用该键。",
   "spectatorMenu.team_teleport.prompt": "选择一支队伍作为传送目标",
   "spectatorMenu.teleport.prompt": "选择一名玩家作为传送目标",
   "stat.minecraft.climb_one_cm": "攀爬距离",
@@ -466,5 +469,6 @@
   "subtitles.item.shears.shear": "剪刀：咔嚓",
   "team.notFound": "未知的队伍“%s”",
   "title.multiplayer.other": "多人游戏（第三方服务器）",
+  "tutorial.find_tree.description": "敲击木头来采集它",
   "tutorial.look.title": "环顾四周"
 }

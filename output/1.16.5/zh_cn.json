@@ -204,6 +204,7 @@
   "debug.crash.message": "F3 + C已被按下。若不放开按键则会使游戏崩溃。",
   "debug.crash.warning": "将在%s秒后崩溃…",
   "demo.day.6": "你已经度过了5个游戏日的试玩时间，按下%s来为你的成果截图留念。",
+  "demo.help.inventory": "按下%1$s键打开物品栏",
   "demo.help.jump": "按下%1$s键来跳跃",
   "demo.help.movement": "使用%1$s、%2$s、%3$s、%4$s以及鼠标来移动",
   "demo.help.movementMouse": "使用鼠标来环顾四周",
@@ -309,6 +310,7 @@
   "selectWorld.access_failure": "进入世界失败",
   "selectWorld.backupJoinConfirmButton": "创建备份并加载",
   "selectWorld.backupQuestion.experimental": "使用“实验性设置”的世界不受支持",
+  "selectWorld.backupWarning.customized": "抱歉，此Minecraft版本不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。若有不便还请谅解。",
   "selectWorld.data_read": "读取世界数据中…",
   "selectWorld.deleteWarning": "“%s”将会永久消失！（真的很久！）",
   "selectWorld.futureworld.error.text": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
@@ -322,6 +324,7 @@
   "sign.edit": "编辑告示牌消息",
   "slot.unknown": "未知的槽位“%s”",
   "soundCategory.voice": "复述功能/语音",
+  "spectatorMenu.root.prompt": "按下任意键选择命令，再次按下使用该键。",
   "stat.minecraft.climb_one_cm": "攀爬距离",
   "stat.minecraft.damage_absorbed": "吸收伤害量",
   "stat.minecraft.damage_blocked_by_shield": "盾牌格挡伤害量",
@@ -409,5 +412,6 @@
   "subtitles.item.hoe.till": "锄：犁地",
   "subtitles.item.shears.shear": "剪刀：咔嚓",
   "team.notFound": "未知的队伍“%s”",
+  "tutorial.find_tree.description": "敲击木头来采集它",
   "tutorial.look.title": "环顾四周"
 }

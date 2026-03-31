@@ -3073,6 +3073,13 @@
     "en_us": "Stone Stairs"
   },
   {
+    "old_key": "block.minecraft.structure_block",
+    "old_value": "結構塊",
+    "new_key": "block.minecraft.structure_block",
+    "new_value": "築塊",
+    "en_us": "Structure Block"
+  },
+  {
     "old_key": "block.minecraft.sugar_cane",
     "old_value": "果蔗",
     "new_key": "block.minecraft.sugar_cane",
