@@ -119,13 +119,6 @@
     "en_us": "Enchant an item at an Enchanting Table"
   },
   {
-    "old_key": "advancements.story.enter_the_nether.description",
-    "old_value": "建造、启动并进入一个下界传送门",
-    "new_key": "advancements.story.enter_the_nether.description",
-    "new_value": "建造、激活并进入一座下界传送门",
-    "en_us": "Build, light and enter a Nether Portal"
-  },
-  {
     "old_key": "advancements.story.enter_the_nether.title",
     "old_value": "我们需要再深入些",
     "new_key": "advancements.story.enter_the_nether.title",

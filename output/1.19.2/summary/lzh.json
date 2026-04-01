@@ -35,13 +35,6 @@
     "en_us": "Free fall from the top of the world (build limit) to the bottom of the world and survive"
   },
   {
-    "old_key": "advancements.adventure.kill_all_mobs.description",
-    "old_value": "咸誅敵獸",
-    "new_key": "advancements.adventure.kill_all_mobs.description",
-    "new_value": "誅諸敵獸各一",
-    "en_us": "Kill one of every hostile monster"
-  },
-  {
     "old_key": "advancements.adventure.lightning_rod_with_villager_no_fire.description",
     "old_value": "全一鄉民于驚雷之下而無火生焉",
     "new_key": "advancements.adventure.lightning_rod_with_villager_no_fire.description",
@@ -49,25 +42,11 @@
     "en_us": "Protect a Villager from an undesired shock without starting a fire"
   },
   {
-    "old_key": "advancements.adventure.ol_betsy.description",
-    "old_value": "以弩射",
-    "new_key": "advancements.adventure.ol_betsy.description",
-    "new_value": "射以弩",
-    "en_us": "Shoot a Crossbow"
-  },
-  {
     "old_key": "advancements.adventure.play_jukebox_in_meadows.description",
     "old_value": "以留聲機之樂章，益草甸之生氣",
     "new_key": "advancements.adventure.play_jukebox_in_meadows.description",
     "new_value": "以留聲機之樂章，益艸甸之生氣",
     "en_us": "Make the Meadows come alive with the sound of music from a Jukebox"
-  },
-  {
-    "old_key": "advancements.adventure.root.title",
-    "old_value": "冒險",
-    "new_key": "advancements.adventure.root.title",
-    "new_value": "歷險",
-    "en_us": "Adventure"
   },
   {
     "old_key": "advancements.adventure.shoot_arrow.description",

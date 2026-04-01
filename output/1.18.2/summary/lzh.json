@@ -35,20 +35,6 @@
     "en_us": "Free fall from the top of the world (build limit) to the bottom of the world and survive"
   },
   {
-    "old_key": "advancements.adventure.kill_all_mobs.description",
-    "old_value": "咸誅敵獸",
-    "new_key": "advancements.adventure.kill_all_mobs.description",
-    "new_value": "誅諸敵獸各一",
-    "en_us": "Kill one of every hostile monster"
-  },
-  {
-    "old_key": "advancements.adventure.root.title",
-    "old_value": "冒險",
-    "new_key": "advancements.adventure.root.title",
-    "new_value": "歷險",
-    "en_us": "Adventure"
-  },
-  {
     "old_key": "advancements.adventure.sniper_duel.description",
     "old_value": "去五十方而殺髑",
     "new_key": "advancements.adventure.sniper_duel.description",

@@ -63,13 +63,6 @@
     "en_us": "Sticky Situation"
   },
   {
-    "old_key": "advancements.adventure.kill_all_mobs.description",
-    "old_value": "咸誅敵獸",
-    "new_key": "advancements.adventure.kill_all_mobs.description",
-    "new_value": "誅諸敵獸各一",
-    "en_us": "Kill one of every hostile monster"
-  },
-  {
     "old_key": "advancements.adventure.kill_all_mobs.title",
     "old_value": "趕盡殺絕",
     "new_key": "advancements.adventure.kill_all_mobs.title",
@@ -82,20 +75,6 @@
     "new_key": "advancements.adventure.ol_betsy.title",
     "new_value": "一觸即發",
     "en_us": "Ol' Betsy"
-  },
-  {
-    "old_key": "advancements.adventure.root.description",
-    "old_value": "始戲礦藝",
-    "new_key": "advancements.adventure.root.description",
-    "new_value": "歷險、遊覽、戰鬥",
-    "en_us": "Adventure, exploration and combat"
-  },
-  {
-    "old_key": "advancements.adventure.root.title",
-    "old_value": "萬物之始",
-    "new_key": "advancements.adventure.root.title",
-    "new_value": "歷險",
-    "en_us": "Adventure"
   },
   {
     "old_key": "advancements.adventure.shoot_arrow.title",
@@ -432,20 +411,6 @@
     "new_key": "advancements.story.enchant_item.description",
     "new_value": "以淬靈案施靈於器",
     "en_us": "Enchant an item at an Enchanting Table"
-  },
-  {
-    "old_key": "advancements.story.enter_the_end.description",
-    "old_value": "入幻滅結界門",
-    "new_key": "advancements.story.enter_the_end.description",
-    "new_value": "入終界結界門",
-    "en_us": "Enter the End Portal"
-  },
-  {
-    "old_key": "advancements.story.enter_the_nether.description",
-    "old_value": "建，然且進幽冥結界門",
-    "new_key": "advancements.story.enter_the_nether.description",
-    "new_value": "築而入一焱界結界門",
-    "en_us": "Build, light and enter a Nether Portal"
   },
   {
     "old_key": "advancements.story.follow_ender_eye.description",

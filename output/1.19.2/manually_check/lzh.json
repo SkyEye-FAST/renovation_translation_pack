@@ -1,5 +1,29 @@
 [
   {
+    "old_key": "advancements.adventure.kill_all_mobs.description",
+    "old_value": "咸誅敵獸",
+    "old_en_us": "Kill one of every hostile monster",
+    "new_key": "advancements.adventure.kill_all_mobs.description",
+    "new_value": "誅諸敵獸各一",
+    "new_en_us": "Command an army of weapons to kill one of every hostile monster"
+  },
+  {
+    "old_key": "advancements.adventure.ol_betsy.description",
+    "old_value": "以弩射",
+    "old_en_us": "Shoot a Crossbow",
+    "new_key": "advancements.adventure.ol_betsy.description",
+    "new_value": "射以弩",
+    "new_en_us": "Aqcuire a Crossbow"
+  },
+  {
+    "old_key": "advancements.adventure.root.title",
+    "old_value": "冒險",
+    "old_en_us": "Adventure",
+    "new_key": "advancements.adventure.root.title",
+    "new_value": "歷險",
+    "new_en_us": "HerdCraft"
+  },
+  {
     "old_key": "advancements.husbandry.make_a_sign_glow.description",
     "old_value": "爍牌文",
     "old_en_us": "Make the text of a Sign glow",

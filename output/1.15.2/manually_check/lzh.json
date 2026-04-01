@@ -1,5 +1,29 @@
 [
   {
+    "old_key": "advancements.adventure.kill_all_mobs.description",
+    "old_value": "咸誅敵獸",
+    "old_en_us": "Kill one of every hostile monster",
+    "new_key": "advancements.adventure.kill_all_mobs.description",
+    "new_value": "誅諸敵獸各一",
+    "new_en_us": "Command an army of weapons to kill one of every hostile monster"
+  },
+  {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "始戲礦藝",
+    "old_en_us": "Adventure, exploration and combat",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "歷險、遊覽、戰鬥",
+    "new_en_us": "Herding and crafting your world"
+  },
+  {
+    "old_key": "advancements.adventure.root.title",
+    "old_value": "萬物之始",
+    "old_en_us": "Adventure",
+    "new_key": "advancements.adventure.root.title",
+    "new_value": "歷險",
+    "new_en_us": "HerdCraft"
+  },
+  {
     "old_key": "advancements.adventure.shoot_arrow.description",
     "old_value": "射而中獸",
     "old_en_us": "Shoot something with a bow and arrow",
@@ -78,6 +102,22 @@
     "new_key": "advancements.story.deflect_arrow.description",
     "new_value": "以盾御彈",
     "new_en_us": "Deflect a projectile with a Shield"
+  },
+  {
+    "old_key": "advancements.story.enter_the_end.description",
+    "old_value": "入幻滅結界門",
+    "old_en_us": "Enter the End Portal",
+    "new_key": "advancements.story.enter_the_end.description",
+    "new_value": "入終界結界門",
+    "new_en_us": "Gather enough Eyes of Ender, find some End Portal Frames and enter the End"
+  },
+  {
+    "old_key": "advancements.story.enter_the_nether.description",
+    "old_value": "建，然且進幽冥結界門",
+    "old_en_us": "Build, light and enter a Nether Portal",
+    "new_key": "advancements.story.enter_the_nether.description",
+    "new_value": "築而入一焱界結界門",
+    "new_en_us": "Gather enough Obsidian and a Flint and Steel, then enter the Nether"
   },
   {
     "old_key": "advancements.story.form_obsidian.description",

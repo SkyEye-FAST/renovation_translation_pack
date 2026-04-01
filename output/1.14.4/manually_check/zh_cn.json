@@ -24,6 +24,14 @@
     "new_en_us": "Deflect a projectile with a Shield"
   },
   {
+    "old_key": "advancements.story.enter_the_nether.description",
+    "old_value": "建造、启动并进入一个下界传送门",
+    "old_en_us": "Build, light and enter a Nether Portal",
+    "new_key": "advancements.story.enter_the_nether.description",
+    "new_value": "建造、激活并进入一座下界传送门",
+    "new_en_us": "Gather enough Obsidian and a Flint and Steel, then enter the Nether"
+  },
+  {
     "old_key": "advancements.story.form_obsidian.description",
     "old_value": "创造并挖掘一块黑曜石",
     "old_en_us": "Form and mine a block of Obsidian",

@@ -8,6 +8,14 @@
     "new_en_us": "Protect a Villager from an undesired shock without starting a fire"
   },
   {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "冒險、 探索和戰鬥",
+    "old_en_us": "Adventure, exploration and combat",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "冒險、探索和戰鬥",
+    "new_en_us": "Herding and crafting your world"
+  },
+  {
     "old_key": "advancements.adventure.walk_on_powder_snow_with_leather_boots.description",
     "old_value": "在粉雪上行走...... 並且不陷下去",
     "old_en_us": "Walk on powder snow...without sinking in it",

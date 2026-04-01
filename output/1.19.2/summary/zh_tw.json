@@ -7,13 +7,6 @@
     "en_us": "Protect a Villager from an undesired shock without starting a fire"
   },
   {
-    "old_key": "advancements.adventure.root.description",
-    "old_value": "冒險、 探索和戰鬥",
-    "new_key": "advancements.adventure.root.description",
-    "new_value": "冒險、探索和戰鬥",
-    "en_us": "Adventure, exploration and combat"
-  },
-  {
     "old_key": "advancements.husbandry.tactical_fishing.description",
     "old_value": "釣魚…… 不用釣竿！",
     "new_key": "advancements.husbandry.tactical_fishing.description",
