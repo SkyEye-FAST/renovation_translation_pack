@@ -35,6 +35,20 @@
     "en_us": "Free fall from the top of the world (build limit) to the bottom of the world and survive"
   },
   {
+    "old_key": "advancements.adventure.kill_all_mobs.description",
+    "old_value": "咸誅敵獸",
+    "new_key": "advancements.adventure.kill_all_mobs.description",
+    "new_value": "誅諸敵獸各一",
+    "en_us": "Kill one of every hostile monster"
+  },
+  {
+    "old_key": "advancements.adventure.root.title",
+    "old_value": "冒險",
+    "new_key": "advancements.adventure.root.title",
+    "new_value": "歷險",
+    "en_us": "Adventure"
+  },
+  {
     "old_key": "advancements.adventure.sniper_duel.description",
     "old_value": "去五十方而殺髑",
     "new_key": "advancements.adventure.sniper_duel.description",
@@ -3255,13 +3269,6 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "行令而生不預之謬誤",
-    "new_key": "command.failed",
-    "new_value": "方行其令而生謬不虞",
-    "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
     "old_key": "commands.bossbar.create.failed",
     "old_value": "既有名曰「%s」之Boss條",
     "new_key": "commands.bossbar.create.failed",
@@ -5348,13 +5355,6 @@
     "en_us": "Chat"
   },
   {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服可公示線上戲者。\n若閉此項，子之名則不列焉。",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可公示綫上戲者。\n若閉此項，則子名不列焉。",
-    "en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists."
-  },
-  {
     "old_key": "options.audioDevice.default",
     "old_value": "系統預定",
     "new_key": "options.audioDevice.default",
@@ -5521,13 +5521,6 @@
     "new_key": "options.resourcepack",
     "new_value": "資囊⋯",
     "en_us": "Resource Packs..."
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n直微則氣逆徒以綠霧代之。",
-    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.skinCustomisation",

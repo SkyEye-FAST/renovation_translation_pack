@@ -581,13 +581,6 @@
     "en_us": "Wither Rose"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "建筑高度限制是%s",
-    "new_key": "build.tooHigh",
-    "new_value": "建筑高度上限是%s",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat.copy.click",
     "old_value": "单击复制到剪切板",
     "new_key": "chat.copy.click",
@@ -922,13 +915,6 @@
     "new_key": "gamerule.universalAnger.description",
     "new_value": "愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。",
     "en_us": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled."
-  },
-  {
-    "old_key": "gui.abuseReport.sending.title",
-    "old_value": "发送举报中...",
-    "new_key": "gui.abuseReport.sending.title",
-    "new_value": "发送举报中…",
-    "en_us": "Sending your report..."
   },
   {
     "old_key": "gui.chatReport.selected_chat",

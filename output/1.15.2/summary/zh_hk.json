@@ -1568,13 +1568,6 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "試圖執行依個命令時發生意外錯誤",
-    "new_key": "command.failed",
-    "new_value": "試圖執行命令時發生意外錯誤",
-    "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",
@@ -2245,13 +2238,6 @@
     "new_key": "commands.save.saving",
     "new_value": "儲存遊戲中（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
-  },
-  {
-    "old_key": "commands.schedule.cleared.failure",
-    "old_value": "並無 ID 為 %s 嘅計劃",
-    "new_key": "commands.schedule.cleared.failure",
-    "new_value": "並無 ID 為 %s 的計劃",
-    "en_us": "No schedules with id %s"
   },
   {
     "old_key": "commands.schedule.same_tick",
@@ -4282,13 +4268,6 @@
     "new_key": "selectServer.deleteWarning",
     "new_value": "「%s」將會永遠消失！（非常久！）",
     "en_us": "'%s' will be lost forever! (A long time!)"
-  },
-  {
-    "old_key": "selectWorld.backupJoinSkipButton",
-    "old_value": "我知道我喺度做緊乜！",
-    "new_key": "selectWorld.backupJoinSkipButton",
-    "new_value": "我心中有數！",
-    "en_us": "I know what I'm doing!"
   },
   {
     "old_key": "selectWorld.backupWarning.customized",

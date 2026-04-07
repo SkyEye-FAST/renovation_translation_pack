@@ -7,6 +7,13 @@
     "en_us": "Unknown advancement: %s"
   },
   {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "冒險、 探索和戰鬥",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "冒險、探索和戰鬥",
+    "en_us": "Adventure, exploration and combat"
+  },
+  {
     "old_key": "advancements.end.find_end_city.description",
     "old_value": "進去吧， 還能發生什麼事？",
     "new_key": "advancements.end.find_end_city.description",

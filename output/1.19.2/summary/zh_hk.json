@@ -2408,13 +2408,6 @@
     "en_us": "Tattered"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat_screen.message",
     "old_value": "準備傳送嘅訊息：%s",
     "new_key": "chat_screen.message",
@@ -2504,13 +2497,6 @@
     "new_key": "command.expected.separator",
     "new_value": "引數結尾應為空白字符，惟發現有尾隨數據",
     "en_us": "Expected whitespace to end one argument, but found trailing data"
-  },
-  {
-    "old_key": "command.failed",
-    "old_value": "試圖執行依個命令時發生意外錯誤",
-    "new_key": "command.failed",
-    "new_value": "試圖執行命令時發生意外錯誤",
-    "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
@@ -3199,25 +3185,11 @@
     "en_us": "Failed to dump JFR recording: %s"
   },
   {
-    "old_key": "commands.locate.biome.not_found",
-    "old_value": "喺合理距離內未發現「%s」類型嘅生物羣落",
-    "new_key": "commands.locate.biome.not_found",
-    "new_value": "在合理距離內未發現「%s」類型的生物羣落",
-    "en_us": "Could not find a biome of type \"%s\" within reasonable distance"
-  },
-  {
     "old_key": "commands.locate.biome.success",
     "old_value": "最近嘅 %s 位於 %s（%s 個方塊遠）",
     "new_key": "commands.locate.biome.success",
     "new_value": "最近的 %s 位於 %s（%s 個方塊遠）",
     "en_us": "The nearest %s is at %s (%s blocks away)"
-  },
-  {
-    "old_key": "commands.locate.poi.not_found",
-    "old_value": "喺合理距離內未發現「%s」類型嘅興趣點",
-    "new_key": "commands.locate.poi.not_found",
-    "new_value": "在合理距離內未發現「%s」類型的興趣點",
-    "en_us": "Could not find a point of interest of type \"%s\" within reasonable distance"
   },
   {
     "old_key": "commands.locate.poi.success",
@@ -3325,13 +3297,6 @@
     "en_us": "There is no structure with type \"%s\""
   },
   {
-    "old_key": "commands.place.template.invalid",
-    "old_value": "不存在 ID 為「%s」嘅模板",
-    "new_key": "commands.place.template.invalid",
-    "new_value": "並無類型為「%s」的模板",
-    "en_us": "There is no template with id \"%s\""
-  },
-  {
     "old_key": "commands.playsound.success.multiple",
     "old_value": "已將音效 %s 播放至 %s 個玩家",
     "new_key": "commands.playsound.success.multiple",
@@ -3372,13 +3337,6 @@
     "new_key": "commands.save.saving",
     "new_value": "儲存遊戲中（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
-  },
-  {
-    "old_key": "commands.schedule.cleared.failure",
-    "old_value": "並無 ID 為 %s 嘅計劃",
-    "new_key": "commands.schedule.cleared.failure",
-    "new_value": "並無 ID 為 %s 的計劃",
-    "en_us": "No schedules with id %s"
   },
   {
     "old_key": "commands.schedule.same_tick",
@@ -4914,13 +4872,6 @@
     "en_us": "We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified that it goes against the Minecraft Community Standards."
   },
   {
-    "old_key": "gui.banned.title.temporary",
-    "old_value": "帳户已被暫時封禁",
-    "new_key": "gui.banned.title.temporary",
-    "new_value": "帳户已被暫時封鎖",
-    "en_us": "Account temporarily suspended"
-  },
-  {
     "old_key": "gui.chatReport.describe",
     "old_value": "提供詳細資料有助我哋做出更明智嘅判斷。",
     "new_key": "gui.chatReport.describe",
@@ -6111,13 +6062,6 @@
     "en_us": "Accessibility Guide"
   },
   {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服器可能會公開列出在線玩家嘅名單。\n關閉依個選項後，你嘅名將唔會出現喺名單內。",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出上線玩家的名單。\n關閉此選項後，你將不會出現於名單內。",
-    "en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists."
-  },
-  {
     "old_key": "options.attack.crosshair",
     "old_value": "十字準心",
     "new_key": "options.attack.crosshair",
@@ -6165,13 +6109,6 @@
     "new_key": "options.difficulty.online",
     "new_value": "伺服器難度",
     "en_us": "Server Difficulty"
-  },
-  {
-    "old_key": "options.directionalAudio.on.tooltip",
-    "old_value": "使用以 HRTF 為基礎嘅環繞音訊，令 3D 音訊模擬得更好。需要相容嘅 HRTF 嘅音訊硬體，而且需要佩戴耳機先可以獲得最佳體驗。",
-    "new_key": "options.directionalAudio.on.tooltip",
-    "new_value": "採用基於 HRTF 的環繞音訊以提升 3D 音訊的模擬效果。此選項須配備相容的 HRTF 硬件方可啟用。佩戴頭戴式耳機可獲最佳體驗。",
-    "en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones."
   },
   {
     "old_key": "options.fovEffectScale.tooltip",
@@ -6270,13 +6207,6 @@
     "new_key": "options.renderDistance",
     "new_value": "渲染距離",
     "en_us": "Render Distance"
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "嘔心效果和地獄傳送門扭曲影像的強度。\n若設定為較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果。",
-    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.sounds",

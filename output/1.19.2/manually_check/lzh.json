@@ -1,29 +1,5 @@
 [
   {
-    "old_key": "advancements.adventure.kill_all_mobs.description",
-    "old_value": "咸誅敵獸",
-    "old_en_us": "Kill one of every hostile monster",
-    "new_key": "advancements.adventure.kill_all_mobs.description",
-    "new_value": "誅諸敵獸各一",
-    "new_en_us": "Command an army of weapons to kill one of every hostile monster"
-  },
-  {
-    "old_key": "advancements.adventure.ol_betsy.description",
-    "old_value": "以弩射",
-    "old_en_us": "Shoot a Crossbow",
-    "new_key": "advancements.adventure.ol_betsy.description",
-    "new_value": "射以弩",
-    "new_en_us": "Aqcuire a Crossbow"
-  },
-  {
-    "old_key": "advancements.adventure.root.title",
-    "old_value": "冒險",
-    "old_en_us": "Adventure",
-    "new_key": "advancements.adventure.root.title",
-    "new_value": "歷險",
-    "new_en_us": "HerdCraft"
-  },
-  {
     "old_key": "advancements.husbandry.make_a_sign_glow.description",
     "old_value": "爍牌文",
     "old_en_us": "Make the text of a Sign glow",
@@ -126,6 +102,14 @@
     "new_key": "chat.tag.not_secure",
     "new_value": "未驗之訊也。弗能檢舉之。",
     "new_en_us": "Unverified message. Cannot be reported."
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "行令而生不預之謬誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "方行其令而生謬不虞",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "command.unknown.command",
@@ -453,7 +437,7 @@
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
     "new_value": "錄囊有謬，是以阻礙天地之載入。\n或可載以原版錄囊一試「無虞之法」，或返卷首躬繕之。",
-    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
+    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.anvil.player",
@@ -696,6 +680,22 @@
     "new_en_us": "Self-harm or suicide"
   },
   {
+    "old_key": "gui.abuseReport.sending.title",
+    "old_value": "方送檢舉...",
+    "old_en_us": "Sending your report...",
+    "new_key": "gui.abuseReport.sending.title",
+    "new_value": "方送檢舉⋯",
+    "new_en_us": "Sending Your Report..."
+  },
+  {
+    "old_key": "gui.abuseReport.sent.title",
+    "old_value": "檢舉已送",
+    "old_en_us": "Report sent",
+    "new_key": "gui.abuseReport.sent.title",
+    "new_value": "檢舉既送",
+    "new_en_us": "Report Sent"
+  },
+  {
     "old_key": "gui.banned.description.permanent",
     "old_value": "戶簿已恆爲所羈，弗能入衆戲或領域。",
     "old_en_us": "Your account is permanently banned, which means you can’t play online or join Realms.",
@@ -710,6 +710,14 @@
     "new_key": "gui.banned.description.temporary",
     "new_value": "弗能入眾戲抑領域於%s。",
     "new_en_us": "%s Until then, you can't play online or join Realms."
+  },
+  {
+    "old_key": "gui.banned.title.temporary",
+    "old_value": "戶簿已暂爲所羈",
+    "old_en_us": "Account temporarily suspended",
+    "new_key": "gui.banned.title.temporary",
+    "new_value": "戶簿已暫爲所羈",
+    "new_en_us": "Account Temporarily Suspended"
   },
   {
     "old_key": "gui.chatReport.comments",
@@ -848,6 +856,14 @@
     "new_en_us": "Accessibility Settings"
   },
   {
+    "old_key": "options.allowServerListing.tooltip",
+    "old_value": "伺服可公示線上戲者。\n若閉此項，子之名則不列焉。",
+    "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
+    "new_key": "options.allowServerListing.tooltip",
+    "new_value": "伺服器可公示綫上戲者。\n若閉此項，則子名不列焉。",
+    "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
+  },
+  {
     "old_key": "options.chat.delay",
     "old_value": "議之滯：%s秒",
     "old_en_us": "Chat Delay: %s seconds",
@@ -870,6 +886,14 @@
     "new_key": "options.directionalAudio.off.tooltip",
     "new_value": "雅眾竅和聲。",
     "new_en_us": "Classic Stereo sound."
+  },
+  {
+    "old_key": "options.directionalAudio.on.tooltip",
+    "old_value": "用周回聲訊之本於首之屬易函數者，可補益於擬三維聲。須兼容首之屬易函數之聲訊剛器。必待耳機而後圓備。",
+    "old_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.",
+    "new_key": "options.directionalAudio.on.tooltip",
+    "new_value": "用周迴聲訊之本於首之屬易函數者，可補益於擬三維聲。須兼容首之屬易函數之聲訊剛器。必佩耳機而後圓備。",
+    "new_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF-compatible audio hardware, and is best experienced with headphones."
   },
   {
     "old_key": "options.graphics.warning.accept",
@@ -918,6 +942,14 @@
     "new_key": "options.realmsNotifications",
     "new_value": "領域之新知邀約",
     "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
+    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n直微則氣逆徒以綠霧代之。",
+    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",

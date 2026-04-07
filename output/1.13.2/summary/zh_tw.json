@@ -1,5 +1,12 @@
 [
   {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "冒險、 探索和戰鬥",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "冒險、探索和戰鬥",
+    "en_us": "Adventure, exploration and combat"
+  },
+  {
     "old_key": "advancements.adventure.sniper_duel.description",
     "old_value": "從至少50公尺外殺死一具骷髏",
     "new_key": "advancements.adventure.sniper_duel.description",

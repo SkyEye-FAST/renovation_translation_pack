@@ -8,14 +8,6 @@
     "new_en_us": "Protect a Villager from an undesired shock without starting a fire"
   },
   {
-    "old_key": "advancements.adventure.root.description",
-    "old_value": "冒險、 探索和戰鬥",
-    "old_en_us": "Adventure, exploration and combat",
-    "new_key": "advancements.adventure.root.description",
-    "new_value": "冒險、探索和戰鬥",
-    "new_en_us": "Herding and crafting your world"
-  },
-  {
     "old_key": "advancements.adventure.walk_on_powder_snow_with_leather_boots.description",
     "old_value": "在粉雪上行走...... 並且不陷下去",
     "old_en_us": "Walk on powder snow...without sinking in it",
@@ -134,6 +126,14 @@
     "new_key": "arguments.swizzle.invalid",
     "new_value": "無效的搭配：應為 'x'、'y' 與 'z' 的組合",
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
+  },
+  {
+    "old_key": "build.tooHigh",
+    "old_value": "最大建築高度限制為 %s",
+    "old_en_us": "Height limit for building is %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建築高度上限為 %s",
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "chat.disabled.launcher",

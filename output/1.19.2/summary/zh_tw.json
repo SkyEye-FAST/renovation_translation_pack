@@ -7,6 +7,13 @@
     "en_us": "Protect a Villager from an undesired shock without starting a fire"
   },
   {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "冒險、 探索和戰鬥",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "冒險、探索和戰鬥",
+    "en_us": "Adventure, exploration and combat"
+  },
+  {
     "old_key": "advancements.husbandry.tactical_fishing.description",
     "old_value": "釣魚…… 不用釣竿！",
     "new_key": "advancements.husbandry.tactical_fishing.description",
@@ -1428,13 +1435,6 @@
     "en_us": "Wheat Crops"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat_screen.title",
     "old_value": "聊天畫面",
     "new_key": "chat_screen.title",
@@ -1512,20 +1512,6 @@
     "en_us": "There are %s of a max of %s players online: %s"
   },
   {
-    "old_key": "commands.locate.biome.not_found",
-    "old_value": "無法在合理距離內找到「%s」類型的生態域",
-    "new_key": "commands.locate.biome.not_found",
-    "new_value": "無法在合理距離內找到 \"%s\" 類型的生態域",
-    "en_us": "Could not find a biome of type \"%s\" within reasonable distance"
-  },
-  {
-    "old_key": "commands.locate.poi.not_found",
-    "old_value": "無法在合理距離內找到「%s」類型的興趣點",
-    "new_key": "commands.locate.poi.not_found",
-    "new_value": "無法在合理距離內找到 \"%s\" 類型的興趣點",
-    "en_us": "Could not find a point of interest of type \"%s\" within reasonable distance"
-  },
-  {
     "old_key": "commands.locate.structure.invalid",
     "old_value": "沒有類型為「%s」的結構",
     "new_key": "commands.locate.structure.invalid",
@@ -1573,13 +1559,6 @@
     "new_key": "commands.place.structure.success",
     "new_value": "已於 %2$s, %3$s, %4$s 處生成結構 \"%1$s\"",
     "en_us": "Generated structure \"%s\" at %s, %s, %s"
-  },
-  {
-    "old_key": "commands.place.template.invalid",
-    "old_value": "沒有 ID 為「%s」的模板",
-    "new_key": "commands.place.template.invalid",
-    "new_value": "沒有 ID 為 \"%s\" 的模板",
-    "en_us": "There is no template with id \"%s\""
   },
   {
     "old_key": "commands.place.template.success",
@@ -1736,13 +1715,6 @@
     "en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc."
   },
   {
-    "old_key": "gui.abuseReport.error.title",
-    "old_value": "送出檢舉時發生問題",
-    "new_key": "gui.abuseReport.error.title",
-    "new_value": "提交檢舉時發生問題",
-    "en_us": "Problem sending your report"
-  },
-  {
     "old_key": "gui.abuseReport.reason.alcohol_tobacco_drugs.description",
     "old_value": "有人鼓勵他人參與非法用藥行為或唆使未達法規年齡者飲酒。",
     "new_key": "gui.abuseReport.reason.alcohol_tobacco_drugs.description",
@@ -1776,13 +1748,6 @@
     "new_key": "gui.abuseReport.send.json_error",
     "new_value": "提交檢舉時遭遇格式錯誤的訊息承載。",
     "en_us": "Encountered malformed payload while sending your report."
-  },
-  {
-    "old_key": "gui.abuseReport.sending.title",
-    "old_value": "正在傳送您的檢舉…",
-    "new_key": "gui.abuseReport.sending.title",
-    "new_value": "正在提交您的檢舉...",
-    "en_us": "Sending your report..."
   },
   {
     "old_key": "gui.banned.description.reason",
@@ -2700,13 +2665,6 @@
     "new_key": "options.allowServerListing",
     "new_value": "允許伺服器列出您的名稱",
     "en_us": "Allow Server Listings"
-  },
-  {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名字就不會被列出。",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名稱就不會被列出。",
-    "en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists."
   },
   {
     "old_key": "options.attack.crosshair",

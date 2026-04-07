@@ -1,13 +1,5 @@
 [
   {
-    "old_key": "advancements.adventure.root.description",
-    "old_value": "冒險、 探索和戰鬥",
-    "old_en_us": "Adventure, exploration and combat",
-    "new_key": "advancements.adventure.root.description",
-    "new_value": "冒險、探索和戰鬥",
-    "new_en_us": "Herding and crafting your world"
-  },
-  {
     "old_key": "advancements.husbandry.silk_touch_nest.description",
     "old_value": "使用絲綢之觸來移動裡面有3隻蜜蜂的蜂窩",
     "old_en_us": "Move a Bee Nest, with 3 bees inside, using Silk Touch",
@@ -117,7 +109,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建築高度上限為 %s",
-    "new_en_us": "Height limit for building is %s"
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "chat.queue",

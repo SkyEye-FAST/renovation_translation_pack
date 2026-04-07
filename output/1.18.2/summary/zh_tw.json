@@ -1,5 +1,12 @@
 [
   {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "冒險、 探索和戰鬥",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "冒險、探索和戰鬥",
+    "en_us": "Adventure, exploration and combat"
+  },
+  {
     "old_key": "advancements.nether.explore_nether.title",
     "old_value": "「熱」門景點",
     "new_key": "advancements.nether.explore_nether.title",
@@ -1414,13 +1421,6 @@
     "en_us": "Wheat Crops"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat_screen.title",
     "old_value": "聊天畫面",
     "new_key": "chat_screen.title",
@@ -2490,13 +2490,6 @@
     "new_key": "options.allowServerListing",
     "new_value": "允許伺服器列出您的名稱",
     "en_us": "Allow Server Listings"
-  },
-  {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名字就不會被列出。",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名稱就不會被列出。",
-    "en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists."
   },
   {
     "old_key": "options.attack.crosshair",

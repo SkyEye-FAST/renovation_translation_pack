@@ -63,6 +63,13 @@
     "en_us": "Sticky Situation"
   },
   {
+    "old_key": "advancements.adventure.kill_all_mobs.description",
+    "old_value": "咸誅敵獸",
+    "new_key": "advancements.adventure.kill_all_mobs.description",
+    "new_value": "誅諸敵獸各一",
+    "en_us": "Kill one of every hostile monster"
+  },
+  {
     "old_key": "advancements.adventure.kill_all_mobs.title",
     "old_value": "趕盡殺絕",
     "new_key": "advancements.adventure.kill_all_mobs.title",
@@ -75,6 +82,20 @@
     "new_key": "advancements.adventure.ol_betsy.title",
     "new_value": "一觸即發",
     "en_us": "Ol' Betsy"
+  },
+  {
+    "old_key": "advancements.adventure.root.description",
+    "old_value": "始戲礦藝",
+    "new_key": "advancements.adventure.root.description",
+    "new_value": "歷險、遊覽、戰鬥",
+    "en_us": "Adventure, exploration and combat"
+  },
+  {
+    "old_key": "advancements.adventure.root.title",
+    "old_value": "萬物之始",
+    "new_key": "advancements.adventure.root.title",
+    "new_value": "歷險",
+    "en_us": "Adventure"
   },
   {
     "old_key": "advancements.adventure.shoot_arrow.title",
@@ -411,6 +432,13 @@
     "new_key": "advancements.story.enchant_item.description",
     "new_value": "以淬靈案施靈於器",
     "en_us": "Enchant an item at an Enchanting Table"
+  },
+  {
+    "old_key": "advancements.story.enter_the_end.description",
+    "old_value": "入幻滅結界門",
+    "new_key": "advancements.story.enter_the_end.description",
+    "new_value": "入終界結界門",
+    "en_us": "Enter the End Portal"
   },
   {
     "old_key": "advancements.story.follow_ender_eye.description",
@@ -4081,13 +4109,6 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "行旨而生不預之謬誤",
-    "new_key": "command.failed",
-    "new_value": "方行其令而生謬不虞",
-    "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
     "old_key": "command.unknown.argument",
     "old_value": "旨參謬誤",
     "new_key": "command.unknown.argument",
@@ -6699,13 +6720,6 @@
     "en_us": "Buried Treasure Map"
   },
   {
-    "old_key": "filled_map.id",
-    "old_value": "第%s",
-    "new_key": "filled_map.id",
-    "new_value": "第%s冊",
-    "en_us": "Id #%s"
-  },
-  {
     "old_key": "filled_map.locked",
     "old_value": "已鎖",
     "new_key": "filled_map.locked",
@@ -9161,13 +9175,6 @@
     "new_key": "selectServer.refresh",
     "new_value": "重整",
     "en_us": "Refresh"
-  },
-  {
-    "old_key": "selectWorld.backupJoinSkipButton",
-    "old_value": "吾知所以为也！",
-    "new_key": "selectWorld.backupJoinSkipButton",
-    "new_value": "吾知所以爲也！",
-    "en_us": "I know what I'm doing!"
   },
   {
     "old_key": "selectWorld.backupQuestion.customized",

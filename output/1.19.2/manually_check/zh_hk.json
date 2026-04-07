@@ -160,6 +160,14 @@
     "new_en_us": "Monster Spawner"
   },
   {
+    "old_key": "build.tooHigh",
+    "old_value": "最大建築高度限制為 %s",
+    "old_en_us": "Height limit for building is %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建築高度上限為 %s",
+    "new_en_us": "The height limit for building is %s"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -214,6 +222,14 @@
     "new_key": "chat.tag.not_secure",
     "new_value": "未驗證訊息。無法舉報。",
     "new_en_us": "Unverified message. Cannot be reported."
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "試圖執行依個命令時發生意外錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行命令時發生意外錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "command.unknown.command",
@@ -392,12 +408,36 @@
     "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
+    "old_key": "commands.locate.biome.not_found",
+    "old_value": "喺合理距離內未發現「%s」類型嘅生物羣落",
+    "old_en_us": "Could not find a biome of type \"%s\" within reasonable distance",
+    "new_key": "commands.locate.biome.not_found",
+    "new_value": "在合理距離內未發現「%s」類型的生物羣落",
+    "new_en_us": "Could not find a biome of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.locate.poi.not_found",
+    "old_value": "喺合理距離內未發現「%s」類型嘅興趣點",
+    "old_en_us": "Could not find a point of interest of type \"%s\" within reasonable distance",
+    "new_key": "commands.locate.poi.not_found",
+    "new_value": "在合理距離內未發現「%s」類型的興趣點",
+    "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
+  },
+  {
     "old_key": "commands.perf.stopped",
     "old_value": "已停止效能分析，共耗時 %s 秒或 %s 刻（每秒 %s 刻）",
     "old_en_us": "Stopped performance profiling after %s seconds and %s ticks (%s ticks per second)",
     "new_key": "commands.perf.stopped",
     "new_value": "已停止效能分析，共耗時 %s 秒與 %s 刻（每秒 %s 刻）",
     "new_en_us": "Stopped performance profiling after %s second(s) and %s tick(s) (%s tick(s) per second)"
+  },
+  {
+    "old_key": "commands.place.template.invalid",
+    "old_value": "不存在 ID 為「%s」嘅模板",
+    "old_en_us": "There is no template with id \"%s\"",
+    "new_key": "commands.place.template.invalid",
+    "new_value": "並無類型為「%s」的模板",
+    "new_en_us": "There is no template with ID \"%s\""
   },
   {
     "old_key": "commands.recipe.take.success.multiple",
@@ -416,12 +456,20 @@
     "new_en_us": "Took %s recipe(s) from %s"
   },
   {
+    "old_key": "commands.schedule.cleared.failure",
+    "old_value": "並無 ID 為 %s 嘅計劃",
+    "old_en_us": "No schedules with id %s",
+    "new_key": "commands.schedule.cleared.failure",
+    "new_value": "並無 ID 為 %s 的計劃",
+    "new_en_us": "No schedules with ID %s"
+  },
+  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "已移除 %s 個 ID 喺 %s 嘅計劃",
     "old_en_us": "Removed %s schedules with id %s",
     "new_key": "commands.schedule.cleared.success",
     "new_value": "已移除 ID 為 %2$s 的 %1$s 個計劃",
-    "new_en_us": "Removed %s schedule(s) with id %s"
+    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.schedule.created.function",
@@ -509,7 +557,7 @@
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
     "new_value": "你選擇的數據包有問題，導致無法載入世界。\n你可以嘗試僅載入原版數據包（「安全模式」），或者返回主畫面手動修復。",
-    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
+    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.anvil.player",
@@ -832,6 +880,14 @@
     "new_en_us": "Your account is permanently banned, which means you can't play online or join Realms."
   },
   {
+    "old_key": "gui.banned.title.temporary",
+    "old_value": "帳户已被暫時封禁",
+    "old_en_us": "Account temporarily suspended",
+    "new_key": "gui.banned.title.temporary",
+    "new_value": "帳户已被暫時封鎖",
+    "new_en_us": "Account Temporarily Suspended"
+  },
+  {
     "old_key": "gui.chatReport.comments",
     "old_value": "留言編輯欄",
     "old_en_us": "Comments edit box",
@@ -984,6 +1040,14 @@
     "new_en_us": "Accessibility Settings"
   },
   {
+    "old_key": "options.allowServerListing.tooltip",
+    "old_value": "伺服器可能會公開列出在線玩家嘅名單。\n關閉依個選項後，你嘅名將唔會出現喺名單內。",
+    "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
+    "new_key": "options.allowServerListing.tooltip",
+    "new_value": "伺服器可能會公開列出上線玩家的名單。\n關閉此選項後，你將不會出現於名單內。",
+    "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
+  },
+  {
     "old_key": "options.chat.title",
     "old_value": "聊天設定⋯⋯",
     "old_en_us": "Chat Settings...",
@@ -998,6 +1062,14 @@
     "new_key": "options.directionalAudio.off.tooltip",
     "new_value": "經典立體聲效果。",
     "new_en_us": "Classic Stereo sound."
+  },
+  {
+    "old_key": "options.directionalAudio.on.tooltip",
+    "old_value": "使用以 HRTF 為基礎嘅環繞音訊，令 3D 音訊模擬得更好。需要相容嘅 HRTF 嘅音訊硬體，而且需要佩戴耳機先可以獲得最佳體驗。",
+    "old_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.",
+    "new_key": "options.directionalAudio.on.tooltip",
+    "new_value": "採用基於 HRTF 的環繞音訊以提升 3D 音訊的模擬效果。此選項須配備相容的 HRTF 硬件方可啟用。佩戴頭戴式耳機可獲最佳體驗。",
+    "new_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF-compatible audio hardware, and is best experienced with headphones."
   },
   {
     "old_key": "options.graphics.warning.accept",
@@ -1046,6 +1118,14 @@
     "new_key": "options.realmsNotifications",
     "new_value": "Realms 新聞及邀請",
     "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
+    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "嘔心效果和地獄傳送門扭曲影像的強度。\n若設定為較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果。",
+    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",
