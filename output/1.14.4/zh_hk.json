@@ -3338,7 +3338,7 @@
   "selectServer.delete": "刪除",
   "selectServer.deleteButton": "刪除",
   "selectServer.deleteQuestion": "你確定要刪除所選伺服器？",
-  "selectServer.deleteWarning": "「%s」將會永遠消失！（非常久！）",
+  "selectServer.deleteWarning": "「%s」將會永遠消失！（非常長時間！）",
   "selectServer.direct": "直接連線",
   "selectServer.edit": "編輯",
   "selectServer.hiddenAddress": "（隱藏）",

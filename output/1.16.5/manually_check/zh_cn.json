@@ -24,14 +24,6 @@
     "new_en_us": "Deflect a projectile with a Shield"
   },
   {
-    "old_key": "advancements.story.enter_the_nether.description",
-    "old_value": "建造、启动并进入一座下界传送门",
-    "old_en_us": "Build, light and enter a Nether Portal",
-    "new_key": "advancements.story.enter_the_nether.description",
-    "new_value": "建造、激活并进入一座下界传送门",
-    "new_en_us": "Build, light, and enter a Nether Portal"
-  },
-  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "用桶装点熔岩",
     "old_en_us": "Fill a bucket with lava",
@@ -133,7 +125,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建筑高度上限是%s",
-    "new_en_us": "The height limit for building is %s"
+    "new_en_us": "Height limit for building is %s"
   },
   {
     "old_key": "command.unknown.command",

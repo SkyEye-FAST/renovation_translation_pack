@@ -264,14 +264,6 @@
     "new_en_us": "[+%s pending line(s)]"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "行令而生不預之謬誤",
-    "old_en_us": "An unexpected error occurred trying to execute that command",
-    "new_key": "command.failed",
-    "new_value": "方行其令而生謬不虞",
-    "new_en_us": "An unexpected error occurred while trying to execute that command"
-  },
-  {
     "old_key": "command.unknown.command",
     "old_value": "令未知或殘，請以備述",
     "old_en_us": "Unknown or incomplete command, see below for error",
@@ -597,7 +589,7 @@
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
     "new_value": "錄囊有謬，是以阻礙天地之載入。\n或可載以原版錄囊一試「無虞之法」，或返卷首躬繕之。",
-    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
+    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.anvil.player",
@@ -912,14 +904,6 @@
     "new_en_us": "Accessibility Settings"
   },
   {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服可公示線上戲者。\n若閉此項，子之名則不列焉。",
-    "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可公示綫上戲者。\n若閉此項，則子名不列焉。",
-    "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
-  },
-  {
     "old_key": "options.chat.delay",
     "old_value": "議之滯：%s秒",
     "old_en_us": "Chat Delay: %s seconds",
@@ -990,14 +974,6 @@
     "new_key": "options.realmsNotifications",
     "new_value": "領域之新知邀約",
     "new_en_us": "Realms News & Invites"
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
-    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n直微則氣逆徒以綠霧代之。",
-    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",

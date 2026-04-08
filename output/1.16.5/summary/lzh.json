@@ -2989,6 +2989,13 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
+    "old_key": "command.failed",
+    "old_value": "行令而生不預之謬誤",
+    "new_key": "command.failed",
+    "new_value": "方行其令而生謬不虞",
+    "en_us": "An unexpected error occurred trying to execute that command"
+  },
+  {
     "old_key": "commands.bossbar.create.failed",
     "old_value": "既有名曰「%s」之Boss條",
     "new_key": "commands.bossbar.create.failed",
@@ -4058,6 +4065,13 @@
     "new_key": "event.minecraft.raid.defeat",
     "new_value": "敗",
     "en_us": "Defeat"
+  },
+  {
+    "old_key": "filled_map.id",
+    "old_value": "第%s冊",
+    "new_key": "filled_map.id",
+    "new_value": "第%s",
+    "en_us": "Id #%s"
   },
   {
     "old_key": "gamerule.category.chat",
@@ -5229,6 +5243,13 @@
     "en_us": "Resource Packs..."
   },
   {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "反胃，又焱界結界門曲幕之強弱。\n量微者，反胃之效代以綠蓋。",
+    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
+  },
+  {
     "old_key": "options.skinCustomisation",
     "old_value": "自定外觀...",
     "new_key": "options.skinCustomisation",
@@ -5388,6 +5409,13 @@
     "new_key": "selectWorld.allowCommands",
     "new_value": "允舞弊",
     "en_us": "Allow Cheats"
+  },
+  {
+    "old_key": "selectWorld.backupJoinSkipButton",
+    "old_value": "吾知所以爲也！",
+    "new_key": "selectWorld.backupJoinSkipButton",
+    "new_value": "吾自知！",
+    "en_us": "I know what I'm doing!"
   },
   {
     "old_key": "selectWorld.data_read",

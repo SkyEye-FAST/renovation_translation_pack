@@ -320,14 +320,6 @@
     "new_en_us": "Monster Spawner"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "old_en_us": "Height limit for building is %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "new_en_us": "The height limit for building is %s"
-  },
-  {
     "old_key": "chat.disabled.launcher",
     "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -358,14 +350,6 @@
     "new_key": "chat.queue",
     "new_value": "[+%s 行待傳送]",
     "new_en_us": "[+%s pending line(s)]"
-  },
-  {
-    "old_key": "command.failed",
-    "old_value": "試圖執行依個命令時發生意外錯誤",
-    "old_en_us": "An unexpected error occurred trying to execute that command",
-    "new_key": "command.failed",
-    "new_value": "試圖執行命令時發生意外錯誤",
-    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "command.unknown.command",
@@ -568,20 +552,12 @@
     "new_en_us": "Took %s recipe(s) from %s"
   },
   {
-    "old_key": "commands.schedule.cleared.failure",
-    "old_value": "並無 ID 為 %s 嘅計劃",
-    "old_en_us": "No schedules with id %s",
-    "new_key": "commands.schedule.cleared.failure",
-    "new_value": "並無 ID 為 %s 的計劃",
-    "new_en_us": "No schedules with ID %s"
-  },
-  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "已移除 %s 個 ID 喺 %s 嘅計劃",
     "old_en_us": "Removed %s schedules with id %s",
     "new_key": "commands.schedule.cleared.success",
-    "new_value": "已移除 ID 為 %2$s 的 %1$s 個計劃",
-    "new_en_us": "Removed %s schedule(s) with ID %s"
+    "new_value": "已移除 %s 個 ID 為 %s 的計劃",
+    "new_en_us": "Removed %s schedule(s) with id %s"
   },
   {
     "old_key": "commands.schedule.created.function",
@@ -668,8 +644,8 @@
     "old_value": "因為你選擇嘅數據包有問題，所以無法載入世界。\n你可以嘗試只用原版嘅數據包（「安全模式」），或者返去主畫面自己修復。",
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
-    "new_value": "你選擇的數據包有問題，導致無法載入世界。\n你可以嘗試僅載入原版數據包（「安全模式」），或者返回主畫面手動修復。",
-    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
+    "new_value": "目前選擇的數據包發生錯誤，導致世界無法載入。\n你可嘗試僅載入原版數據包（「安全模式」），或返回主畫面手動修復該問題。",
+    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.anvil.player",
@@ -1110,14 +1086,6 @@
     "new_key": "options.realmsNotifications",
     "new_value": "Realms 新聞及邀請",
     "new_en_us": "Realms News & Invites"
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
-    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "嘔心效果和地獄傳送門扭曲影像的強度。\n若設定為較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果。",
-    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",

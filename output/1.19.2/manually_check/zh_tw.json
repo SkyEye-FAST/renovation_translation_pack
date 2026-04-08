@@ -104,14 +104,6 @@
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "old_en_us": "Height limit for building is %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "new_en_us": "The height limit for building is %s"
-  },
-  {
     "old_key": "chat.disabled.launcher",
     "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -272,28 +264,12 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
-    "old_key": "commands.locate.biome.not_found",
-    "old_value": "無法在合理距離內找到「%s」類型的生態域",
-    "old_en_us": "Could not find a biome of type \"%s\" within reasonable distance",
-    "new_key": "commands.locate.biome.not_found",
-    "new_value": "無法在合理距離內找到 \"%s\" 類型的生態域",
-    "new_en_us": "Could not find a biome of type \"%s\" within a reasonable distance"
-  },
-  {
-    "old_key": "commands.locate.poi.not_found",
-    "old_value": "無法在合理距離內找到「%s」類型的興趣點",
-    "old_en_us": "Could not find a point of interest of type \"%s\" within reasonable distance",
-    "new_key": "commands.locate.poi.not_found",
-    "new_value": "無法在合理距離內找到 \"%s\" 類型的興趣點",
-    "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
-  },
-  {
-    "old_key": "commands.place.template.invalid",
-    "old_value": "沒有 ID 為「%s」的模板",
-    "old_en_us": "There is no template with id \"%s\"",
-    "new_key": "commands.place.template.invalid",
-    "new_value": "沒有 ID 為 \"%s\" 的模板",
-    "new_en_us": "There is no template with ID \"%s\""
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "移除 ID 為 %2$s 的 %1$s 個排程",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除 ID 為 %2$s 的 %1$s 個排程",
+    "new_en_us": "Removed %s schedule(s) with id %s"
   },
   {
     "old_key": "commands.schedule.created.tag",
@@ -350,6 +326,14 @@
     "new_key": "createWorld.customize.presets.list",
     "new_value": "您也可以選擇預先設定的地形！",
     "new_en_us": "Alternatively, here are some we made earlier!"
+  },
+  {
+    "old_key": "datapackFailure.title",
+    "old_value": "目前選擇的資料包中出現錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
+    "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
+    "new_key": "datapackFailure.title",
+    "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
+    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.dryout.player",
@@ -464,14 +448,6 @@
     "new_en_us": "Limits contents of debug screen."
   },
   {
-    "old_key": "gui.abuseReport.error.title",
-    "old_value": "送出檢舉時發生問題",
-    "old_en_us": "Problem sending your report",
-    "new_key": "gui.abuseReport.error.title",
-    "new_value": "提交檢舉時發生問題",
-    "new_en_us": "Problem Sending Your Report"
-  },
-  {
     "old_key": "gui.abuseReport.reason.defamation_impersonation_false_information",
     "old_value": "誹謗、冒充他人或虛假資訊",
     "old_en_us": "Defamation, impersonation, or false information",
@@ -502,14 +478,6 @@
     "new_key": "gui.abuseReport.reason.self_harm_or_suicide",
     "new_value": "自殘或自殺",
     "new_en_us": "Self-harm or suicide"
-  },
-  {
-    "old_key": "gui.abuseReport.sending.title",
-    "old_value": "正在傳送您的檢舉…",
-    "old_en_us": "Sending your report...",
-    "new_key": "gui.abuseReport.sending.title",
-    "new_value": "正在提交您的檢舉...",
-    "new_en_us": "Sending Your Report..."
   },
   {
     "old_key": "gui.chatReport.comments",
@@ -614,14 +582,6 @@
     "new_key": "options.accessibility.title",
     "new_value": "協助工具設定",
     "new_en_us": "Accessibility Settings"
-  },
-  {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名字就不會被列出。",
-    "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名稱就不會被列出。",
-    "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
   },
   {
     "old_key": "options.chat.title",

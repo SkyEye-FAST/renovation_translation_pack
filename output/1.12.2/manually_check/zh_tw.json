@@ -69,7 +69,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建築高度上限為 %s",
-    "new_en_us": "The height limit for building is %s"
+    "new_en_us": "Height limit for building is %s"
   },
   {
     "old_key": "createWorld.customize.presets.list",

@@ -112,14 +112,6 @@
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "建筑高度限制是%s",
-    "old_en_us": "Height limit for building is %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建筑高度上限是%s",
-    "new_en_us": "The height limit for building is %s"
-  },
-  {
     "old_key": "chat.disabled.launcher",
     "old_value": "聊天在启动器选项中被禁用。无法发送消息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -438,14 +430,6 @@
     "new_key": "gui.abuseReport.reason.self_harm_or_suicide",
     "new_value": "自残或自杀",
     "new_en_us": "Self-harm or suicide"
-  },
-  {
-    "old_key": "gui.abuseReport.sending.title",
-    "old_value": "发送举报中...",
-    "old_en_us": "Sending your report...",
-    "new_key": "gui.abuseReport.sending.title",
-    "new_value": "发送举报中…",
-    "new_en_us": "Sending Your Report..."
   },
   {
     "old_key": "gui.banned.description.permanent",

@@ -173,7 +173,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建築高度上限為 %s",
-    "new_en_us": "The height limit for building is %s"
+    "new_en_us": "Height limit for building is %s"
   },
   {
     "old_key": "chat.copy.click",
@@ -382,6 +382,14 @@
     "new_key": "commands.list.players",
     "new_value": "目前有 %s/%s 個玩家在線上：%s",
     "new_en_us": "There are %s of a max of %s players online: %s"
+  },
+  {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "移除 ID 為 %2$s 的 %1$s 個排程",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除 ID 為 %2$s 的 %1$s 個排程",
+    "new_en_us": "Removed %s schedule(s) with id %s"
   },
   {
     "old_key": "commands.schedule.created.function",
