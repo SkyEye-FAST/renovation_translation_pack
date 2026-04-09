@@ -136,6 +136,14 @@
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
+    "old_key": "build.tooHigh",
+    "old_value": "建筑高度限制是%s",
+    "old_en_us": "Height limit for building is %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建筑高度上限是%s",
+    "new_en_us": "The height limit for building is %s"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "聊天在启动器选项中被禁用。无法发送消息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -248,6 +256,14 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "已移除%s个ID为%s的计划",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除%s个ID为%s的时间安排",
+    "new_en_us": "Removed %s schedule(s) with ID %s"
+  },
+  {
     "old_key": "commands.spreadplayers.success.entities",
     "old_value": "已将%1$s名玩家围绕%2$s, %3$s分散，平均距离为%4$s个方块",
     "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
@@ -350,6 +366,14 @@
     "new_key": "debug.copy_location.help",
     "new_value": "F3 + C = 将位置复制为/tp命令，或长按10秒使游戏崩溃",
     "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
+  },
+  {
+    "old_key": "filled_map.id",
+    "old_value": "编号#%s",
+    "old_en_us": "Id #%s",
+    "new_key": "filled_map.id",
+    "new_value": "ID #%s",
+    "new_en_us": "ID #%s"
   },
   {
     "old_key": "gameMode.hardcore",

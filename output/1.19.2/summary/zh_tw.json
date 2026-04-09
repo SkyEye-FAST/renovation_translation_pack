@@ -1435,13 +1435,6 @@
     "en_us": "Wheat Crops"
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "最大建築高度限制為 %s",
-    "new_key": "build.tooHigh",
-    "new_value": "建築高度上限為 %s",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat_screen.title",
     "old_value": "聊天畫面",
     "new_key": "chat_screen.title",
@@ -1475,13 +1468,6 @@
     "new_key": "chat.disabled.expiredProfileKey",
     "new_value": "由於個人資訊公鑰過期，已停用聊天功能。請嘗試重新連線。",
     "en_us": "Chat disabled due to expired profile public key. Please try reconnecting."
-  },
-  {
-    "old_key": "command.failed",
-    "old_value": "試圖執行該指令時發生了非預期性錯誤",
-    "new_key": "command.failed",
-    "new_value": "試圖執行該指令時發生了非預期的錯誤",
-    "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.many.failure",
@@ -1769,13 +1755,6 @@
     "new_key": "gui.banned.description.reason",
     "new_value": "我們最近收到了對您不當行為的檢舉。我們的仲裁者已審查此案並認定為「%s」，已違反 Minecraft 社群準則。",
     "en_us": "We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified it as %s, which goes against the Minecraft Community Standards."
-  },
-  {
-    "old_key": "gui.banned.title.temporary",
-    "old_value": "帳號已暫時停權",
-    "new_key": "gui.banned.title.temporary",
-    "new_value": "帳號已被暫時停用",
-    "en_us": "Account temporarily suspended"
   },
   {
     "old_key": "gui.chatReport.discard.content",
@@ -2688,13 +2667,6 @@
     "en_us": "Allow Server Listings"
   },
   {
-    "old_key": "options.allowServerListing.tooltip",
-    "old_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名字就不會被列出。",
-    "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名稱就不會被列出。",
-    "en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists."
-  },
-  {
     "old_key": "options.attack.crosshair",
     "old_value": "十字準心",
     "new_key": "options.attack.crosshair",
@@ -2777,13 +2749,6 @@
     "new_key": "options.pixel_value",
     "new_value": "%s：%spx",
     "en_us": "%s: %spx"
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "噁心狀態效果和地獄傳送門畫面扭曲的強度。\n數值較低時，噁心效果將被一層綠色的視覺效果取代。",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "噁心狀態效果和地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
-    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "resourcePack.broken_assets",

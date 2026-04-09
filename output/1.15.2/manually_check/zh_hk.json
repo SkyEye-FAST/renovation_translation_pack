@@ -285,7 +285,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建築高度上限為 %s",
-    "new_en_us": "Height limit for building is %s"
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "chat.copy.click",
@@ -294,6 +294,14 @@
     "new_key": "chat.copy.click",
     "new_value": "按此處複製至剪貼簿",
     "new_en_us": "Click to Copy to Clipboard"
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "試圖執行依個命令時發生意外錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行命令時發生意外錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "command.unknown.command",
@@ -504,12 +512,20 @@
     "new_en_us": "Took %s recipe(s) from %s"
   },
   {
+    "old_key": "commands.schedule.cleared.failure",
+    "old_value": "並無 ID 為 %s 嘅計劃",
+    "old_en_us": "No schedules with id %s",
+    "new_key": "commands.schedule.cleared.failure",
+    "new_value": "並無 ID 為 %s 的計劃",
+    "new_en_us": "No schedules with ID %s"
+  },
+  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "已移除 %s 個 ID 喺 %s 嘅計劃",
     "old_en_us": "Removed %s schedules with id %s",
     "new_key": "commands.schedule.cleared.success",
     "new_value": "已移除 %s 個 ID 為 %s 的計劃",
-    "new_en_us": "Removed %s schedule(s) with id %s"
+    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.schedule.created.function",
@@ -1190,6 +1206,14 @@
     "new_key": "selectWorld.backupJoinConfirmButton",
     "new_value": "建立備份並載入",
     "new_en_us": "Create Backup and Load"
+  },
+  {
+    "old_key": "selectWorld.backupJoinSkipButton",
+    "old_value": "我知道我喺度做緊乜！",
+    "old_en_us": "I know what I'm doing!",
+    "new_key": "selectWorld.backupJoinSkipButton",
+    "new_value": "我心中有數！",
+    "new_en_us": "I Know What I'm Doing!"
   },
   {
     "old_key": "selectWorld.bonusItems",

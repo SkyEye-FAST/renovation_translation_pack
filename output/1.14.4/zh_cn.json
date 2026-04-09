@@ -274,6 +274,7 @@
   "entity.minecraft.sheep": "绵羊",
   "entity.minecraft.shulker_bullet": "潜影弹",
   "entity.minecraft.wither_skull": "凋灵之首",
+  "filled_map.id": "ID #%s",
   "gameMode.hardcore": "极限模式",
   "generator.customized": "旧版自定义",
   "gui.recipebook.moreRecipes": "单击鼠标右键获取更多信息",

@@ -1666,13 +1666,6 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "試圖執行依個命令時發生意外錯誤",
-    "new_key": "command.failed",
-    "new_value": "試圖執行命令時發生意外錯誤",
-    "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",
@@ -2385,13 +2378,6 @@
     "new_key": "commands.save.saving",
     "new_value": "儲存遊戲中（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
-  },
-  {
-    "old_key": "commands.schedule.cleared.failure",
-    "old_value": "並無 ID 為 %s 嘅計劃",
-    "new_key": "commands.schedule.cleared.failure",
-    "new_value": "並無 ID 為 %s 的計劃",
-    "en_us": "No schedules with id %s"
   },
   {
     "old_key": "commands.schedule.same_tick",
@@ -4672,7 +4658,7 @@
     "old_key": "optimizeWorld.title",
     "old_value": "正在最佳化 '%s'",
     "new_key": "optimizeWorld.title",
-    "new_value": "正在最佳化「%s」",
+    "new_value": "正在最佳化世界「%s」",
     "en_us": "Optimizing World '%s'"
   },
   {
@@ -4758,13 +4744,6 @@
     "new_key": "options.renderDistance",
     "new_value": "渲染距離",
     "en_us": "Render Distance"
-  },
-  {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "嘔心效果與地獄傳送門畫面扭曲效果的強度。\n數值較低時，嘔心效果將被替換為一層綠色視覺效果。",
-    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.sounds",
@@ -4938,7 +4917,7 @@
     "old_key": "selectServer.deleteWarning",
     "old_value": "'%s' 將會永遠消失！（非常耐！）",
     "new_key": "selectServer.deleteWarning",
-    "new_value": "「%s」將會永遠消失！（非常長時間！）",
+    "new_value": "「%s」將會永遠消失！（時間非常長！）",
     "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {
@@ -4980,7 +4959,7 @@
     "old_key": "selectWorld.deleteWarning",
     "old_value": "'%s' 將會永遠消失！（非常耐！）",
     "new_key": "selectWorld.deleteWarning",
-    "new_value": "「%s」將會永遠消失！（非常久！）",
+    "new_value": "「%s」將會永遠消失！（時間非常長！）",
     "en_us": "'%s' will be lost forever! (A long time!)"
   },
   {

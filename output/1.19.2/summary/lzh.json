@@ -3346,13 +3346,6 @@
     "en_us": "Note! When you sign the book, it will no longer be editable."
   },
   {
-    "old_key": "build.tooHigh",
-    "old_value": "高之極，以%s爲限",
-    "new_key": "build.tooHigh",
-    "new_value": "高之极，以%s爲限",
-    "en_us": "Height limit for building is %s"
-  },
-  {
     "old_key": "chat_screen.usage",
     "old_value": "言畢，擊回車以遞之",
     "new_key": "chat_screen.usage",
@@ -3435,13 +3428,6 @@
     "new_key": "command.expected.separator",
     "new_value": "實參應以空白作結，然有物隨焉",
     "en_us": "Expected whitespace to end one argument, but found trailing data"
-  },
-  {
-    "old_key": "command.failed",
-    "old_value": "行令而生不預之謬誤",
-    "new_key": "command.failed",
-    "new_value": "方行其令而生謬不虞",
-    "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
     "old_key": "commands.bossbar.create.failed",
@@ -3792,13 +3778,6 @@
     "new_key": "commands.list.players",
     "new_value": "頂%2$s戲者中有%1$s人在綫：%3$s",
     "en_us": "There are %s of a max of %s players online: %s"
-  },
-  {
-    "old_key": "commands.locate.biome.not_found",
-    "old_value": "尋生態域類「%s」於合理之距未果",
-    "new_key": "commands.locate.biome.not_found",
-    "new_value": "尋生態域名曰「%s」於理之距未果",
-    "en_us": "Could not find a biome of type \"%s\" within reasonable distance"
   },
   {
     "old_key": "commands.locate.biome.success",
@@ -4571,13 +4550,6 @@
     "en_us": "Defeat"
   },
   {
-    "old_key": "filled_map.id",
-    "old_value": "第%s冊",
-    "new_key": "filled_map.id",
-    "new_value": "第%s",
-    "en_us": "Id #%s"
-  },
-  {
     "old_key": "flat_world_preset.minecraft.bottomless_pit",
     "old_value": "無底深淵",
     "new_key": "flat_world_preset.minecraft.bottomless_pit",
@@ -4802,20 +4774,6 @@
     "en_us": "Unable to reach the Abuse Reporting service. Please make sure you are connected to the internet and try again."
   },
   {
-    "old_key": "gui.abuseReport.sending.title",
-    "old_value": "方送檢舉...",
-    "new_key": "gui.abuseReport.sending.title",
-    "new_value": "方送檢舉⋯",
-    "en_us": "Sending your report..."
-  },
-  {
-    "old_key": "gui.abuseReport.sent.title",
-    "old_value": "檢舉已送",
-    "new_key": "gui.abuseReport.sent.title",
-    "new_value": "檢舉既送",
-    "en_us": "Report sent"
-  },
-  {
     "old_key": "gui.banned.description.reason",
     "old_value": "新受一檢舉曰：汝之戶簿有劣行。是案已爲所閱且已斷爲%s。其悖于《礦藝社區之法》也。",
     "new_key": "gui.banned.description.reason",
@@ -4835,20 +4793,6 @@
     "new_key": "gui.banned.description.unknownreason",
     "new_value": "新受一檢舉曰：汝之戶簿有劣行。是案已爲所閱且已斷爲悖於《礦藝坊律》也。",
     "en_us": "We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified that it goes against the Minecraft Community Standards."
-  },
-  {
-    "old_key": "gui.banned.title.permanent",
-    "old_value": "戶簿已恆爲所羈",
-    "new_key": "gui.banned.title.permanent",
-    "new_value": "帳號永久封禁",
-    "en_us": "Account permanently banned"
-  },
-  {
-    "old_key": "gui.banned.title.temporary",
-    "old_value": "戶簿已暂爲所羈",
-    "new_key": "gui.banned.title.temporary",
-    "new_value": "戶簿已暫爲所羈",
-    "en_us": "Account temporarily suspended"
   },
   {
     "old_key": "gui.chatReport.discard.return",
@@ -5957,13 +5901,6 @@
     "en_us": "Resource Packs..."
   },
   {
-    "old_key": "options.screenEffectScale.tooltip",
-    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
-    "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "反胃，又焱界結界門曲幕之強弱。\n量微者，反胃之效代以綠蓋。",
-    "en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay."
-  },
-  {
     "old_key": "options.skinCustomisation",
     "old_value": "自定外觀...",
     "new_key": "options.skinCustomisation",
@@ -6109,13 +6046,6 @@
     "new_key": "selectWorld.allowCommands",
     "new_value": "允舞弊",
     "en_us": "Allow Cheats"
-  },
-  {
-    "old_key": "selectWorld.backupJoinSkipButton",
-    "old_value": "吾知所以爲也！",
-    "new_key": "selectWorld.backupJoinSkipButton",
-    "new_value": "吾自知！",
-    "en_us": "I know what I'm doing!"
   },
   {
     "old_key": "selectWorld.backupQuestion.snapshot",

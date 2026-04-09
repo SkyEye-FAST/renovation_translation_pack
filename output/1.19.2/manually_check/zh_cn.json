@@ -112,6 +112,14 @@
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
+    "old_key": "build.tooHigh",
+    "old_value": "建筑高度限制是%s",
+    "old_en_us": "Height limit for building is %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建筑高度上限是%s",
+    "new_en_us": "The height limit for building is %s"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "聊天在启动器选项中被禁用。无法发送消息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -240,6 +248,22 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.locate.poi.not_found",
+    "old_value": "无法在合理距离内找到类型为“%s”的兴趣点",
+    "old_en_us": "Could not find a point of interest of type \"%s\" within reasonable distance",
+    "new_key": "commands.locate.poi.not_found",
+    "new_value": "在合理距离内找不到类型为“%s”的兴趣点",
+    "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "已移除%s个ID为%s的计划",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除%s个ID为%s的时间安排",
+    "new_en_us": "Removed %s schedule(s) with ID %s"
+  },
+  {
     "old_key": "commands.spreadplayers.success.entities",
     "old_value": "已将%1$s名玩家围绕%2$s, %3$s分散，平均距离为%4$s个方块",
     "old_en_us": "Spread %s players around %s, %s with an average distance of %s blocks apart",
@@ -344,6 +368,14 @@
     "new_en_us": "F3 + C = Copy location as /tp command, or hold for 10 seconds to crash the game"
   },
   {
+    "old_key": "filled_map.id",
+    "old_value": "编号#%s",
+    "old_en_us": "Id #%s",
+    "new_key": "filled_map.id",
+    "new_value": "ID #%s",
+    "new_en_us": "ID #%s"
+  },
+  {
     "old_key": "gameMode.hardcore",
     "old_value": "极限模式！",
     "old_en_us": "Hardcore Mode!",
@@ -432,6 +464,14 @@
     "new_en_us": "Self-harm or suicide"
   },
   {
+    "old_key": "gui.abuseReport.sending.title",
+    "old_value": "发送举报中...",
+    "old_en_us": "Sending your report...",
+    "new_key": "gui.abuseReport.sending.title",
+    "new_value": "发送举报中…",
+    "new_en_us": "Sending Your Report..."
+  },
+  {
     "old_key": "gui.banned.description.permanent",
     "old_value": "你的账户已被永久封禁，无法进行多人游戏或加入Realms。",
     "old_en_us": "Your account is permanently banned, which means you can’t play online or join Realms.",
@@ -454,6 +494,14 @@
     "new_key": "gui.chatReport.comments",
     "new_value": "留言",
     "new_en_us": "Comments"
+  },
+  {
+    "old_key": "gui.chatReport.discard.title",
+    "old_value": "放弃举报和留言？",
+    "old_en_us": "Discard report and comments?",
+    "new_key": "gui.chatReport.discard.title",
+    "new_value": "放弃举报和评论？",
+    "new_en_us": "Discard Report and Comments?"
   },
   {
     "old_key": "gui.chatReport.report_sent_msg",

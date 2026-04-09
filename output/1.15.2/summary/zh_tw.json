@@ -1526,13 +1526,6 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
-    "old_key": "command.failed",
-    "old_value": "試圖執行該指令時發生了非預期性錯誤",
-    "new_key": "command.failed",
-    "new_value": "試圖執行該指令時發生了非預期的錯誤",
-    "en_us": "An unexpected error occurred trying to execute that command"
-  },
-  {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 的條件 '%1$s' 給予 %3$s 個玩家， 因為他們已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",

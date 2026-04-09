@@ -24,6 +24,14 @@
     "new_en_us": "Deflect a projectile with a Shield"
   },
   {
+    "old_key": "advancements.story.enter_the_nether.description",
+    "old_value": "建造、启动并进入一个下界传送门",
+    "old_en_us": "Build, light and enter a Nether Portal",
+    "new_key": "advancements.story.enter_the_nether.description",
+    "new_value": "建造、激活并进入一座下界传送门",
+    "new_en_us": "Build, light, and enter a Nether Portal"
+  },
+  {
     "old_key": "advancements.story.form_obsidian.description",
     "old_value": "创造并挖掘一块黑曜石",
     "old_en_us": "Form and mine a block of Obsidian",
@@ -157,7 +165,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建筑高度上限是%s",
-    "new_en_us": "Height limit for building is %s"
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "command.unknown.command",
@@ -526,6 +534,14 @@
     "new_key": "entity.minecraft.spawner_minecart",
     "new_value": "刷怪笼矿车",
     "new_en_us": "Minecart with Monster Spawner"
+  },
+  {
+    "old_key": "filled_map.id",
+    "old_value": "编号#%s",
+    "old_en_us": "Id #%s",
+    "new_key": "filled_map.id",
+    "new_value": "ID #%s",
+    "new_en_us": "ID #%s"
   },
   {
     "old_key": "gameMode.hardcore",

@@ -314,6 +314,7 @@
   "entity.minecraft.spawner_minecart": "刷怪笼矿车",
   "entity.minecraft.villager.armorer": "盔甲匠",
   "entity.minecraft.wither_skull": "凋灵之首",
+  "filled_map.id": "ID #%s",
   "filled_map.level": "（等级 %s/%s）",
   "gameMode.hardcore": "极限模式",
   "generator.customized": "旧版自定义",

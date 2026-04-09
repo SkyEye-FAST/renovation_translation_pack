@@ -441,13 +441,6 @@
     "en_us": "Enter the End Portal"
   },
   {
-    "old_key": "advancements.story.enter_the_nether.description",
-    "old_value": "建，然且進幽冥結界門",
-    "new_key": "advancements.story.enter_the_nether.description",
-    "new_value": "築而入一焱界結界門",
-    "en_us": "Build, light and enter a Nether Portal"
-  },
-  {
     "old_key": "advancements.story.follow_ender_eye.description",
     "old_value": "随終眇眼",
     "new_key": "advancements.story.follow_ender_eye.description",
@@ -4114,13 +4107,6 @@
     "new_key": "command.expected.separator",
     "new_value": "實參應以空白作結，然有物隨焉",
     "en_us": "Expected whitespace to end one argument, but found trailing data"
-  },
-  {
-    "old_key": "command.failed",
-    "old_value": "行旨而生不預之謬誤",
-    "new_key": "command.failed",
-    "new_value": "方行其令而生謬不虞",
-    "en_us": "An unexpected error occurred trying to execute that command"
   },
   {
     "old_key": "command.unknown.argument",
@@ -9189,13 +9175,6 @@
     "new_key": "selectServer.refresh",
     "new_value": "重整",
     "en_us": "Refresh"
-  },
-  {
-    "old_key": "selectWorld.backupJoinSkipButton",
-    "old_value": "吾知所以为也！",
-    "new_key": "selectWorld.backupJoinSkipButton",
-    "new_value": "吾自知！",
-    "en_us": "I know what I'm doing!"
   },
   {
     "old_key": "selectWorld.backupQuestion.customized",

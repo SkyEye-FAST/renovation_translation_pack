@@ -32,6 +32,14 @@
     "new_en_us": "Deflect a projectile with a Shield"
   },
   {
+    "old_key": "advancements.story.enter_the_nether.description",
+    "old_value": "建造、启动并进入一个下界传送门",
+    "old_en_us": "Build, light and enter a Nether Portal",
+    "new_key": "advancements.story.enter_the_nether.description",
+    "new_value": "建造、激活并进入一座下界传送门",
+    "new_en_us": "Build, light, and enter a Nether Portal"
+  },
+  {
     "old_key": "advancements.story.form_obsidian.description",
     "old_value": "创造并挖掘一块黑曜石",
     "old_en_us": "Form and mine a block of Obsidian",
@@ -157,7 +165,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建筑高度上限是%s",
-    "new_en_us": "Height limit for building is %s"
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "command.unknown.command",
@@ -294,6 +302,14 @@
     "new_key": "commands.forceload.toobig",
     "new_value": "指定区域内区块过多（最大值为%s，但指定值为%s）",
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
+  },
+  {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "已移除%s个ID为%s的计划",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "已移除%s个ID为%s的时间安排",
+    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.schedule.created.function",
@@ -558,6 +574,14 @@
     "new_key": "disconnect.loginFailedInfo.serversUnavailable",
     "new_value": "暂时无法连接到身份验证服务器，请稍后再试。",
     "new_en_us": "The authentication servers are currently not reachable. Please try again."
+  },
+  {
+    "old_key": "filled_map.id",
+    "old_value": "编号#%s",
+    "old_en_us": "Id #%s",
+    "new_key": "filled_map.id",
+    "new_value": "ID #%s",
+    "new_en_us": "ID #%s"
   },
   {
     "old_key": "gameMode.hardcore",

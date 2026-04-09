@@ -104,6 +104,14 @@
     "new_en_us": "Invalid swizzle: expected combination of 'x', 'y' and 'z'"
   },
   {
+    "old_key": "build.tooHigh",
+    "old_value": "最大建築高度限制為 %s",
+    "old_en_us": "Height limit for building is %s",
+    "new_key": "build.tooHigh",
+    "new_value": "建築高度上限為 %s",
+    "new_en_us": "The height limit for building is %s"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -158,6 +166,14 @@
     "new_key": "chat.tag.not_secure",
     "new_value": "無法檢舉未認證的訊息。",
     "new_en_us": "Unverified message. Cannot be reported."
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "試圖執行該指令時發生了非預期性錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行該指令時發生了非預期的錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "commands.clear.success.multiple",
@@ -269,7 +285,7 @@
     "old_en_us": "Removed %s schedules with id %s",
     "new_key": "commands.schedule.cleared.success",
     "new_value": "已移除 ID 為 %2$s 的 %1$s 個排程",
-    "new_en_us": "Removed %s schedule(s) with id %s"
+    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.schedule.created.tag",
@@ -333,7 +349,7 @@
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
     "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
-    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
+    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.dryout.player",
@@ -480,6 +496,14 @@
     "new_en_us": "Self-harm or suicide"
   },
   {
+    "old_key": "gui.banned.title.temporary",
+    "old_value": "帳號已暫時停權",
+    "old_en_us": "Account temporarily suspended",
+    "new_key": "gui.banned.title.temporary",
+    "new_value": "帳號已被暫時停用",
+    "new_en_us": "Account Temporarily Suspended"
+  },
+  {
     "old_key": "gui.chatReport.comments",
     "old_value": "留言編輯欄",
     "old_en_us": "Comments edit box",
@@ -584,6 +608,14 @@
     "new_en_us": "Accessibility Settings"
   },
   {
+    "old_key": "options.allowServerListing.tooltip",
+    "old_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名字就不會被列出。",
+    "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
+    "new_key": "options.allowServerListing.tooltip",
+    "new_value": "伺服器可能會公開列出目前上線的玩家。\n若關閉此選項，您的名稱就不會被列出。",
+    "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
+  },
+  {
     "old_key": "options.chat.title",
     "old_value": "聊天設定...",
     "old_en_us": "Chat Settings...",
@@ -630,6 +662,14 @@
     "new_key": "options.realmsNotifications",
     "new_value": "Realms 新聞及邀請",
     "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "噁心狀態效果和地獄傳送門畫面扭曲的強度。\n數值較低時，噁心效果將被一層綠色的視覺效果取代。",
+    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "噁心狀態效果和地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
+    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",

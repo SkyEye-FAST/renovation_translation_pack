@@ -248,6 +248,14 @@
     "new_en_us": "[+%s pending line(s)]"
   },
   {
+    "old_key": "command.failed",
+    "old_value": "行令而生不預之謬誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "方行其令而生謬不虞",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
+  },
+  {
     "old_key": "command.unknown.command",
     "old_value": "令未知或殘，請以備述",
     "old_en_us": "Unknown or incomplete command, see below for error",
@@ -464,6 +472,22 @@
     "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
+    "old_key": "commands.schedule.cleared.failure",
+    "old_value": "無ID爲%s之程",
+    "old_en_us": "No schedules with id %s",
+    "new_key": "commands.schedule.cleared.failure",
+    "new_value": "無棨信爲%s之程",
+    "new_en_us": "No schedules with ID %s"
+  },
+  {
+    "old_key": "commands.schedule.cleared.success",
+    "old_value": "既去程之ID爲%2$s者%1$s",
+    "old_en_us": "Removed %s schedules with id %s",
+    "new_key": "commands.schedule.cleared.success",
+    "new_value": "既去程之棨信爲%2$s者%1$s",
+    "new_en_us": "Removed %s schedule(s) with ID %s"
+  },
+  {
     "old_key": "commands.schedule.created.tag",
     "old_value": "既置籤「%1$s」於%3$s時，餘%2$s刻",
     "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
@@ -573,7 +597,7 @@
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
     "new_value": "錄囊有謬，是以阻礙天地之載入。\n或可載以原版錄囊一試「無虞之法」，或返卷首躬繕之。",
-    "new_en_us": "Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually."
+    "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
     "old_key": "death.attack.anvil.player",
@@ -942,6 +966,14 @@
     "new_key": "options.realmsNotifications",
     "new_value": "領域之新知邀約",
     "new_en_us": "Realms News & Invites"
+  },
+  {
+    "old_key": "options.screenEffectScale.tooltip",
+    "old_value": "眩之烈與焱界結界門使熒幕曲之度。\n時值微，眩之態單綠以代。",
+    "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
+    "new_key": "options.screenEffectScale.tooltip",
+    "new_value": "氣逆之烈與焱界結界門曲幕之度。\n直微則氣逆徒以綠霧代之。",
+    "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
     "old_key": "options.showSubtitles",

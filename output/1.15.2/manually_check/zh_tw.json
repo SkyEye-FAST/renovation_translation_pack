@@ -173,7 +173,7 @@
     "old_en_us": "Height limit for building is %s blocks",
     "new_key": "build.tooHigh",
     "new_value": "建築高度上限為 %s",
-    "new_en_us": "Height limit for building is %s"
+    "new_en_us": "The height limit for building is %s"
   },
   {
     "old_key": "chat.copy.click",
@@ -182,6 +182,14 @@
     "new_key": "chat.copy.click",
     "new_value": "按此複製到剪貼簿",
     "new_en_us": "Click to Copy to Clipboard"
+  },
+  {
+    "old_key": "command.failed",
+    "old_value": "試圖執行該指令時發生了非預期性錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行該指令時發生了非預期的錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
   },
   {
     "old_key": "command.unknown.command",
@@ -389,7 +397,7 @@
     "old_en_us": "Removed %s schedules with id %s",
     "new_key": "commands.schedule.cleared.success",
     "new_value": "已移除 ID 為 %2$s 的 %1$s 個排程",
-    "new_en_us": "Removed %s schedule(s) with id %s"
+    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.schedule.created.function",
