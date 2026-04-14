@@ -412,7 +412,7 @@
     "old_value": "控制生物死亡后是否掉落资源，包括经验球",
     "old_en_us": "Controls resource drops from mobs, including experience orbs",
     "new_key": "gamerule.doMobLoot.description",
-    "new_value": "控制生物死亡后是否掉落资源，包括经验球。",
+    "new_value": "控制生物是否掉落资源，包括经验球。",
     "new_en_us": "Controls resource drops from mobs, including experience orbs."
   },
   {
@@ -428,7 +428,7 @@
     "old_value": "控制破坏方块后是否掉落资源，包括经验球",
     "old_en_us": "Controls resource drops from blocks, including experience orbs",
     "new_key": "gamerule.doTileDrops.description",
-    "new_value": "控制破坏方块后是否掉落资源，包括经验球。",
+    "new_value": "控制方块是否掉落资源，包括经验球。",
     "new_en_us": "Controls resource drops from blocks, including experience orbs."
   },
   {

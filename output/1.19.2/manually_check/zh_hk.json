@@ -896,14 +896,6 @@
     "new_en_us": "Comments"
   },
   {
-    "old_key": "gui.chatReport.discard.title",
-    "old_value": "放棄舉報及留言？",
-    "old_en_us": "Discard report and comments?",
-    "new_key": "gui.chatReport.discard.title",
-    "new_value": "放棄舉報同留言？",
-    "new_en_us": "Discard Report and Comments?"
-  },
-  {
     "old_key": "gui.chatReport.report_sent_msg",
     "old_value": "我哋已經成功收到你嘅舉報。多謝！\n\n我哋嘅團隊將會盡早審閱此舉報。",
     "old_en_us": "We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.",
@@ -1052,7 +1044,7 @@
     "old_value": "伺服器可能會公開列出在線玩家嘅名單。\n關閉依個選項後，你嘅名將唔會出現喺名單內。",
     "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
     "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出在線玩家的名單。\n關閉這個選項後，你的名將唔會出現在名單內。",
+    "new_value": "伺服器或會公開列出在線玩家的名單。\n關閉此選項後，你的名稱將不會出現於該種名單內。",
     "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
   },
   {
@@ -1076,7 +1068,7 @@
     "old_value": "使用以 HRTF 為基礎嘅環繞音訊，令 3D 音訊模擬得更好。需要相容嘅 HRTF 嘅音訊硬體，而且需要佩戴耳機先可以獲得最佳體驗。",
     "old_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.",
     "new_key": "options.directionalAudio.on.tooltip",
-    "new_value": "使用以 HRTF 為基礎的環繞音訊，令 3D 音訊模擬得更好。需要相容的 HRTF 音訊硬體，而且需要佩戴耳機先可以獲得最佳體驗。",
+    "new_value": "採用基於 HRTF 的環繞音訊以提升 3D 音訊的模擬效果。此選項須配備相容的 HRTF 硬件方可啟用。佩戴頭戴式耳機可獲最佳體驗。",
     "new_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF-compatible audio hardware, and is best experienced with headphones."
   },
   {
@@ -1132,7 +1124,7 @@
     "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
     "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
     "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "嘔心效果同地獄傳送門扭曲影像的強度\n如果設定做較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果",
+    "new_value": "嘔心效果與地獄傳送門畫面扭曲效果的強度。\n數值較低時，嘔心效果將被替換為一層綠色視覺效果。",
     "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {

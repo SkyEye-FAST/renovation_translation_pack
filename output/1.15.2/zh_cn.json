@@ -402,7 +402,7 @@
   "stat.minecraft.interact_with_stonecutter": "与切石机交互次数",
   "stat.minecraft.sleep_in_bed": "入眠次数",
   "stat.minecraft.time_since_rest": "自上次入眠",
-  "stat_type.minecraft.killed": "你杀死了%s个%s",
+  "stat_type.minecraft.killed": "你杀死了%2$s%1$s次",
   "structure_block.invalid_structure_name": "无效的结构名“%s”",
   "structure_block.load_not_found": "不存在名为“%s”的结构 ",
   "structure_block.load_prepare": "结构“%s”的加载位置已就绪",

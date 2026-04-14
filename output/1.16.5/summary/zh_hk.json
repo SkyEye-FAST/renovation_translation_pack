@@ -5278,6 +5278,13 @@
     "en_us": "Lava hisses"
   },
   {
+    "old_key": "subtitles.block.note_block.note",
+    "old_value": "音符盒發聲",
+    "new_key": "subtitles.block.note_block.note",
+    "new_value": "音符盒播放聲音",
+    "en_us": "Note Block plays"
+  },
+  {
     "old_key": "subtitles.block.pumpkin.carve",
     "old_value": "鉸剪雕刻",
     "new_key": "subtitles.block.pumpkin.carve",

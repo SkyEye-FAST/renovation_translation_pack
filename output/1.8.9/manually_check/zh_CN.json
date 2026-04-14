@@ -612,7 +612,7 @@
     "old_value": "你杀死了 %s只 %s",
     "old_en_us": "You killed %d %s",
     "new_key": "stat_type.minecraft.killed",
-    "new_value": "你杀死了%s个%s",
+    "new_value": "你杀死了%2$s%1$s次",
     "new_en_us": "You killed %s %s"
   },
   {

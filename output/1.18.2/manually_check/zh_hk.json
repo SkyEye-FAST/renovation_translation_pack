@@ -1084,7 +1084,7 @@
     "old_value": "伺服器可能會公開列出在線玩家嘅名單。\n關閉依個選項後，你嘅名將唔會出現喺名單內。",
     "old_en_us": "Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.",
     "new_key": "options.allowServerListing.tooltip",
-    "new_value": "伺服器可能會公開列出在線玩家的名單。\n關閉這個選項後，你的名將唔會出現在名單內。",
+    "new_value": "伺服器或會公開列出在線玩家的名單。\n關閉此選項後，你的名稱將不會出現於該種名單內。",
     "new_en_us": "Servers may list online players as part of their public status.\nWith this option off, your name will not show up in such lists."
   },
   {
@@ -1156,7 +1156,7 @@
     "old_value": "嘔心效果同地獄傳送門扭曲影像嘅強度\n如果設定做較低數值，你嘅螢幕將會被綠色覆蓋，以取代嘔心效果",
     "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
     "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "嘔心效果同地獄傳送門扭曲影像的強度\n如果設定做較低數值，你的螢幕將會被綠色覆蓋，以取代嘔心效果",
+    "new_value": "嘔心效果與地獄傳送門畫面扭曲效果的強度。\n數值較低時，嘔心效果將被替換為一層綠色視覺效果。",
     "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {
