@@ -168,6 +168,14 @@
     "new_en_us": "Unverified message. Cannot be reported."
   },
   {
+    "old_key": "command.failed",
+    "old_value": "試圖執行該指令時發生了非預期性錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行該指令時發生了非預期的錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
+  },
+  {
     "old_key": "commands.clear.success.multiple",
     "old_value": "已刪除 %2$s 個玩家的 %1$s 個物品",
     "old_en_us": "Removed %s items from %s players",
@@ -272,6 +280,30 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.locate.biome.not_found",
+    "old_value": "無法在合理距離內找到「%s」類型的生態域",
+    "old_en_us": "Could not find a biome of type \"%s\" within reasonable distance",
+    "new_key": "commands.locate.biome.not_found",
+    "new_value": "無法在合理距離內找到 \"%s\" 類型的生態域",
+    "new_en_us": "Could not find a biome of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.locate.poi.not_found",
+    "old_value": "無法在合理距離內找到「%s」類型的興趣點",
+    "old_en_us": "Could not find a point of interest of type \"%s\" within reasonable distance",
+    "new_key": "commands.locate.poi.not_found",
+    "new_value": "無法在合理距離內找到 \"%s\" 類型的興趣點",
+    "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.place.template.invalid",
+    "old_value": "沒有 ID 為「%s」的模板",
+    "old_en_us": "There is no template with id \"%s\"",
+    "new_key": "commands.place.template.invalid",
+    "new_value": "沒有 ID 為 \"%s\" 的模板",
+    "new_en_us": "There is no template with ID \"%s\""
+  },
+  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "移除 ID 為 %2$s 的 %1$s 個排程",
     "old_en_us": "Removed %s schedules with id %s",
@@ -340,7 +372,7 @@
     "old_value": "目前選擇的資料包中出現錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
-    "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n你可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
+    "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
     "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
@@ -648,6 +680,14 @@
     "new_en_us": "Classic Stereo sound."
   },
   {
+    "old_key": "options.directionalAudio.on.tooltip",
+    "old_value": "使用基於 HRTF 的定向音效模擬出更生動的 3D 音訊。必須使用相容 HRTF 音訊的硬體，並透過耳機獲得最佳體驗。",
+    "old_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.",
+    "new_key": "options.directionalAudio.on.tooltip",
+    "new_value": "使用基於 HRTF 的定向音效，模擬出更生動的 3D 音訊。必須使用相容 HRTF 音訊的硬體，並透過耳機獲得最佳體驗。",
+    "new_en_us": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF-compatible audio hardware, and is best experienced with headphones."
+  },
+  {
     "old_key": "options.hideLightningFlashes",
     "old_value": "隱藏閃電效果",
     "old_en_us": "Hide Lightning Flashes",
@@ -676,7 +716,7 @@
     "old_value": "噁心狀態效果和地獄傳送門畫面扭曲的強度。\n數值較低時，噁心效果將被一層綠色的視覺效果取代。",
     "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
     "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "噁心狀態效果和地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
+    "new_value": "噁心狀態效果與地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
     "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {

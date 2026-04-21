@@ -1,5 +1,5 @@
 {
-  "advMode.mode.autoexec.bat": "保持開啟",
+  "advMode.mode.autoexec.bat": "始終開啟",
   "advMode.notAllowed": "必須為創造模式中的管理員",
   "advMode.notEnabled": "命令方塊已停用",
   "advMode.setCommand": "設定此方塊的控制台命令",
@@ -1025,7 +1025,7 @@
   "options.onlyShowSecureChat": "僅顯示安全的聊天",
   "options.onlyShowSecureChat.tooltip": "僅顯示來自其他玩家並可驗證為該玩家發出且未被修改的訊息。",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "部分操作會導致所在區塊即時重新編譯，包括埋放置或破壞方塊。",
-  "options.prioritizeChunkUpdates.nearby.tooltip": "將附近區塊一律即時編譯。此選項可能會於放置或破壞方塊時嚴重影響遊戲效能。",
+  "options.prioritizeChunkUpdates.nearby.tooltip": "始終即時編譯附近區塊。此選項或會於放置或破壞方塊時嚴重影響遊戲效能。",
   "options.prioritizeChunkUpdates.none.tooltip": "附近區塊將依照執行緒排程平行編譯。此選項可能會於破壞方塊時產生短暫畫面空洞。",
   "options.realmsNotifications": "Realms 新聞及邀請",
   "options.renderDistance": "渲染距離",

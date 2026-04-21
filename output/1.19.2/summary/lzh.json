@@ -4109,6 +4109,13 @@
     "en_us": "Key Binds..."
   },
   {
+    "old_key": "createWorld.customize.flat.title",
+    "old_value": "自擬平川",
+    "new_key": "createWorld.customize.flat.title",
+    "new_value": "自定平川",
+    "en_us": "Superflat Customization"
+  },
+  {
     "old_key": "createWorld.preparing",
     "old_value": "鴻蒙初闢...",
     "new_key": "createWorld.preparing",
@@ -4716,6 +4723,13 @@
     "new_key": "generator.minecraft.normal",
     "new_value": "常世",
     "en_us": "Default"
+  },
+  {
+    "old_key": "generator.minecraft.single_biome_surface",
+    "old_value": "獨生域",
+    "new_key": "generator.minecraft.single_biome_surface",
+    "new_value": "獨生態域",
+    "en_us": "Single Biome"
   },
   {
     "old_key": "generator.single_biome_caves",
@@ -5717,6 +5731,13 @@
     "new_key": "options.accessibility.text_background.chat",
     "new_value": "論議",
     "en_us": "Chat"
+  },
+  {
+    "old_key": "options.attack.crosshair",
+    "old_value": "凖",
+    "new_key": "options.attack.crosshair",
+    "new_value": "準",
+    "en_us": "Crosshair"
   },
   {
     "old_key": "options.audioDevice.default",

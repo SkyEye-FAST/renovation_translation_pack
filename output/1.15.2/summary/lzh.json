@@ -5659,7 +5659,7 @@
     "old_key": "createWorld.customize.flat.title",
     "old_value": "自拟超平坦",
     "new_key": "createWorld.customize.flat.title",
-    "new_value": "自擬平川",
+    "new_value": "自定平川",
     "en_us": "Superflat Customization"
   },
   {
@@ -8594,6 +8594,13 @@
     "new_key": "options.accessibility.text_background.chat",
     "new_value": "論議",
     "en_us": "Chat"
+  },
+  {
+    "old_key": "options.attack.crosshair",
+    "old_value": "凖",
+    "new_key": "options.attack.crosshair",
+    "new_value": "準",
+    "en_us": "Crosshair"
   },
   {
     "old_key": "options.attack.hotbar",

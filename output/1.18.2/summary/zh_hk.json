@@ -381,7 +381,7 @@
     "old_key": "advMode.mode.autoexec.bat",
     "old_value": "保持激活",
     "new_key": "advMode.mode.autoexec.bat",
-    "new_value": "保持開啟",
+    "new_value": "始終開啟",
     "en_us": "Always Active"
   },
   {
@@ -5568,7 +5568,7 @@
     "old_key": "options.prioritizeChunkUpdates.nearby.tooltip",
     "old_value": "將附近嘅區塊一律即時編譯。依個選項可能會喺放置或破壞方塊時嚴重影響遊戲效能。",
     "new_key": "options.prioritizeChunkUpdates.nearby.tooltip",
-    "new_value": "將附近區塊一律即時編譯。此選項可能會於放置或破壞方塊時嚴重影響遊戲效能。",
+    "new_value": "始終即時編譯附近區塊。此選項或會於放置或破壞方塊時嚴重影響遊戲效能。",
     "en_us": "Nearby chunks are always compiled immediately. This may impact game performance when blocks are placed or destroyed."
   },
   {

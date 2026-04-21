@@ -3864,6 +3864,13 @@
     "en_us": "Upgrade Gear"
   },
   {
+    "old_key": "createWorld.customize.flat.title",
+    "old_value": "自擬平川",
+    "new_key": "createWorld.customize.flat.title",
+    "new_value": "自定平川",
+    "en_us": "Superflat Customization"
+  },
+  {
     "old_key": "createWorld.preparing",
     "old_value": "鴻蒙初闢...",
     "new_key": "createWorld.preparing",
@@ -5402,6 +5409,13 @@
     "new_key": "options.accessibility.text_background.chat",
     "new_value": "論議",
     "en_us": "Chat"
+  },
+  {
+    "old_key": "options.attack.crosshair",
+    "old_value": "凖",
+    "new_key": "options.attack.crosshair",
+    "new_value": "準",
+    "en_us": "Crosshair"
   },
   {
     "old_key": "options.autoSuggestCommands",

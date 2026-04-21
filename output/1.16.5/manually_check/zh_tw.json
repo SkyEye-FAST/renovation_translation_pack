@@ -120,6 +120,14 @@
     "new_en_us": "[+%s pending line(s)]"
   },
   {
+    "old_key": "command.failed",
+    "old_value": "試圖執行該指令時發生了非預期性錯誤",
+    "old_en_us": "An unexpected error occurred trying to execute that command",
+    "new_key": "command.failed",
+    "new_value": "試圖執行該指令時發生了非預期的錯誤",
+    "new_en_us": "An unexpected error occurred while trying to execute that command"
+  },
+  {
     "old_key": "commands.bossbar.get.players.some",
     "old_value": "自定義 Boss 狀態條 %s 目前有 %s 位玩家在線上：%s",
     "old_en_us": "Custom bossbar %s has %s players currently online: %s",
@@ -340,7 +348,7 @@
     "old_value": "目前選擇的資料包中出現錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
     "old_en_us": "Errors in currently selected datapacks prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"safe mode\"), or go back to the title screen and fix it manually.",
     "new_key": "datapackFailure.title",
-    "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n你可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
+    "new_value": "目前選擇的資料包中發生錯誤，導致世界無法載入。\n您可以嘗試只載入原版資料包（「安全模式」）或是回到標題畫面手動修復。",
     "new_en_us": "Errors in the currently selected data pack(s) prevented the world from loading.\nYou can either try to load it with only the vanilla data pack (\"Safe Mode\"), or go back to the title screen and fix it manually."
   },
   {
@@ -564,7 +572,7 @@
     "old_value": "噁心狀態效果和地獄傳送門畫面扭曲的強度。\n數值較低時，噁心效果將被一層綠色的視覺效果取代。",
     "old_en_us": "Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.",
     "new_key": "options.screenEffectScale.tooltip",
-    "new_value": "噁心狀態效果和地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
+    "new_value": "噁心狀態效果與地獄傳送門的畫面扭曲程度。\n數值較低時，噁心效果將以綠色的視覺效果替代。",
     "new_en_us": "Strength of Nausea and Nether Portal screen distortion effects.\nAt lower values, the Nausea effect is replaced with a green overlay."
   },
   {

@@ -1,5 +1,5 @@
 {
-  "advMode.mode.autoexec.bat": "保持開啟",
+  "advMode.mode.autoexec.bat": "始終開啟",
   "advMode.notAllowed": "必須為創造模式中的管理員",
   "advMode.notEnabled": "命令方塊已停用",
   "advMode.setCommand": "設定此方塊的控制台命令",

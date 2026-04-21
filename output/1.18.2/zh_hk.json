@@ -1,5 +1,5 @@
 {
-  "advMode.mode.autoexec.bat": "保持開啟",
+  "advMode.mode.autoexec.bat": "始終開啟",
   "advMode.notAllowed": "必須為創造模式中的管理員",
   "advMode.notEnabled": "命令方塊已停用",
   "advMode.setCommand": "設定此方塊的控制台命令",
@@ -937,7 +937,7 @@
   "options.hideLightningFlashes.tooltip": "使閃電電流或其他環境效果不會導致天空閃爍。閃爍源本身仍然可見。",
   "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "部分操作會導致所在區塊即時重新編譯，包括埋放置或破壞方塊。",
-  "options.prioritizeChunkUpdates.nearby.tooltip": "將附近區塊一律即時編譯。此選項可能會於放置或破壞方塊時嚴重影響遊戲效能。",
+  "options.prioritizeChunkUpdates.nearby.tooltip": "始終即時編譯附近區塊。此選項或會於放置或破壞方塊時嚴重影響遊戲效能。",
   "options.prioritizeChunkUpdates.none.tooltip": "附近區塊將依照執行緒排程平行編譯。此選項可能會於破壞方塊時產生短暫畫面空洞。",
   "options.realmsNotifications": "Realms 新聞及邀請",
   "options.renderDistance": "渲染距離",
