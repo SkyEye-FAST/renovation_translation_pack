@@ -919,6 +919,7 @@
   "death.attack.inFire.player": "搏%2$s之時%1$s斃於焰",
   "death.attack.inWall": "%1$s窒於壁",
   "death.attack.inWall.player": "搏%2$s之時%1$s窒於壁",
+  "death.attack.indirectMagic": "%1$s爲%2$s以神法所殺",
   "death.attack.lava": "%1$s融於熔石",
   "death.attack.lava.player": "去%2$s之時%1$s融於熔石",
   "death.attack.lightningBolt.player": "雷殛%1$s於搏%2$s之時",

@@ -798,7 +798,7 @@
   "options.graphics.fancy.tooltip": "「細緻」畫質平衡了多數電腦的遊戲效能與畫面品質。\n天氣、雲層同埋粒子可能不會在透明方塊與水的後面顯示。",
   "options.graphics.fast.tooltip": "「流暢」畫質會減少雨粒同雪粒的可見數量。\n樹葉之類的方塊將不再透明。",
   "options.graphics.warning.accept": "在不支援的狀態下繼續",
-  "options.graphics.warning.cancel": "帶我回上一頁",
+  "options.graphics.warning.cancel": "帶我返回上一頁",
   "options.graphics.warning.message": "檢測到圖像設備不支援 %s 顯示卡選項。\n\n你可選擇忽略，惟當選擇 %s 畫質時，你的顯示卡將不受支援。",
   "options.graphics.warning.title": "顯示卡不受支援",
   "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",

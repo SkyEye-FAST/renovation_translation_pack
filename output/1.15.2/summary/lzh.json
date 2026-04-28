@@ -5712,6 +5712,13 @@
     "en_us": "%1$s discovered the floor was lava"
   },
   {
+    "old_key": "death.attack.indirectMagic",
+    "old_value": "%1$s爲%2$s以魔所殺",
+    "new_key": "death.attack.indirectMagic",
+    "new_value": "%1$s爲%2$s以神法所殺",
+    "en_us": "%1$s was killed by %2$s using magic"
+  },
+  {
     "old_key": "death.attack.inFire",
     "old_value": "%1$s亡於焰",
     "new_key": "death.attack.inFire",

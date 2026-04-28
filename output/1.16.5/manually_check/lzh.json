@@ -236,7 +236,7 @@
     "old_value": "修飾符%1$s於實體%3$s之品%2$s，其值爲%4$s",
     "old_en_us": "Value of modifier %s on attribute %s for entity %s is %s",
     "new_key": "commands.attribute.modifier.value.get.success",
-    "new_value": "修飾符%1$s於實體%3$s之品%2$s，其直爲%4$s",
+    "new_value": "物綴%1$s於實體%3$s之品%2$s，其直爲%4$s",
     "new_en_us": "The value of modifier %s on attribute %s for entity %s is %s"
   },
   {

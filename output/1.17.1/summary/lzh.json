@@ -3227,6 +3227,27 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
+    "old_key": "commands.attribute.failed.modifier_already_present",
+    "old_value": "修飾符%1$s既現於實體%3$s之%2$s品",
+    "new_key": "commands.attribute.failed.modifier_already_present",
+    "new_value": "物綴%1$s既現於實體%3$s之%2$s品",
+    "en_us": "Modifier %s is already present on attribute %s for entity %s"
+  },
+  {
+    "old_key": "commands.attribute.failed.no_modifier",
+    "old_value": "修飾符%3$s不存於實體%2$s之%1$s品",
+    "new_key": "commands.attribute.failed.no_modifier",
+    "new_value": "物綴%3$s不存於實體%2$s之%1$s品",
+    "en_us": "Attribute %s for entity %s has no modifier %s"
+  },
+  {
+    "old_key": "commands.attribute.modifier.remove.success",
+    "old_value": "除修飾符%1$s於實體%3$s之品%2$s",
+    "new_key": "commands.attribute.modifier.remove.success",
+    "new_value": "既除物綴%1$s於實體%3$s之品%2$s",
+    "en_us": "Removed modifier %s from attribute %s for entity %s"
+  },
+  {
     "old_key": "commands.bossbar.create.failed",
     "old_value": "既有名曰「%s」之Boss條",
     "new_key": "commands.bossbar.create.failed",
@@ -3911,6 +3932,13 @@
     "new_key": "death.attack.hotFloor",
     "new_value": "%1$s方察地乃熔石也",
     "en_us": "%1$s discovered the floor was lava"
+  },
+  {
+    "old_key": "death.attack.indirectMagic",
+    "old_value": "%1$s爲%2$s以魔所殺",
+    "new_key": "death.attack.indirectMagic",
+    "new_value": "%1$s爲%2$s以神法所殺",
+    "en_us": "%1$s was killed by %2$s using magic"
   },
   {
     "old_key": "death.attack.lava",
