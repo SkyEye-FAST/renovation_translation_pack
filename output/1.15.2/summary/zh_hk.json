@@ -2502,7 +2502,7 @@
     "old_key": "commands.team.add.duplicate",
     "old_value": "已經存在使用依個名稱嘅隊伍",
     "new_key": "commands.team.add.duplicate",
-    "new_value": "已經存在使用此名稱的隊伍",
+    "new_value": "已存在使用該名稱的隊伍",
     "en_us": "A team already exists by that name"
   },
   {
@@ -3979,7 +3979,7 @@
     "old_key": "multiplayer.disconnect.banned_ip.reason",
     "old_value": "你嘅 IP 地址已經被依個伺服器封鎖。\n原因：%s",
     "new_key": "multiplayer.disconnect.banned_ip.reason",
-    "new_value": "你的 IP 地址已經被此伺服器封鎖。\n原因：%s",
+    "new_value": "你的 IP 地址已被此伺服器封鎖。\n原因：%s",
     "en_us": "Your IP address is banned from this server.\nReason: %s"
   },
   {
@@ -4375,6 +4375,13 @@
     "en_us": "This world was last played in version %s and loading it in this version could cause corruption!"
   },
   {
+    "old_key": "slot.unknown",
+    "old_value": "未知欄位 '%s'",
+    "new_key": "slot.unknown",
+    "new_value": "未知欄位「%s」",
+    "en_us": "Unknown slot '%s'"
+  },
+  {
     "old_key": "spectatorMenu.root.prompt",
     "old_value": "按下任意鍵來選擇命令，再按一次依個鍵來使用",
     "new_key": "spectatorMenu.root.prompt",
@@ -4452,17 +4459,24 @@
     "en_us": "Times Slept in a Bed"
   },
   {
+    "old_key": "structure_block.invalid_structure_name",
+    "old_value": "無效結構名稱 '%s'",
+    "new_key": "structure_block.invalid_structure_name",
+    "new_value": "無效結構名稱「%s」",
+    "en_us": "Invalid structure name '%s'"
+  },
+  {
     "old_key": "structure_block.load_not_found",
     "old_value": "並無名為 '%s' 嘅結構",
     "new_key": "structure_block.load_not_found",
-    "new_value": "並無名為 '%s' 的結構",
+    "new_value": "並無名為「%s」的結構",
     "en_us": "Structure '%s' is not available"
   },
   {
     "old_key": "structure_block.load_prepare",
     "old_value": "結構 '%s' 嘅位置已準備就緒",
     "new_key": "structure_block.load_prepare",
-    "new_value": "結構 '%s' 的位置已準備就緒",
+    "new_value": "結構「%s」的位置已準備就緒",
     "en_us": "Structure '%s' position prepared"
   },
   {
@@ -4473,10 +4487,17 @@
     "en_us": "Structure loaded from '%s'"
   },
   {
+    "old_key": "structure_block.save_failure",
+    "old_value": "無法儲存結構 '%s'",
+    "new_key": "structure_block.save_failure",
+    "new_value": "無法儲存結構「%s」",
+    "en_us": "Unable to save structure '%s'"
+  },
+  {
     "old_key": "structure_block.save_success",
     "old_value": "已經將結構儲存為 '%s'",
     "new_key": "structure_block.save_success",
-    "new_value": "已將結構儲存為 '%s'",
+    "new_value": "已將結構儲存為「%s」",
     "en_us": "Structure saved as '%s'"
   },
   {
@@ -4490,7 +4511,7 @@
     "old_key": "structure_block.size_success",
     "old_value": "已經成功檢測 '%s' 嘅大小",
     "new_key": "structure_block.size_success",
-    "new_value": "已經成功檢測 '%s' 的大小",
+    "new_value": "已經成功檢測「%s」的大小",
     "en_us": "Size successfully detected for '%s'"
   },
   {
@@ -5444,6 +5465,13 @@
     "new_key": "subtitles.item.trident.throw",
     "new_value": "三叉戟被投擲",
     "en_us": "Trident clangs"
+  },
+  {
+    "old_key": "team.notFound",
+    "old_value": "未知隊伍 '%s'",
+    "new_key": "team.notFound",
+    "new_value": "未知隊伍「%s」",
+    "en_us": "Unknown team '%s'"
   },
   {
     "old_key": "translation.test.complex",

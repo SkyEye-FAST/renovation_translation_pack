@@ -363,7 +363,7 @@
   "selectWorld.deleteWarning": "“%s”将会永久消失！（真的很久！）",
   "selectWorld.futureworld.error.text": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
   "selectWorld.gameMode.adventure.line1": "与生存模式相同，但无法",
-  "selectWorld.gameMode.adventure.line2": "放置或者移除方块",
+  "selectWorld.gameMode.adventure.line2": "放置或破坏方块",
   "selectWorld.mapFeatures": "生成结构",
   "selectWorld.mapFeatures.info": "村庄、沉船等",
   "selectWorld.mapType": "世界类型",

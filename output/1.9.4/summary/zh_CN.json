@@ -1543,7 +1543,7 @@
     "old_key": "selectWorld.gameMode.adventure.line2",
     "old_value": "不能被添加或者移除",
     "new_key": "selectWorld.gameMode.adventure.line2",
-    "new_value": "放置或者移除方块",
+    "new_value": "放置或破坏方块",
     "en_us": "be added or removed"
   },
   {

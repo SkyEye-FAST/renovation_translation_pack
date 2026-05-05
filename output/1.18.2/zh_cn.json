@@ -248,7 +248,7 @@
   "selectWorld.backupWarning.snapshot": "此世界上次打开于%s版本，而你正在使用%s版本。请先创建备份以防世界损坏。",
   "selectWorld.futureworld.error.text": "试图加载来自未来版本的世界时发生错误。这本就并非万无一失，很抱歉没能成功。",
   "selectWorld.gameMode.adventure.line1": "与生存模式相同，但无法",
-  "selectWorld.gameMode.adventure.line2": "放置或者移除方块",
+  "selectWorld.gameMode.adventure.line2": "放置或破坏方块",
   "selectWorld.locked": "被另一个正在运行的Minecraft实例锁定。",
   "selectWorld.mapFeatures": "生成结构",
   "selectWorld.mapFeatures.info": "村庄、沉船等",

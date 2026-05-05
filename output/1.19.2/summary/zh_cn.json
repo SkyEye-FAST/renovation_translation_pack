@@ -1211,6 +1211,13 @@
     "en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work."
   },
   {
+    "old_key": "selectWorld.gameMode.adventure.line2",
+    "old_value": "放置或者移除方块",
+    "new_key": "selectWorld.gameMode.adventure.line2",
+    "new_value": "放置或破坏方块",
+    "en_us": "be added or removed"
+  },
+  {
     "old_key": "selectWorld.mapFeatures",
     "old_value": "生成建筑",
     "new_key": "selectWorld.mapFeatures",

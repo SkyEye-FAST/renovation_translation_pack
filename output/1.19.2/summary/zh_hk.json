@@ -3202,7 +3202,7 @@
     "old_key": "commands.locate.poi.success",
     "old_value": "最近嘅 %s 位於 %s（%s 個方塊遠）",
     "new_key": "commands.locate.poi.success",
-    "new_value": "最近的 %s 位於 %s（%s 個方塊遠）",
+    "new_value": "最近的 %s 位於 %s（%s 個方塊外）",
     "en_us": "The nearest %s is at %s (%s blocks away)"
   },
   {
@@ -3223,7 +3223,7 @@
     "old_key": "commands.locate.structure.success",
     "old_value": "最近嘅 %s 位於 %s（%s 個方塊遠）",
     "new_key": "commands.locate.structure.success",
-    "new_value": "最近的 %s 位於 %s（%s 個方塊遠）",
+    "new_value": "最近的 %s 位於 %s（%s 個方塊外）",
     "en_us": "The nearest %s is at %s (%s blocks away)"
   },
   {
@@ -3636,7 +3636,7 @@
     "old_key": "commands.team.add.duplicate",
     "old_value": "已經存在使用此名稱嘅隊伍",
     "new_key": "commands.team.add.duplicate",
-    "new_value": "已經存在使用此名稱的隊伍",
+    "new_value": "已存在使用該名稱的隊伍",
     "en_us": "A team already exists by that name"
   },
   {
@@ -5064,7 +5064,7 @@
     "old_key": "gui.socialInteractions.tooltip.report.no_messages",
     "old_value": "玩家 %s 不存在可以舉報嘅訊息",
     "new_key": "gui.socialInteractions.tooltip.report.no_messages",
-    "new_value": "玩家 %s 不存在可以舉報的訊息",
+    "new_value": "玩家 %s 不存在可舉報的訊息",
     "en_us": "No reportable messages from player %s"
   },
   {
@@ -5785,7 +5785,7 @@
     "old_key": "multiplayer.disconnect.banned_ip.reason",
     "old_value": "你嘅 IP 地址已經被依個伺服器封鎖。\n原因：%s",
     "new_key": "multiplayer.disconnect.banned_ip.reason",
-    "new_value": "你的 IP 地址已經被此伺服器封鎖。\n原因：%s",
+    "new_value": "你的 IP 地址已被此伺服器封鎖。\n原因：%s",
     "en_us": "Your IP address is banned from this server.\nReason: %s"
   },
   {
@@ -6004,6 +6004,20 @@
     "new_key": "multiplayerWarning.message",
     "new_value": "警吿：線上遊戲由第三方伺服器提供，這些伺服器並非由 Mojang Studios 或 Microsoft 擁有、營運及監管。遊玩線上遊戲時，你可能會見到未經審核的聊天訊息或其他類型的用户創造內容，這些內容未必適合所有人。",
     "en_us": "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone."
+  },
+  {
+    "old_key": "narration.cycle_button.usage.focused",
+    "old_value": "按 Enter 鍵以切換到 %s",
+    "new_key": "narration.cycle_button.usage.focused",
+    "new_value": "按 Enter 鍵切換至 %s",
+    "en_us": "Press Enter to switch to %s"
+  },
+  {
+    "old_key": "narration.cycle_button.usage.hovered",
+    "old_value": "按左鍵以切換到 %s",
+    "new_key": "narration.cycle_button.usage.hovered",
+    "new_value": "按左鍵切換至 %s",
+    "en_us": "Left click to switch to %s"
   },
   {
     "old_key": "narration.recipe",
@@ -6580,6 +6594,13 @@
     "en_us": "Sleeping through this night"
   },
   {
+    "old_key": "slot.unknown",
+    "old_value": "未知欄位 '%s'",
+    "new_key": "slot.unknown",
+    "new_value": "未知欄位「%s」",
+    "en_us": "Unknown slot '%s'"
+  },
+  {
     "old_key": "spectatorMenu.root.prompt",
     "old_value": "按下任意鍵來選擇命令，再按一次依個鍵來使用",
     "new_key": "spectatorMenu.root.prompt",
@@ -6671,17 +6692,24 @@
     "en_us": "Time Since Last Rest"
   },
   {
+    "old_key": "structure_block.invalid_structure_name",
+    "old_value": "無效結構名稱 '%s'",
+    "new_key": "structure_block.invalid_structure_name",
+    "new_value": "無效結構名稱「%s」",
+    "en_us": "Invalid structure name '%s'"
+  },
+  {
     "old_key": "structure_block.load_not_found",
     "old_value": "並無名為 '%s' 嘅結構",
     "new_key": "structure_block.load_not_found",
-    "new_value": "並無名為 '%s' 的結構",
+    "new_value": "並無名為「%s」的結構",
     "en_us": "Structure '%s' is not available"
   },
   {
     "old_key": "structure_block.load_prepare",
     "old_value": "結構 '%s' 嘅位置已準備就緒",
     "new_key": "structure_block.load_prepare",
-    "new_value": "結構 '%s' 的位置已準備就緒",
+    "new_value": "結構「%s」的位置已準備就緒",
     "en_us": "Structure '%s' position prepared"
   },
   {
@@ -6692,10 +6720,17 @@
     "en_us": "Structure loaded from '%s'"
   },
   {
+    "old_key": "structure_block.save_failure",
+    "old_value": "無法儲存結構 '%s'",
+    "new_key": "structure_block.save_failure",
+    "new_value": "無法儲存結構「%s」",
+    "en_us": "Unable to save structure '%s'"
+  },
+  {
     "old_key": "structure_block.save_success",
     "old_value": "已經將結構儲存為 '%s'",
     "new_key": "structure_block.save_success",
-    "new_value": "已將結構儲存為 '%s'",
+    "new_value": "已將結構儲存為「%s」",
     "en_us": "Structure saved as '%s'"
   },
   {
@@ -6709,7 +6744,7 @@
     "old_key": "structure_block.size_success",
     "old_value": "已經成功檢測 '%s' 嘅大小",
     "new_key": "structure_block.size_success",
-    "new_value": "已經成功檢測 '%s' 的大小",
+    "new_value": "已經成功檢測「%s」的大小",
     "en_us": "Size successfully detected for '%s'"
   },
   {
@@ -7915,6 +7950,13 @@
     "new_key": "subtitles.item.trident.throw",
     "new_value": "三叉戟被投擲",
     "en_us": "Trident clangs"
+  },
+  {
+    "old_key": "team.notFound",
+    "old_value": "未知隊伍 '%s'",
+    "new_key": "team.notFound",
+    "new_value": "未知隊伍「%s」",
+    "en_us": "Unknown team '%s'"
   },
   {
     "old_key": "title.32bit.deprecation.realms",
