@@ -275,7 +275,7 @@
   "commands.team.list.members.success": "隊伍 %s 有 %s 個成員： %s",
   "commands.team.list.teams.success": "共有 %s 個隊伍： %s",
   "commands.team.option.deathMessageVisibility.success": "隊伍 %s 現在的死亡訊息可見度為「%s」",
-  "commands.team.option.nametagVisibility.success": "隊伍 %s 現在的名稱可見度為「%s」",
+  "commands.team.option.nametagVisibility.success": "隊伍 %s 現在的名牌可見度為「%s」",
   "commands.trigger.add.success": "已觸發 %s（將數值增加 %s）",
   "commands.trigger.failed.invalid": "你只能觸發 'trigger' 類型的目標",
   "commands.trigger.set.success": "已觸發 %s（將數值設為 %s）",

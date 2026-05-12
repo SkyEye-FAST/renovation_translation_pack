@@ -8855,13 +8855,6 @@
     "en_us": "Scroll Sensitivity"
   },
   {
-    "old_key": "options.multiplayer.title",
-    "old_value": "眾戲置設...",
-    "new_key": "options.multiplayer.title",
-    "new_value": "眾戲置設⋯",
-    "en_us": "Multiplayer Settings..."
-  },
-  {
     "old_key": "options.on",
     "old_value": "开",
     "new_key": "options.on",

@@ -968,6 +968,14 @@
     "new_en_us": "Right Pant Leg"
   },
   {
+    "old_key": "options.multiplayer.title",
+    "old_value": "衆戲置設...",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "眾戲置設⋯",
+    "new_en_us": "Multiplayer Options..."
+  },
+  {
     "old_key": "options.realmsNotifications",
     "old_value": "領域之告",
     "old_en_us": "Realms Notifications",

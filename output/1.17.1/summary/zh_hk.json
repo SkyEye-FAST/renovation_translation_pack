@@ -4189,7 +4189,7 @@
     "old_key": "demo.day.warning",
     "old_value": "你嘅試玩時間即將結束",
     "new_key": "demo.day.warning",
-    "new_value": "你的試玩時間即將結束",
+    "new_value": "你的試玩時間即將結束！",
     "en_us": "Your time is almost up!"
   },
   {

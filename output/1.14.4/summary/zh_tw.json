@@ -1907,7 +1907,7 @@
     "old_key": "commands.team.option.nametagVisibility.success",
     "old_value": "隊伍 %s 現在的名稱可見度為 \"%s\"",
     "new_key": "commands.team.option.nametagVisibility.success",
-    "new_value": "隊伍 %s 現在的名稱可見度為「%s」",
+    "new_value": "隊伍 %s 現在的名牌可見度為「%s」",
     "en_us": "Nametag visibility for team %s is now \"%s\""
   },
   {

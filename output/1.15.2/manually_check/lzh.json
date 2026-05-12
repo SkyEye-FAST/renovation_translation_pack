@@ -1248,6 +1248,14 @@
     "new_en_us": "Right Pant Leg"
   },
   {
+    "old_key": "options.multiplayer.title",
+    "old_value": "眾戲置設...",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "眾戲置設⋯",
+    "new_en_us": "Multiplayer Options..."
+  },
+  {
     "old_key": "options.narrator.all",
     "old_value": "盡述也",
     "old_en_us": "Narrates all",
