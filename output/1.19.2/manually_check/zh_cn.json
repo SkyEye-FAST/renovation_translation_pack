@@ -596,7 +596,7 @@
     "old_value": "按下上键或下键以移动到另一项",
     "old_en_us": "Press up and down buttons to move to another entry",
     "new_key": "narration.selection.usage",
-    "new_value": "按下上键或下键移动到另一项",
+    "new_value": "请按上下方向键移动到另一项",
     "new_en_us": "Press the up and down buttons to move to another entry"
   },
   {
@@ -670,6 +670,14 @@
     "new_key": "options.hideLightningFlashes.tooltip",
     "new_value": "防止闪电束或其他环境效果使天空闪烁。闪烁源本身仍将可见。",
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
+  },
+  {
+    "old_key": "options.multiplayer.title",
+    "old_value": "多人游戏设置…",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "多人游戏选项…",
+    "new_en_us": "Multiplayer Options..."
   },
   {
     "old_key": "options.realmsNotifications",

@@ -4088,6 +4088,13 @@
     "en_us": "... and %s more ..."
   },
   {
+    "old_key": "multiplayer.status.cannot_connect",
+    "old_value": "無法連線到伺服器",
+    "new_key": "multiplayer.status.cannot_connect",
+    "new_value": "無法連接伺服器",
+    "en_us": "Can't connect to server"
+  },
+  {
     "old_key": "multiplayer.status.unrequested",
     "old_value": "接收到未請求嘅資訊",
     "new_key": "multiplayer.status.unrequested",

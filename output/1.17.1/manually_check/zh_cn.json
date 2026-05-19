@@ -532,7 +532,7 @@
     "old_value": "按下上键或下键以移动到另一项",
     "old_en_us": "Press up and down buttons to move to another entry",
     "new_key": "narration.selection.usage",
-    "new_value": "按下上键或下键移动到另一项",
+    "new_value": "请按上下方向键移动到另一项",
     "new_en_us": "Press the up and down buttons to move to another entry"
   },
   {
@@ -590,6 +590,14 @@
     "new_key": "options.fovEffectScale.tooltip",
     "new_value": "控制游戏机制效果改变视场角的程度。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.multiplayer.title",
+    "old_value": "多人游戏设置…",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "多人游戏选项…",
+    "new_en_us": "Multiplayer Options..."
   },
   {
     "old_key": "options.realmsNotifications",
