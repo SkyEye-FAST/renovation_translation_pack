@@ -115,7 +115,7 @@
     "old_key": "advancements.husbandry.balanced_diet.description",
     "old_value": "食勻食得嘅嘢，就算佢哋對你嘅身體有害",
     "new_key": "advancements.husbandry.balanced_diet.description",
-    "new_value": "吃遍所有可以吃的東西，就算它們對你的身體有害",
+    "new_value": "進食所有可供食用的物品，即使其對身體有害",
     "en_us": "Eat everything that is edible, even if it's not good for you"
   },
   {
@@ -2212,10 +2212,17 @@
     "en_us": "Played sound %s to %s"
   },
   {
+    "old_key": "commands.publish.failed",
+    "old_value": "無法將遊戲公開至 LAN",
+    "new_key": "commands.publish.failed",
+    "new_value": "無法開放本地遊戲",
+    "en_us": "Unable to host local game"
+  },
+  {
     "old_key": "commands.publish.started",
     "old_value": "已於 %s 連接埠上開放本機遊戲",
     "new_key": "commands.publish.started",
-    "new_value": "已於 %s 連接埠上開放本地遊戲",
+    "new_value": "已於連接埠 %s 上開放本地遊戲",
     "en_us": "Local game hosted on port %s"
   },
   {
@@ -2929,7 +2936,7 @@
     "old_key": "death.attack.hotFloor",
     "old_value": "%1$s 發覺地板係熔岩鋪嘅",
     "new_key": "death.attack.hotFloor",
-    "new_value": "%1$s 發現地板是熔巖",
+    "new_value": "%1$s 發覺地面是熔巖",
     "en_us": "%1$s discovered the floor was lava"
   },
   {

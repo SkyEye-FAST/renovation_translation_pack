@@ -136,7 +136,7 @@
     "old_key": "advancements.husbandry.balanced_diet.description",
     "old_value": "食勻食得嘅嘢，就算佢哋對你嘅身體有害",
     "new_key": "advancements.husbandry.balanced_diet.description",
-    "new_value": "吃遍所有可以吃的東西，就算它們對你的身體有害",
+    "new_value": "進食所有可供食用的物品，即使其對身體有害",
     "en_us": "Eat everything that is edible, even if it's not good for you"
   },
   {
@@ -3031,10 +3031,17 @@
     "en_us": "Played sound %s to %s"
   },
   {
+    "old_key": "commands.publish.failed",
+    "old_value": "無法將遊戲公開至 LAN",
+    "new_key": "commands.publish.failed",
+    "new_value": "無法開放本地遊戲",
+    "en_us": "Unable to host local game"
+  },
+  {
     "old_key": "commands.publish.started",
     "old_value": "已於 %s 連接埠上開放本機遊戲",
     "new_key": "commands.publish.started",
-    "new_value": "已於 %s 連接埠上開放本地遊戲",
+    "new_value": "已於連接埠 %s 上開放本地遊戲",
     "en_us": "Local game hosted on port %s"
   },
   {
@@ -3867,7 +3874,7 @@
     "old_key": "death.attack.hotFloor",
     "old_value": "%1$s 發覺地板係熔岩鋪嘅",
     "new_key": "death.attack.hotFloor",
-    "new_value": "%1$s 發現地板是熔巖",
+    "new_value": "%1$s 發覺地面是熔巖",
     "en_us": "%1$s discovered the floor was lava"
   },
   {
@@ -5589,14 +5596,14 @@
     "old_key": "options.graphics.fabulous.tooltip",
     "old_value": "「%s」畫質用影像着色器嚟描繪天氣、雲層，同埋水後面、透明方塊嘅粒子。\n不過，配搭流動裝置或者 4K 設備嗰陣有機會嚴重影響效能。",
     "new_key": "options.graphics.fabulous.tooltip",
-    "new_value": "%s 畫質用影像着色器在不透明方塊與水後方繪製天氣、雲層及粒子。\n此選項或會嚴重影響流動裝置及 4K 設備的效能。",
+    "new_value": "%s 畫質用影像着色器在不透明方塊與水後方繪製天氣、雲層及粒子。\n此選項或會嚴重影響流動及 4K 裝置的效能。",
     "en_us": "%s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and water.\nThis may severely impact performance for portable devices and 4K displays."
   },
   {
     "old_key": "options.graphics.fancy.tooltip",
     "old_value": "「細緻」畫質平衡咗多數電腦嘅遊戲效能同畫面品質。\n天氣、雲層同埋粒子可能唔會喺透明方塊同水嘅後面顯示。",
     "new_key": "options.graphics.fancy.tooltip",
-    "new_value": "「細緻」畫質平衡了多數電腦的遊戲效能與畫面品質。\n天氣、雲層同埋粒子可能不會在透明方塊與水的後面顯示。",
+    "new_value": "「細緻」畫質會平衡多數裝置的遊戲效能與畫面品質。\n天氣、雲層及粒子可能不會於透明方塊與水的後方顯示。",
     "en_us": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water."
   },
   {
@@ -5820,7 +5827,7 @@
     "old_key": "selectWorld.backupQuestion.experimental",
     "old_value": "不支援使用實驗性質設定嘅世界",
     "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援使用實驗性質設定的世界",
+    "new_value": "不支援啟用實驗性設定的世界",
     "en_us": "Worlds using Experimental Settings are not supported"
   },
   {
