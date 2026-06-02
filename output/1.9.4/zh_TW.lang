@@ -407,6 +407,7 @@ options.graphics.fancy=精緻
 options.graphics.fast=流暢
 options.languageWarning=語言翻譯並不一定是100%%精確
 options.mipmapLevels=Mipmap 等級
+options.multiplayer.title=多人遊戲選項...
 options.particles.all=全部
 options.realmsNotifications=Realms 新聞及邀請
 options.renderClouds=雲

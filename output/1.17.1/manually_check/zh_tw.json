@@ -568,6 +568,14 @@
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
   },
   {
+    "old_key": "options.multiplayer.title",
+    "old_value": "多人遊戲設定...",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "多人遊戲選項...",
+    "new_en_us": "Multiplayer Options..."
+  },
+  {
     "old_key": "options.realmsNotifications",
     "old_value": "Realms 通知",
     "old_en_us": "Realms Notifications",

@@ -527,6 +527,7 @@
   "options.chat.title": "聊天設定",
   "options.chunks": "%s 個區塊",
   "options.mipmapLevels": "Mipmap 等級",
+  "options.multiplayer.title": "多人遊戲選項...",
   "options.narrator.notavailable": "無法使用",
   "options.realmsNotifications": "Realms 新聞及邀請",
   "options.showSubtitles": "隱藏式字幕",

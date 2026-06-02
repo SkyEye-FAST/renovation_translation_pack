@@ -448,6 +448,7 @@ options.chat.visibility.full=顯示
 options.fov=視角廣度
 options.graphics.fancy=精緻
 options.graphics.fast=流暢
+options.multiplayer.title=多人遊戲選項...
 options.particles.all=全部
 options.realmsNotifications=Realms 新聞及邀請
 options.renderClouds=雲
