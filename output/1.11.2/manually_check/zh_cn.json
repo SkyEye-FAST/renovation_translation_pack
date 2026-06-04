@@ -357,7 +357,7 @@
     "old_en_us": "Multiplayer Settings...",
     "new_key": "options.multiplayer.title",
     "new_value": "多人游戏选项…",
-    "new_en_us": "Multiplayer Options..."
+    "new_en_us": "Open to LAN"
   },
   {
     "old_key": "options.realmsNotifications",
