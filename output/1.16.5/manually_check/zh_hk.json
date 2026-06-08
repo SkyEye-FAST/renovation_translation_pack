@@ -1012,7 +1012,7 @@
     "old_value": "多人遊戲設定⋯⋯",
     "old_en_us": "Multiplayer Settings...",
     "new_key": "options.multiplayer.title",
-    "new_value": "多人遊戲選項⋯⋯",
+    "new_value": "開放至 LAN⋯⋯",
     "new_en_us": "Open to LAN"
   },
   {

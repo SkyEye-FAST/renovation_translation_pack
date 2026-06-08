@@ -1026,7 +1026,7 @@
   "options.hideLightningFlashes": "隱藏天空閃爍效果",
   "options.hideLightningFlashes.tooltip": "使閃電電流或其他環境效果不會導致天空閃爍。閃爍源本身仍然可見。",
   "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",
-  "options.multiplayer.title": "多人遊戲選項⋯⋯",
+  "options.multiplayer.title": "開放至 LAN⋯⋯",
   "options.onlyShowSecureChat": "僅顯示安全的聊天",
   "options.onlyShowSecureChat.tooltip": "僅顯示來自其他玩家並可驗證為該玩家發出且未被修改的訊息。",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "部分操作會即時將所處區塊重新編譯，包括放置與破壞方塊。",

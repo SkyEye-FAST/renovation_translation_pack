@@ -804,7 +804,7 @@
   "options.graphics.warning.message": "檢測到圖像設備不支援 %s 顯示卡選項。\n\n你可選擇忽略，惟當選擇 %s 畫質時，你的顯示卡將不受支援。",
   "options.graphics.warning.title": "顯示卡不受支援",
   "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",
-  "options.multiplayer.title": "多人遊戲選項⋯⋯",
+  "options.multiplayer.title": "開放至 LAN⋯⋯",
   "options.realmsNotifications": "Realms 新聞及邀請",
   "options.renderDistance": "渲染距離",
   "options.screenEffectScale.tooltip": "嘔心效果與地獄傳送門畫面扭曲效果的強度。\n數值較低時，嘔心效果將被替換為一層綠色視覺效果。",

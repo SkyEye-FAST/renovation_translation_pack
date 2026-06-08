@@ -808,14 +808,6 @@
     "new_en_us": "Chat Settings"
   },
   {
-    "old_key": "options.multiplayer.title",
-    "old_value": "多人游戏设置…",
-    "old_en_us": "Multiplayer Settings...",
-    "new_key": "options.multiplayer.title",
-    "new_value": "多人游戏选项…",
-    "new_en_us": "Open to LAN"
-  },
-  {
     "old_key": "options.narrator.chat",
     "old_value": "复述聊天信息",
     "old_en_us": "Narrates chat",
