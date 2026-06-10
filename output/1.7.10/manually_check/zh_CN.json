@@ -448,6 +448,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.multiplayer.title",
+    "old_value": "多人游戏设置…",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "对局域网开放",
+    "new_en_us": "Open to LAN"
+  },
+  {
     "old_key": "options.vsync",
     "old_value": "使用垂直同步",
     "old_en_us": "Use VSync",

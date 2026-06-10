@@ -672,6 +672,14 @@
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
+    "old_key": "options.multiplayer.title",
+    "old_value": "多人游戏设置…",
+    "old_en_us": "Multiplayer Settings...",
+    "new_key": "options.multiplayer.title",
+    "new_value": "对局域网开放",
+    "new_en_us": "Open to LAN"
+  },
+  {
     "old_key": "options.realmsNotifications",
     "old_value": "Realms的通知",
     "old_en_us": "Realms Notifications",

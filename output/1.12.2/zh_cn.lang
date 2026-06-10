@@ -169,6 +169,7 @@ options.controls=按键控制…
 options.fov=视场角
 options.mipmapLevels=Mipmap级别
 options.modelPart.jacket=外套
+options.multiplayer.title=对局域网开放
 options.narrator.chat=复述聊天消息
 options.narrator.off=关
 options.particles=粒子效果

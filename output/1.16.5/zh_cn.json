@@ -278,6 +278,7 @@
   "options.graphics.fast.tooltip": "流畅画质将减少雨雪的可见数量。\n树叶等方块的透明效果将被禁用。",
   "options.mipmapLevels": "Mipmap级别",
   "options.modelPart.jacket": "外套",
+  "options.multiplayer.title": "对局域网开放",
   "options.off.composed": "%s：关",
   "options.on.composed": "%s：开",
   "options.realmsNotifications": "Realms新闻与邀请",
