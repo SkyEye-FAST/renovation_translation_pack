@@ -4119,7 +4119,7 @@
     "old_key": "disconnect.loginFailedInfo.insufficientPrivileges",
     "old_value": "衆戲莫允。但請察汝微軟帳戶之設。",
     "new_key": "disconnect.loginFailedInfo.insufficientPrivileges",
-    "new_value": "眾戲莫允。但請察汝微軟帳戶之設。",
+    "new_value": "眾戲莫允。請察汝微軟戶之置設。",
     "en_us": "Multiplayer is disabled. Please check your Microsoft account settings."
   },
   {
@@ -4506,6 +4506,13 @@
     "new_key": "gui.recipebook.search_hint",
     "new_value": "尋⋯",
     "en_us": "Search..."
+  },
+  {
+    "old_key": "gui.socialInteractions.blocking_hint",
+    "old_value": "司之於微軟簿戶",
+    "new_key": "gui.socialInteractions.blocking_hint",
+    "new_value": "司之於微軟戶",
+    "en_us": "Manage with Microsoft account"
   },
   {
     "old_key": "gui.socialInteractions.empty_blocked",
@@ -6933,7 +6940,7 @@
     "old_key": "title.multiplayer.disabled",
     "old_value": "衆戲未允。請察汝之微軟帳戶置設。",
     "new_key": "title.multiplayer.disabled",
-    "new_value": "眾戲未允。請察汝之微軟帳戶置設。",
+    "new_value": "眾戲莫允。請察汝微軟戶之置設。",
     "en_us": "Multiplayer is disabled. Please check your Microsoft account settings."
   },
   {
