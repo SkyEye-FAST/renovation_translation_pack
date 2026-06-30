@@ -1134,6 +1134,13 @@
     "en_us": "%s on block %s, %s, %s after scale factor of %s is %s"
   },
   {
+    "old_key": "commands.data.block.modified",
+    "old_value": "已修改%s, %s, %s处的方块数据",
+    "new_key": "commands.data.block.modified",
+    "new_value": "已修改位于%s, %s, %s的方块数据",
+    "en_us": "Modified block data of %s, %s, %s"
+  },
+  {
     "old_key": "commands.datapack.disable.failed",
     "old_value": "数据包'%s'并未启用！",
     "new_key": "commands.datapack.disable.failed",

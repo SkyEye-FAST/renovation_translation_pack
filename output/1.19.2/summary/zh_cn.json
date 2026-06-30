@@ -672,11 +672,39 @@
     "en_us": "Custom bossbar %s has changed style"
   },
   {
+    "old_key": "commands.data.block.modified",
+    "old_value": "已修改%s, %s, %s处的方块数据",
+    "new_key": "commands.data.block.modified",
+    "new_value": "已修改位于%s, %s, %s的方块数据",
+    "en_us": "Modified block data of %s, %s, %s"
+  },
+  {
     "old_key": "commands.experience.query.points",
     "old_value": "%s拥有%s点经验值",
     "new_key": "commands.experience.query.points",
     "new_value": "%s拥有%s点经验",
     "en_us": "%s has %s experience points"
+  },
+  {
+    "old_key": "commands.item.block.set.success",
+    "old_value": "已用%4$s替换了位于%1$s, %2$s, %3$s的槽位",
+    "new_key": "commands.item.block.set.success",
+    "new_value": "已用%4$s替换位于%1$s, %2$s, %3$s的槽位",
+    "en_us": "Replaced a slot at %s, %s, %s with %s"
+  },
+  {
+    "old_key": "commands.item.entity.set.success.multiple",
+    "old_value": "已用%2$s替换了%1$s个实体的槽位",
+    "new_key": "commands.item.entity.set.success.multiple",
+    "new_value": "已用%2$s替换%1$s个实体的槽位",
+    "en_us": "Replaced a slot on %s entities with %s"
+  },
+  {
+    "old_key": "commands.item.entity.set.success.single",
+    "old_value": "已用%2$s替换了%1$s的槽位",
+    "new_key": "commands.item.entity.set.success.single",
+    "new_value": "已用%2$s替换%1$s的槽位",
+    "en_us": "Replaced a slot on %s with %s"
   },
   {
     "old_key": "commands.item.target.no_changed.known_item",

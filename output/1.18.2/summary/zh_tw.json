@@ -1491,11 +1491,32 @@
     "en_us": "There are %s of a max of %s players online: %s"
   },
   {
+    "old_key": "commands.publish.alreadyPublished",
+    "old_value": "主機連接埠 %s 上已經建立了多人遊戲",
+    "new_key": "commands.publish.alreadyPublished",
+    "new_value": "已經在連接埠 %s 上公開多人遊戲",
+    "en_us": "Multiplayer game is already hosted on port %s"
+  },
+  {
+    "old_key": "commands.publish.failed",
+    "old_value": "無法公開遊戲至區域網",
+    "new_key": "commands.publish.failed",
+    "new_value": "無法將遊戲公開至區域網路",
+    "en_us": "Unable to host local game"
+  },
+  {
     "old_key": "commands.publish.started",
     "old_value": "已在 %s 連接埠上發佈本機遊戲",
     "new_key": "commands.publish.started",
-    "new_value": "已在 %s 連接埠上發布本機遊戲",
+    "new_value": "已將本機遊戲公開於 %s 連接埠",
     "en_us": "Local game hosted on port %s"
+  },
+  {
+    "old_key": "commands.publish.success",
+    "old_value": "多人遊戲已建立於主機連接埠 %s",
+    "new_key": "commands.publish.success",
+    "new_value": "多人遊戲已公開於主機連接埠 %s",
+    "en_us": "Multiplayer game is now hosted on port %s"
   },
   {
     "old_key": "commands.save.saving",

@@ -1701,6 +1701,20 @@
     "en_us": "Magma Block"
   },
   {
+    "old_key": "block.minecraft.mangrove_leaves",
+    "old_value": "紅樹樹葉",
+    "new_key": "block.minecraft.mangrove_leaves",
+    "new_value": "紅樹木樹葉",
+    "en_us": "Mangrove Leaves"
+  },
+  {
+    "old_key": "block.minecraft.mangrove_log",
+    "old_value": "紅樹原木",
+    "new_key": "block.minecraft.mangrove_log",
+    "new_value": "紅樹木原木",
+    "en_us": "Mangrove Log"
+  },
+  {
     "old_key": "block.minecraft.mangrove_wall_sign",
     "old_value": "牆上嘅紅木指示牌",
     "new_key": "block.minecraft.mangrove_wall_sign",
@@ -1904,6 +1918,13 @@
     "en_us": "Polished Granite Stairs"
   },
   {
+    "old_key": "block.minecraft.poppy",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "虞美人",
+    "en_us": "Poppy"
+  },
+  {
     "old_key": "block.minecraft.potted_azure_bluet",
     "old_value": "雛草盆栽",
     "new_key": "block.minecraft.potted_azure_bluet",
@@ -1916,6 +1937,13 @@
     "new_key": "block.minecraft.potted_flowering_azalea_bush",
     "new_value": "盛開的杜鵑叢盆栽",
     "en_us": "Potted Flowering Azalea"
+  },
+  {
+    "old_key": "block.minecraft.potted_poppy",
+    "old_value": "罌粟盆栽",
+    "new_key": "block.minecraft.potted_poppy",
+    "new_value": "虞美人盆栽",
+    "en_us": "Potted Poppy"
   },
   {
     "old_key": "block.minecraft.powder_snow_cauldron",
@@ -2147,6 +2175,13 @@
     "new_key": "block.minecraft.stripped_crimson_stem",
     "new_value": "剝皮猩紅菌柄",
     "en_us": "Stripped Crimson Stem"
+  },
+  {
+    "old_key": "block.minecraft.stripped_mangrove_log",
+    "old_value": "剝皮紅樹原木",
+    "new_key": "block.minecraft.stripped_mangrove_log",
+    "new_value": "剝皮紅樹木原木",
+    "en_us": "Stripped Mangrove Log"
   },
   {
     "old_key": "block.minecraft.stripped_warped_stem",
@@ -3167,22 +3202,29 @@
     "old_key": "commands.item.target.no_changed.known_item",
     "old_value": "不存在將物品 %s 接受於 %s 欄位嘅目標",
     "new_key": "commands.item.target.no_changed.known_item",
-    "new_value": "並無將物品 %s 接受於 %s 欄位的目標",
+    "new_value": "並無對象於 %2$s 欄位接受物品 %1$s",
     "en_us": "No targets accepted item %s into slot %s"
   },
   {
     "old_key": "commands.item.target.no_changes",
     "old_value": "並無將物品接受於 %s 欄位嘅目標",
     "new_key": "commands.item.target.no_changes",
-    "new_value": "並無將物品接受於 %s 欄位的目標",
+    "new_value": "並無對象於 %s 欄位接受物品",
     "en_us": "No targets accepted item into slot %s"
   },
   {
     "old_key": "commands.item.target.no_such_slot",
     "old_value": "目標不存在 %s 欄位",
     "new_key": "commands.item.target.no_such_slot",
-    "new_value": "目標並無 %s 欄位",
+    "new_value": "對象並無 %s 欄位",
     "en_us": "The target does not have slot %s"
+  },
+  {
+    "old_key": "commands.item.target.not_a_container",
+    "old_value": "目標位置 %s, %s, %s 並非容器",
+    "new_key": "commands.item.target.not_a_container",
+    "new_value": "對象位置 %s, %s, %s 並非容器",
+    "en_us": "Target position %s, %s, %s is not a container"
   },
   {
     "old_key": "commands.jfr.dump.failed",

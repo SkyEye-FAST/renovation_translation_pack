@@ -3325,10 +3325,17 @@
     "en_us": "You whisper to %s: %s"
   },
   {
+    "old_key": "commands.publish.failed",
+    "old_value": "無法公開遊戲至區域網",
+    "new_key": "commands.publish.failed",
+    "new_value": "無法將遊戲公開至區域網路",
+    "en_us": "Unable to host local game"
+  },
+  {
     "old_key": "commands.publish.started",
     "old_value": "已在 %s 網路埠上發佈本機遊戲",
     "new_key": "commands.publish.started",
-    "new_value": "已在 %s 連接埠上發布本機遊戲",
+    "new_value": "已將本機遊戲公開於 %s 連接埠",
     "en_us": "Local game hosted on port %s"
   },
   {

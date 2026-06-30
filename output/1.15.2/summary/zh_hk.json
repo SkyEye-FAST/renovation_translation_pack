@@ -1246,11 +1246,25 @@
     "en_us": "Polished Granite Stairs"
   },
   {
+    "old_key": "block.minecraft.poppy",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "虞美人",
+    "en_us": "Poppy"
+  },
+  {
     "old_key": "block.minecraft.potted_azure_bluet",
     "old_value": "雛草盆栽",
     "new_key": "block.minecraft.potted_azure_bluet",
     "new_value": "藍花美耳草盆栽",
     "en_us": "Potted Azure Bluet"
+  },
+  {
+    "old_key": "block.minecraft.potted_poppy",
+    "old_value": "罌粟盆栽",
+    "new_key": "block.minecraft.potted_poppy",
+    "new_value": "虞美人盆栽",
+    "en_us": "Potted Poppy"
   },
   {
     "old_key": "block.minecraft.pumpkin_stem",
