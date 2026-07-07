@@ -1168,6 +1168,14 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
   },
   {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在嘅文件夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法載入或存取遊戲世界存檔所在的文件夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
+  },
+  {
     "old_key": "selectWorld.locked",
     "old_value": "被另一個開啟嘅 Minecraft 程式鎖定",
     "old_en_us": "Locked by another running instance of Minecraft",

@@ -510,6 +510,7 @@ tile.endPortalFrame.name=終界傳送門框架
 tile.fence.name=橡木柵欄
 tile.fenceGate.name=橡木柵欄門
 tile.fenceIron.name=鐵柵欄
+tile.flower2.poppy.name=罌粟花
 tile.flower2.tulipOrange.name=橙色鬱金香
 tile.ironTrapdoor.name=鐵地板門
 tile.lava.name=熔岩

@@ -53,6 +53,7 @@ death.attack.onFire.player=%1$s在与%2$s战斗时被烤得酥脆
 death.fell.accident.vines=%1$s从藤蔓上摔了下来
 deathScreen.titleScreen=标题屏幕
 debug.creative_spectator.help=F3 + N = 在上一个模式和旁观模式间切换
+debug.pause_focus.off=失去焦点时暂停：禁用
 debug.show_hitboxes.help=F3 + B = 显示判定箱
 debug.show_hitboxes.off=判定箱：隐藏
 debug.show_hitboxes.on=判定箱：显示

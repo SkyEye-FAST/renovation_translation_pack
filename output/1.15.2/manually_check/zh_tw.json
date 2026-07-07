@@ -384,6 +384,22 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "遊戲規則 %s 目前設為： %s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "遊戲規則 %s 目前設為：%s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "遊戲規則 %s 現在已設為： %s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "遊戲規則 %s 現在已設為：%s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.list.players",
     "old_value": "至多 %2$s 個玩家之中的 %1$s 個玩家在線上： %3$s",
     "old_en_us": "There are %s of a max %s players online: %s",

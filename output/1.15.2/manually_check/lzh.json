@@ -496,6 +496,22 @@
     "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "戯規%s今爲：%s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "章則%s今爲：%s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "戯規%s已設爲：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "章則%s即設爲：%s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.list.players",
     "old_value": "%s戯者分之頂%s戯者於線：%s",
     "old_en_us": "There are %s of a max %s players online: %s",
@@ -1016,6 +1032,14 @@
     "new_en_us": "Clay Ball"
   },
   {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "升之时：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "昇之時：",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "item.modifiers.chest",
     "old_value": "於身之時：",
     "old_en_us": "When on body:",
@@ -1398,6 +1422,14 @@
     "new_key": "selectWorld.gameMode.survival.line1",
     "new_value": "獵貨、製物、升品、",
     "new_en_us": "Search for resources, craft, gain"
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "未可讀存世之夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "不可讀存生界之資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.mapFeatures",

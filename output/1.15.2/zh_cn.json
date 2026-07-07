@@ -246,6 +246,7 @@
   "debug.crash.message": "F3 + C已被按下。若不放开按键则会使游戏崩溃。",
   "debug.crash.warning": "将在%s秒后崩溃…",
   "debug.creative_spectator.help": "F3 + N = 在上一个模式和旁观模式间切换",
+  "debug.pause_focus.off": "失去焦点时暂停：禁用",
   "debug.show_hitboxes.help": "F3 + B = 显示判定箱",
   "debug.show_hitboxes.off": "判定箱：隐藏",
   "debug.show_hitboxes.on": "判定箱：显示",

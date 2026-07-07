@@ -2625,13 +2625,6 @@
     "en_us": "You can look but don't touch"
   },
   {
-    "old_key": "selectWorld.load_folder_access",
-    "old_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
-    "new_key": "selectWorld.load_folder_access",
-    "new_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
-    "en_us": "Unable to read or access folder where game worlds are saved!"
-  },
-  {
     "old_key": "selectWorld.recreate",
     "old_value": "重新創造",
     "new_key": "selectWorld.recreate",
@@ -3337,6 +3330,13 @@
     "new_key": "block.minecraft.mossy_cobblestone_wall",
     "new_value": "青苔鵝卵石牆",
     "en_us": "Mossy Cobblestone Wall"
+  },
+  {
+    "old_key": "tile.flower2.poppy.name",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "罌粟花",
+    "en_us": "Poppy"
   },
   {
     "old_key": "tile.ironTrapdoor.name",

@@ -3304,20 +3304,6 @@
     "en_us": "Set %s experience levels on %s"
   },
   {
-    "old_key": "commands.gamerule.query",
-    "old_value": "嬉遊之道%s今爲：%s",
-    "new_key": "commands.gamerule.query",
-    "new_value": "章則%s今爲：%s",
-    "en_us": "Gamerule %s is currently set to: %s"
-  },
-  {
-    "old_key": "commands.gamerule.set",
-    "old_value": "嬉遊之道%s即設爲：%s",
-    "new_key": "commands.gamerule.set",
-    "new_value": "章則%s即設爲：%s",
-    "en_us": "Gamerule %s is now set to: %s"
-  },
-  {
     "old_key": "commands.kick.success",
     "old_value": "既驅%s：%s",
     "new_key": "commands.kick.success",

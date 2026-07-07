@@ -1414,6 +1414,20 @@
     "en_us": "Iron Trapdoor"
   },
   {
+    "old_key": "block.minecraft.poppy",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "罌粟花",
+    "en_us": "Poppy"
+  },
+  {
+    "old_key": "block.minecraft.potted_poppy",
+    "old_value": "罌粟盆栽",
+    "new_key": "block.minecraft.potted_poppy",
+    "new_value": "罌粟花盆栽",
+    "en_us": "Potted Poppy"
+  },
+  {
     "old_key": "block.minecraft.wheat",
     "old_value": "小麥",
     "new_key": "block.minecraft.wheat",

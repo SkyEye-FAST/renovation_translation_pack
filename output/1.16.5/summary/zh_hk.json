@@ -5040,13 +5040,6 @@
     "en_us": "levels, health and hunger"
   },
   {
-    "old_key": "selectWorld.load_folder_access",
-    "old_value": "無法載入或存取遊戲世界存檔所在嘅文件夾！",
-    "new_key": "selectWorld.load_folder_access",
-    "new_value": "無法載入或存取遊戲世界存檔所在的文件夾！",
-    "en_us": "Unable to read or access folder where game worlds are saved!"
-  },
-  {
     "old_key": "selectWorld.newWorld",
     "old_value": "新嘅世界",
     "new_key": "selectWorld.newWorld",

@@ -245,6 +245,13 @@
     "en_us": "%1$s fell off some vines"
   },
   {
+    "old_key": "debug.pause_focus.off",
+    "old_value": "失去焦点时暂停：停用",
+    "new_key": "debug.pause_focus.off",
+    "new_value": "失去焦点时暂停：禁用",
+    "en_us": "Pause on lost focus: disabled"
+  },
+  {
     "old_key": "debug.show_hitboxes.help",
     "old_value": "F3 + B = 显示碰撞体积",
     "new_key": "debug.show_hitboxes.help",

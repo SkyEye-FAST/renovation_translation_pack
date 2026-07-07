@@ -601,6 +601,7 @@ tile.daylightDetector.name=日光感測器
 tile.detectorRail.name=感測鐵軌
 tile.endPortalFrame.name=終界傳送門框架
 tile.fenceGate.name=橡木柵欄門
+tile.flower2.poppy.name=罌粟花
 tile.flower2.tulipOrange.name=橙色鬱金香
 tile.ironTrapdoor.name=鐵地板門
 tile.lava.name=熔岩

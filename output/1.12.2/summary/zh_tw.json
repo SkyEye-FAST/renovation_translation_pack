@@ -2513,6 +2513,13 @@
     "en_us": "Block of Redstone"
   },
   {
+    "old_key": "tile.flower2.poppy.name",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "罌粟花",
+    "en_us": "Poppy"
+  },
+  {
     "old_key": "tile.ironTrapdoor.name",
     "old_value": "鐵製地板門",
     "new_key": "block.minecraft.iron_trapdoor",

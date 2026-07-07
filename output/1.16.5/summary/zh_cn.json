@@ -1092,6 +1092,13 @@
     "en_us": "Crashing in %s..."
   },
   {
+    "old_key": "debug.pause_focus.off",
+    "old_value": "失去焦点时暂停：停用",
+    "new_key": "debug.pause_focus.off",
+    "new_value": "失去焦点时暂停：禁用",
+    "en_us": "Pause on lost focus: disabled"
+  },
+  {
     "old_key": "demo.day.6",
     "old_value": "你已经度过了5天的试玩时间，按下%s来为你的成果截图留念。",
     "new_key": "demo.day.6",

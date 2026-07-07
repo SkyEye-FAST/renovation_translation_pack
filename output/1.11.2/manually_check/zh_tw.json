@@ -808,6 +808,14 @@
     "new_en_us": "Same as Survival Mode, locked at hardest"
   },
   {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
+  },
+  {
     "old_key": "selectWorld.mapFeatures",
     "old_value": "生成結構：",
     "old_en_us": "Generate Structures:",

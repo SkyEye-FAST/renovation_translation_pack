@@ -1512,6 +1512,20 @@
     "en_us": "Iron Trapdoor"
   },
   {
+    "old_key": "block.minecraft.poppy",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "罌粟花",
+    "en_us": "Poppy"
+  },
+  {
+    "old_key": "block.minecraft.potted_poppy",
+    "old_value": "罌粟盆栽",
+    "new_key": "block.minecraft.potted_poppy",
+    "new_value": "罌粟花盆栽",
+    "en_us": "Potted Poppy"
+  },
+  {
     "old_key": "block.minecraft.wheat",
     "old_value": "小麥",
     "new_key": "block.minecraft.wheat",
@@ -1797,20 +1811,6 @@
     "new_key": "commands.forceload.list.single",
     "new_value": "從 %s 中找到一個常駐區塊：%s",
     "en_us": "A force loaded chunk was found in %s at: %s"
-  },
-  {
-    "old_key": "commands.gamerule.query",
-    "old_value": "遊戲規則 %s 目前設為： %s",
-    "new_key": "commands.gamerule.query",
-    "new_value": "遊戲規則 %s 目前設為：%s",
-    "en_us": "Gamerule %s is currently set to: %s"
-  },
-  {
-    "old_key": "commands.gamerule.set",
-    "old_value": "遊戲規則 %s 現在已設為： %s",
-    "new_key": "commands.gamerule.set",
-    "new_value": "遊戲規則 %s 現在已設為：%s",
-    "en_us": "Gamerule %s is now set to: %s"
   },
   {
     "old_key": "commands.kick.success",

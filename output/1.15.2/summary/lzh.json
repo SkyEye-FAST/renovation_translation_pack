@@ -4746,20 +4746,6 @@
     "en_us": "Set own game mode to %s"
   },
   {
-    "old_key": "commands.gamerule.query",
-    "old_value": "戯規%s今爲：%s",
-    "new_key": "commands.gamerule.query",
-    "new_value": "章則%s今爲：%s",
-    "en_us": "Gamerule %s is currently set to: %s"
-  },
-  {
-    "old_key": "commands.gamerule.set",
-    "old_value": "戯規%s已設爲：%s",
-    "new_key": "commands.gamerule.set",
-    "new_value": "章則%s即設爲：%s",
-    "en_us": "Gamerule %s is now set to: %s"
-  },
-  {
     "old_key": "commands.give.success.multiple",
     "old_value": "已予%s %s至%s戲者",
     "new_key": "commands.give.success.multiple",
@@ -7175,13 +7161,6 @@
     "en_us": "Bottle o' Enchanting"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "升之时：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "昇之時：",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.minecraft.firework_star.fade_to",
     "old_value": "淡",
     "new_key": "item.minecraft.firework_star.fade_to",
@@ -9308,13 +9287,6 @@
     "new_key": "selectWorld.gameMode.spectator.line1",
     "new_value": "可觀物而不可觸之",
     "en_us": "You can look but don't touch"
-  },
-  {
-    "old_key": "selectWorld.load_folder_access",
-    "old_value": "未可讀存世之夾！",
-    "new_key": "selectWorld.load_folder_access",
-    "new_value": "不可讀存生界之資料夾！",
-    "en_us": "Unable to read or access folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.mapType.normal",

@@ -1043,6 +1043,13 @@
     "en_us": "Iron Bars"
   },
   {
+    "old_key": "tile.flower2.poppy.name",
+    "old_value": "罌粟",
+    "new_key": "block.minecraft.poppy",
+    "new_value": "罌粟花",
+    "en_us": "Poppy"
+  },
+  {
     "old_key": "tile.flower2.tulipOrange.name",
     "old_value": "橘色鬱金香",
     "new_key": "block.minecraft.orange_tulip",

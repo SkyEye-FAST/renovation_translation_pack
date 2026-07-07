@@ -488,6 +488,22 @@
     "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "嬉遊之道%s今爲：%s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "章則%s今爲：%s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "嬉遊之道%s即設爲：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "章則%s即設爲：%s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.schedule.cleared.failure",
     "old_value": "無ID爲%s之程",
     "old_en_us": "No schedules with id %s",
