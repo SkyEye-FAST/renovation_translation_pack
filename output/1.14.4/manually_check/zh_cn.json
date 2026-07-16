@@ -296,6 +296,22 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.gamerule.set",
+    "old_value": "游戏规则%s已被设为：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "已将游戏规则%s设为%s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
+    "old_key": "commands.op.failed",
+    "old_value": "无变化，该玩家已是管理员",
+    "old_en_us": "Nothing changed. The player already is an operator",
+    "new_key": "commands.op.failed",
+    "new_value": "无变化，此玩家已是管理员",
+    "new_en_us": "Nothing changed. The player is already an operator"
+  },
+  {
     "old_key": "commands.schedule.created.function",
     "old_value": "已将函数'%s'计划在%s刻后，即游戏时间%s时执行",
     "old_en_us": "Scheduled function '%s' in %s ticks at gametime %s",
@@ -414,6 +430,14 @@
     "new_key": "commands.worldborder.get",
     "new_value": "世界边界的当前宽度为%s个方块",
     "new_en_us": "The world border is currently %s block(s) wide"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "正在将世界边界的宽度扩大为%s个方块，时间%s秒",
+    "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
+    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -638,6 +662,14 @@
     "new_key": "item.minecraft.clay_ball",
     "new_value": "黏土球",
     "new_en_us": "Clay Ball"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飞行时间：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飞行时间：%s",
+    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.hotbar",

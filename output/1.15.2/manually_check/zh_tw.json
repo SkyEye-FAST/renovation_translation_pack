@@ -388,7 +388,7 @@
     "old_value": "遊戲規則 %s 目前設為： %s",
     "old_en_us": "Gamerule %s is currently set to: %s",
     "new_key": "commands.gamerule.query",
-    "new_value": "遊戲規則 %s 目前設為：%s",
+    "new_value": "遊戲規則 %s 目前設為 %s",
     "new_en_us": "Game rule %s is currently set to %s"
   },
   {
@@ -396,7 +396,7 @@
     "old_value": "遊戲規則 %s 現在已設為： %s",
     "old_en_us": "Gamerule %s is now set to: %s",
     "new_key": "commands.gamerule.set",
-    "new_value": "遊戲規則 %s 現在已設為：%s",
+    "new_value": "遊戲規則 %s 已設為 %s",
     "new_en_us": "Game rule %s is now set to %s"
   },
   {
@@ -720,6 +720,14 @@
     "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "itemGroup.hotbar",
     "old_value": "已儲存的工具列",
     "old_en_us": "Saved Toolbars",
@@ -952,6 +960,14 @@
     "new_en_us": "Bonus Chest"
   },
   {
+    "old_key": "selectWorld.edit.backupSize",
+    "old_value": "檔案大小： %s MB",
+    "old_en_us": "size: %s MB",
+    "new_key": "selectWorld.edit.backupSize",
+    "new_value": "檔案大小：%s MB",
+    "new_en_us": "Size: %s MB"
+  },
+  {
     "old_key": "selectWorld.futureworld.error.text",
     "old_value": "試圖載入未來版本的世界時發生錯誤。 這項操作原本就有其風險， 很抱歉無法成功載入。",
     "old_en_us": "Something went wrong while trying to load a world from a future version. This was a risky operation to begin with, sorry it didn't work.",
@@ -974,6 +990,14 @@
     "new_key": "selectWorld.gameMode.hardcore.line1",
     "new_value": "與生存模式相同，但是鎖定在",
     "new_en_us": "Same as Survival Mode, locked at hardest"
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.mapFeatures",

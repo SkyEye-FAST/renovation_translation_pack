@@ -878,7 +878,7 @@
     "old_key": "stat.sleepInBed",
     "old_value": "躺在床上的次数",
     "new_key": "stat.minecraft.sleep_in_bed",
-    "new_value": "入眠次数",
+    "new_value": "床上入眠次数",
     "en_us": "Times Slept in a Bed"
   },
   {

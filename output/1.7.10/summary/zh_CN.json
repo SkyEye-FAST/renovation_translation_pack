@@ -560,6 +560,13 @@
     "en_us": "Save and Quit to Title"
   },
   {
+    "old_key": "mount.onboard",
+    "old_value": "按下 %1$s 来脱离",
+    "new_key": "mount.onboard",
+    "new_value": "按下%1$s来脱离",
+    "en_us": "Press %1$s to dismount"
+  },
+  {
     "old_key": "multiplayer.player.joined",
     "old_value": "%s 加入了游戏",
     "new_key": "multiplayer.player.joined",

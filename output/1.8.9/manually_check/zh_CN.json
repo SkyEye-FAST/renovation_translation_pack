@@ -328,6 +328,14 @@
     "new_en_us": "Yellow Dye"
   },
   {
+    "old_key": "item.fireworks.flight",
+    "old_value": "飞行时间：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飞行时间：%s",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "item.fish.clownfish.raw.name",
     "old_value": "小丑鱼",
     "old_en_us": "Clownfish",
@@ -454,14 +462,6 @@
     "new_key": "language.region",
     "new_value": "中国大陆",
     "new_en_us": "United States"
-  },
-  {
-    "old_key": "mount.onboard",
-    "old_value": "按下 %1$s 来脱离",
-    "old_en_us": "Press %1$s to dismount",
-    "new_key": "mount.onboard",
-    "new_value": "按下%1$s来脱离",
-    "new_en_us": "Press %1$s to Dismount"
   },
   {
     "old_key": "multiplayer.downloadingStats",

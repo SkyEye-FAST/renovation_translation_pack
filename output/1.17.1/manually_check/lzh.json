@@ -152,6 +152,14 @@
     "new_en_us": "Upgrade your Pickaxe"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "豈非鐵鎬耶",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "此非鐵鎬邪",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "盈桶以熔巖",
     "old_en_us": "Fill a bucket with lava",
@@ -476,7 +484,7 @@
     "old_value": "嬉遊之道%s今爲：%s",
     "old_en_us": "Gamerule %s is currently set to: %s",
     "new_key": "commands.gamerule.query",
-    "new_value": "章則%s今爲：%s",
+    "new_value": "章則%s今爲%s",
     "new_en_us": "Game rule %s is currently set to %s"
   },
   {
@@ -484,7 +492,7 @@
     "old_value": "嬉遊之道%s即設爲：%s",
     "old_en_us": "Gamerule %s is now set to: %s",
     "new_key": "commands.gamerule.set",
-    "new_value": "章則%s即設爲：%s",
+    "new_value": "章則%s即設爲%s",
     "new_en_us": "Game rule %s is now set to %s"
   },
   {
@@ -760,6 +768,14 @@
     "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
   },
   {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "擇車（亦可物之欄）、置具框、舟之落物。",
+    "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "擇礦車（並其所貯）、置具匡、舟之遺物。",
+    "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
+  },
+  {
     "old_key": "gamerule.doLimitedCrafting.description",
     "old_value": "若開之，許人製其莫鎖之方",
     "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
@@ -822,6 +838,14 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "現其論議",
     "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "昇之時：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "昇之時：%s",
+    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",

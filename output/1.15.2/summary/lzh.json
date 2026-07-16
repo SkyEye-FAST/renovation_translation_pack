@@ -448,13 +448,6 @@
     "en_us": "Follow an Eye of Ender"
   },
   {
-    "old_key": "advancements.story.iron_tools.title",
-    "old_value": "莫非鐵鎬耶",
-    "new_key": "advancements.story.iron_tools.title",
-    "new_value": "此非鐵鎬邪",
-    "en_us": "Isn't It Iron Pick"
-  },
-  {
     "old_key": "advancements.story.mine_stone.title",
     "old_value": "巖藝",
     "new_key": "advancements.story.mine_stone.title",
@@ -1055,13 +1048,6 @@
     "new_key": "biome.minecraft.river",
     "new_value": "川",
     "en_us": "River"
-  },
-  {
-    "old_key": "biome.minecraft.sunflower_plains",
-    "old_value": "葵花原",
-    "new_key": "biome.minecraft.sunflower_plains",
-    "new_value": "葵藿原野",
-    "en_us": "Sunflower Plains"
   },
   {
     "old_key": "biome.minecraft.swamp",
@@ -3836,13 +3822,6 @@
     "en_us": "Sugar Cane"
   },
   {
-    "old_key": "block.minecraft.sunflower",
-    "old_value": "葵花",
-    "new_key": "block.minecraft.sunflower",
-    "new_value": "葵藿",
-    "en_us": "Sunflower"
-  },
-  {
     "old_key": "block.minecraft.sweet_berry_bush",
     "old_value": "甘果葉叢",
     "new_key": "block.minecraft.sweet_berry_bush",
@@ -4802,13 +4781,6 @@
     "en_us": "You whisper to %s: %s"
   },
   {
-    "old_key": "commands.op.failed",
-    "old_value": "無變。是戯者爲吏",
-    "new_key": "commands.op.failed",
-    "new_value": "無變。是戲者既爲吏矣",
-    "en_us": "Nothing changed. The player already is an operator"
-  },
-  {
     "old_key": "commands.op.success",
     "old_value": "已封%s为伺服器之吏",
     "new_key": "commands.op.success",
@@ -5416,13 +5388,6 @@
     "new_key": "commands.worldborder.set.failed.nochange",
     "new_value": "無變。世疆既尺此方矣",
     "en_us": "Nothing changed. The world border is already that size"
-  },
-  {
-    "old_key": "commands.worldborder.set.grow",
-    "old_value": "增世疆之尺爲 %1$s 方於 %2$s 秒間",
-    "new_key": "commands.worldborder.set.grow",
-    "new_value": "增世疆之尺爲%1$s方於%2$s秒間",
-    "en_us": "Growing the world border to %s blocks wide over %s seconds"
   },
   {
     "old_key": "commands.worldborder.warning.distance.failed",
@@ -8295,6 +8260,13 @@
     "en_us": "Master"
   },
   {
+    "old_key": "mount.onboard",
+    "old_value": "按%1$s以下騎",
+    "new_key": "mount.onboard",
+    "new_value": "撳%1$s以下騎",
+    "en_us": "Press %1$s to dismount"
+  },
+  {
     "old_key": "multiplayer.disconnect.banned",
     "old_value": "爲該伺服器所拒。",
     "new_key": "multiplayer.disconnect.banned",
@@ -9952,13 +9924,6 @@
     "new_key": "subtitles.block.brewing_stand.brew",
     "new_value": "煉藥臺沫聲",
     "en_us": "Brewing Stand bubbles"
-  },
-  {
-    "old_key": "subtitles.block.bubble_column.upwards_inside",
-    "old_value": "氣泡升",
-    "new_key": "subtitles.block.bubble_column.upwards_inside",
-    "new_value": "氣泡昇",
-    "en_us": "Bubbles woosh"
   },
   {
     "old_key": "subtitles.block.button.click",

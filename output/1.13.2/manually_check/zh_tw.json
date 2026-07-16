@@ -320,6 +320,22 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "遊戲規則 %s 目前設為：%s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "遊戲規則 %s 目前設為 %s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "遊戲規則 %s 現在已設為：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "遊戲規則 %s 已設為 %s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.list.players",
     "old_value": "至多 %2$s 個玩家之中的 %1$s 個玩家在線上： %3$s",
     "old_en_us": "There are %s of a max %s players online: %s",
@@ -616,6 +632,14 @@
     "new_en_us": "Item hotbar saved (restore with %1$s + %2$s)"
   },
   {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "item.minecraft.redstone",
     "old_value": "紅石",
     "old_en_us": "Redstone",
@@ -846,6 +870,14 @@
     "new_key": "selectWorld.gameMode.survival.line1",
     "new_value": "搜索資源、合成、提升",
     "new_en_us": "Search for resources, craft, gain"
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.mapFeatures",

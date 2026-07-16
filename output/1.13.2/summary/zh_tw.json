@@ -2905,6 +2905,13 @@
     "en_us": "en_us"
   },
   {
+    "old_key": "menu.game",
+    "old_value": "遊戲目錄",
+    "new_key": "menu.game",
+    "new_value": "遊戲選單",
+    "en_us": "Game Menu"
+  },
+  {
     "old_key": "menu.resetdemo",
     "old_value": "重置試玩世界",
     "new_key": "menu.resetdemo",

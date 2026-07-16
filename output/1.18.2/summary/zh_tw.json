@@ -1666,13 +1666,6 @@
     "en_us": "Leash Knot"
   },
   {
-    "old_key": "gamerule.doEntityDrops.description",
-    "old_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物",
-    "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物。",
-    "en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc."
-  },
-  {
     "old_key": "gui.recipebook.moreRecipes",
     "old_value": "點擊右鍵以查看更多",
     "new_key": "gui.recipebook.moreRecipes",
@@ -2483,6 +2476,13 @@
     "new_key": "item.minecraft.zombified_piglin_spawn_egg",
     "new_value": "殭屍化豬布林生怪蛋",
     "en_us": "Zombified Piglin Spawn Egg"
+  },
+  {
+    "old_key": "menu.game",
+    "old_value": "遊戲目錄",
+    "new_key": "menu.game",
+    "new_value": "遊戲選單",
+    "en_us": "Game Menu"
   },
   {
     "old_key": "menu.modded",

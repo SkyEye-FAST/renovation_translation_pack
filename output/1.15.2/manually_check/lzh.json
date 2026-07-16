@@ -104,6 +104,14 @@
     "new_en_us": "Upgrade your Pickaxe"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "莫非鐵鎬耶",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "此非鐵鎬邪",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "盈桶以熔巖",
     "old_en_us": "Fill a bucket with lava",
@@ -500,7 +508,7 @@
     "old_value": "戯規%s今爲：%s",
     "old_en_us": "Gamerule %s is currently set to: %s",
     "new_key": "commands.gamerule.query",
-    "new_value": "章則%s今爲：%s",
+    "new_value": "章則%s今爲%s",
     "new_en_us": "Game rule %s is currently set to %s"
   },
   {
@@ -508,7 +516,7 @@
     "old_value": "戯規%s已設爲：%s",
     "old_en_us": "Gamerule %s is now set to: %s",
     "new_key": "commands.gamerule.set",
-    "new_value": "章則%s即設爲：%s",
+    "new_value": "章則%s即設爲%s",
     "new_en_us": "Game rule %s is now set to %s"
   },
   {
@@ -518,6 +526,14 @@
     "new_key": "commands.list.players",
     "new_value": "頂%2$s戲者中有%1$s人在綫：%3$s",
     "new_en_us": "There are %s of a max of %s players online: %s"
+  },
+  {
+    "old_key": "commands.op.failed",
+    "old_value": "無變。是戯者爲吏",
+    "old_en_us": "Nothing changed. The player already is an operator",
+    "new_key": "commands.op.failed",
+    "new_value": "無變。是戲者既爲吏矣",
+    "new_en_us": "Nothing changed. The player is already an operator"
   },
   {
     "old_key": "commands.recipe.give.success.multiple",
@@ -710,6 +726,14 @@
     "new_key": "commands.worldborder.damage.buffer.success",
     "new_value": "世疆之戒既爲%s方",
     "new_en_us": "Set the world border damage buffer to %s block(s)"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "增世疆之尺爲 %1$s 方於 %2$s 秒間",
+    "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "增世疆之尺爲%1$s方於%2$s秒間",
+    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -1036,7 +1060,7 @@
     "old_value": "升之时：",
     "old_en_us": "Flight Duration:",
     "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "昇之時：",
+    "new_value": "昇之時：%s",
     "new_en_us": "Flight Duration: %s"
   },
   {
@@ -1142,14 +1166,6 @@
     "new_key": "menu.paused",
     "new_value": "暫息",
     "new_en_us": "Game Paused"
-  },
-  {
-    "old_key": "mount.onboard",
-    "old_value": "按%1$s以下騎",
-    "old_en_us": "Press %1$s to dismount",
-    "new_key": "mount.onboard",
-    "new_value": "撳%1$s以下騎",
-    "new_en_us": "Press %1$s to Dismount"
   },
   {
     "old_key": "multiplayer.disconnect.authservers_down",
@@ -1558,6 +1574,14 @@
     "new_key": "subtitles.block.blastfurnace.fire_crackle",
     "new_value": "冶爐燃",
     "new_en_us": "Blast Furnace crackles"
+  },
+  {
+    "old_key": "subtitles.block.bubble_column.upwards_inside",
+    "old_value": "氣泡升",
+    "old_en_us": "Bubbles woosh",
+    "new_key": "subtitles.block.bubble_column.upwards_inside",
+    "new_value": "氣泡昇",
+    "new_en_us": "Bubbles whoosh"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",

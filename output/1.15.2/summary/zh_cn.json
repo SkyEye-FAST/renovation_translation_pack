@@ -931,13 +931,6 @@
     "en_us": "Killed %s"
   },
   {
-    "old_key": "commands.op.failed",
-    "old_value": "无变化，该玩家已是管理员",
-    "new_key": "commands.op.failed",
-    "new_value": "无变化，此玩家已是管理员",
-    "en_us": "Nothing changed. The player already is an operator"
-  },
-  {
     "old_key": "commands.save.failed",
     "old_value": "无法保存游戏（硬盘空间是否足够？）",
     "new_key": "commands.save.failed",
@@ -1153,13 +1146,6 @@
     "new_key": "commands.trigger.failed.invalid",
     "new_value": "你只能触发“trigger”类型的记分项",
     "en_us": "You can only trigger objectives that are 'trigger' type"
-  },
-  {
-    "old_key": "commands.worldborder.set.grow",
-    "old_value": "正在将世界边界的宽度扩大为%s个方块，时间%s秒",
-    "new_key": "commands.worldborder.set.grow",
-    "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
-    "en_us": "Growing the world border to %s blocks wide over %s seconds"
   },
   {
     "old_key": "connect.authorizing",
@@ -2012,7 +1998,7 @@
     "old_key": "stat.minecraft.sleep_in_bed",
     "old_value": "躺在床上的次数",
     "new_key": "stat.minecraft.sleep_in_bed",
-    "new_value": "入眠次数",
+    "new_value": "床上入眠次数",
     "en_us": "Times Slept in a Bed"
   },
   {

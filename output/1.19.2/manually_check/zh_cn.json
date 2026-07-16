@@ -248,12 +248,28 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.gamerule.set",
+    "old_value": "游戏规则%s已被设为：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "已将游戏规则%s设为%s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.locate.poi.not_found",
     "old_value": "无法在合理距离内找到类型为“%s”的兴趣点",
     "old_en_us": "Could not find a point of interest of type \"%s\" within reasonable distance",
     "new_key": "commands.locate.poi.not_found",
     "new_value": "在合理距离内找不到类型为“%s”的兴趣点",
     "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.op.failed",
+    "old_value": "无变化，该玩家已是管理员",
+    "old_en_us": "Nothing changed. The player already is an operator",
+    "new_key": "commands.op.failed",
+    "new_value": "无变化，此玩家已是管理员",
+    "new_en_us": "Nothing changed. The player is already an operator"
   },
   {
     "old_key": "commands.schedule.cleared.success",
@@ -294,6 +310,14 @@
     "new_key": "commands.worldborder.get",
     "new_value": "世界边界的当前宽度为%s个方块",
     "new_en_us": "The world border is currently %s block(s) wide"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "正在将世界边界的宽度扩大为%s个方块，时间%s秒",
+    "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
+    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -382,6 +406,14 @@
     "new_key": "gameMode.hardcore",
     "new_value": "极限模式",
     "new_en_us": "Hardcore Mode"
+  },
+  {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落",
+    "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落。",
+    "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
     "old_key": "gamerule.doLimitedCrafting.description",
@@ -526,6 +558,14 @@
     "new_key": "gui.chatSelection.fold",
     "new_value": "已隐藏%s条消息",
     "new_en_us": "%s message(s) hidden"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飞行时间：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飞行时间：%s",
+    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",

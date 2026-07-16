@@ -245,13 +245,6 @@
     "en_us": "Follow an Eye of Ender"
   },
   {
-    "old_key": "advancements.story.iron_tools.title",
-    "old_value": "依把就係鐵鎬？",
-    "new_key": "advancements.story.iron_tools.title",
-    "new_value": "呢把就係鐵鎬？",
-    "en_us": "Isn't It Iron Pick"
-  },
-  {
     "old_key": "advancements.story.mine_diamond.description",
     "old_value": "獲得鑽石",
     "new_key": "advancements.story.mine_diamond.description",
@@ -1585,7 +1578,7 @@
     "old_key": "commands.advancement.grant.criterion.to.many.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s 個玩家，因為所有人已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.many.failure",
-    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s 個玩家，因為所有人已擁有該條件",
+    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s 個玩家，因為所有人原本已擁有該條件",
     "en_us": "Couldn't grant criterion '%s' of advancement %s to %s players as they already have it"
   },
   {
@@ -1599,7 +1592,7 @@
     "old_key": "commands.advancement.grant.criterion.to.one.failure",
     "old_value": "無法將進度 %2$s 嘅條件 '%1$s' 賦予 %3$s，因為已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.one.failure",
-    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s，因為其已擁有該條件",
+    "new_value": "無法將進度 %2$s 的條件「%1$s」賦予 %3$s，因為其原本已擁有該條件",
     "en_us": "Couldn't grant criterion '%s' of advancement %s to %s as they already have it"
   },
   {
@@ -1608,6 +1601,34 @@
     "new_key": "commands.advancement.grant.criterion.to.one.success",
     "new_value": "已將進度 %2$s 的條件「%1$s」賦予 %3$s",
     "en_us": "Granted criterion '%s' of advancement %s to %s"
+  },
+  {
+    "old_key": "commands.advancement.grant.many.to.many.failure",
+    "old_value": "無法將 %s 個進度賦予 %s 個玩家，因為所有人已達成所有指定進度",
+    "new_key": "commands.advancement.grant.many.to.many.failure",
+    "new_value": "無法將 %s 個進度賦予 %s 個玩家，因為所有人原本已達成所有指定進度",
+    "en_us": "Couldn't grant %s advancements to %s players as they already have them"
+  },
+  {
+    "old_key": "commands.advancement.grant.many.to.one.failure",
+    "old_value": "無法將 %s 個進度賦予 %s，因為進度已全部達成",
+    "new_key": "commands.advancement.grant.many.to.one.failure",
+    "new_value": "無法將 %s 個進度賦予 %s，因為進度原本已全部達成",
+    "en_us": "Couldn't grant %s advancements to %s as they already have them"
+  },
+  {
+    "old_key": "commands.advancement.grant.one.to.many.failure",
+    "old_value": "無法將進度 %s 賦予 %s 個玩家，因為所有人已達成進度",
+    "new_key": "commands.advancement.grant.one.to.many.failure",
+    "new_value": "無法將進度 %s 賦予 %s 個玩家，因為所有人原本已達成進度",
+    "en_us": "Couldn't grant advancement %s to %s players as they already have it"
+  },
+  {
+    "old_key": "commands.advancement.grant.one.to.one.failure",
+    "old_value": "無法將進度 %s 賦予 %s，因為進度已達成",
+    "new_key": "commands.advancement.grant.one.to.one.failure",
+    "new_value": "無法將進度 %s 賦予 %s，因為進度原本已達成",
+    "en_us": "Couldn't grant advancement %s to %s as they already have it"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.many.failure",
@@ -1697,14 +1718,14 @@
     "old_key": "commands.ban.failed",
     "old_value": "未進行任何變更。此玩家已被封鎖",
     "new_key": "commands.ban.failed",
-    "new_value": "未作任何變更。此玩家已被封鎖",
+    "new_value": "未作任何變更。此玩家原本已被封鎖",
     "en_us": "Nothing changed. The player is already banned"
   },
   {
     "old_key": "commands.banip.failed",
     "old_value": "未進行任何變更。此 IP 已被封鎖",
     "new_key": "commands.banip.failed",
-    "new_value": "未作任何變更。此 IP 已被封鎖",
+    "new_value": "未作任何變更。此 IP 原本已被封鎖",
     "en_us": "Nothing changed. That IP is already banned"
   },
   {
@@ -1718,7 +1739,7 @@
     "old_key": "commands.bossbar.create.failed",
     "old_value": "已存在 ID 為 '%s' 嘅 Boss 狀態條",
     "new_key": "commands.bossbar.create.failed",
-    "new_value": "已存在 ID 為 '%s' 的 Boss 狀態條",
+    "new_value": "原本已存在 ID 為「%s」的 Boss 狀態條",
     "en_us": "A bossbar already exists with the ID '%s'"
   },
   {
@@ -1753,7 +1774,7 @@
     "old_key": "commands.bossbar.set.color.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此顏色",
     "new_key": "commands.bossbar.set.color.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條已為此顏色",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為此顏色",
     "en_us": "Nothing changed. That's already the color of this bossbar"
   },
   {
@@ -1767,21 +1788,21 @@
     "old_key": "commands.bossbar.set.max.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
     "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條已為最大值",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為最大值",
     "en_us": "Nothing changed. That's already the max of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.name.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此名稱",
     "new_key": "commands.bossbar.set.name.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條已為此名稱",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為此名稱",
     "en_us": "Nothing changed. That's already the name of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.players.unchanged",
     "old_value": "未進行任何變更。玩家已經在此 Boss 狀態條中，無法加入或移除",
     "new_key": "commands.bossbar.set.players.unchanged",
-    "new_value": "未作任何變更。玩家已在此 Boss 狀態條中，無法加入或移除",
+    "new_value": "未作任何變更。玩家原本已在此 Boss 狀態條中，無法加入或移除",
     "en_us": "Nothing changed. Those players are already on the bossbar with nobody to add or remove"
   },
   {
@@ -1795,7 +1816,7 @@
     "old_key": "commands.bossbar.set.style.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此樣式",
     "new_key": "commands.bossbar.set.style.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條已為此樣式",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為此樣式",
     "en_us": "Nothing changed. That's already the style of this bossbar"
   },
   {
@@ -1809,21 +1830,21 @@
     "old_key": "commands.bossbar.set.value.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此數值",
     "new_key": "commands.bossbar.set.value.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條已為此數值",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為此數值",
     "en_us": "Nothing changed. That's already the value of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.visibility.unchanged.hidden",
     "old_value": "未進行任何變更。此 Boss 狀態條已被隱藏",
     "new_key": "commands.bossbar.set.visibility.unchanged.hidden",
-    "new_value": "未作任何變更。此 Boss 狀態條已被隱藏",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已被隱藏",
     "en_us": "Nothing changed. The bossbar is already hidden"
   },
   {
     "old_key": "commands.bossbar.set.visibility.unchanged.visible",
     "old_value": "未進行任何變更。此 Boss 狀態條已設為可見",
     "new_key": "commands.bossbar.set.visibility.unchanged.visible",
-    "new_value": "未作任何變更。此 Boss 狀態條已設為可見",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已設為可見",
     "en_us": "Nothing changed. The bossbar is already visible"
   },
   {
@@ -1900,7 +1921,7 @@
     "old_key": "commands.datapack.enable.failed",
     "old_value": "數據包 '%s' 已經啟用！",
     "new_key": "commands.datapack.enable.failed",
-    "new_value": "數據包「%s」已經啟用！",
+    "new_value": "數據包「%s」原本已啟用！",
     "en_us": "Pack '%s' is already enabled!"
   },
   {
@@ -1942,7 +1963,7 @@
     "old_key": "commands.difficulty.failure",
     "old_value": "難度未變更，已經設為 %s",
     "new_key": "commands.difficulty.failure",
-    "new_value": "難度未變更，已設為 %s",
+    "new_value": "難度未變更，原本已設為 %s",
     "en_us": "The difficulty did not change; it is already set to %s"
   },
   {
@@ -2191,13 +2212,6 @@
     "en_us": "You whisper to %s: %s"
   },
   {
-    "old_key": "commands.op.failed",
-    "old_value": "未進行任何變更。此玩家已為管理員",
-    "new_key": "commands.op.failed",
-    "new_value": "未作任何變更。此玩家已為管理員",
-    "en_us": "Nothing changed. The player already is an operator"
-  },
-  {
     "old_key": "commands.pardon.failed",
     "old_value": "未進行任何變更。此玩家未被封鎖",
     "new_key": "commands.pardon.failed",
@@ -2226,6 +2240,13 @@
     "en_us": "Played sound %s to %s"
   },
   {
+    "old_key": "commands.publish.alreadyPublished",
+    "old_value": "主機連接埠 %s 上已建立多人遊戲",
+    "new_key": "commands.publish.alreadyPublished",
+    "new_value": "主機連接埠 %s 上原本已建立多人遊戲",
+    "en_us": "Multiplayer game is already hosted on port %s"
+  },
+  {
     "old_key": "commands.publish.failed",
     "old_value": "無法將遊戲公開至 LAN",
     "new_key": "commands.publish.failed",
@@ -2247,10 +2268,17 @@
     "en_us": "No recipes could be forgotten"
   },
   {
+    "old_key": "commands.save.alreadyOff",
+    "old_value": "儲存功能已經關閉",
+    "new_key": "commands.save.alreadyOff",
+    "new_value": "儲存功能原本已關閉",
+    "en_us": "Saving is already turned off"
+  },
+  {
     "old_key": "commands.save.alreadyOn",
     "old_value": "儲存功能已經打開",
     "new_key": "commands.save.alreadyOn",
-    "new_value": "儲存功能已打開",
+    "new_value": "儲存功能原本已打開",
     "en_us": "Saving is already turned on"
   },
   {
@@ -2271,7 +2299,7 @@
     "old_key": "commands.scoreboard.objectives.add.duplicate",
     "old_value": "已存在使用此名稱嘅目標",
     "new_key": "commands.scoreboard.objectives.add.duplicate",
-    "new_value": "已存在使用此名稱的目標",
+    "new_value": "原本已存在使用此名稱的目標",
     "en_us": "An objective already exists by that name"
   },
   {
@@ -2285,7 +2313,7 @@
     "old_key": "commands.scoreboard.objectives.display.alreadySet",
     "old_value": "未進行任何變更。顯示區已顯示此目標",
     "new_key": "commands.scoreboard.objectives.display.alreadySet",
-    "new_value": "未作任何變更。顯示區已顯示此目標",
+    "new_value": "未作任何變更。顯示區原本已顯示此目標",
     "en_us": "Nothing changed. That display slot is already showing that objective"
   },
   {
@@ -2320,7 +2348,7 @@
     "old_key": "commands.scoreboard.players.enable.failed",
     "old_value": "未進行任何變更。觸發項目已經啟用",
     "new_key": "commands.scoreboard.players.enable.failed",
-    "new_value": "未作任何變更。觸發項目已經啟用",
+    "new_value": "未作任何變更。觸發項目原本已啟用",
     "en_us": "Nothing changed. That trigger is already enabled"
   },
   {
@@ -2478,6 +2506,13 @@
     "en_us": "Summoned new %s"
   },
   {
+    "old_key": "commands.tag.add.failed",
+    "old_value": "對象已擁有此標籤或擁有過多標籤",
+    "new_key": "commands.tag.add.failed",
+    "new_value": "對象原本已擁有此標籤或擁有過多標籤",
+    "en_us": "Target either already has the tag or has too many tags"
+  },
+  {
     "old_key": "commands.tag.add.success.multiple",
     "old_value": "已為 %2$s 個實體增添 '%1$s' 標籤",
     "new_key": "commands.tag.add.success.multiple",
@@ -2523,14 +2558,14 @@
     "old_key": "commands.team.add.duplicate",
     "old_value": "已經存在使用依個名稱嘅隊伍",
     "new_key": "commands.team.add.duplicate",
-    "new_value": "已存在使用該名稱的隊伍",
+    "new_value": "原本已存在使用該名稱的隊伍",
     "en_us": "A team already exists by that name"
   },
   {
     "old_key": "commands.team.empty.unchanged",
     "old_value": "未進行任何變更。此隊伍已空",
     "new_key": "commands.team.empty.unchanged",
-    "new_value": "未作任何變更。此隊伍已空",
+    "new_value": "未作任何變更。此隊伍原本已空",
     "en_us": "Nothing changed. That team is already empty"
   },
   {
@@ -2544,7 +2579,7 @@
     "old_key": "commands.team.option.collisionRule.unchanged",
     "old_value": "未進行任何變更。碰撞規則已為該數值",
     "new_key": "commands.team.option.collisionRule.unchanged",
-    "new_value": "未作任何變更。碰撞規則已為該數值",
+    "new_value": "未作任何變更。碰撞規則原本已為該數值",
     "en_us": "Nothing changed. Collision rule is already that value"
   },
   {
@@ -2558,7 +2593,7 @@
     "old_key": "commands.team.option.color.unchanged",
     "old_value": "未進行任何變更。隊伍已擁有此顏色",
     "new_key": "commands.team.option.color.unchanged",
-    "new_value": "未作任何變更。隊伍已擁有此顏色",
+    "new_value": "未作任何變更。隊伍原本已擁有此顏色",
     "en_us": "Nothing changed. That team already has that color"
   },
   {
@@ -2572,28 +2607,28 @@
     "old_key": "commands.team.option.deathMessageVisibility.unchanged",
     "old_value": "未進行任何變更。死亡訊息可見度已為該數值",
     "new_key": "commands.team.option.deathMessageVisibility.unchanged",
-    "new_value": "未作任何變更。死亡訊息可見度已為該數值",
+    "new_value": "未作任何變更。死亡訊息可見度原本已為該數值",
     "en_us": "Nothing changed. Death message visibility is already that value"
   },
   {
     "old_key": "commands.team.option.friendlyfire.alreadyDisabled",
     "old_value": "未進行任何變更。此隊伍已經停用同隊相殘",
     "new_key": "commands.team.option.friendlyfire.alreadyDisabled",
-    "new_value": "未作任何變更。此隊伍已經停用同隊相殘",
+    "new_value": "未作任何變更。此隊伍原本已停用同隊相殘",
     "en_us": "Nothing changed. Friendly fire is already disabled for that team"
   },
   {
     "old_key": "commands.team.option.friendlyfire.alreadyEnabled",
     "old_value": "未進行任何變更。此隊伍已經啟用同隊相殘",
     "new_key": "commands.team.option.friendlyfire.alreadyEnabled",
-    "new_value": "未作任何變更。此隊伍已經啟用同隊相殘",
+    "new_value": "未作任何變更。此隊伍原本已啟用同隊相殘",
     "en_us": "Nothing changed. Friendly fire is already enabled for that team"
   },
   {
     "old_key": "commands.team.option.name.unchanged",
     "old_value": "未進行任何變更。隊伍已擁有此名稱",
     "new_key": "commands.team.option.name.unchanged",
-    "new_value": "未作任何變更。隊伍已擁有此名稱",
+    "new_value": "未作任何變更。隊伍原本已擁有此名稱",
     "en_us": "Nothing changed. That team already has that name"
   },
   {
@@ -2607,21 +2642,21 @@
     "old_key": "commands.team.option.nametagVisibility.unchanged",
     "old_value": "未進行任何變更。名牌可見度已為該數值",
     "new_key": "commands.team.option.nametagVisibility.unchanged",
-    "new_value": "未作任何變更。名牌可見度已為該數值",
+    "new_value": "未作任何變更。名牌可見度原本已為該數值",
     "en_us": "Nothing changed. Nametag visibility is already that value"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
     "old_value": "未進行任何變更。此隊伍已經無法發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyDisabled",
-    "new_value": "未作任何變更。此隊伍已經無法發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍原本已無法發現隱身的隊友",
     "en_us": "Nothing changed. That team already can't see invisible teammates"
   },
   {
     "old_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
     "old_value": "未進行任何變更。此隊伍已經可以發現隱身嘅隊友",
     "new_key": "commands.team.option.seeFriendlyInvisibles.alreadyEnabled",
-    "new_value": "未作任何變更。此隊伍已可發現隱身的隊友",
+    "new_value": "未作任何變更。此隊伍原本已可發現隱身的隊友",
     "en_us": "Nothing changed. That team can already see invisible teammates"
   },
   {
@@ -2751,6 +2786,27 @@
     "en_us": "You can only trigger objectives that are 'trigger' type"
   },
   {
+    "old_key": "commands.whitelist.add.failed",
+    "old_value": "白名單內已有此玩家",
+    "new_key": "commands.whitelist.add.failed",
+    "new_value": "白名單內原本已有此玩家",
+    "en_us": "Player is already whitelisted"
+  },
+  {
+    "old_key": "commands.whitelist.alreadyOff",
+    "old_value": "白名單已經關閉",
+    "new_key": "commands.whitelist.alreadyOff",
+    "new_value": "白名單原本已關閉",
+    "en_us": "Whitelist is already turned off"
+  },
+  {
+    "old_key": "commands.whitelist.alreadyOn",
+    "old_value": "白名單已經啟用",
+    "new_key": "commands.whitelist.alreadyOn",
+    "new_value": "白名單原本已啟用",
+    "en_us": "Whitelist is already turned on"
+  },
+  {
     "old_key": "commands.whitelist.none",
     "old_value": "白名單入面並無玩家",
     "new_key": "commands.whitelist.none",
@@ -2761,49 +2817,42 @@
     "old_key": "commands.worldborder.center.failed",
     "old_value": "未進行任何變更。世界界限中心已經設定於該處",
     "new_key": "commands.worldborder.center.failed",
-    "new_value": "未作任何變更。世界界限中心已經設定於該處",
+    "new_value": "未作任何變更。世界界限中心原本已設定於該處",
     "en_us": "Nothing changed. The world border is already centered there"
   },
   {
     "old_key": "commands.worldborder.damage.amount.failed",
     "old_value": "未進行任何變更。世界界限傷害已為該值",
     "new_key": "commands.worldborder.damage.amount.failed",
-    "new_value": "未作任何變更。世界界限傷害已為該值",
+    "new_value": "未作任何變更。世界界限傷害原本已為該值",
     "en_us": "Nothing changed. The world border damage is already that amount"
   },
   {
     "old_key": "commands.worldborder.damage.buffer.failed",
     "old_value": "未進行任何變更。世界界限傷害緩衝區已為該距離",
     "new_key": "commands.worldborder.damage.buffer.failed",
-    "new_value": "未作任何變更。世界界限傷害緩衝區已為該距離",
+    "new_value": "未作任何變更。世界界限傷害緩衝區原本已為該距離",
     "en_us": "Nothing changed. The world border damage buffer is already that distance"
   },
   {
     "old_key": "commands.worldborder.set.failed.nochange",
     "old_value": "未進行任何變更。世界界限已為該尺寸",
     "new_key": "commands.worldborder.set.failed.nochange",
-    "new_value": "未作任何變更。世界界限已為該尺寸",
+    "new_value": "未作任何變更。世界界限原本已為該尺寸",
     "en_us": "Nothing changed. The world border is already that size"
-  },
-  {
-    "old_key": "commands.worldborder.set.grow",
-    "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
-    "new_key": "commands.worldborder.set.grow",
-    "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
-    "en_us": "Growing the world border to %s blocks wide over %s seconds"
   },
   {
     "old_key": "commands.worldborder.warning.distance.failed",
     "old_value": "未進行任何變更。世界界限警吿距離已為該距離",
     "new_key": "commands.worldborder.warning.distance.failed",
-    "new_value": "未作任何變更。世界界限警吿距離已為該距離",
+    "new_value": "未作任何變更。世界界限警吿距離原本已為該距離",
     "en_us": "Nothing changed. The world border warning is already that distance"
   },
   {
     "old_key": "commands.worldborder.warning.time.failed",
     "old_value": "未進行任何變更。世界界限警吿時間已為此時間",
     "new_key": "commands.worldborder.warning.time.failed",
-    "new_value": "未作任何變更。世界界限警吿時間已為此時間",
+    "new_value": "未作任何變更。世界界限警吿時間原本已為此時間",
     "en_us": "Nothing changed. The world border warning is already that amount of time"
   },
   {

@@ -210,13 +210,6 @@
     "en_us": "Uneasy Alliance"
   },
   {
-    "old_key": "advancements.story.iron_tools.title",
-    "old_value": "豈非鐵鎬耶",
-    "new_key": "advancements.story.iron_tools.title",
-    "new_value": "此非鐵鎬邪",
-    "en_us": "Isn't It Iron Pick"
-  },
-  {
     "old_key": "advancements.story.mine_stone.title",
     "old_value": "巖藝",
     "new_key": "advancements.story.mine_stone.title",
@@ -586,6 +579,13 @@
     "new_key": "biome.minecraft.nether_wastes",
     "new_value": "焱界漠",
     "en_us": "Nether Wastes"
+  },
+  {
+    "old_key": "biome.minecraft.sunflower_plains",
+    "old_value": "葵藿原野",
+    "new_key": "biome.minecraft.sunflower_plains",
+    "new_value": "葵花原",
+    "en_us": "Sunflower Plains"
   },
   {
     "old_key": "biome.minecraft.swamp",
@@ -2835,13 +2835,6 @@
     "en_us": "Sugar Cane"
   },
   {
-    "old_key": "block.minecraft.sunflower",
-    "old_value": "葵花",
-    "new_key": "block.minecraft.sunflower",
-    "new_value": "葵藿",
-    "en_us": "Sunflower"
-  },
-  {
     "old_key": "block.minecraft.tnt",
     "old_value": "炸藥",
     "new_key": "block.minecraft.tnt",
@@ -4121,13 +4114,6 @@
     "new_key": "gamerule.doEntityDrops",
     "new_value": "遺實體之被掛",
     "en_us": "Drop entity equipment"
-  },
-  {
-    "old_key": "gamerule.doEntityDrops.description",
-    "old_value": "擇車（亦可物之欄）、置具框、舟之落物。",
-    "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "擇礦車（並其所貯）、置具匡、舟之遺物。",
-    "en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc."
   },
   {
     "old_key": "gamerule.doMobLoot",

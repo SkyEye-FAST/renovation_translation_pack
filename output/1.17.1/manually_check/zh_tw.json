@@ -280,6 +280,22 @@
     "new_en_us": "Too many chunks in the specified area (maximum %s, but specified %s)"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "遊戲規則 %s 目前設為：%s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "遊戲規則 %s 目前設為 %s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "遊戲規則 %s 現在已設為：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "遊戲規則 %s 已設為 %s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "移除 ID 為 %2$s 的 %1$s 個排程",
     "old_en_us": "Removed %s schedules with id %s",
@@ -408,6 +424,14 @@
     "new_en_us": "Hardcore Mode"
   },
   {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物",
+    "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物。",
+    "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
+  },
+  {
     "old_key": "gamerule.doLimitedCrafting.description",
     "old_value": "若啟用，玩家將只能合成已解鎖的配方",
     "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
@@ -470,6 +494,14 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "顯示訊息",
     "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",
@@ -630,6 +662,14 @@
     "new_key": "selectWorld.backupWarning.snapshot",
     "new_value": "這個世界最後一次遊玩的版本為 %s，而您使用的版本為 %s。請先建立備份，以防世界損毀。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.locked",

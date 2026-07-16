@@ -288,6 +288,14 @@
     "new_en_us": "Yellow Dye"
   },
   {
+    "old_key": "item.fireworks.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "item.fish.clownfish.raw.name",
     "old_value": "小丑魚",
     "old_en_us": "Clownfish",
@@ -606,6 +614,14 @@
     "new_key": "selectWorld.gameMode.survival.line1",
     "new_value": "搜索資源、合成、提升",
     "new_en_us": "Search for resources, craft, gain"
+  },
+  {
+    "old_key": "selectWorld.load_folder_access",
+    "old_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
+    "old_en_us": "Unable to read or access folder where game worlds are saved!",
+    "new_key": "selectWorld.load_folder_access",
+    "new_value": "無法讀取或存取遊戲世界存檔所在的資料夾！",
+    "new_en_us": "Unable to read or access the folder where game worlds are saved!"
   },
   {
     "old_key": "selectWorld.mapFeatures",

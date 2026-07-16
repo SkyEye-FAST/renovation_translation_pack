@@ -576,6 +576,14 @@
     "new_en_us": "Yellow Dye"
   },
   {
+    "old_key": "item.fireworks.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
+  },
+  {
     "old_key": "item.fish.clownfish.raw.name",
     "old_value": "小丑魚",
     "old_en_us": "Clownfish",
@@ -710,6 +718,14 @@
     "new_key": "language.code",
     "new_value": "zho-Hant_TW",
     "new_en_us": "en_us"
+  },
+  {
+    "old_key": "menu.game",
+    "old_value": "遊戲目錄",
+    "old_en_us": "Game menu",
+    "new_key": "menu.game",
+    "new_value": "遊戲選單",
+    "new_en_us": "Game Menu"
   },
   {
     "old_key": "multiplayer.downloadingStats",

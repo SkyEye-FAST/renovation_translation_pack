@@ -176,6 +176,14 @@
     "new_en_us": "Upgrade your Pickaxe"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "依把就係鐵鎬？",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "呢把就係鐵鎬？",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "用鐵桶裝熔岩",
     "old_en_us": "Fill a bucket with lava",
@@ -214,6 +222,14 @@
     "new_key": "advMode.notEnabled",
     "new_value": "命令方塊已停用",
     "new_en_us": "Command blocks are not enabled"
+  },
+  {
+    "old_key": "advMode.trackOutput",
+    "old_value": "追蹤資料輸出",
+    "old_en_us": "Track output",
+    "new_key": "advMode.trackOutput",
+    "new_value": "追蹤數據輸出",
+    "new_en_us": "Track Output"
   },
   {
     "old_key": "argument.block.tag.disallowed",
@@ -560,6 +576,38 @@
     "new_en_us": "Executed %s command(s) from function '%s'"
   },
   {
+    "old_key": "commands.gamerule.query",
+    "old_value": "遊戲規則 %s 目前設為：%s",
+    "old_en_us": "Gamerule %s is currently set to: %s",
+    "new_key": "commands.gamerule.query",
+    "new_value": "遊戲規則 %s 目前設為 %s",
+    "new_en_us": "Game rule %s is currently set to %s"
+  },
+  {
+    "old_key": "commands.gamerule.set",
+    "old_value": "遊戲規則 %s 已設為：%s",
+    "old_en_us": "Gamerule %s is now set to: %s",
+    "new_key": "commands.gamerule.set",
+    "new_value": "已將遊戲規則 %s 設為 %s",
+    "new_en_us": "Game rule %s is now set to %s"
+  },
+  {
+    "old_key": "commands.op.failed",
+    "old_value": "未進行任何變更。此玩家已為管理員",
+    "old_en_us": "Nothing changed. The player already is an operator",
+    "new_key": "commands.op.failed",
+    "new_value": "未作任何變更。此玩家原本已為管理員",
+    "new_en_us": "Nothing changed. The player is already an operator"
+  },
+  {
+    "old_key": "commands.perf.started",
+    "old_value": "已啟動持續 10 秒嘅效能分析器（用 '/perf stop' 可提前停止）",
+    "old_en_us": "Started 10 second performance profiling run (use '/perf stop' to stop early)",
+    "new_key": "commands.perf.started",
+    "new_value": "已啟動持續 10 秒的效能分析器（用 「/perf stop」可提前停止）",
+    "new_en_us": "Started 10-second performance profiling run (use '/perf stop' to stop early)"
+  },
+  {
     "old_key": "commands.perf.stopped",
     "old_value": "已停止效能分析，共耗時 %s 秒或 %s 刻（每秒 %s 刻）",
     "old_en_us": "Stopped performance profiling after %s seconds and %s ticks (%s ticks per second)",
@@ -654,6 +702,14 @@
     "new_key": "commands.whitelist.list",
     "new_value": "白名單內一共有 %s 名玩家：%s",
     "new_en_us": "There are %s whitelisted player(s): %s"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -896,6 +952,14 @@
     "new_en_us": "Hardcore Mode"
   },
   {
+    "old_key": "gamerule.doEntityDrops.description",
+    "old_value": "控制礦車（包括儲存物）、物品展示框、船之類嘅掉落物",
+    "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
+    "new_key": "gamerule.doEntityDrops.description",
+    "new_value": "控制礦車（包括儲存物）、物品展示框、船之類的掉落物。",
+    "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
+  },
+  {
     "old_key": "gamerule.doLimitedCrafting.description",
     "old_value": "如果啟用，玩家將只能夠使用已經解鎖嘅配方嚟進行合成",
     "old_en_us": "If enabled, players will be able to craft only unlocked recipes",
@@ -958,6 +1022,14 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "顯示訊息",
     "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "old_en_us": "Flight Duration:",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",
