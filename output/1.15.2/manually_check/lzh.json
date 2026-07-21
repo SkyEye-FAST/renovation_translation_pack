@@ -108,7 +108,7 @@
     "old_value": "莫非鐵鎬耶",
     "old_en_us": "Isn't It Iron Pick",
     "new_key": "advancements.story.iron_tools.title",
-    "new_value": "此非鐵鎬邪",
+    "new_value": "此非鐵鎬邪？",
     "new_en_us": "Isn't It Iron Pick?"
   },
   {
@@ -1056,14 +1056,6 @@
     "new_en_us": "Clay Ball"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "升之时：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "昇之時：%s",
-    "new_en_us": "Flight Duration: %s"
-  },
-  {
     "old_key": "item.modifiers.chest",
     "old_value": "於身之時：",
     "old_en_us": "When on body:",
@@ -1406,6 +1398,14 @@
     "new_key": "selectWorld.bonusItems",
     "new_value": "獎箱",
     "new_en_us": "Bonus Chest"
+  },
+  {
+    "old_key": "selectWorld.edit.backupSize",
+    "old_value": "世之大，%s兆節也",
+    "old_en_us": "size: %s MB",
+    "new_key": "selectWorld.edit.backupSize",
+    "new_value": "世之大：%s兆節",
+    "new_en_us": "Size: %s MB"
   },
   {
     "old_key": "selectWorld.futureworld.error.text",

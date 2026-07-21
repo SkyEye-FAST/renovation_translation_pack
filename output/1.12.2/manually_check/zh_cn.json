@@ -64,6 +64,14 @@
     "new_en_us": "Obtain a block of Obsidian"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "这不是铁镐么",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "这不是铁镐么？",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "用桶装点熔岩",
     "old_en_us": "Fill a bucket with lava",
@@ -278,14 +286,6 @@
     "new_key": "item.minecraft.yellow_dye",
     "new_value": "黄色染料",
     "new_en_us": "Yellow Dye"
-  },
-  {
-    "old_key": "item.fireworks.flight",
-    "old_value": "飞行时间：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "item.fish.clownfish.raw.name",

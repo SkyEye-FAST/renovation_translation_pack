@@ -234,7 +234,7 @@
     "old_key": "advancements.husbandry.complete_catalogue.description",
     "old_value": "馴服所有種類嘅貓！",
     "new_key": "advancements.husbandry.complete_catalogue.description",
-    "new_value": "馴服所有種類的貓！",
+    "new_value": "馴養所有種類的貓！",
     "en_us": "Tame all Cat variants!"
   },
   {
@@ -334,6 +334,13 @@
     "new_key": "advancements.husbandry.tactical_fishing.description",
     "new_value": "釣魚⋯⋯但不用魚竿！",
     "en_us": "Catch a Fish... without a Fishing Rod!"
+  },
+  {
+    "old_key": "advancements.husbandry.tame_an_animal.description",
+    "old_value": "馴服一隻動物",
+    "new_key": "advancements.husbandry.tame_an_animal.description",
+    "new_value": "馴養一隻動物",
+    "en_us": "Tame an animal"
   },
   {
     "old_key": "advancements.husbandry.wax_on.description",
@@ -5304,6 +5311,13 @@
     "new_key": "item.minecraft.evoker_spawn_egg",
     "new_value": "喚魔者生成蛋",
     "en_us": "Evoker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "en_us": "Flight Duration:"
   },
   {
     "old_key": "item.minecraft.fox_spawn_egg",

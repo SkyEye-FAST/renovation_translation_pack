@@ -16,6 +16,14 @@
     "new_en_us": "Catch a Fish... without a Fishing Rod!"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "莫非這是鐵鎬",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "莫非這是鐵鎬？",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.smelt_iron.description",
     "old_value": "熔煉一塊鐵錠",
     "old_en_us": "Smelt an iron ingot",
@@ -444,7 +452,7 @@
     "old_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
     "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物。",
+    "new_value": "控制礦車（包括內容物）、物品展示框、船等的掉落物。",
     "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
@@ -510,14 +518,6 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "顯示訊息",
     "new_en_us": "Show messages"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",

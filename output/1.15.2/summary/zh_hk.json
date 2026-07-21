@@ -161,6 +161,13 @@
     "en_us": "Total Beelocation"
   },
   {
+    "old_key": "advancements.husbandry.tame_an_animal.description",
+    "old_value": "馴服一隻動物",
+    "new_key": "advancements.husbandry.tame_an_animal.description",
+    "new_value": "馴養一隻動物",
+    "en_us": "Tame an animal"
+  },
+  {
     "old_key": "advancements.nether.all_effects.title",
     "old_value": "點解會變成咁樣？",
     "new_key": "advancements.nether.all_effects.title",
@@ -3561,6 +3568,13 @@
     "new_key": "item.minecraft.evoker_spawn_egg",
     "new_value": "喚魔者生成蛋",
     "en_us": "Evoker Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飛行時間：",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "en_us": "Flight Duration:"
   },
   {
     "old_key": "item.minecraft.fox_spawn_egg",

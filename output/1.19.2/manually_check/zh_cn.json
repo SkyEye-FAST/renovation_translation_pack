@@ -24,6 +24,14 @@
     "new_en_us": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "这不是铁镐么",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "这不是铁镐么？",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advMode.notEnabled",
     "old_value": "命令方块没有在此服务器上启用",
     "old_en_us": "Command blocks are not enabled on this server",
@@ -94,6 +102,14 @@
     "new_key": "argument.long.low",
     "new_value": "长整型数据不能小于%s：实际为%s",
     "new_en_us": "Long must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.pos.outofbounds",
+    "old_value": "该位置超出了允许的范围。",
+    "old_en_us": "That position is outside the allowed boundaries.",
+    "new_key": "argument.pos.outofbounds",
+    "new_value": "该位置超出了允许的范围",
+    "new_en_us": "That position is outside the allowed boundaries"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -264,14 +280,6 @@
     "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
   },
   {
-    "old_key": "commands.op.failed",
-    "old_value": "无变化，该玩家已是管理员",
-    "old_en_us": "Nothing changed. The player already is an operator",
-    "new_key": "commands.op.failed",
-    "new_value": "无变化，此玩家已是管理员",
-    "new_en_us": "Nothing changed. The player is already an operator"
-  },
-  {
     "old_key": "commands.schedule.cleared.success",
     "old_value": "已移除%s个ID为%s的计划",
     "old_en_us": "Removed %s schedules with id %s",
@@ -412,7 +420,7 @@
     "old_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
     "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "控制矿车（包括内容物）、物品展示框、船等的物品掉落。",
+    "new_value": "控制各种矿车（含内容物）、物品展示框、船等的物品掉落。",
     "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
@@ -558,14 +566,6 @@
     "new_key": "gui.chatSelection.fold",
     "new_value": "已隐藏%s条消息",
     "new_en_us": "%s message(s) hidden"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飞行时间：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",
@@ -806,6 +806,14 @@
     "new_key": "structure_block.mode_info.save",
     "new_value": "保存模式 — 写入文件",
     "new_en_us": "Save Mode - Write to file"
+  },
+  {
+    "old_key": "subtitles.block.bubble_column.upwards_inside",
+    "old_value": "气泡：飞升",
+    "old_en_us": "Bubbles woosh",
+    "new_key": "subtitles.block.bubble_column.upwards_inside",
+    "new_value": "气泡：上升",
+    "new_en_us": "Bubbles whoosh"
   },
   {
     "old_key": "subtitles.block.respawn_anchor.ambient",

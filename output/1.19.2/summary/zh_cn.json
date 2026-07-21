@@ -952,6 +952,13 @@
     "en_us": "Bucket"
   },
   {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "飞行时间：",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飞行时间：%s",
+    "en_us": "Flight Duration:"
+  },
+  {
     "old_key": "item.minecraft.firework_star.shape.burst",
     "old_value": "爆裂状",
     "new_key": "item.minecraft.firework_star.shape.burst",

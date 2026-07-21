@@ -36,7 +36,7 @@
     "old_value": "馴服所有種類嘅貓！",
     "old_en_us": "Tame all cat variants!",
     "new_key": "advancements.husbandry.complete_catalogue.description",
-    "new_value": "馴服所有種類的貓！",
+    "new_value": "馴養所有種類的貓！",
     "new_en_us": "Tame all Cat variants!"
   },
   {
@@ -676,7 +676,7 @@
     "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
-    "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "new_value": "正在將世界界限的寬度拓寬至 %s 個方塊，用時 %s 秒",
     "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
@@ -684,7 +684,7 @@
     "old_value": "正在將世界界限嘅寬度縮窄到 %s 個方塊，時間 %s 秒",
     "old_en_us": "Shrinking the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.shrink",
-    "new_value": "正在將世界界限的寬度縮窄到 %s 個方塊，時間 %s 秒",
+    "new_value": "正在將世界界限的寬度縮窄至 %s 個方塊，用時 %s 秒",
     "new_en_us": "Shrinking the world border to %s block(s) wide over %s second(s)"
   },
   {
@@ -1006,14 +1006,6 @@
     "new_key": "item.minecraft.clay_ball",
     "new_value": "黏土球",
     "new_en_us": "Clay Ball"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "item.modifiers.chest",

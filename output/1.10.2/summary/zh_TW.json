@@ -2016,6 +2016,13 @@
     "en_us": "Compass"
   },
   {
+    "old_key": "item.fireworks.flight",
+    "old_value": "飛行時間：",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "飛行時間：%s",
+    "en_us": "Flight Duration:"
+  },
+  {
     "old_key": "item.fish.salmon.cooked.name",
     "old_value": "烤鮭魚片",
     "new_key": "item.minecraft.cooked_salmon",

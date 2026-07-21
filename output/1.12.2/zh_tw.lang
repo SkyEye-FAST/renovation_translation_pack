@@ -7,6 +7,7 @@ advancements.nether.create_beacon.description=建造及放置烽火台
 advancements.nether.uneasy_alliance.description=將地獄幽靈從地獄安全的救回主世界 ... 然後讓它解脫
 advancements.story.deflect_arrow.description=使用盾牌反彈投射物
 advancements.story.form_obsidian.description=取得一塊黑曜石
+advancements.story.iron_tools.title=莫非這是鐵鎬？
 advancements.story.smelt_iron.description=冶煉出鐵錠
 build.tooHigh=建築高度上限為 %s
 chat.cannotSend=無法傳送聊天訊息

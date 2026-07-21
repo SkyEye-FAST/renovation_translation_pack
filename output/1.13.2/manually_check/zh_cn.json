@@ -40,6 +40,14 @@
     "new_en_us": "Obtain a block of Obsidian"
   },
   {
+    "old_key": "advancements.story.iron_tools.title",
+    "old_value": "这不是铁镐么",
+    "old_en_us": "Isn't It Iron Pick",
+    "new_key": "advancements.story.iron_tools.title",
+    "new_value": "这不是铁镐么？",
+    "new_en_us": "Isn't It Iron Pick?"
+  },
+  {
     "old_key": "advancements.story.lava_bucket.description",
     "old_value": "用桶装点熔岩",
     "old_en_us": "Fill a bucket with lava",
@@ -278,14 +286,6 @@
     "new_key": "commands.gamerule.set",
     "new_value": "已将游戏规则%s设为%s",
     "new_en_us": "Game rule %s is now set to %s"
-  },
-  {
-    "old_key": "commands.op.failed",
-    "old_value": "无变化，该玩家已是管理员",
-    "old_en_us": "Nothing changed. The player already is an operator",
-    "new_key": "commands.op.failed",
-    "new_value": "无变化，此玩家已是管理员",
-    "new_en_us": "Nothing changed. The player is already an operator"
   },
   {
     "old_key": "commands.scoreboard.objectives.modify.displayname",
@@ -632,14 +632,6 @@
     "new_en_us": "Clay Ball"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飞行时间：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "new_en_us": "Flight Duration: %s"
-  },
-  {
     "old_key": "item.minecraft.redstone",
     "old_value": "红石",
     "old_en_us": "Redstone",
@@ -934,6 +926,14 @@
     "new_key": "stat.minecraft.time_since_rest",
     "new_value": "自上次入眠",
     "new_en_us": "Time Since Last Rest"
+  },
+  {
+    "old_key": "subtitles.block.bubble_column.upwards_inside",
+    "old_value": "气泡：飞升",
+    "old_en_us": "Bubbles woosh",
+    "new_key": "subtitles.block.bubble_column.upwards_inside",
+    "new_value": "气泡：上升",
+    "new_en_us": "Bubbles whoosh"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",

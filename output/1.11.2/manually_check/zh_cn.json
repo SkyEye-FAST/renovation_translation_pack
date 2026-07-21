@@ -216,14 +216,6 @@
     "new_en_us": "Yellow Dye"
   },
   {
-    "old_key": "item.fireworks.flight",
-    "old_value": "飞行时间：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "new_en_us": "Flight Duration: %s"
-  },
-  {
     "old_key": "item.fish.clownfish.raw.name",
     "old_value": "小丑鱼",
     "old_en_us": "Clownfish",

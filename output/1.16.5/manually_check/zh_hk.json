@@ -44,7 +44,7 @@
     "old_value": "馴服所有種類嘅貓！",
     "old_en_us": "Tame all cat variants!",
     "new_key": "advancements.husbandry.complete_catalogue.description",
-    "new_value": "馴服所有種類的貓！",
+    "new_value": "馴養所有種類的貓！",
     "new_en_us": "Tame all Cat variants!"
   },
   {
@@ -636,7 +636,7 @@
     "old_value": "正在將世界界限嘅寬度拓寬到 %s 個方塊，時間 %s 秒",
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
-    "new_value": "正在將世界界限的寬度拓寬到 %s 個方塊，時間 %s 秒",
+    "new_value": "正在將世界界限的寬度拓寬至 %s 個方塊，用時 %s 秒",
     "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
@@ -644,7 +644,7 @@
     "old_value": "正在將世界界限嘅寬度縮窄到 %s 個方塊，時間 %s 秒",
     "old_en_us": "Shrinking the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.shrink",
-    "new_value": "正在將世界界限的寬度縮窄到 %s 個方塊，時間 %s 秒",
+    "new_value": "正在將世界界限的寬度縮窄至 %s 個方塊，用時 %s 秒",
     "new_en_us": "Shrinking the world border to %s block(s) wide over %s second(s)"
   },
   {
@@ -868,7 +868,7 @@
     "old_value": "控制礦車（包括儲存物）、物品展示框、船之類嘅掉落物",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
     "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "控制礦車（包括儲存物）、物品展示框、船之類的掉落物。",
+    "new_value": "控制礦車（包括儲存物）、物品展示框、船之類的跌落物。",
     "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
@@ -934,14 +934,6 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "顯示訊息",
     "new_en_us": "Show messages"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "new_en_us": "Flight Duration: %s"
   },
   {
     "old_key": "itemGroup.redstone",

@@ -156,7 +156,7 @@
     "old_value": "豈非鐵鎬耶",
     "old_en_us": "Isn't It Iron Pick",
     "new_key": "advancements.story.iron_tools.title",
-    "new_value": "此非鐵鎬邪",
+    "new_value": "此非鐵鎬邪？",
     "new_en_us": "Isn't It Iron Pick?"
   },
   {
@@ -214,6 +214,14 @@
     "new_key": "argument.item.tag.disallowed",
     "new_value": "此地不可用籤，但諸實物耳",
     "new_en_us": "Tags aren't allowed here; only actual items are"
+  },
+  {
+    "old_key": "argument.pos.outofbounds",
+    "old_value": "此地不可及也。",
+    "old_en_us": "That position is outside the allowed boundaries.",
+    "new_key": "argument.pos.outofbounds",
+    "new_value": "此地不可及也",
+    "new_en_us": "That position is outside the allowed boundaries"
   },
   {
     "old_key": "argument.time.invalid_tick_count",
@@ -840,14 +848,6 @@
     "new_en_us": "Show messages"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "昇之時：",
-    "old_en_us": "Flight Duration:",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "昇之時：%s",
-    "new_en_us": "Flight Duration: %s"
-  },
-  {
     "old_key": "itemGroup.redstone",
     "old_value": "紅石",
     "old_en_us": "Redstone",
@@ -878,6 +878,14 @@
     "new_key": "key.swapOffhand",
     "new_value": "易掌執物",
     "new_en_us": "Swap Item With Off Hand"
+  },
+  {
+    "old_key": "mount.onboard",
+    "old_value": "撳%1$s以下騎",
+    "old_en_us": "Press %1$s to Dismount",
+    "new_key": "mount.onboard",
+    "new_value": "擊%1$s以下騎",
+    "new_en_us": "Press %1$s to dismount"
   },
   {
     "old_key": "multiplayer.disconnect.invalid_packet",
@@ -1062,6 +1070,14 @@
     "new_key": "selectWorld.backupWarning.downgrade",
     "new_value": "此生界昔見遊於%s，今汝爲%s。將界降可致數據失也，不可保界能爲識作。若將，請先備份之！",
     "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
+  },
+  {
+    "old_key": "selectWorld.edit.backupSize",
+    "old_value": "世之大，%s兆節也",
+    "old_en_us": "size: %s MB",
+    "new_key": "selectWorld.edit.backupSize",
+    "new_value": "世之大：%s兆節",
+    "new_en_us": "Size: %s MB"
   },
   {
     "old_key": "selectWorld.mapFeatures.info",

@@ -4746,6 +4746,13 @@
     "en_us": "Bottle o' Enchanting"
   },
   {
+    "old_key": "item.minecraft.firework_rocket.flight",
+    "old_value": "昇之時：",
+    "new_key": "item.minecraft.firework_rocket.flight",
+    "new_value": "昇之時：%s",
+    "en_us": "Flight Duration:"
+  },
+  {
     "old_key": "item.minecraft.firework_star.pink",
     "old_value": "粉",
     "new_key": "item.minecraft.firework_star.pink",
