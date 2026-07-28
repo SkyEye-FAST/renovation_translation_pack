@@ -7129,7 +7129,7 @@
     "old_key": "item.minecraft.firework_rocket.flight",
     "old_value": "升之时：",
     "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "昇之時：%s",
+    "new_value": "昇之時：",
     "en_us": "Flight Duration:"
   },
   {

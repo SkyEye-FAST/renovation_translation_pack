@@ -532,7 +532,7 @@
     "old_value": "無變。是戯者爲吏",
     "old_en_us": "Nothing changed. The player already is an operator",
     "new_key": "commands.op.failed",
-    "new_value": "無變。是戲者既爲吏矣",
+    "new_value": "無變。是戲者固爲吏",
     "new_en_us": "Nothing changed. The player is already an operator"
   },
   {
@@ -732,7 +732,7 @@
     "old_value": "增世疆之尺爲 %1$s 方於 %2$s 秒間",
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
-    "new_value": "增世疆之尺爲%1$s方於%2$s秒間",
+    "new_value": "增世疆之尺爲%s方於%s秒間",
     "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
@@ -1404,7 +1404,7 @@
     "old_value": "世之大，%s兆節也",
     "old_en_us": "size: %s MB",
     "new_key": "selectWorld.edit.backupSize",
-    "new_value": "世之大：%s兆節",
+    "new_value": "尺寸：%s兆節",
     "new_en_us": "Size: %s MB"
   },
   {
@@ -1580,7 +1580,7 @@
     "old_value": "氣泡升",
     "old_en_us": "Bubbles woosh",
     "new_key": "subtitles.block.bubble_column.upwards_inside",
-    "new_value": "氣泡昇",
+    "new_value": "氣泡興",
     "new_en_us": "Bubbles whoosh"
   },
   {

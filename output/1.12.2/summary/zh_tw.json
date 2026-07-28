@@ -1855,13 +1855,6 @@
     "en_us": "Compass"
   },
   {
-    "old_key": "item.fireworks.flight",
-    "old_value": "飛行時間：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.netherbrick.name",
     "old_value": "地獄磚",
     "new_key": "item.minecraft.nether_brick",

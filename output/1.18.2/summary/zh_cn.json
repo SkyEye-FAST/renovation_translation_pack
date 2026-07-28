@@ -875,6 +875,13 @@
     "en_us": "Feather Falling"
   },
   {
+    "old_key": "filled_map.level",
+    "old_value": "（等级 %s/%s）",
+    "new_key": "filled_map.level",
+    "new_value": "（缩放等级%s/%s）",
+    "en_us": "(Level %s/%s)"
+  },
+  {
     "old_key": "gamerule.forgiveDeadPlayers.description",
     "old_value": "愤怒的中立型生物将在其目标玩家于附近死亡后息怒。",
     "new_key": "gamerule.forgiveDeadPlayers.description",
@@ -908,13 +915,6 @@
     "new_key": "item.minecraft.bucket",
     "new_value": "铁桶",
     "en_us": "Bucket"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飞行时间：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "en_us": "Flight Duration:"
   },
   {
     "old_key": "item.minecraft.firework_star.shape.burst",

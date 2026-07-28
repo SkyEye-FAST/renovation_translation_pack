@@ -2296,13 +2296,6 @@
     "en_us": "Evoker Spawn Egg"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.minecraft.ghast_spawn_egg",
     "old_value": "地獄幽靈 生怪蛋",
     "new_key": "item.minecraft.ghast_spawn_egg",

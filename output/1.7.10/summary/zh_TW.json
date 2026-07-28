@@ -371,13 +371,6 @@
     "en_us": "Dyed"
   },
   {
-    "old_key": "item.fireworks.flight",
-    "old_value": "飛行時間：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.fireworksCharge.lime",
     "old_value": "黃綠色",
     "new_key": "item.minecraft.firework_star.lime",

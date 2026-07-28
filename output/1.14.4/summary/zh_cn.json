@@ -1428,6 +1428,13 @@
     "en_us": "Wither Skull"
   },
   {
+    "old_key": "filled_map.level",
+    "old_value": "（等级 %s/%s）",
+    "new_key": "filled_map.level",
+    "new_value": "（缩放等级%s/%s）",
+    "en_us": "(Level %s/%s)"
+  },
+  {
     "old_key": "item.minecraft.bucket",
     "old_value": "桶",
     "new_key": "item.minecraft.bucket",
@@ -1447,13 +1454,6 @@
     "new_key": "item.minecraft.end_crystal",
     "new_value": "末地水晶",
     "en_us": "End Crystal"
-  },
-  {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飞行时间：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "en_us": "Flight Duration:"
   },
   {
     "old_key": "item.minecraft.firework_star.shape.burst",

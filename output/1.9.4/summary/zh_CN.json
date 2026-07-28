@@ -1358,13 +1358,6 @@
     "en_us": "End Crystal"
   },
   {
-    "old_key": "item.fireworks.flight",
-    "old_value": "飞行时间：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飞行时间：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.fireworksCharge.type.3",
     "old_value": "爬行者状",
     "new_key": "item.minecraft.firework_star.shape.creeper",

@@ -368,6 +368,14 @@
     "new_en_us": "Game rule %s is now set to %s"
   },
   {
+    "old_key": "commands.op.failed",
+    "old_value": "無變。是戲者既爲吏矣",
+    "old_en_us": "Nothing changed. The player already is an operator",
+    "new_key": "commands.op.failed",
+    "new_value": "無變。是戲者固爲吏",
+    "new_en_us": "Nothing changed. The player is already an operator"
+  },
+  {
     "old_key": "commands.schedule.cleared.failure",
     "old_value": "無ID爲%s之程",
     "old_en_us": "No schedules with id %s",
@@ -470,6 +478,14 @@
     "new_key": "commands.whitelist.list",
     "new_value": "%s戲者名列準簿焉：%s",
     "new_en_us": "There are %s whitelisted player(s): %s"
+  },
+  {
+    "old_key": "commands.worldborder.set.grow",
+    "old_value": "增世疆之尺爲%1$s方於%2$s秒間",
+    "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
+    "new_key": "commands.worldborder.set.grow",
+    "new_value": "增世疆之尺爲%s方於%s秒間",
+    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.warning.distance.success",
@@ -1100,7 +1116,7 @@
     "old_value": "世之大，%s兆節也",
     "old_en_us": "size: %s MB",
     "new_key": "selectWorld.edit.backupSize",
-    "new_value": "世之大：%s兆節",
+    "new_value": "尺寸：%s兆節",
     "new_en_us": "Size: %s MB"
   },
   {
@@ -1166,6 +1182,14 @@
     "new_key": "structure_block.mode_info.save",
     "new_value": "記 — 入案",
     "new_en_us": "Save Mode - Write to file"
+  },
+  {
+    "old_key": "subtitles.block.bubble_column.upwards_inside",
+    "old_value": "氣泡昇",
+    "old_en_us": "Bubbles woosh",
+    "new_key": "subtitles.block.bubble_column.upwards_inside",
+    "new_value": "氣泡興",
+    "new_en_us": "Bubbles whoosh"
   },
   {
     "old_key": "subtitles.block.respawn_anchor.ambient",
