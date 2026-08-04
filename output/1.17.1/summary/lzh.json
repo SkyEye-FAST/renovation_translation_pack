@@ -521,15 +521,22 @@
     "old_key": "arguments.block.tag.unknown",
     "old_value": "未明之塊簽「%s」",
     "new_key": "arguments.block.tag.unknown",
-    "new_value": "未知之塊簽「%s」",
+    "new_value": "未知之塊籖「%s」",
     "en_us": "Unknown block tag '%s'"
   },
   {
     "old_key": "arguments.function.tag.unknown",
     "old_value": "未明之術簽「%s」",
     "new_key": "arguments.function.tag.unknown",
-    "new_value": "未知之術簽「%s」",
+    "new_value": "未知之術籖「%s」",
     "en_us": "Unknown function tag '%s'"
+  },
+  {
+    "old_key": "arguments.item.tag.unknown",
+    "old_value": "是物簽未知：「%s」",
+    "new_key": "arguments.item.tag.unknown",
+    "new_value": "未知之物籖：「%s」",
+    "en_us": "Unknown item tag '%s'"
   },
   {
     "old_key": "arguments.objective.notFound",
@@ -1972,6 +1979,13 @@
     "new_key": "block.minecraft.chiseled_stone_bricks",
     "new_value": "雕磚",
     "en_us": "Chiseled Stone Bricks"
+  },
+  {
+    "old_key": "block.minecraft.clay",
+    "old_value": "埴塊",
+    "new_key": "block.minecraft.clay",
+    "new_value": "埴",
+    "en_us": "Clay"
   },
   {
     "old_key": "block.minecraft.cobbled_deepslate",
@@ -3440,7 +3454,7 @@
     "old_key": "commands.data.get.unknown",
     "old_value": "%s不可得，是簽无存焉",
     "new_key": "commands.data.get.unknown",
-    "new_value": "%s不可得，是簽無存焉",
+    "new_value": "%s不可得，是籖無存焉",
     "en_us": "Can't get %s; tag doesn't exist"
   },
   {
@@ -3687,6 +3701,76 @@
     "new_key": "commands.summon.failed.uuid",
     "new_value": "召而未果，蓋戶碼重也",
     "en_us": "Unable to summon entity due to duplicate UUIDs"
+  },
+  {
+    "old_key": "commands.tag.add.failed",
+    "old_value": "的已有此簽，亦或其簽繁哉",
+    "new_key": "commands.tag.add.failed",
+    "new_value": "的已有此籖，亦或其籖繁哉",
+    "en_us": "Target either already has the tag or has too many tags"
+  },
+  {
+    "old_key": "commands.tag.add.success.multiple",
+    "old_value": "已添「%s」簽諸%s實體",
+    "new_key": "commands.tag.add.success.multiple",
+    "new_value": "已添「%s」籖諸%s實體",
+    "en_us": "Added tag '%s' to %s entities"
+  },
+  {
+    "old_key": "commands.tag.add.success.single",
+    "old_value": "已添「%s」簽諸「%s」",
+    "new_key": "commands.tag.add.success.single",
+    "new_value": "已添「%s」籖諸「%s」",
+    "en_us": "Added tag '%s' to %s"
+  },
+  {
+    "old_key": "commands.tag.list.multiple.empty",
+    "old_value": "是%s實體間皆無簽",
+    "new_key": "commands.tag.list.multiple.empty",
+    "new_value": "是%s實體間皆無籖",
+    "en_us": "There are no tags on the %s entities"
+  },
+  {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "是%s實體間共%s簽：%s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "是%s實體間共%s籖：%s",
+    "en_us": "The %s entities have %s total tags: %s"
+  },
+  {
+    "old_key": "commands.tag.list.single.empty",
+    "old_value": "%s無簽",
+    "new_key": "commands.tag.list.single.empty",
+    "new_value": "%s無籖",
+    "en_us": "%s has no tags"
+  },
+  {
+    "old_key": "commands.tag.list.single.success",
+    "old_value": "%s有%s簽：%s",
+    "new_key": "commands.tag.list.single.success",
+    "new_value": "%s有%s籖：%s",
+    "en_us": "%s has %s tags: %s"
+  },
+  {
+    "old_key": "commands.tag.remove.failed",
+    "old_value": "的無是簽",
+    "new_key": "commands.tag.remove.failed",
+    "new_value": "的無是籖",
+    "en_us": "Target does not have this tag"
+  },
+  {
+    "old_key": "commands.tag.remove.success.multiple",
+    "old_value": "已除「%s」簽自%s實體",
+    "new_key": "commands.tag.remove.success.multiple",
+    "new_value": "已除「%s」籖自%s實體",
+    "en_us": "Removed tag '%s' from %s entities"
+  },
+  {
+    "old_key": "commands.tag.remove.success.single",
+    "old_value": "已除「%s」簽自「%s」",
+    "new_key": "commands.tag.remove.success.single",
+    "new_value": "已除「%s」籖自「%s」",
+    "en_us": "Removed tag '%s' from %s"
   },
   {
     "old_key": "commands.team.option.collisionRule.unchanged",
@@ -4310,6 +4394,13 @@
     "new_key": "entity.minecraft.tropical_fish.predefined.21",
     "new_value": "黃鯛",
     "en_us": "Yellow Tang"
+  },
+  {
+    "old_key": "entity.minecraft.tropical_fish.type.clayfish",
+    "old_value": "陶魚",
+    "new_key": "entity.minecraft.tropical_fish.type.clayfish",
+    "new_value": "埴魚",
+    "en_us": "Clayfish"
   },
   {
     "old_key": "entity.minecraft.tropical_fish.type.kob",

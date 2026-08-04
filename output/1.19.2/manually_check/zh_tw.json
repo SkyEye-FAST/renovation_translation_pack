@@ -60,7 +60,7 @@
     "old_value": "無效數值「%s」",
     "old_en_us": "Invalid value \"%s\"",
     "new_key": "argument.enum.invalid",
-    "new_value": "無效數值 '%s'",
+    "new_value": "無效的值 '%s'",
     "new_en_us": "Invalid value '%s'"
   },
   {
@@ -326,6 +326,14 @@
     "new_key": "commands.locate.poi.not_found",
     "new_value": "無法在合理距離內找到 \"%s\" 類型的興趣點",
     "new_en_us": "Could not find a point of interest of type \"%s\" within a reasonable distance"
+  },
+  {
+    "old_key": "commands.perf.started",
+    "old_value": "已啟用持續 10 秒的效能分析測試（使用 '/perf stop' 以提前結束）",
+    "old_en_us": "Started 10 second performance profiling run (use '/perf stop' to stop early)",
+    "new_key": "commands.perf.started",
+    "new_value": "已啟動持續 10 秒的效能分析測試（使用 '/perf stop' 以提前結束）",
+    "new_en_us": "Started 10-second performance profiling run (use '/perf stop' to stop early)"
   },
   {
     "old_key": "commands.place.template.invalid",

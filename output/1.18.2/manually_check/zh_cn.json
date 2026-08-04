@@ -16,6 +16,14 @@
     "new_en_us": "Make the text of any kind of sign glow"
   },
   {
+    "old_key": "advancements.husbandry.safely_harvest_honey.description",
+    "old_value": "利用营火在不惊动蜜蜂的情况下从蜂巢收集蜂蜜",
+    "old_en_us": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
+    "new_key": "advancements.husbandry.safely_harvest_honey.description",
+    "new_value": "利用营火，在不惊动蜜蜂的情况下，用玻璃瓶从蜂巢收集蜂蜜",
+    "new_en_us": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees"
+  },
+  {
     "old_key": "advancements.husbandry.silk_touch_nest.description",
     "old_value": "用精准采集移动住着3只蜜蜂的蜂巢",
     "old_en_us": "Move a Bee Nest, with 3 bees inside, using Silk Touch",

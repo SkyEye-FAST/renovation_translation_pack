@@ -580,7 +580,7 @@
     "old_value": "置簽‘%1$s’於%2$s刻後，戯時爲%3$s\n",
     "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
     "new_key": "commands.schedule.created.tag",
-    "new_value": "既置簽「%1$s」於%3$s時，餘%2$s刻",
+    "new_value": "既置籤「%1$s」於%3$s時，餘%2$s刻",
     "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
   },
   {

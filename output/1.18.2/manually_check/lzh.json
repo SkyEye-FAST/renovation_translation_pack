@@ -544,14 +544,6 @@
     "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
-    "old_key": "commands.schedule.created.tag",
-    "old_value": "既置籤「%1$s」於%3$s時，餘%2$s刻",
-    "old_en_us": "Scheduled tag '%s' in %s ticks at gametime %s",
-    "new_key": "commands.schedule.created.tag",
-    "new_value": "既置簽「%1$s」於%3$s時，餘%2$s刻",
-    "new_en_us": "Scheduled tag '%s' in %s tick(s) at gametime %s"
-  },
-  {
     "old_key": "commands.scoreboard.objectives.list.success",
     "old_value": "今有%s的：%s",
     "old_en_us": "There are %s objectives: %s",
