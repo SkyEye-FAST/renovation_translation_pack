@@ -966,6 +966,13 @@
     "en_us": "Badlands"
   },
   {
+    "old_key": "biome.minecraft.dark_forest",
+    "old_value": "烏林",
+    "new_key": "biome.minecraft.dark_forest",
+    "new_value": "黯林",
+    "en_us": "Dark Forest"
+  },
+  {
     "old_key": "biome.minecraft.deep_cold_ocean",
     "old_value": "深涼海",
     "new_key": "biome.minecraft.deep_cold_ocean",
@@ -8298,7 +8305,7 @@
     "old_key": "mount.onboard",
     "old_value": "按%1$s以下騎",
     "new_key": "mount.onboard",
-    "new_value": "擊%1$s以下騎",
+    "new_value": "撳%1$s以下騎",
     "en_us": "Press %1$s to dismount"
   },
   {

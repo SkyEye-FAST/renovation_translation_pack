@@ -602,6 +602,13 @@
     "en_us": "Badlands"
   },
   {
+    "old_key": "biome.minecraft.dark_forest",
+    "old_value": "烏林",
+    "new_key": "biome.minecraft.dark_forest",
+    "new_value": "黯林",
+    "en_us": "Dark Forest"
+  },
+  {
     "old_key": "biome.minecraft.eroded_badlands",
     "old_value": "劣塬",
     "new_key": "biome.minecraft.eroded_badlands",

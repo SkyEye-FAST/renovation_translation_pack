@@ -757,6 +757,8 @@
   "itemGroup.redstone": "紅石方塊",
   "itemGroup.tools": "工具與實用物品",
   "key.drop": "拋棄已選擇物品",
+  "key.keyboard.left.win": "左 Meta",
+  "key.keyboard.right.win": "右 Meta",
   "key.playerlist": "顯示玩家列表",
   "key.screenshot": "截圖",
   "key.spectatorOutlines": "標示玩家",

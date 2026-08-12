@@ -246,6 +246,8 @@
   "itemGroup.redstone": "红石方块",
   "itemGroup.tools": "工具与实用物品",
   "key.keyboard.backspace": "Backspace",
+  "key.keyboard.left.win": "左Meta",
+  "key.keyboard.right.win": "右Meta",
   "key.spectatorOutlines": "高亮玩家",
   "lanServer.start": "创建局域网世界",
   "language.region": "中国大陆",

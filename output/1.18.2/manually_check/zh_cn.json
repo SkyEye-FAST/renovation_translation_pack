@@ -512,6 +512,22 @@
     "new_en_us": "Tools & Utilities"
   },
   {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左Win",
+    "old_en_us": "Left Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左Meta",
+    "new_en_us": "Left Meta"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右Win",
+    "old_en_us": "Right Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右Meta",
+    "new_en_us": "Right Meta"
+  },
+  {
     "old_key": "key.spectatorOutlines",
     "old_value": "高亮玩家（旁观者）",
     "old_en_us": "Highlight Players (Spectators)",

@@ -302,6 +302,8 @@
   "itemGroup.tools": "工具与实用物品",
   "key.fullscreen": "切换全屏显示",
   "key.keyboard.backspace": "Backspace",
+  "key.keyboard.left.win": "左Meta",
+  "key.keyboard.right.win": "右Meta",
   "key.loadToolbarActivator": "加载快捷栏",
   "key.playerlist": "显示玩家列表",
   "key.saveToolbarActivator": "保存快捷栏",
