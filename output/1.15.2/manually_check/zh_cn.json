@@ -461,7 +461,7 @@
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
     "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
-    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
+    "new_en_us": "Growing the world border to %s block(s) wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -702,22 +702,6 @@
     "new_key": "itemGroup.tools",
     "new_value": "工具与实用物品",
     "new_en_us": "Tools & Utilities"
-  },
-  {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "old_en_us": "Left Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "new_en_us": "Left Meta"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "old_en_us": "Right Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "new_en_us": "Right Meta"
   },
   {
     "old_key": "key.loadToolbarActivator",

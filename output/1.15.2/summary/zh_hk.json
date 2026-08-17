@@ -3983,6 +3983,20 @@
     "en_us": "Drop Selected Item"
   },
   {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左 Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左 Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右 Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右 Meta",
+    "en_us": "Right Win"
+  },
+  {
     "old_key": "key.playerlist",
     "old_value": "玩家列表",
     "new_key": "key.playerlist",

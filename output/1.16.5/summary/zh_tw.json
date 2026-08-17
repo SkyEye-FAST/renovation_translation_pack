@@ -2597,6 +2597,20 @@
     "en_us": "Zombified Piglin Spawn Egg"
   },
   {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左 Windows",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左 Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右 Windows",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右 Meta",
+    "en_us": "Right Win"
+  },
+  {
     "old_key": "menu.game",
     "old_value": "遊戲目錄",
     "new_key": "menu.game",

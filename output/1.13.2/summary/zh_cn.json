@@ -1466,7 +1466,7 @@
     "old_key": "connect.connecting",
     "old_value": "正在连接到服务器...",
     "new_key": "connect.connecting",
-    "new_value": "正在连接到服务器…",
+    "new_value": "正在连接至服务器…",
     "en_us": "Connecting to the server..."
   },
   {
@@ -1853,6 +1853,20 @@
     "new_key": "key.keyboard.backspace",
     "new_value": "Backspace",
     "en_us": "Backspace"
+  },
+  {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右Meta",
+    "en_us": "Right Win"
   },
   {
     "old_key": "key.playerlist",

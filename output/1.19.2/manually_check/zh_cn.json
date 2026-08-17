@@ -325,7 +325,7 @@
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
     "new_value": "正在将世界边界的宽度扩大为%s个方块，用时%s秒",
-    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
+    "new_en_us": "Growing the world border to %s block(s) wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -584,22 +584,6 @@
     "new_en_us": "Tools & Utilities"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "old_en_us": "Left Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "new_en_us": "Left Meta"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "old_en_us": "Right Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "new_en_us": "Right Meta"
-  },
-  {
     "old_key": "key.spectatorOutlines",
     "old_value": "高亮玩家（旁观者）",
     "old_en_us": "Highlight Players (Spectators)",
@@ -756,7 +740,7 @@
     "old_value": "Minecraft已耗尽内存。\n\n原因可能是游戏存在漏洞或Java虚拟机未获得足够的内存分配。\n\n为了避免存档损坏，游戏已退出。我们已尝试腾出足够的内存来使你返回主菜单进而返回游戏，但这可能并未奏效。\n\n如果你再次看见此消息，请重启游戏。",
     "old_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent level corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again.",
     "new_key": "outOfMemory.message",
-    "new_value": "Minecraft已耗尽内存。\n\n原因可能是游戏存在漏洞，或分配给Java虚拟机的内存过少。\n\n为避免世界损坏，当前游戏已退出。我们已尝试腾出内存，让你可以回到主菜单并继续游戏，但这不一定奏效。\n\n如果你再次看见此消息，请重启游戏。",
+    "new_value": "Minecraft已耗尽内存。\n\n原因可能是游戏存在漏洞，或分配给Java虚拟机的内存不足。\n\n为避免世界损坏，当前游戏已退出。我们已尝试腾出内存，让你可以回到主菜单并继续游戏，但这不一定奏效。\n\n如果你再次看见此消息，请重启游戏。",
     "new_en_us": "Minecraft has run out of memory.\n\nThis could be caused by a bug in the game or by the Java Virtual Machine not being allocated enough memory.\n\nTo prevent world corruption, the current game has quit. We've tried to free up enough memory to let you go back to the main menu and back to playing, but this may not have worked.\n\nPlease restart the game if you see this message again."
   },
   {

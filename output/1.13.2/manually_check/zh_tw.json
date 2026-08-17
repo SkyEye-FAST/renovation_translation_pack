@@ -672,22 +672,6 @@
     "new_en_us": "Tools & Utilities"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Windows",
-    "old_en_us": "Left Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "new_en_us": "Left Meta"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Windows",
-    "old_en_us": "Right Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "new_en_us": "Right Meta"
-  },
-  {
     "old_key": "key.loadToolbarActivator",
     "old_value": "載入工具列",
     "old_en_us": "Load Toolbar Activator",

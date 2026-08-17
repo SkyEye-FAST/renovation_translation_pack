@@ -597,7 +597,7 @@
     "old_en_us": "Started 10 second performance profiling run (use '/perf stop' to stop early)",
     "new_key": "commands.perf.started",
     "new_value": "已啟動持續 10 秒的效能分析器（用 「/perf stop」可提前停止）",
-    "new_en_us": "Started 10-second performance profiling run (use '/perf stop' to stop early)"
+    "new_en_us": "Started a 10-second performance profiling run (use '/perf stop' to stop early)"
   },
   {
     "old_key": "commands.perf.stopped",
@@ -701,7 +701,7 @@
     "old_en_us": "Growing the world border to %s blocks wide over %s seconds",
     "new_key": "commands.worldborder.set.grow",
     "new_value": "正在將世界界限的寬度拓寬至 %s 個方塊，用時 %s 秒",
-    "new_en_us": "Growing the world border to %s blocks wide over %s second(s)"
+    "new_en_us": "Growing the world border to %s block(s) wide over %s second(s)"
   },
   {
     "old_key": "commands.worldborder.set.shrink",
@@ -1030,22 +1030,6 @@
     "new_key": "itemGroup.tools",
     "new_value": "工具與實用物品",
     "new_en_us": "Tools & Utilities"
-  },
-  {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Win",
-    "old_en_us": "Left Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "new_en_us": "Left Meta"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Win",
-    "old_en_us": "Right Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "new_en_us": "Right Meta"
   },
   {
     "old_key": "key.spectatorOutlines",

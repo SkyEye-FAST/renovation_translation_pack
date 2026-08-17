@@ -5012,6 +5012,20 @@
     "en_us": "Toggle Fullscreen"
   },
   {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右Meta",
+    "en_us": "Right Win"
+  },
+  {
     "old_key": "key.mouse",
     "old_value": "摯 %1$s",
     "new_key": "key.mouse",
@@ -5262,6 +5276,13 @@
     "new_key": "options.graphics.warning.vendor",
     "new_value": "檢得販者：[%s]",
     "en_us": "Vendor detected: [%s]"
+  },
+  {
+    "old_key": "options.graphics.warning.version",
+    "old_value": "檢得公圖庫之本：[%s]",
+    "new_key": "options.graphics.warning.version",
+    "new_value": "檢得圖帑之版：[%s]",
+    "en_us": "OpenGL Version detected: [%s]"
   },
   {
     "old_key": "options.guiScale.auto",

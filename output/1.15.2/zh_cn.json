@@ -225,6 +225,7 @@
   "commands.worldborder.warning.distance.success": "已将世界边界的警告距离设置为%s个方块",
   "commands.worldborder.warning.time.success": "已将世界边界的警告时间设置为%s秒",
   "connect.authorizing": "登录中…",
+  "connect.connecting": "正在连接至服务器…",
   "container.enchant.lapis.many": "花费：%s颗青金石",
   "container.enchant.lapis.one": "花费：1颗青金石",
   "createWorld.customize.buffet.biome": "请选择一种生物群系",

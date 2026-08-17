@@ -973,6 +973,7 @@
   "options.graphics.warning.accept": "無援而進",
   "options.graphics.warning.renderer": "檢得繪器：[%s]",
   "options.graphics.warning.vendor": "檢得販者：[%s]",
+  "options.graphics.warning.version": "檢得圖帑之版：[%s]",
   "options.hidden": "隱",
   "options.hideLightningFlashes": "隱天穹之爍",
   "options.hideLightningFlashes.tooltip": "阻列缺等爍天穹。爍源仍可見焉。",

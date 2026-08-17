@@ -784,6 +784,13 @@
     "en_us": "You can only trigger objectives that are 'trigger' type"
   },
   {
+    "old_key": "connect.connecting",
+    "old_value": "正在连接到服务器…",
+    "new_key": "connect.connecting",
+    "new_value": "正在连接至服务器…",
+    "en_us": "Connecting to the server..."
+  },
+  {
     "old_key": "createWorld.customize.flat.tile",
     "old_value": "此层的材料",
     "new_key": "createWorld.customize.flat.tile",
@@ -929,6 +936,20 @@
     "new_key": "item.minecraft.suspicious_stew",
     "new_value": "谜之炖菜",
     "en_us": "Suspicious Stew"
+  },
+  {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右Meta",
+    "en_us": "Right Win"
   },
   {
     "old_key": "lanServer.start",

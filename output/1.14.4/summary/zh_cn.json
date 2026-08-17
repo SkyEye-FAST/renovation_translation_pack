@@ -1204,6 +1204,13 @@
     "en_us": "Logging in..."
   },
   {
+    "old_key": "connect.connecting",
+    "old_value": "正在连接到服务器…",
+    "new_key": "connect.connecting",
+    "new_value": "正在连接至服务器…",
+    "en_us": "Connecting to the server..."
+  },
+  {
     "old_key": "container.enchant.lapis.many",
     "old_value": "花费：%s个青金石",
     "new_key": "container.enchant.lapis.many",
@@ -1517,6 +1524,20 @@
     "new_key": "key.keyboard.backspace",
     "new_value": "Backspace",
     "en_us": "Backspace"
+  },
+  {
+    "old_key": "key.keyboard.left.win",
+    "old_value": "左Win",
+    "new_key": "key.keyboard.left.win",
+    "new_value": "左Meta",
+    "en_us": "Left Win"
+  },
+  {
+    "old_key": "key.keyboard.right.win",
+    "old_value": "右Win",
+    "new_key": "key.keyboard.right.win",
+    "new_value": "右Meta",
+    "en_us": "Right Win"
   },
   {
     "old_key": "key.playerlist",
