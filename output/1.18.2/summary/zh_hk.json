@@ -2534,13 +2534,6 @@
     "en_us": "Custom bossbar %s has changed maximum to %s"
   },
   {
-    "old_key": "commands.bossbar.set.max.unchanged",
-    "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
-    "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條原本已為最大值",
-    "en_us": "Nothing changed. That's already the max of this bossbar"
-  },
-  {
     "old_key": "commands.bossbar.set.name.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此名稱",
     "new_key": "commands.bossbar.set.name.unchanged",
@@ -4739,13 +4732,6 @@
     "en_us": "Evoker Spawn Egg"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.minecraft.fox_spawn_egg",
     "old_value": "狐狸 生成蛋",
     "new_key": "item.minecraft.fox_spawn_egg",
@@ -5236,20 +5222,6 @@
     "en_us": "Drop Selected Item"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "en_us": "Right Win"
-  },
-  {
     "old_key": "key.screenshot",
     "old_value": "擷取螢幕畫面",
     "new_key": "key.screenshot",
@@ -5677,13 +5649,6 @@
     "en_us": "Graphics Device Unsupported"
   },
   {
-    "old_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
-    "old_value": "部分操作會導致所在區塊即時重新編譯，包括放置或破壞方塊。",
-    "new_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
-    "new_value": "部分操作會即時將所處區塊重新編譯，包括放置與破壞方塊。",
-    "en_us": "Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying."
-  },
-  {
     "old_key": "options.prioritizeChunkUpdates.nearby.tooltip",
     "old_value": "將附近嘅區塊一律即時編譯。依個選項可能會喺放置或破壞方塊時嚴重影響遊戲效能。",
     "new_key": "options.prioritizeChunkUpdates.nearby.tooltip",
@@ -5913,13 +5878,6 @@
     "new_key": "selectWorld.backupWarning.experimental",
     "new_value": "此世界使用隨時可能失效的實驗性設定。我們無法保證可以正常載入或者運作。請小心謹慎！",
     "en_us": "This world uses experimental settings that could stop working at any time. We cannot guarantee it will load or work. Here be dragons!"
-  },
-  {
-    "old_key": "selectWorld.conversion.tooltip",
-    "old_value": "依個世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
-    "new_key": "selectWorld.conversion.tooltip",
-    "new_value": "此世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
-    "en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted"
   },
   {
     "old_key": "selectWorld.create",

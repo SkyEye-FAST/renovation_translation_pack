@@ -2135,13 +2135,6 @@
     "en_us": "Fast"
   },
   {
-    "old_key": "options.languageWarning",
-    "old_value": "遊戲中的字詞翻譯並非完全精確",
-    "new_key": "options.languageWarning",
-    "new_value": "語言翻譯並不一定是100%%精確",
-    "en_us": "Language translations may not be 100%% accurate"
-  },
-  {
     "old_key": "options.mipmapLevels",
     "old_value": "多精度材質（Mipmap）等級",
     "new_key": "options.mipmapLevels",

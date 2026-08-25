@@ -128,6 +128,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界與局部坐標（必須全部都用 ^ 或是完全不用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",

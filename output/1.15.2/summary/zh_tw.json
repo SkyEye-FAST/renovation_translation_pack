@@ -126,13 +126,6 @@
     "en_us": "Expected a block position"
   },
   {
-    "old_key": "argument.pos.mixed",
-    "old_value": "不能混用世界與局部坐標（必須全部都用 ^ 或是完全不用）",
-    "new_key": "argument.pos.mixed",
-    "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
-    "en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)"
-  },
-  {
     "old_key": "block.minecraft.banner.diagonal_left.black",
     "old_value": "右上方黑色填滿",
     "new_key": "block.minecraft.banner.diagonal_left.black",
@@ -1638,13 +1631,6 @@
     "en_us": "Custom bossbar %s is currently hidden"
   },
   {
-    "old_key": "commands.bossbar.get.visible.visible",
-    "old_value": "自定義 Boss 狀態條 %s 目前為顯示",
-    "new_key": "commands.bossbar.get.visible.visible",
-    "new_value": "自訂 Boss 狀態條 %s 目前可見",
-    "en_us": "Custom bossbar %s is currently shown"
-  },
-  {
     "old_key": "commands.bossbar.list.bars.none",
     "old_value": "沒有已啟用的自定義 Boss 狀態條",
     "new_key": "commands.bossbar.list.bars.none",
@@ -1881,20 +1867,6 @@
     "new_key": "commands.seed.success",
     "new_value": "世界種子碼：%s",
     "en_us": "Seed: %s"
-  },
-  {
-    "old_key": "commands.tag.list.multiple.success",
-    "old_value": "這 %s 個實體總共有 %s 個標籤： %s",
-    "new_key": "commands.tag.list.multiple.success",
-    "new_value": "這 %s 個實體總共有 %s 個標籤：%s",
-    "en_us": "The %s entities have %s total tags: %s"
-  },
-  {
-    "old_key": "commands.tag.list.single.success",
-    "old_value": "%s 有 %s 個標籤： %s",
-    "new_key": "commands.tag.list.single.success",
-    "new_value": "%s 有 %s 個標籤：%s",
-    "en_us": "%s has %s tags: %s"
   },
   {
     "old_key": "commands.team.option.deathMessageVisibility.success",
@@ -2791,20 +2763,6 @@
     "new_key": "item.nbt_tags",
     "new_value": "NBT：%s 個標籤",
     "en_us": "NBT: %s tag(s)"
-  },
-  {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Windows",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Windows",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "en_us": "Right Win"
   },
   {
     "old_key": "language.code",

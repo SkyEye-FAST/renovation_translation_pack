@@ -112,6 +112,14 @@
     "new_en_us": "Integer must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界與局部坐標（必須全部都用 ^ 或是完全不用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "arguments.nbtpath.node.invalid",
     "old_value": "無效的 NBT 路徑，應為元素名稱或索引",
     "old_en_us": "Invalid NBT path, expected element name or index",
@@ -192,12 +200,28 @@
     "new_en_us": "Custom bossbar %s has %s player(s) currently online: %s"
   },
   {
+    "old_key": "commands.bossbar.get.visible.visible",
+    "old_value": "自定義頭目狀態條 %s 目前為顯示",
+    "old_en_us": "Custom bossbar %s is currently shown",
+    "new_key": "commands.bossbar.get.visible.visible",
+    "new_value": "自訂 Boss 狀態條 %s 目前可見",
+    "new_en_us": "Custom bossbar %s is currently visible"
+  },
+  {
     "old_key": "commands.bossbar.list.bars.some",
     "old_value": "已啟用的 %s 個自定義頭目狀態條為：%s",
     "old_en_us": "There are %s custom bossbars active: %s",
     "new_key": "commands.bossbar.list.bars.some",
     "new_value": "已啟用的 %s 個自訂 Boss 狀態條為：%s",
     "new_en_us": "There are %s custom bossbar(s) active: %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此頭目狀態條已經是該最大值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未進行任何變更。此 Boss 狀態條已經是該最大值",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.players.success.some",

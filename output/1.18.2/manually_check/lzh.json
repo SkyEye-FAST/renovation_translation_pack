@@ -336,12 +336,28 @@
     "new_en_us": "Custom bossbar %s has %s player(s) currently online: %s"
   },
   {
+    "old_key": "commands.bossbar.get.visible.visible",
+    "old_value": "自定Boss條%s今顯",
+    "old_en_us": "Custom bossbar %s is currently shown",
+    "new_key": "commands.bossbar.get.visible.visible",
+    "new_value": "自定帥條%s今顯",
+    "new_en_us": "Custom bossbar %s is currently visible"
+  },
+  {
     "old_key": "commands.bossbar.list.bars.some",
     "old_value": "既啟之自定Boss條有%s：%s",
     "old_en_us": "There are %s custom bossbars active: %s",
     "new_key": "commands.bossbar.list.bars.some",
     "new_value": "既啟之自定帥條有%s：%s",
     "new_en_us": "There are %s custom bossbar(s) active: %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "無變。是Boss條已爲是頂值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "無變。是帥條已爲是極",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.players.success.some",
@@ -614,6 +630,22 @@
     "new_key": "commands.spreadplayers.success.teams",
     "new_value": "既散%s伍於%s, %s之間，間均距%s方",
     "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "是%s實體間共%s簽：%s",
+    "old_en_us": "The %s entities have %s total tags: %s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "是%s實體間共%s籖：%s",
+    "new_en_us": "The %s entities have %s total tag(s): %s"
+  },
+  {
+    "old_key": "commands.tag.list.single.success",
+    "old_value": "%s有%s簽：%s",
+    "old_en_us": "%s has %s tags: %s",
+    "new_key": "commands.tag.list.single.success",
+    "new_value": "%s有%s籖：%s",
+    "new_en_us": "%s has %s tag(s): %s"
   },
   {
     "old_key": "commands.team.empty.success",
@@ -1120,6 +1152,14 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
   },
   {
+    "old_key": "selectWorld.conversion.tooltip",
+    "old_value": "此生界必先啟於舊版（若1.6.4者）以求安變",
+    "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
+    "new_key": "selectWorld.conversion.tooltip",
+    "new_value": "此生界必先啟於舊版（若一點六點四者）以求安變",
+    "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
+  },
+  {
     "old_key": "selectWorld.edit.backupSize",
     "old_value": "世之大，%s兆節也",
     "old_en_us": "size: %s MB",
@@ -1196,7 +1236,7 @@
     "old_value": "相關經距",
     "old_en_us": "relative Position x",
     "new_key": "structure_block.position.x",
-    "new_value": "相對經距",
+    "new_value": "東西相去",
     "new_en_us": "relative position x"
   },
   {

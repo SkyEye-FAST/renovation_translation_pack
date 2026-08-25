@@ -1267,20 +1267,6 @@
     "en_us": "Backspace"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "en_us": "Right Win"
-  },
-  {
     "old_key": "language.region",
     "old_value": "中国",
     "new_key": "language.region",
@@ -1321,6 +1307,13 @@
     "new_key": "multiplayer.requiredTexturePrompt.line2",
     "new_value": "拒绝使用该自定义资源包将会断开你与该服务器的连接。",
     "en_us": "Rejecting this custom resource pack will disconnect you from this server."
+  },
+  {
+    "old_key": "multiplayer.status.cannot_connect",
+    "old_value": "无法连接到服务器",
+    "new_key": "multiplayer.status.cannot_connect",
+    "new_value": "无法连接至服务器",
+    "en_us": "Can't connect to server"
   },
   {
     "old_key": "multiplayer.status.quitting",

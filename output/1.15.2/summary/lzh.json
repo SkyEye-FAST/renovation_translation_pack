@@ -381,7 +381,7 @@
     "old_key": "advancements.nether.return_to_sender.description",
     "old_value": "以火彈殺一亡魂",
     "new_key": "advancements.nether.return_to_sender.description",
-    "new_value": "以火圓殺魄",
+    "new_value": "以火丸殺魄",
     "en_us": "Destroy a Ghast with a fireball"
   },
   {
@@ -845,13 +845,6 @@
     "new_key": "argument.pos.missing.int",
     "new_value": "應爲一方塊之坐標",
     "en_us": "Expected a block position"
-  },
-  {
-    "old_key": "argument.pos.mixed",
-    "old_value": "世之座標與局部座標不可共存（皆用（^）抑或皆捨之）",
-    "new_key": "argument.pos.mixed",
-    "new_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
-    "en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)"
   },
   {
     "old_key": "argument.pos2d.incomplete",
@@ -2497,13 +2490,6 @@
     "new_key": "block.minecraft.blue_carpet",
     "new_value": "靛氍毹",
     "en_us": "Blue Carpet"
-  },
-  {
-    "old_key": "block.minecraft.blue_ice",
-    "old_value": "藍冰",
-    "new_key": "block.minecraft.blue_ice",
-    "new_value": "靛冰",
-    "en_us": "Blue Ice"
   },
   {
     "old_key": "block.minecraft.brewing_stand",
@@ -4256,13 +4242,6 @@
     "en_us": "Custom bossbar %s is currently hidden"
   },
   {
-    "old_key": "commands.bossbar.get.visible.visible",
-    "old_value": "自定Boss條%s今顯",
-    "new_key": "commands.bossbar.get.visible.visible",
-    "new_value": "自定帥條%s今顯",
-    "en_us": "Custom bossbar %s is currently shown"
-  },
-  {
     "old_key": "commands.bossbar.list.bars.none",
     "old_value": "無自定Boss條之既啟者",
     "new_key": "commands.bossbar.list.bars.none",
@@ -4296,13 +4275,6 @@
     "new_key": "commands.bossbar.set.max.success",
     "new_value": "已易自定帥條%s之極爲%s",
     "en_us": "Custom bossbar %s has changed maximum to %s"
-  },
-  {
-    "old_key": "commands.bossbar.set.max.unchanged",
-    "old_value": "無變。是Boss條已爲是頂值",
-    "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "無變。是帥條已爲是極",
-    "en_us": "Nothing changed. That's already the max of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.name.success",
@@ -5110,25 +5082,11 @@
     "en_us": "There are no tags on the %s entities"
   },
   {
-    "old_key": "commands.tag.list.multiple.success",
-    "old_value": "是%s實體間共%s簽：%s",
-    "new_key": "commands.tag.list.multiple.success",
-    "new_value": "是%s實體間共%s籖：%s",
-    "en_us": "The %s entities have %s total tags: %s"
-  },
-  {
     "old_key": "commands.tag.list.single.empty",
     "old_value": "%s无簽",
     "new_key": "commands.tag.list.single.empty",
     "new_value": "%s無籖",
     "en_us": "%s has no tags"
-  },
-  {
-    "old_key": "commands.tag.list.single.success",
-    "old_value": "%s有%s簽：%s",
-    "new_key": "commands.tag.list.single.success",
-    "new_value": "%s有%s籖：%s",
-    "en_us": "%s has %s tags: %s"
   },
   {
     "old_key": "commands.tag.remove.failed",
@@ -5311,13 +5269,6 @@
     "new_key": "commands.weather.set.rain",
     "new_value": "天象既爲雨",
     "en_us": "Set the weather to rain"
-  },
-  {
-    "old_key": "commands.weather.set.thunder",
-    "old_value": "已設天象爲雷雨",
-    "new_key": "commands.weather.set.thunder",
-    "new_value": "天象既爲雷雨",
-    "en_us": "Set the weather to rain & thunder"
   },
   {
     "old_key": "commands.whitelist.add.failed",
@@ -5675,6 +5626,20 @@
     "new_key": "death.attack.even_more_magic",
     "new_value": "%1$s斃於不測神力",
     "en_us": "%1$s was killed by even more magic"
+  },
+  {
+    "old_key": "death.attack.fireball",
+    "old_value": "%1$s爲%2$s以火圓射殺",
+    "new_key": "death.attack.fireball",
+    "new_value": "%1$s爲%2$s以火丸射殺",
+    "en_us": "%1$s was fireballed by %2$s"
+  },
+  {
+    "old_key": "death.attack.fireball.item",
+    "old_value": "%1$s爲%2$s以%3$s之火圓射殺",
+    "new_key": "death.attack.fireball.item",
+    "new_value": "%1$s爲%2$s以%3$s之火丸射殺",
+    "en_us": "%1$s was fireballed by %2$s using %3$s"
   },
   {
     "old_key": "death.attack.generic",
@@ -6450,7 +6415,7 @@
     "old_key": "entity.minecraft.fireball",
     "old_value": "火球",
     "new_key": "entity.minecraft.fireball",
-    "new_value": "火圓",
+    "new_value": "火丸",
     "en_us": "Fireball"
   },
   {
@@ -6578,6 +6543,13 @@
     "new_key": "entity.minecraft.slime",
     "new_value": "黏膠魔",
     "en_us": "Slime"
+  },
+  {
+    "old_key": "entity.minecraft.small_fireball",
+    "old_value": "小火圓",
+    "new_key": "entity.minecraft.small_fireball",
+    "new_value": "小火丸",
+    "en_us": "Small Fireball"
   },
   {
     "old_key": "entity.minecraft.snow_golem",
@@ -8155,18 +8127,130 @@
     "en_us": "Enter"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "en_us": "Left Win"
+    "old_key": "key.keyboard.keypad.1",
+    "old_value": "數鍵1",
+    "new_key": "key.keyboard.keypad.1",
+    "new_value": "數鍵 1",
+    "en_us": "Keypad 1"
   },
   {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "en_us": "Right Win"
+    "old_key": "key.keyboard.keypad.2",
+    "old_value": "數鍵2",
+    "new_key": "key.keyboard.keypad.2",
+    "new_value": "數鍵 2",
+    "en_us": "Keypad 2"
+  },
+  {
+    "old_key": "key.keyboard.keypad.3",
+    "old_value": "數鍵3",
+    "new_key": "key.keyboard.keypad.3",
+    "new_value": "數鍵 3",
+    "en_us": "Keypad 3"
+  },
+  {
+    "old_key": "key.keyboard.keypad.4",
+    "old_value": "數鍵4",
+    "new_key": "key.keyboard.keypad.4",
+    "new_value": "數鍵 4",
+    "en_us": "Keypad 4"
+  },
+  {
+    "old_key": "key.keyboard.keypad.5",
+    "old_value": "數鍵5",
+    "new_key": "key.keyboard.keypad.5",
+    "new_value": "數鍵 5",
+    "en_us": "Keypad 5"
+  },
+  {
+    "old_key": "key.keyboard.keypad.6",
+    "old_value": "數鍵6",
+    "new_key": "key.keyboard.keypad.6",
+    "new_value": "數鍵 6",
+    "en_us": "Keypad 6"
+  },
+  {
+    "old_key": "key.keyboard.keypad.7",
+    "old_value": "數鍵7",
+    "new_key": "key.keyboard.keypad.7",
+    "new_value": "數鍵 7",
+    "en_us": "Keypad 7"
+  },
+  {
+    "old_key": "key.keyboard.keypad.8",
+    "old_value": "數鍵8",
+    "new_key": "key.keyboard.keypad.8",
+    "new_value": "數鍵 8",
+    "en_us": "Keypad 8"
+  },
+  {
+    "old_key": "key.keyboard.keypad.9",
+    "old_value": "數鍵9",
+    "new_key": "key.keyboard.keypad.9",
+    "new_value": "數鍵 9",
+    "en_us": "Keypad 9"
+  },
+  {
+    "old_key": "key.keyboard.keypad.add",
+    "old_value": "數鍵+",
+    "new_key": "key.keyboard.keypad.add",
+    "new_value": "數鍵 +",
+    "en_us": "Keypad +"
+  },
+  {
+    "old_key": "key.keyboard.keypad.decimal",
+    "old_value": "數鍵.",
+    "new_key": "key.keyboard.keypad.decimal",
+    "new_value": "數鍵 .",
+    "en_us": "Keypad Decimal"
+  },
+  {
+    "old_key": "key.keyboard.keypad.divide",
+    "old_value": "數鍵/",
+    "new_key": "key.keyboard.keypad.divide",
+    "new_value": "數鍵 /",
+    "en_us": "Keypad /"
+  },
+  {
+    "old_key": "key.keyboard.keypad.enter",
+    "old_value": "數鍵Enter",
+    "new_key": "key.keyboard.keypad.enter",
+    "new_value": "數鍵 Enter",
+    "en_us": "Keypad Enter"
+  },
+  {
+    "old_key": "key.keyboard.keypad.equal",
+    "old_value": "數鍵=",
+    "new_key": "key.keyboard.keypad.equal",
+    "new_value": "數鍵 =",
+    "en_us": "Keypad ="
+  },
+  {
+    "old_key": "key.keyboard.keypad.multiply",
+    "old_value": "數鍵*",
+    "new_key": "key.keyboard.keypad.multiply",
+    "new_value": "數鍵 *",
+    "en_us": "Keypad *"
+  },
+  {
+    "old_key": "key.keyboard.keypad.subtract",
+    "old_value": "數鍵-",
+    "new_key": "key.keyboard.keypad.subtract",
+    "new_value": "數鍵 -",
+    "en_us": "Keypad -"
+  },
+  {
+    "old_key": "key.keyboard.left",
+    "old_value": "←",
+    "new_key": "key.keyboard.left",
+    "new_value": "左矢",
+    "en_us": "Left Arrow"
+  },
+  {
+    "old_key": "key.keyboard.right",
+    "old_value": "→",
+    "new_key": "key.keyboard.right",
+    "new_value": "右矢",
+    "en_us": "Right Arrow"
   },
   {
     "old_key": "key.left",
@@ -8825,13 +8909,6 @@
     "new_key": "options.language",
     "new_value": "文⋯",
     "en_us": "Language..."
-  },
-  {
-    "old_key": "options.languageWarning",
-    "old_value": "文之所譯，未必悉准",
-    "new_key": "options.languageWarning",
-    "new_value": "文之所譯，未必悉準",
-    "en_us": "Language translations may not be 100%% accurate"
   },
   {
     "old_key": "options.mainHand",
@@ -11259,7 +11336,7 @@
     "old_key": "subtitles.item.firecharge.use",
     "old_value": "火圓之簌簌聲",
     "new_key": "subtitles.item.firecharge.use",
-    "new_value": "火圓簌然",
+    "new_value": "火丸簌然",
     "en_us": "Fireball whooshes"
   },
   {

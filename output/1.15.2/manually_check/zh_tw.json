@@ -160,6 +160,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界與局部坐標（必須全部都用 ^ 或是完全不用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配， 應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -222,6 +230,14 @@
     "new_key": "commands.bossbar.get.players.some",
     "new_value": "自訂 Boss 狀態條 %s 目前有 %s 位玩家在線上：%s",
     "new_en_us": "Custom bossbar %s has %s player(s) currently online: %s"
+  },
+  {
+    "old_key": "commands.bossbar.get.visible.visible",
+    "old_value": "自定義 Boss 狀態條 %s 目前為顯示",
+    "old_en_us": "Custom bossbar %s is currently shown",
+    "new_key": "commands.bossbar.get.visible.visible",
+    "new_value": "自訂 Boss 狀態條 %s 目前可見",
+    "new_en_us": "Custom bossbar %s is currently visible"
   },
   {
     "old_key": "commands.bossbar.list.bars.some",
@@ -502,6 +518,22 @@
     "new_key": "commands.spreadplayers.success.teams",
     "new_value": "已將 %s 個隊伍分散於 (%s, %s) 附近， 每個隊伍之間的平均距離為 %s 格",
     "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
+  },
+  {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "這 %s 個實體總共有 %s 個標籤： %s",
+    "old_en_us": "The %s entities have %s total tags: %s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "這 %s 個實體總共有 %s 個標籤：%s",
+    "new_en_us": "The %s entities have %s total tag(s): %s"
+  },
+  {
+    "old_key": "commands.tag.list.single.success",
+    "old_value": "%s 有 %s 個標籤： %s",
+    "old_en_us": "%s has %s tags: %s",
+    "new_key": "commands.tag.list.single.success",
+    "new_value": "%s 有 %s 個標籤：%s",
+    "new_en_us": "%s has %s tag(s): %s"
   },
   {
     "old_key": "commands.whitelist.list",

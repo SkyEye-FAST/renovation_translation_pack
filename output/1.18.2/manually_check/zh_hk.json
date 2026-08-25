@@ -472,6 +472,14 @@
     "new_en_us": "There are %s custom bossbar(s) active: %s"
   },
   {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為最大值",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
+  },
+  {
     "old_key": "commands.clear.success.multiple",
     "old_value": "已刪除 %2$s 個玩家嘅 %1$s 個物品",
     "old_en_us": "Removed %s items from %s players",
@@ -1224,6 +1232,14 @@
     "new_en_us": "Open to LAN"
   },
   {
+    "old_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
+    "old_value": "部分操作會導致所在區塊即時重新編譯，包括放置或破壞方塊。",
+    "old_en_us": "Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying.",
+    "new_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
+    "new_value": "部分操作會即時將所處區塊重新編譯，包括放置與破壞方塊。",
+    "new_en_us": "Some actions within a chunk will recompile the chunk immediately. This includes block placing and destroying."
+  },
+  {
     "old_key": "options.realmsNotifications",
     "old_value": "Realms 通知",
     "old_en_us": "Realms Notifications",
@@ -1278,6 +1294,14 @@
     "new_key": "selectWorld.backupWarning.snapshot",
     "new_value": "此世界上次遊玩時的版本為 %s，而你現時的版本為 %s。請建立備份以防世界損壞。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
+  },
+  {
+    "old_key": "selectWorld.conversion.tooltip",
+    "old_value": "依個世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
+    "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
+    "new_key": "selectWorld.conversion.tooltip",
+    "new_value": "此世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
+    "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
   },
   {
     "old_key": "selectWorld.load_folder_access",

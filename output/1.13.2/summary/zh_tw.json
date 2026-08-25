@@ -77,13 +77,6 @@
     "en_us": "Expected a block position"
   },
   {
-    "old_key": "argument.pos.mixed",
-    "old_value": "不能混用世界與局部坐標（必須全部都用 ^ 或是完全不用）",
-    "new_key": "argument.pos.mixed",
-    "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
-    "en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)"
-  },
-  {
     "old_key": "block.minecraft.acacia_planks",
     "old_value": "相思木木材",
     "new_key": "block.minecraft.acacia_planks",
@@ -1722,13 +1715,6 @@
     "en_us": "Custom bossbar %s is currently hidden"
   },
   {
-    "old_key": "commands.bossbar.get.visible.visible",
-    "old_value": "自定義頭目狀態條 %s 目前為顯示",
-    "new_key": "commands.bossbar.get.visible.visible",
-    "new_value": "自訂 Boss 狀態條 %s 目前可見",
-    "en_us": "Custom bossbar %s is currently shown"
-  },
-  {
     "old_key": "commands.bossbar.list.bars.none",
     "old_value": "沒有已啟用的自定義頭目狀態條",
     "new_key": "commands.bossbar.list.bars.none",
@@ -1762,13 +1748,6 @@
     "new_key": "commands.bossbar.set.max.success",
     "new_value": "已將自訂 Boss 狀態條 %s 的最大值變更為 %s",
     "en_us": "Custom bossbar %s has changed maximum to %s"
-  },
-  {
-    "old_key": "commands.bossbar.set.max.unchanged",
-    "old_value": "未進行任何變更。此頭目狀態條已經是該最大值",
-    "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "未進行任何變更。此 Boss 狀態條已經是該最大值",
-    "en_us": "Nothing changed. That's already the max of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.name.success",
@@ -2882,20 +2861,6 @@
     "new_key": "key.attack",
     "new_value": "攻擊／破壞",
     "en_us": "Attack/Destroy"
-  },
-  {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Windows",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Windows",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "en_us": "Right Win"
   },
   {
     "old_key": "key.screenshot",

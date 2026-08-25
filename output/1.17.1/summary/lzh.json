@@ -199,7 +199,7 @@
     "old_key": "advancements.nether.return_to_sender.description",
     "old_value": "以火圓殺一惡靈",
     "new_key": "advancements.nether.return_to_sender.description",
-    "new_value": "以火圓殺魄",
+    "new_value": "以火丸殺魄",
     "en_us": "Destroy a Ghast with a fireball"
   },
   {
@@ -1897,13 +1897,6 @@
     "en_us": "Cake with Blue Candle"
   },
   {
-    "old_key": "block.minecraft.blue_ice",
-    "old_value": "藍冰",
-    "new_key": "block.minecraft.blue_ice",
-    "new_value": "靛冰",
-    "en_us": "Blue Ice"
-  },
-  {
     "old_key": "block.minecraft.brewing_stand",
     "old_value": "煉藥台",
     "new_key": "block.minecraft.brewing_stand",
@@ -2716,6 +2709,27 @@
     "en_us": "Cake with Purple Candle"
   },
   {
+    "old_key": "block.minecraft.raw_copper_block",
+    "old_value": "銅石塊",
+    "new_key": "block.minecraft.raw_copper_block",
+    "new_value": "銅璞塊",
+    "en_us": "Block of Raw Copper"
+  },
+  {
+    "old_key": "block.minecraft.raw_gold_block",
+    "old_value": "金石塊",
+    "new_key": "block.minecraft.raw_gold_block",
+    "new_value": "金璞塊",
+    "en_us": "Block of Raw Gold"
+  },
+  {
+    "old_key": "block.minecraft.raw_iron_block",
+    "old_value": "鐵石塊",
+    "new_key": "block.minecraft.raw_iron_block",
+    "new_value": "鐵璞塊",
+    "en_us": "Block of Raw Iron"
+  },
+  {
     "old_key": "block.minecraft.red_banner",
     "old_value": "紅旗",
     "new_key": "block.minecraft.red_banner",
@@ -3304,13 +3318,6 @@
     "en_us": "Custom bossbar %s is currently hidden"
   },
   {
-    "old_key": "commands.bossbar.get.visible.visible",
-    "old_value": "自定Boss條%s今顯",
-    "new_key": "commands.bossbar.get.visible.visible",
-    "new_value": "自定帥條%s今顯",
-    "en_us": "Custom bossbar %s is currently shown"
-  },
-  {
     "old_key": "commands.bossbar.list.bars.none",
     "old_value": "無自定Boss條之既啟者",
     "new_key": "commands.bossbar.list.bars.none",
@@ -3344,13 +3351,6 @@
     "new_key": "commands.bossbar.set.max.success",
     "new_value": "已易自定帥條%s之極爲%s",
     "en_us": "Custom bossbar %s has changed maximum to %s"
-  },
-  {
-    "old_key": "commands.bossbar.set.max.unchanged",
-    "old_value": "無變。是Boss條已爲是頂值",
-    "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "無變。是帥條已爲是極",
-    "en_us": "Nothing changed. That's already the max of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.name.success",
@@ -3738,25 +3738,11 @@
     "en_us": "There are no tags on the %s entities"
   },
   {
-    "old_key": "commands.tag.list.multiple.success",
-    "old_value": "是%s實體間共%s簽：%s",
-    "new_key": "commands.tag.list.multiple.success",
-    "new_value": "是%s實體間共%s籖：%s",
-    "en_us": "The %s entities have %s total tags: %s"
-  },
-  {
     "old_key": "commands.tag.list.single.empty",
     "old_value": "%s無簽",
     "new_key": "commands.tag.list.single.empty",
     "new_value": "%s無籖",
     "en_us": "%s has no tags"
-  },
-  {
-    "old_key": "commands.tag.list.single.success",
-    "old_value": "%s有%s簽：%s",
-    "new_key": "commands.tag.list.single.success",
-    "new_value": "%s有%s籖：%s",
-    "en_us": "%s has %s tags: %s"
   },
   {
     "old_key": "commands.tag.remove.failed",
@@ -3988,6 +3974,20 @@
     "new_key": "death.attack.fallingStalactite",
     "new_value": "%1$s爲穴之石墜而穿",
     "en_us": "%1$s was skewered by a falling stalactite"
+  },
+  {
+    "old_key": "death.attack.fireball",
+    "old_value": "%1$s爲%2$s以火圓射殺",
+    "new_key": "death.attack.fireball",
+    "new_value": "%1$s爲%2$s以火丸射殺",
+    "en_us": "%1$s was fireballed by %2$s"
+  },
+  {
+    "old_key": "death.attack.fireball.item",
+    "old_value": "%1$s爲%2$s以%3$s之火圓射殺",
+    "new_key": "death.attack.fireball.item",
+    "new_value": "%1$s爲%2$s以%3$s之火丸射殺",
+    "en_us": "%1$s was fireballed by %2$s using %3$s"
   },
   {
     "old_key": "death.attack.fireworks.item",
@@ -4270,6 +4270,13 @@
     "en_us": "Thrown Bottle o' Enchanting"
   },
   {
+    "old_key": "entity.minecraft.fireball",
+    "old_value": "火圓",
+    "new_key": "entity.minecraft.fireball",
+    "new_value": "火丸",
+    "en_us": "Fireball"
+  },
+  {
     "old_key": "entity.minecraft.ghast",
     "old_value": "惡靈",
     "new_key": "entity.minecraft.ghast",
@@ -4331,6 +4338,13 @@
     "new_key": "entity.minecraft.skeleton_horse",
     "new_value": "骷髏馬",
     "en_us": "Skeleton Horse"
+  },
+  {
+    "old_key": "entity.minecraft.small_fireball",
+    "old_value": "小火圓",
+    "new_key": "entity.minecraft.small_fireball",
+    "new_value": "小火丸",
+    "en_us": "Small Fireball"
   },
   {
     "old_key": "entity.minecraft.spectral_arrow",
@@ -5047,6 +5061,20 @@
     "en_us": "Pumpkin Pie"
   },
   {
+    "old_key": "item.minecraft.raw_gold",
+    "old_value": "馬蹄金",
+    "new_key": "item.minecraft.raw_gold",
+    "new_value": "金璞",
+    "en_us": "Raw Gold"
+  },
+  {
+    "old_key": "item.minecraft.raw_iron",
+    "old_value": "砂鐵",
+    "new_key": "item.minecraft.raw_iron",
+    "new_value": "鐵璞",
+    "en_us": "Raw Iron"
+  },
+  {
     "old_key": "item.minecraft.red_dye",
     "old_value": "紅染",
     "new_key": "item.minecraft.red_dye",
@@ -5278,18 +5306,130 @@
     "en_us": "Toggle Fullscreen"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "en_us": "Left Win"
+    "old_key": "key.keyboard.keypad.1",
+    "old_value": "數鍵1",
+    "new_key": "key.keyboard.keypad.1",
+    "new_value": "數鍵 1",
+    "en_us": "Keypad 1"
   },
   {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "en_us": "Right Win"
+    "old_key": "key.keyboard.keypad.2",
+    "old_value": "數鍵2",
+    "new_key": "key.keyboard.keypad.2",
+    "new_value": "數鍵 2",
+    "en_us": "Keypad 2"
+  },
+  {
+    "old_key": "key.keyboard.keypad.3",
+    "old_value": "數鍵3",
+    "new_key": "key.keyboard.keypad.3",
+    "new_value": "數鍵 3",
+    "en_us": "Keypad 3"
+  },
+  {
+    "old_key": "key.keyboard.keypad.4",
+    "old_value": "數鍵4",
+    "new_key": "key.keyboard.keypad.4",
+    "new_value": "數鍵 4",
+    "en_us": "Keypad 4"
+  },
+  {
+    "old_key": "key.keyboard.keypad.5",
+    "old_value": "數鍵5",
+    "new_key": "key.keyboard.keypad.5",
+    "new_value": "數鍵 5",
+    "en_us": "Keypad 5"
+  },
+  {
+    "old_key": "key.keyboard.keypad.6",
+    "old_value": "數鍵6",
+    "new_key": "key.keyboard.keypad.6",
+    "new_value": "數鍵 6",
+    "en_us": "Keypad 6"
+  },
+  {
+    "old_key": "key.keyboard.keypad.7",
+    "old_value": "數鍵7",
+    "new_key": "key.keyboard.keypad.7",
+    "new_value": "數鍵 7",
+    "en_us": "Keypad 7"
+  },
+  {
+    "old_key": "key.keyboard.keypad.8",
+    "old_value": "數鍵8",
+    "new_key": "key.keyboard.keypad.8",
+    "new_value": "數鍵 8",
+    "en_us": "Keypad 8"
+  },
+  {
+    "old_key": "key.keyboard.keypad.9",
+    "old_value": "數鍵9",
+    "new_key": "key.keyboard.keypad.9",
+    "new_value": "數鍵 9",
+    "en_us": "Keypad 9"
+  },
+  {
+    "old_key": "key.keyboard.keypad.add",
+    "old_value": "數鍵+",
+    "new_key": "key.keyboard.keypad.add",
+    "new_value": "數鍵 +",
+    "en_us": "Keypad +"
+  },
+  {
+    "old_key": "key.keyboard.keypad.decimal",
+    "old_value": "數鍵.",
+    "new_key": "key.keyboard.keypad.decimal",
+    "new_value": "數鍵 .",
+    "en_us": "Keypad Decimal"
+  },
+  {
+    "old_key": "key.keyboard.keypad.divide",
+    "old_value": "數鍵/",
+    "new_key": "key.keyboard.keypad.divide",
+    "new_value": "數鍵 /",
+    "en_us": "Keypad /"
+  },
+  {
+    "old_key": "key.keyboard.keypad.enter",
+    "old_value": "數鍵Enter",
+    "new_key": "key.keyboard.keypad.enter",
+    "new_value": "數鍵 Enter",
+    "en_us": "Keypad Enter"
+  },
+  {
+    "old_key": "key.keyboard.keypad.equal",
+    "old_value": "數鍵=",
+    "new_key": "key.keyboard.keypad.equal",
+    "new_value": "數鍵 =",
+    "en_us": "Keypad ="
+  },
+  {
+    "old_key": "key.keyboard.keypad.multiply",
+    "old_value": "數鍵*",
+    "new_key": "key.keyboard.keypad.multiply",
+    "new_value": "數鍵 *",
+    "en_us": "Keypad *"
+  },
+  {
+    "old_key": "key.keyboard.keypad.subtract",
+    "old_value": "數鍵-",
+    "new_key": "key.keyboard.keypad.subtract",
+    "new_value": "數鍵 -",
+    "en_us": "Keypad -"
+  },
+  {
+    "old_key": "key.keyboard.left",
+    "old_value": "←",
+    "new_key": "key.keyboard.left",
+    "new_value": "左矢",
+    "en_us": "Left Arrow"
+  },
+  {
+    "old_key": "key.keyboard.right",
+    "old_value": "→",
+    "new_key": "key.keyboard.right",
+    "new_value": "右矢",
+    "en_us": "Right Arrow"
   },
   {
     "old_key": "key.mouse",
@@ -6991,6 +7131,13 @@
     "new_key": "subtitles.item.dye.use",
     "new_value": "染",
     "en_us": "Dye stains"
+  },
+  {
+    "old_key": "subtitles.item.firecharge.use",
+    "old_value": "火圓簌然",
+    "new_key": "subtitles.item.firecharge.use",
+    "new_value": "火丸簌然",
+    "en_us": "Fireball whooshes"
   },
   {
     "old_key": "subtitles.item.lodestone_compass.lock",

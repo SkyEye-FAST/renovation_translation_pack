@@ -392,6 +392,14 @@
     "new_en_us": "There are %s custom bossbar(s) active: %s"
   },
   {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未作任何變更。此 Boss 狀態條原本已為最大值",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
+  },
+  {
     "old_key": "commands.clear.success.multiple",
     "old_value": "已刪除 %2$s 個玩家嘅 %1$s 個物品",
     "old_en_us": "Removed %s items from %s players",

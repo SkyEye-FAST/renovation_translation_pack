@@ -752,6 +752,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.languageWarning",
+    "old_value": "遊戲中的字詞翻譯並非完全精確",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "語言翻譯並不一定是100%%精確",
+    "new_en_us": "Language translations may not be 100%% accurate."
+  },
+  {
     "old_key": "options.multiplayer.title",
     "old_value": "多人遊戲設定...",
     "old_en_us": "Multiplayer Settings...",

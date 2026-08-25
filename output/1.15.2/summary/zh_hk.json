@@ -1792,13 +1792,6 @@
     "en_us": "Custom bossbar %s has changed maximum to %s"
   },
   {
-    "old_key": "commands.bossbar.set.max.unchanged",
-    "old_value": "未進行任何變更。此 Boss 狀態條已為最大值",
-    "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "未作任何變更。此 Boss 狀態條原本已為最大值",
-    "en_us": "Nothing changed. That's already the max of this bossbar"
-  },
-  {
     "old_key": "commands.bossbar.set.name.unchanged",
     "old_value": "未進行任何變更。此 Boss 狀態條已為此名稱",
     "new_key": "commands.bossbar.set.name.unchanged",
@@ -3570,13 +3563,6 @@
     "en_us": "Evoker Spawn Egg"
   },
   {
-    "old_key": "item.minecraft.firework_rocket.flight",
-    "old_value": "飛行時間：",
-    "new_key": "item.minecraft.firework_rocket.flight",
-    "new_value": "飛行時間：%s",
-    "en_us": "Flight Duration:"
-  },
-  {
     "old_key": "item.minecraft.fox_spawn_egg",
     "old_value": "狐狸 生成蛋",
     "new_key": "item.minecraft.fox_spawn_egg",
@@ -3981,20 +3967,6 @@
     "new_key": "key.drop",
     "new_value": "拋棄已選擇物品",
     "en_us": "Drop Selected Item"
-  },
-  {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左 Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左 Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右 Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右 Meta",
-    "en_us": "Right Win"
   },
   {
     "old_key": "key.playerlist",

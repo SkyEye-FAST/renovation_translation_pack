@@ -184,6 +184,14 @@
     "new_en_us": "Tags aren't allowed here; only actual items are"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "世之座標與局部座標不可共存（皆用（^）抑或皆捨之）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.range.ints",
     "old_value": "僅整數",
     "old_en_us": "Only whole numbers allowed, not decimals",
@@ -288,12 +296,28 @@
     "new_en_us": "Custom bossbar %s has %s player(s) currently online: %s"
   },
   {
+    "old_key": "commands.bossbar.get.visible.visible",
+    "old_value": "自定Boss條%s今顯",
+    "old_en_us": "Custom bossbar %s is currently shown",
+    "new_key": "commands.bossbar.get.visible.visible",
+    "new_value": "自定帥條%s今顯",
+    "new_en_us": "Custom bossbar %s is currently visible"
+  },
+  {
     "old_key": "commands.bossbar.list.bars.some",
     "old_value": "既啟之自定Boss條有%s：%s",
     "old_en_us": "There are %s custom bossbars active: %s",
     "new_key": "commands.bossbar.list.bars.some",
     "new_value": "既啟之自定帥條有%s：%s",
     "new_en_us": "There are %s custom bossbar(s) active: %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "無變。是Boss條已爲是頂值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "無變。是帥條已爲是極",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.players.success.some",
@@ -688,6 +712,22 @@
     "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
   },
   {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "是%s實體間共%s簽：%s",
+    "old_en_us": "The %s entities have %s total tags: %s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "是%s實體間共%s籖：%s",
+    "new_en_us": "The %s entities have %s total tag(s): %s"
+  },
+  {
+    "old_key": "commands.tag.list.single.success",
+    "old_value": "%s有%s簽：%s",
+    "old_en_us": "%s has %s tags: %s",
+    "new_key": "commands.tag.list.single.success",
+    "new_value": "%s有%s籖：%s",
+    "new_en_us": "%s has %s tag(s): %s"
+  },
+  {
     "old_key": "commands.team.empty.success",
     "old_value": "已自伍%2$s去%1$s戯者",
     "old_en_us": "Removed %s members from team %s",
@@ -702,6 +742,14 @@
     "new_key": "commands.team.option.name.success",
     "new_value": "既改%s伍名",
     "new_en_us": "Updated the name of team %s"
+  },
+  {
+    "old_key": "commands.weather.set.thunder",
+    "old_value": "已設天象爲雷雨",
+    "old_en_us": "Set the weather to rain & thunder",
+    "new_key": "commands.weather.set.thunder",
+    "new_value": "天象既爲雷雨",
+    "new_en_us": "Set the weather to rain and thunder"
   },
   {
     "old_key": "commands.whitelist.list",
@@ -1264,6 +1312,14 @@
     "new_en_us": "Chat Settings"
   },
   {
+    "old_key": "options.languageWarning",
+    "old_value": "文之所譯，未必悉准",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "文之所譯，未必悉準",
+    "new_en_us": "Language translations may not be 100%% accurate."
+  },
+  {
     "old_key": "options.modelPart.left_pants_leg",
     "old_value": "左褲",
     "old_en_us": "Left Pants Leg",
@@ -1564,7 +1620,7 @@
     "old_value": "相關經距",
     "old_en_us": "relative Position x",
     "new_key": "structure_block.position.x",
-    "new_value": "相對經距",
+    "new_value": "東西相去",
     "new_en_us": "relative position x"
   },
   {

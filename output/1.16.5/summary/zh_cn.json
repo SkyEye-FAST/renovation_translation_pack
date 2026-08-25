@@ -1267,20 +1267,6 @@
     "en_us": "Backspace"
   },
   {
-    "old_key": "key.keyboard.left.win",
-    "old_value": "左Win",
-    "new_key": "key.keyboard.left.win",
-    "new_value": "左Meta",
-    "en_us": "Left Win"
-  },
-  {
-    "old_key": "key.keyboard.right.win",
-    "old_value": "右Win",
-    "new_key": "key.keyboard.right.win",
-    "new_value": "右Meta",
-    "en_us": "Right Win"
-  },
-  {
     "old_key": "key.playerlist",
     "old_value": "玩家列表",
     "new_key": "key.playerlist",
@@ -1328,6 +1314,13 @@
     "new_key": "multiplayer.downloadingStats",
     "new_value": "正在获取统计信息…",
     "en_us": "Retrieving statistics..."
+  },
+  {
+    "old_key": "multiplayer.status.cannot_connect",
+    "old_value": "无法连接到服务器",
+    "new_key": "multiplayer.status.cannot_connect",
+    "new_value": "无法连接至服务器",
+    "en_us": "Can't connect to server"
   },
   {
     "old_key": "multiplayer.status.quitting",

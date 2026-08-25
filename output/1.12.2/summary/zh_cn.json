@@ -693,6 +693,13 @@
     "en_us": "Failed to verify username!"
   },
   {
+    "old_key": "multiplayer.status.cannot_connect",
+    "old_value": "无法连接到服务器",
+    "new_key": "multiplayer.status.cannot_connect",
+    "new_value": "无法连接至服务器",
+    "en_us": "Can't connect to server"
+  },
+  {
     "old_key": "multiplayer.status.pinging",
     "old_value": "检测中...",
     "new_key": "multiplayer.status.pinging",
