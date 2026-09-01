@@ -136,6 +136,14 @@
     "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
   },
   {
+    "old_key": "argument.pos.outofbounds",
+    "old_value": "該位置位於允許的範圍外。",
+    "old_en_us": "That position is outside the allowed boundaries.",
+    "new_key": "argument.pos.outofbounds",
+    "new_value": "該位置位於允許的範圍外",
+    "new_en_us": "That position is outside the allowed boundaries"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -646,6 +654,14 @@
     "new_key": "options.hideLightningFlashes.tooltip",
     "new_value": "防止打雷或其他環境效果造成天空閃爍。造成閃爍的光源依然可見。",
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
+  },
+  {
+    "old_key": "options.languageWarning",
+    "old_value": "語言翻譯並不一定是100%%精確",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "語言翻譯並不一定是 100%% 精確。",
+    "new_en_us": "Language translations may not be 100%% accurate."
   },
   {
     "old_key": "options.multiplayer.title",

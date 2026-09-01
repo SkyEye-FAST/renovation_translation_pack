@@ -1855,6 +1855,13 @@
     "en_us": "Barrel"
   },
   {
+    "old_key": "block.minecraft.beacon",
+    "old_value": "烽火臺",
+    "new_key": "block.minecraft.beacon",
+    "new_value": "烽燧",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "block.minecraft.bed.no_sleep",
     "old_value": "汝唯可寢於夜或雷雨之時",
     "new_key": "block.minecraft.bed.no_sleep",
@@ -3892,6 +3899,13 @@
     "en_us": "Barrel"
   },
   {
+    "old_key": "container.beacon",
+    "old_value": "烽火臺",
+    "new_key": "container.beacon",
+    "new_value": "烽燧",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "container.brewing",
     "old_value": "煉藥台",
     "new_key": "container.brewing",
@@ -4065,6 +4079,13 @@
     "new_key": "debug.advanced_tooltips.off",
     "new_value": "既隱詳註",
     "en_us": "Advanced tooltips: hidden"
+  },
+  {
+    "old_key": "debug.advanced_tooltips.on",
+    "old_value": "既現詳注",
+    "new_key": "debug.advanced_tooltips.on",
+    "new_value": "詳注既現",
+    "en_us": "Advanced tooltips: shown"
   },
   {
     "old_key": "debug.copy_location.message",
@@ -6097,6 +6118,13 @@
     "en_us": "Cake Slices Eaten"
   },
   {
+    "old_key": "stat.minecraft.interact_with_beacon",
+    "old_value": "烽火臺用數",
+    "new_key": "stat.minecraft.interact_with_beacon",
+    "new_value": "烽燧用數",
+    "en_us": "Interactions with Beacon"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_brewingstand",
     "old_value": "煉藥台用數",
     "new_key": "stat.minecraft.interact_with_brewingstand",
@@ -6181,6 +6209,13 @@
     "en_us": "Save"
   },
   {
+    "old_key": "structure_block.position",
+    "old_value": "相關經緯",
+    "new_key": "structure_block.position",
+    "new_value": "相對經緯",
+    "en_us": "Relative Position"
+  },
+  {
     "old_key": "structure_block.save_success",
     "old_value": "構以「%s」記也",
     "new_key": "structure_block.save_success",
@@ -6202,10 +6237,31 @@
     "en_us": "Barrel opens"
   },
   {
+    "old_key": "subtitles.block.beacon.activate",
+    "old_value": "烽火臺啟",
+    "new_key": "subtitles.block.beacon.activate",
+    "new_value": "烽燧啟",
+    "en_us": "Beacon activates"
+  },
+  {
+    "old_key": "subtitles.block.beacon.ambient",
+    "old_value": "烽火臺鳴",
+    "new_key": "subtitles.block.beacon.ambient",
+    "new_value": "烽燧鳴",
+    "en_us": "Beacon hums"
+  },
+  {
+    "old_key": "subtitles.block.beacon.deactivate",
+    "old_value": "烽火臺熄",
+    "new_key": "subtitles.block.beacon.deactivate",
+    "new_value": "烽燧熄",
+    "en_us": "Beacon deactivates"
+  },
+  {
     "old_key": "subtitles.block.beacon.power_select",
     "old_value": "即擇烽火臺之效",
     "new_key": "subtitles.block.beacon.power_select",
-    "new_value": "擇烽火臺之效",
+    "new_value": "擇烽燧之效",
     "en_us": "Beacon power selected"
   },
   {

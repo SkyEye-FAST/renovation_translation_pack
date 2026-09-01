@@ -315,6 +315,13 @@
     "en_us": "Local Brewery"
   },
   {
+    "old_key": "advancements.nether.create_beacon.description",
+    "old_value": "作而置烽火臺",
+    "new_key": "advancements.nether.create_beacon.description",
+    "new_value": "作而置烽燧",
+    "en_us": "Construct and place a Beacon"
+  },
+  {
     "old_key": "advancements.nether.create_beacon.title",
     "old_value": "於宅筑烽",
     "new_key": "advancements.nether.create_beacon.title",
@@ -2448,6 +2455,13 @@
     "new_key": "block.minecraft.barrel",
     "new_value": "木桶",
     "en_us": "Barrel"
+  },
+  {
+    "old_key": "block.minecraft.beacon",
+    "old_value": "烽火臺",
+    "new_key": "block.minecraft.beacon",
+    "new_value": "烽燧",
+    "en_us": "Beacon"
   },
   {
     "old_key": "block.minecraft.bed.obstructed",
@@ -5446,6 +5460,13 @@
     "en_us": "Barrel"
   },
   {
+    "old_key": "container.beacon",
+    "old_value": "烽火臺",
+    "new_key": "container.beacon",
+    "new_value": "烽燧",
+    "en_us": "Beacon"
+  },
+  {
     "old_key": "container.blast_furnace",
     "old_value": "橐爐",
     "new_key": "container.blast_furnace",
@@ -5820,7 +5841,7 @@
     "old_key": "debug.advanced_tooltips.on",
     "old_value": "詳注：現",
     "new_key": "debug.advanced_tooltips.on",
-    "new_value": "既現詳注",
+    "new_value": "詳注既現",
     "en_us": "Advanced tooltips: shown"
   },
   {
@@ -9723,6 +9744,13 @@
     "en_us": "Interactions with Anvil"
   },
   {
+    "old_key": "stat.minecraft.interact_with_beacon",
+    "old_value": "烽火臺用數",
+    "new_key": "stat.minecraft.interact_with_beacon",
+    "new_value": "烽燧用數",
+    "en_us": "Interactions with Beacon"
+  },
+  {
     "old_key": "stat.minecraft.interact_with_blast_furnace",
     "old_value": "橐爐用數",
     "new_key": "stat.minecraft.interact_with_blast_furnace",
@@ -9966,6 +9994,13 @@
     "new_key": "structure_block.mode.save",
     "new_value": "記式",
     "en_us": "Save"
+  },
+  {
+    "old_key": "structure_block.position",
+    "old_value": "相關經緯",
+    "new_key": "structure_block.position",
+    "new_value": "相對經緯",
+    "en_us": "Relative Position"
   },
   {
     "old_key": "structure_block.save_failure",

@@ -414,6 +414,7 @@ options.fov.min=正常
 options.framerateLimit=最大 FPS
 options.graphics.fancy=精緻
 options.graphics.fast=流暢
+options.languageWarning=語言翻譯並不一定是 100%% 精確。
 options.mipmapLevels=Mipmap 等級
 options.multiplayer.title=在區域網路上公開
 options.particles.all=全部

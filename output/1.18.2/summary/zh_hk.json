@@ -304,7 +304,7 @@
     "old_key": "advancements.nether.ride_strider_in_overworld_lava.description",
     "old_value": "喺主世界嘅熔岩湖上面騎住熾足獸去一次超長途旅行",
     "new_key": "advancements.nether.ride_strider_in_overworld_lava.description",
-    "new_value": "在主世界的熔巖湖上和熾足獸來一段超長途旅行",
+    "new_value": "騎上熾足獸，於主世界的熔巖湖上去一次長——途旅行",
     "en_us": "Take a Strider for a loooong ride on a lava lake in the Overworld"
   },
   {
@@ -444,7 +444,7 @@
     "old_key": "argument.block.property.novalue",
     "old_value": "%s 上必須要有 '%s' 屬性",
     "new_key": "argument.block.property.novalue",
-    "new_value": "應為方塊 %s 內「%s」屬性必須要有值",
+    "new_value": "方塊 %2$s 上的屬性「%1$s」應有數值",
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
@@ -2287,6 +2287,13 @@
     "new_key": "command.expected.separator",
     "new_value": "引數結尾應為空白字符，惟發現有尾隨數據",
     "en_us": "Expected whitespace to end one argument, but found trailing data"
+  },
+  {
+    "old_key": "commands.advancement.criterionNotFound",
+    "old_value": "進度 %1$s 不包含 '%2$s' 標準條件",
+    "new_key": "commands.advancement.criterionNotFound",
+    "new_value": "進度 %1$s 不包含「%2$s」標準條件",
+    "en_us": "The advancement %1$s does not contain the criterion '%2$s'"
   },
   {
     "old_key": "commands.advancement.grant.criterion.to.many.failure",

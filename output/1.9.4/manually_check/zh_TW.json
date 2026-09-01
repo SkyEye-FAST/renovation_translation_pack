@@ -756,7 +756,7 @@
     "old_value": "遊戲中的字詞翻譯並非完全精確",
     "old_en_us": "Language translations may not be 100%% accurate",
     "new_key": "options.languageWarning",
-    "new_value": "語言翻譯並不一定是100%%精確",
+    "new_value": "語言翻譯並不一定是 100%% 精確。",
     "new_en_us": "Language translations may not be 100%% accurate."
   },
   {

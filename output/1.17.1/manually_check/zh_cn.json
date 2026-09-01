@@ -136,6 +136,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界与局部坐标（必须全部用^或都不使用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用绝对坐标与局部坐标（必须全部使用^或都不使用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.pos.outofbounds",
     "old_value": "该位置超出了允许的范围。",
     "old_en_us": "That position is outside the allowed boundaries.",
@@ -646,6 +654,14 @@
     "new_key": "options.fovEffectScale.tooltip",
     "new_value": "控制游戏机制效果改变视场角的程度。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.languageWarning",
+    "old_value": "语言翻译不一定100%%准确",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "语言翻译不一定100%%准确。",
+    "new_en_us": "Language translations may not be 100%% accurate."
   },
   {
     "old_key": "options.multiplayer.title",

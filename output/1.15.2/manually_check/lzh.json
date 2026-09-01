@@ -72,6 +72,14 @@
     "new_en_us": "Brew a Potion"
   },
   {
+    "old_key": "advancements.nether.create_full_beacon.description",
+    "old_value": "引烽火臺戾全力",
+    "old_en_us": "Bring a beacon to full power",
+    "new_key": "advancements.nether.create_full_beacon.description",
+    "new_value": "引烽燧戾全力",
+    "new_en_us": "Bring a Beacon to full power"
+  },
+  {
     "old_key": "advancements.story.deflect_arrow.description",
     "old_value": "以盾御返矢",
     "old_en_us": "Deflect an arrow with a shield",
@@ -188,7 +196,7 @@
     "old_value": "世之座標與局部座標不可共存（皆用（^）抑或皆捨之）",
     "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
     "new_key": "argument.pos.mixed",
-    "new_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
+    "new_value": "天道座標與自樞座標不可共存（皆含「^」抑不然）",
     "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
   },
   {
@@ -316,7 +324,7 @@
     "old_value": "無變。是Boss條已爲是頂值",
     "old_en_us": "Nothing changed. That's already the max of this bossbar",
     "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "無變。是帥條已爲是極",
+    "new_value": "無變。是帥條既爲極直",
     "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
@@ -716,7 +724,7 @@
     "old_value": "是%s實體間共%s簽：%s",
     "old_en_us": "The %s entities have %s total tags: %s",
     "new_key": "commands.tag.list.multiple.success",
-    "new_value": "是%s實體間共%s籖：%s",
+    "new_value": "是%s實體間共%s籤：%s",
     "new_en_us": "The %s entities have %s total tag(s): %s"
   },
   {
@@ -724,7 +732,7 @@
     "old_value": "%s有%s簽：%s",
     "old_en_us": "%s has %s tags: %s",
     "new_key": "commands.tag.list.single.success",
-    "new_value": "%s有%s籖：%s",
+    "new_value": "%s有%s籤：%s",
     "new_en_us": "%s has %s tag(s): %s"
   },
   {
@@ -748,7 +756,7 @@
     "old_value": "已設天象爲雷雨",
     "old_en_us": "Set the weather to rain & thunder",
     "new_key": "commands.weather.set.thunder",
-    "new_value": "天象既爲雷雨",
+    "new_value": "既設天象爲雷雨",
     "new_en_us": "Set the weather to rain and thunder"
   },
   {
@@ -820,7 +828,7 @@
     "old_value": "此境任我定",
     "old_en_us": "Buffet world customization",
     "new_key": "createWorld.customize.buffet.title",
-    "new_value": "自定生界",
+    "new_value": "自定獨生態域",
     "new_en_us": "Single Biome Customization"
   },
   {
@@ -1316,7 +1324,7 @@
     "old_value": "文之所譯，未必悉准",
     "old_en_us": "Language translations may not be 100%% accurate",
     "new_key": "options.languageWarning",
-    "new_value": "文之所譯，未必悉準",
+    "new_value": "文之所譯，未必悉準。",
     "new_en_us": "Language translations may not be 100%% accurate."
   },
   {

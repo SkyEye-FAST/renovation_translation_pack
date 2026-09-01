@@ -608,6 +608,14 @@
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
   },
   {
+    "old_key": "options.languageWarning",
+    "old_value": "語言翻譯並不一定是100%%精確",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "語言翻譯並不一定是 100%% 精確。",
+    "new_en_us": "Language translations may not be 100%% accurate."
+  },
+  {
     "old_key": "options.multiplayer.title",
     "old_value": "多人遊戲設定...",
     "old_en_us": "Multiplayer Settings...",

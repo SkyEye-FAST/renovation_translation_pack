@@ -136,6 +136,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界与局部坐标（必须全部用^或都不使用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用绝对坐标与局部坐标（必须全部使用^或都不使用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.time.invalid_tick_count",
     "old_value": "刻的计数必须为非负数",
     "old_en_us": "Tick count must be non-negative",
@@ -790,6 +798,14 @@
     "new_key": "options.chat.title",
     "new_value": "聊天设置",
     "new_en_us": "Chat Settings"
+  },
+  {
+    "old_key": "options.languageWarning",
+    "old_value": "语言翻译不一定100%%准确",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "语言翻译不一定100%%准确。",
+    "new_en_us": "Language translations may not be 100%% accurate."
   },
   {
     "old_key": "options.multiplayer.title",

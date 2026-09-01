@@ -279,6 +279,7 @@ options.chat.visibility.system=仅限命令
 options.controls=按键控制…
 options.fov=视场角
 options.fov.min=中
+options.languageWarning=语言翻译不一定100%%准确。
 options.mipmapLevels=Mipmap级别
 options.modelPart.jacket=外套
 options.multiplayer.title=对局域网开放

@@ -320,6 +320,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不應混用世界與局部坐標（必須全部都用 ^ 或全部不使用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不應混用世界與局部坐標（必須全部使用 ^ 或全部不使用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.pos.outofbounds",
     "old_value": "此位置超出容許範圍。",
     "old_en_us": "That position is outside the allowed boundaries.",
@@ -1224,6 +1232,14 @@
     "new_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
   },
   {
+    "old_key": "options.languageWarning",
+    "old_value": "語言翻譯未必 100%% 準確",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "語言翻譯未必 100%% 準確。",
+    "new_en_us": "Language translations may not be 100%% accurate."
+  },
+  {
     "old_key": "options.multiplayer.title",
     "old_value": "多人遊戲設定⋯⋯",
     "old_en_us": "Multiplayer Settings...",
@@ -1300,7 +1316,7 @@
     "old_value": "依個世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
     "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
     "new_key": "selectWorld.conversion.tooltip",
-    "new_value": "此世界必須用較舊版本（例如 1.6.4）打開，以確保安全轉換",
+    "new_value": "此世界須用較舊版本（例如 1.6.4）打開，以確保安全轉換。",
     "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
   },
   {

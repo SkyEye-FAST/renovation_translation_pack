@@ -104,6 +104,14 @@
     "new_en_us": "Long must not be less than %s: found %s"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "不能混用世界与局部坐标（必须全部用^或都不使用）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "不能混用绝对坐标与局部坐标（必须全部使用^或都不使用）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.pos.outofbounds",
     "old_value": "该位置超出了允许的范围。",
     "old_en_us": "That position is outside the allowed boundaries.",
@@ -712,12 +720,28 @@
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
+    "old_key": "options.languageWarning",
+    "old_value": "语言翻译不一定100%%准确",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "语言翻译不一定100%%准确。",
+    "new_en_us": "Language translations may not be 100%% accurate."
+  },
+  {
     "old_key": "options.multiplayer.title",
     "old_value": "多人游戏设置…",
     "old_en_us": "Multiplayer Settings...",
     "new_key": "options.multiplayer.title",
     "new_value": "对局域网开放",
     "new_en_us": "Open to LAN"
+  },
+  {
+    "old_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
+    "old_value": "区块内部的某些行为会导致区块立刻重新编译。这包括放置或破坏方块。",
+    "old_en_us": "Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying.",
+    "new_key": "options.prioritizeChunkUpdates.byPlayer.tooltip",
+    "new_value": "区块中的某些行为会导致区块的重新编译。例如对方块进行放置或破坏。",
+    "new_en_us": "Some actions within a chunk will recompile the chunk immediately. This includes block placing and destroying."
   },
   {
     "old_key": "options.realmsNotifications",
@@ -774,6 +798,14 @@
     "new_key": "selectWorld.backupWarning.snapshot",
     "new_value": "此世界上次打开于%s版本，而你正在使用%s版本。请先创建备份以防世界损坏。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
+  },
+  {
+    "old_key": "selectWorld.conversion.tooltip",
+    "old_value": "此世界必须在较旧版本（比如1.6.4）中打开，以便安全转换",
+    "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
+    "new_key": "selectWorld.conversion.tooltip",
+    "new_value": "此世界必须在较旧版本（比如1.6.4）中打开，以便安全转换。",
+    "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
   },
   {
     "old_key": "selectWorld.locked",

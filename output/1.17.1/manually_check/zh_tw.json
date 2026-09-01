@@ -136,6 +136,14 @@
     "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
   },
   {
+    "old_key": "argument.pos.outofbounds",
+    "old_value": "該位置位於允許的範圍外。",
+    "old_en_us": "That position is outside the allowed boundaries.",
+    "new_key": "argument.pos.outofbounds",
+    "new_value": "該位置位於允許的範圍外",
+    "new_en_us": "That position is outside the allowed boundaries"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -614,6 +622,14 @@
     "new_key": "options.fovEffectScale.tooltip",
     "new_value": "控制視角廣度隨遊戲狀態效果改變的程度。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.languageWarning",
+    "old_value": "語言翻譯並不一定是100%%精確",
+    "old_en_us": "Language translations may not be 100%% accurate",
+    "new_key": "options.languageWarning",
+    "new_value": "語言翻譯並不一定是 100%% 精確。",
+    "new_en_us": "Language translations may not be 100%% accurate."
   },
   {
     "old_key": "options.multiplayer.title",
