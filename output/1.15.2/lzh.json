@@ -145,7 +145,7 @@
   "argument.nbt.trailing": "尾錄違期",
   "argument.pos.missing.double": "求之坐標",
   "argument.pos.missing.int": "應爲一方塊之坐標",
-  "argument.pos.mixed": "天道座標與自樞座標不可共存（皆含「^」抑不然）",
+  "argument.pos.mixed": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
   "argument.pos2d.incomplete": "未全（應爲二座標）",
   "argument.pos3d.incomplete": "未全（應爲三座標）",
   "argument.range.empty": "應爲數抑其限",

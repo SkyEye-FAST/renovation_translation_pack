@@ -748,7 +748,7 @@
     "old_value": "%1$s 同 %2$s 戰鬥時結束咗燦爛嘅一生",
     "old_en_us": "%1$s went off with a bang whilst fighting %2$s",
     "new_key": "death.attack.fireworks.player",
-    "new_value": "%1$s 與 %2$s 戰鬥時結束了燦爛的一生",
+    "new_value": "%1$s 與 %2$s 戰鬥時燦爛謝幕",
     "new_en_us": "%1$s went off with a bang while fighting %2$s"
   },
   {

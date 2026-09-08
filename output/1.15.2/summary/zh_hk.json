@@ -2877,11 +2877,25 @@
     "en_us": "%s is locked!"
   },
   {
+    "old_key": "container.repair.expensive",
+    "old_value": "太貴啦！",
+    "new_key": "container.repair.expensive",
+    "new_value": "太貴喇！",
+    "en_us": "Too Expensive!"
+  },
+  {
     "old_key": "container.shulkerBox.more",
     "old_value": "仲有 %s 件物品⋯⋯",
     "new_key": "container.shulkerBox.more",
-    "new_value": "還有 %s 件物品⋯⋯",
+    "new_value": "尚有 %s 件物品⋯⋯",
     "en_us": "and %s more..."
+  },
+  {
+    "old_key": "container.spectatorCantOpen",
+    "old_value": "無法打開。戰利品未生成。",
+    "new_key": "container.spectatorCantOpen",
+    "new_value": "無法打開。戰利品尚未生成。",
+    "en_us": "Unable to open. Loot not generated yet."
   },
   {
     "old_key": "createWorld.customize.presets.select",
@@ -2985,7 +2999,7 @@
     "old_key": "death.attack.fireworks",
     "old_value": "%1$s 結束咗燦爛嘅一生",
     "new_key": "death.attack.fireworks",
-    "new_value": "%1$s 結束了燦爛的一生",
+    "new_value": "%1$s 燦爛謝幕",
     "en_us": "%1$s went off with a bang"
   },
   {
@@ -5554,7 +5568,7 @@
     "old_key": "translation.test.complex",
     "old_value": "前綴，%s%2$s 然後係 %s 同 %1$s 最後係 %s 仲有 %1$s！",
     "new_key": "translation.test.complex",
-    "new_value": "前綴，%s%2$s 然後是 %s 和 %1$s 最後是 %s 還有 %1$s！",
+    "new_value": "前綴，%s%2$s 之後為 %s 與 %1$s 最後為 %s 以及 %1$s！",
     "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
   },
   {

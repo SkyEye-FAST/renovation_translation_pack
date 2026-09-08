@@ -217,7 +217,7 @@
   "argument.player.unknown": "是戲者不可尋",
   "argument.pos.missing.double": "求之坐標",
   "argument.pos.missing.int": "應爲一方塊之坐標",
-  "argument.pos.mixed": "天道座標與自樞座標不可共存（皆含「^」抑不然）",
+  "argument.pos.mixed": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
   "argument.pos.outofworld": "此位去生界之外！",
   "argument.pos.unloaded": "其地未讀",
   "argument.pos2d.incomplete": "未全（應爲二座標）",
