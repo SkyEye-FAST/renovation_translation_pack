@@ -1099,6 +1099,20 @@
     "en_us": "%1$s was skewered by a falling stalactite"
   },
   {
+    "old_key": "death.attack.sting",
+    "old_value": "%1$s被蛰死了",
+    "new_key": "death.attack.sting",
+    "new_value": "%1$s被蜇死了",
+    "en_us": "%1$s was stung to death"
+  },
+  {
+    "old_key": "death.attack.sting.player",
+    "old_value": "%1$s被%2$s蛰死了",
+    "new_key": "death.attack.sting.player",
+    "new_value": "%1$s被%2$s蜇死了",
+    "en_us": "%1$s was stung to death by %2$s"
+  },
+  {
     "old_key": "debug.crash.message",
     "old_value": "F3 + C已被按下。除非释放按键否则这将让游戏崩溃。",
     "new_key": "debug.crash.message",
@@ -1963,7 +1977,7 @@
     "old_key": "subtitles.entity.bee.sting",
     "old_value": "蜜蜂：蛰",
     "new_key": "subtitles.entity.bee.sting",
-    "new_value": "蜜蜂：刺蛰",
+    "new_value": "蜜蜂：刺蜇",
     "en_us": "Bee stings"
   },
   {
@@ -2007,6 +2021,13 @@
     "new_key": "subtitles.entity.mooshroom.suspicious_milk",
     "new_value": "哞菇：被挤出谜之炖菜",
     "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.sting",
+    "old_value": "河豚：刺蛰",
+    "new_key": "subtitles.entity.puffer_fish.sting",
+    "new_value": "河豚：刺蜇",
+    "en_us": "Pufferfish stings"
   },
   {
     "old_key": "subtitles.entity.shulker.close",

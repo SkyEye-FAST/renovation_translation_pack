@@ -544,14 +544,6 @@
     "new_en_us": "Comments"
   },
   {
-    "old_key": "gui.chatReport.discard.title",
-    "old_value": "放弃举报和留言？",
-    "old_en_us": "Discard report and comments?",
-    "new_key": "gui.chatReport.discard.title",
-    "new_value": "放弃举报和评论？",
-    "new_en_us": "Discard Report and Comments?"
-  },
-  {
     "old_key": "gui.chatReport.report_sent_msg",
     "old_value": "我们已经成功收到你的举报。非常感谢！\n\n我们的团队将尽快进行审核。",
     "old_en_us": "We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.",

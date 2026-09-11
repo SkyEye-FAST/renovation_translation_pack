@@ -2331,6 +2331,13 @@
     "en_us": "Pufferfish flops"
   },
   {
+    "old_key": "subtitles.entity.puffer_fish.sting",
+    "old_value": "河豚：刺蛰",
+    "new_key": "subtitles.entity.puffer_fish.sting",
+    "new_value": "河豚：刺蜇",
+    "en_us": "Pufferfish stings"
+  },
+  {
     "old_key": "subtitles.entity.sheep.ambient",
     "old_value": "羊：咩~",
     "new_key": "subtitles.entity.sheep.ambient",

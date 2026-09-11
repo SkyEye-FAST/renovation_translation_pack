@@ -847,6 +847,27 @@
     "en_us": "%1$s was skewered by a falling stalactite"
   },
   {
+    "old_key": "death.attack.sting",
+    "old_value": "%1$s被蛰死了",
+    "new_key": "death.attack.sting",
+    "new_value": "%1$s被蜇死了",
+    "en_us": "%1$s was stung to death"
+  },
+  {
+    "old_key": "death.attack.sting.item",
+    "old_value": "%1$s被%2$s用%3$s蛰死了",
+    "new_key": "death.attack.sting.item",
+    "new_value": "%1$s被%2$s用%3$s蜇死了",
+    "en_us": "%1$s was stung to death by %2$s using %3$s"
+  },
+  {
+    "old_key": "death.attack.sting.player",
+    "old_value": "%1$s被%2$s蛰死了",
+    "new_key": "death.attack.sting.player",
+    "new_value": "%1$s被%2$s蜇死了",
+    "en_us": "%1$s was stung to death by %2$s"
+  },
+  {
     "old_key": "debug.pause_focus.off",
     "old_value": "失去焦点时暂停：停用",
     "new_key": "debug.pause_focus.off",
@@ -999,6 +1020,13 @@
     "new_key": "multiplayer.disconnect.invalid_public_key_signature",
     "new_value": "无效的玩家档案公钥签名。\n请尝试重启游戏。",
     "en_us": "Invalid signature for profile public key.\nTry restarting your game."
+  },
+  {
+    "old_key": "multiplayer.disconnect.too_many_pending_chats",
+    "old_value": "没有确认的聊天消息过多",
+    "new_key": "multiplayer.disconnect.too_many_pending_chats",
+    "new_value": "未经确认的聊天消息过多",
+    "en_us": "Too many unacknowledged chat messages"
   },
   {
     "old_key": "multiplayer.requiredTexturePrompt.line2",
@@ -1487,7 +1515,7 @@
     "old_key": "subtitles.entity.bee.sting",
     "old_value": "蜜蜂：蛰",
     "new_key": "subtitles.entity.bee.sting",
-    "new_value": "蜜蜂：刺蛰",
+    "new_value": "蜜蜂：刺蜇",
     "en_us": "Bee stings"
   },
   {
@@ -1531,6 +1559,13 @@
     "new_key": "subtitles.entity.mooshroom.suspicious_milk",
     "new_value": "哞菇：被挤出谜之炖菜",
     "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.sting",
+    "old_value": "河豚：刺蛰",
+    "new_key": "subtitles.entity.puffer_fish.sting",
+    "new_value": "河豚：刺蜇",
+    "en_us": "Pufferfish stings"
   },
   {
     "old_key": "subtitles.entity.shulker.close",
