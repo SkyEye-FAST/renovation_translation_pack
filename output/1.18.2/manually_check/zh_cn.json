@@ -100,7 +100,7 @@
     "old_value": "浮点型数据不能小于%s，但发现了%s",
     "old_en_us": "Float must not be less than %s, found %s",
     "new_key": "argument.float.low",
-    "new_value": "浮点型数据不能小于%s：实际为%s",
+    "new_value": "单精度浮点型数据不能小于%s：实际为%s",
     "new_en_us": "Float must not be less than %s: found %s"
   },
   {
@@ -294,14 +294,6 @@
     "new_key": "commands.gamerule.set",
     "new_value": "已将游戏规则%s设为%s",
     "new_en_us": "Game rule %s is now set to %s"
-  },
-  {
-    "old_key": "commands.schedule.cleared.success",
-    "old_value": "已移除%s个ID为%s的计划",
-    "old_en_us": "Removed %s schedules with id %s",
-    "new_key": "commands.schedule.cleared.success",
-    "new_value": "已移除%s个ID为%s的时间安排",
-    "new_en_us": "Removed %s schedule(s) with ID %s"
   },
   {
     "old_key": "commands.spreadplayers.success.entities",
@@ -550,14 +542,6 @@
     "new_key": "multiplayer.disconnect.missing_tags",
     "new_value": "从该服务器接收到了不完整标签集。\n请联系服务器管理员。",
     "new_en_us": "Incomplete set of tags received from the server.\nPlease contact a server operator."
-  },
-  {
-    "old_key": "multiplayer.message_not_delivered",
-    "old_value": "无法发送聊天消息，请检查服务器日志：%s",
-    "old_en_us": "Can't deliver chat message, check server logs: %s",
-    "new_key": "multiplayer.message_not_delivered",
-    "new_value": "无法发送聊天信息，请检查服务器日志：%s",
-    "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
     "old_key": "multiplayer.requiredTexturePrompt.disconnect",

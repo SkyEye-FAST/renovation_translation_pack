@@ -980,6 +980,13 @@
     "en_us": "Never open links from people that you don't trust!"
   },
   {
+    "old_key": "command.expected.separator",
+    "old_value": "参数后应有空格分隔，但发现了紧邻的数据",
+    "new_key": "command.expected.separator",
+    "new_value": "参数后应有空格分隔，但发现了尾随数据",
+    "en_us": "Expected whitespace to end one argument, but found trailing data"
+  },
+  {
     "old_key": "commands.advancement.criterionNotFound",
     "old_value": "进度%1$s并不包含条件'%2$s'",
     "new_key": "commands.advancement.criterionNotFound",
@@ -1158,7 +1165,7 @@
     "old_key": "commands.datapack.unknown",
     "old_value": "未知的数据包'%s'",
     "new_key": "commands.datapack.unknown",
-    "new_value": "未知的数据包 “%s”",
+    "new_value": "未知的数据包“%s”",
     "en_us": "Unknown data pack '%s'"
   },
   {
@@ -1904,6 +1911,13 @@
     "en_us": "You are not white-listed on this server!"
   },
   {
+    "old_key": "multiplayer.disconnect.unexpected_query_response",
+    "old_value": "从客户端收到未知的自定义数据",
+    "new_key": "multiplayer.disconnect.unexpected_query_response",
+    "new_value": "从客户端收到意外的自定义数据",
+    "en_us": "Unexpected custom data from client"
+  },
+  {
     "old_key": "multiplayer.disconnect.unverified_username",
     "old_value": "无法验证用户名！",
     "new_key": "multiplayer.disconnect.unverified_username",
@@ -2222,7 +2236,7 @@
     "old_key": "spectatorMenu.root.prompt",
     "old_value": "按下一个键来选择命令，再按一次来使用它。",
     "new_key": "spectatorMenu.root.prompt",
-    "new_value": "按下任意键选择命令，再次按下使用该键。",
+    "new_value": "按下任意键选择命令，再次按下即可使用。",
     "en_us": "Press a key to select a command, and again to use it."
   },
   {
@@ -2362,7 +2376,7 @@
     "old_key": "structure_block.load_not_found",
     "old_value": "不存在名为'%s'的结构 ",
     "new_key": "structure_block.load_not_found",
-    "new_value": "不存在名为“%s”的结构 ",
+    "new_value": "不存在名为“%s”的结构",
     "en_us": "Structure '%s' is not available"
   },
   {

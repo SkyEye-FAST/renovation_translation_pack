@@ -717,7 +717,7 @@
     "old_key": "structure_block.load_not_found",
     "old_value": "不存在名为'%s'的结构",
     "new_key": "structure_block.load_not_found",
-    "new_value": "不存在名为“%s”的结构 ",
+    "new_value": "不存在名为“%s”的结构",
     "en_us": "Structure '%s' is not available"
   },
   {

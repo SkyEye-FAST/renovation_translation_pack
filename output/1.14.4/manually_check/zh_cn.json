@@ -100,7 +100,7 @@
     "old_value": "浮点型数据不能小于%s，但发现了%s",
     "old_en_us": "Float must not be less than %s, found %s",
     "new_key": "argument.float.low",
-    "new_value": "浮点型数据不能小于%s：实际为%s",
+    "new_value": "单精度浮点型数据不能小于%s：实际为%s",
     "new_en_us": "Float must not be less than %s: found %s"
   },
   {
@@ -764,7 +764,7 @@
     "old_value": "聊天消息无法发送，请检查服务器日志。截断后的消息：%s",
     "old_en_us": "Can't deliver chat message starting with %s, check server logs",
     "new_key": "multiplayer.message_not_delivered",
-    "new_value": "无法发送聊天信息，请检查服务器日志：%s",
+    "new_value": "无法发送聊天消息，请检查服务器日志：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
   },
   {
