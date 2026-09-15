@@ -196,7 +196,7 @@
     "old_value": "世之座標與局部座標不可共存（皆用（^）抑或皆捨之）",
     "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
     "new_key": "argument.pos.mixed",
-    "new_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
+    "new_value": "世之座標與局部座標不可共存（皆用「^」抑皆捨之）",
     "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
   },
   {
@@ -556,7 +556,7 @@
     "old_value": "%s戯者分之頂%s戯者於線：%s",
     "old_en_us": "There are %s of a max %s players online: %s",
     "new_key": "commands.list.players",
-    "new_value": "頂%2$s戲者中有%1$s人在綫：%3$s",
+    "new_value": "%s人在綫，%s人爲極：%s",
     "new_en_us": "There are %s of a max of %s players online: %s"
   },
   {
@@ -1628,7 +1628,7 @@
     "old_value": "相關經距",
     "old_en_us": "relative Position x",
     "new_key": "structure_block.position.x",
-    "new_value": "東西相去",
+    "new_value": "經之相去",
     "new_en_us": "relative position x"
   },
   {

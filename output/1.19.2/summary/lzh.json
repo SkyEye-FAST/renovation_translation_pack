@@ -3629,14 +3629,14 @@
     "old_key": "commands.bossbar.set.visibility.unchanged.hidden",
     "old_value": "無變。是Boss條已隱",
     "new_key": "commands.bossbar.set.visibility.unchanged.hidden",
-    "new_value": "無變。是帥條已隱",
+    "new_value": "無變。是帥條既隱",
     "en_us": "Nothing changed. The bossbar is already hidden"
   },
   {
     "old_key": "commands.bossbar.set.visibility.unchanged.visible",
     "old_value": "無變。是Boss條已現",
     "new_key": "commands.bossbar.set.visibility.unchanged.visible",
-    "new_value": "無變。是帥條已現",
+    "new_value": "無變。是帥條既現",
     "en_us": "Nothing changed. The bossbar is already visible"
   },
   {
@@ -3671,7 +3671,7 @@
     "old_key": "commands.data.get.multiple",
     "old_value": "是引數容一單NBT值矣",
     "new_key": "commands.data.get.multiple",
-    "new_value": "是引數容一單NBT直矣",
+    "new_value": "是引數惟容一NBT直焉",
     "en_us": "This argument accepts a single NBT value"
   },
   {
@@ -3811,7 +3811,7 @@
     "old_key": "commands.list.players",
     "old_value": "%s戲者分之頂%s戲者於線：%s",
     "new_key": "commands.list.players",
-    "new_value": "頂%2$s戲者中有%1$s人在綫：%3$s",
+    "new_value": "%s人在綫，%s人爲極：%s",
     "en_us": "There are %s of a max of %s players online: %s"
   },
   {
@@ -5649,6 +5649,13 @@
     "en_us": "Toggle Fullscreen"
   },
   {
+    "old_key": "key.keyboard.down",
+    "old_value": "↓",
+    "new_key": "key.keyboard.down",
+    "new_value": "下矢",
+    "en_us": "Down Arrow"
+  },
+  {
     "old_key": "key.keyboard.keypad.1",
     "old_value": "數鍵1",
     "new_key": "key.keyboard.keypad.1",
@@ -5773,6 +5780,13 @@
     "new_key": "key.keyboard.right",
     "new_value": "右矢",
     "en_us": "Right Arrow"
+  },
+  {
+    "old_key": "key.keyboard.up",
+    "old_value": "↑",
+    "new_key": "key.keyboard.up",
+    "new_value": "上矢",
+    "en_us": "Up Arrow"
   },
   {
     "old_key": "key.mouse",
@@ -6562,8 +6576,22 @@
     "old_key": "structure_block.position",
     "old_value": "相關經緯",
     "new_key": "structure_block.position",
-    "new_value": "相對經緯",
+    "new_value": "經緯相去",
     "en_us": "Relative Position"
+  },
+  {
+    "old_key": "structure_block.position.y",
+    "old_value": "相關高距",
+    "new_key": "structure_block.position.y",
+    "new_value": "縱之相去",
+    "en_us": "relative position y"
+  },
+  {
+    "old_key": "structure_block.position.z",
+    "old_value": "相關緯距",
+    "new_key": "structure_block.position.z",
+    "new_value": "緯之相去",
+    "en_us": "relative position z"
   },
   {
     "old_key": "structure_block.save_success",

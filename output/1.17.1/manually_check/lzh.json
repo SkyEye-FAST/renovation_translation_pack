@@ -224,6 +224,14 @@
     "new_en_us": "Tags aren't allowed here; only actual items are"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "世之座標與局部座標不可共存（皆用「^」抑皆捨之）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.pos.outofbounds",
     "old_value": "此地不可及也。",
     "old_en_us": "That position is outside the allowed boundaries.",
@@ -1220,7 +1228,7 @@
     "old_value": "相關經距",
     "old_en_us": "relative Position x",
     "new_key": "structure_block.position.x",
-    "new_value": "東西相去",
+    "new_value": "經之相去",
     "new_en_us": "relative position x"
   },
   {

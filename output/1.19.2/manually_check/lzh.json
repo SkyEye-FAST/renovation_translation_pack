@@ -64,6 +64,14 @@
     "new_en_us": "Tags aren't allowed here; only actual items are"
   },
   {
+    "old_key": "argument.pos.mixed",
+    "old_value": "世之座標與局部座標不可共存（皆用「^」抑或皆捨之）",
+    "old_en_us": "Cannot mix world & local coordinates (everything must either use ^ or not)",
+    "new_key": "argument.pos.mixed",
+    "new_value": "世之座標與局部座標不可共存（皆用「^」抑皆捨之）",
+    "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
     "old_key": "argument.pos.outofbounds",
     "old_value": "此地不可及也。",
     "old_en_us": "That position is outside the allowed boundaries.",
@@ -1160,6 +1168,14 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
   },
   {
+    "old_key": "selectWorld.conversion.tooltip",
+    "old_value": "此生界必先啟於舊版（若1.6.4者）以求安變",
+    "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
+    "new_key": "selectWorld.conversion.tooltip",
+    "new_value": "此生界必先啟於舊版（若一點六點四者）以求安變",
+    "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
+  },
+  {
     "old_key": "selectWorld.edit.backupSize",
     "old_value": "世之大，%s兆節也",
     "old_en_us": "size: %s MB",
@@ -1236,7 +1252,7 @@
     "old_value": "相關經距",
     "old_en_us": "relative Position x",
     "new_key": "structure_block.position.x",
-    "new_value": "東西相去",
+    "new_value": "經之相去",
     "new_en_us": "relative position x"
   },
   {
