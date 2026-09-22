@@ -5,6 +5,7 @@ import json
 import os
 import time
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
@@ -94,13 +95,19 @@ def upload_matrix(source, types, versions):
 def repair_plan(types, versions):
     """Validate the complete inventory before proposing any mutations."""
     changes = []
+    latest = {}
+    for version in versions:
+        number = version["version_number"]
+        published = datetime.fromisoformat(version["date_published"])
+        if number not in latest or published > latest[number][0]:
+            latest[number] = (published, version["id"])
     for version in versions:
         source, separator, target = version["version_number"].rpartition("-")
         if not separator or target not in VERSION_CONFIG or source not in types:
             raise ValueError(f"Unrecognized project version: {version['version_number']}")
         if version["project_id"] != PROJECT_ID:
             raise ValueError(f"Unexpected project for version {version['id']}")
-        if types[source] != "release":
+        if types[source] != "release" or version["id"] != latest[version["version_number"]][1]:
             changes.append({"id": version["id"], "method": "DELETE", "data": None})
         elif version["name"] != version_name(source, target):
             changes.append(
@@ -170,7 +177,7 @@ def main():
     remaining = repair_plan(types, project_versions(token))
     if remaining:
         raise RuntimeError(f"Repair incomplete: {len(remaining)} changes remain")
-    print("Verified: all remaining versions use release sources and corrected names.")
+    print("Verified: one latest build per release/target, with corrected names.")
 
 
 if __name__ == "__main__":
