@@ -22,12 +22,24 @@ def version(source, target="1.19.2", name=None):
         "project_id": PROJECT_ID,
         "version_number": f"{source}-{target}",
         "version_type": "release",
+        "date_published": "2026-09-21T20:00:00Z",
         "name": name or f"{source} to {target}",
     }
 
 
 class ModrinthTests(unittest.TestCase):
     """Check publication and deletion against the source's actual release type."""
+
+    def test_truncated_versions_keep_latest_per_target(self):
+        """Older records with the same truncated number must not survive repair."""
+        newest = version("26.3", name=version_name("26.3", "1.19.2"))
+        older = newest | {"id": "old", "date_published": "2026-09-20T20:00:00Z"}
+        other_target = version("26.3", "1.18.2", version_name("26.3", "1.18.2")) | {"id": "other"}
+        for inventory in ([older, newest, other_target], [other_target, newest, older]):
+            self.assertEqual(
+                repair_plan(TYPES, inventory),
+                [{"id": "old", "method": "DELETE", "data": None}],
+            )
 
     def test_non_releases_never_publish(self):
         """Reject weekly snapshots, named snapshots, pre-releases and RCs."""
