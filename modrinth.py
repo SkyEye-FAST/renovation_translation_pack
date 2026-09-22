@@ -56,9 +56,9 @@ def release_types():
     return {version["id"]: version["type"] for version in request_json(MANIFEST_URL)["versions"]}
 
 
-def project_versions(token=None, *, fresh=False):
+def project_versions(token=None):
     """Read the project's complete version inventory."""
-    query = f"?check={time.time_ns()}" if fresh else ""
+    query = f"?check={time.time_ns()}"
     return request_json(f"{API_URL}/project/{PROJECT_ID}/version{query}", token=token)
 
 
@@ -139,7 +139,7 @@ def main():
     token = os.environ.get("MODRINTH_TOKEN")
     if args.apply and not token:
         parser.error("--apply requires MODRINTH_TOKEN")
-    versions = project_versions(token, fresh=True)
+    versions = project_versions(token)
     changes = repair_plan(types, versions)
     # Preserve the exact inventory and proposed changes before deleting anything.
     Path("modrinth-repair.json").write_text(
@@ -167,7 +167,7 @@ def main():
             batch = changes[start : start + 8]
             for index, change in enumerate(executor.map(apply_change, batch), start + 1):
                 print(f"{index}/{len(changes)} {change['method']} {change['id']}", flush=True)
-    remaining = repair_plan(types, project_versions(token, fresh=True))
+    remaining = repair_plan(types, project_versions(token))
     if remaining:
         raise RuntimeError(f"Repair incomplete: {len(remaining)} changes remain")
     print("Verified: all remaining versions use release sources and corrected names.")
