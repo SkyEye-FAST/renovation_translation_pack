@@ -1,11 +1,41 @@
 name: Update resource pack
 
 on:
+  workflow_dispatch:
+    inputs:
+      repair_modrinth:
+        description: Rename existing releases and delete non-release source versions on Modrinth
+        type: boolean
+        default: false
   schedule:
     - cron: "30 16 * * *"
 
+concurrency:
+  group: update-resource-pack
+  cancel-in-progress: false
+
 jobs:
+  repair-modrinth:
+    if: inputs.repair_modrinth == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Repair Modrinth versions
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+        run: python modrinth.py repair --apply
+      - name: Preserve repair inventory
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: modrinth-repair
+          path: modrinth-repair.json
+
   build:
+    if: inputs.repair_modrinth != true
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -47,16 +77,11 @@ jobs:
           cat version.txt
           echo "ver=$(<version.txt)" >> "$GITHUB_OUTPUT"
 
-      - name: Check if Modrinth version exists
-        id: check_modrinth
-        run: |
-          url="https://api.modrinth.com/v2/project/AO8iY7f9/version/${{ steps.get_version.outputs.ver }}"
-          resp=$(curl --silent "$url")
-          if echo "$resp" | grep -q '"version_number"'; then
-            echo "exists=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "exists=false" >> "$GITHUB_OUTPUT"
-          fi
+      - name: Plan missing Modrinth releases
+        id: modrinth
+        env:
+          SOURCE_VERSION: ${{ steps.get_version.outputs.ver }}
+        run: uv run modrinth.py prepare "$SOURCE_VERSION"
 
       - name: Release to GitHub
         uses: Kir-Antipov/mc-publish@v3.3
@@ -87,27 +112,16 @@ jobs:
           path: output/**/*.zip
 
     outputs:
-      mc_version: ${{ steps.get_version.outputs.ver }}
-      modrinth_exists: ${{ steps.check_modrinth.outputs.exists }}
-
-  generate-matrix:
-    needs: build
-    if: needs.build.outputs.modrinth_exists != 'true'
-    runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
-    steps:
-      - id: set-matrix
-        run: |
-          printf "matrix={\"include\":[{\"mcversion\":\"1.7.10\",\"game_versions\":[\"1.7.10\"]},{\"mcversion\":\"1.8.9\",\"game_versions\":[\"1.8.x\"]},{\"mcversion\":\"1.9.4\",\"game_versions\":[\"1.9.x\"]},{\"mcversion\":\"1.10.2\",\"game_versions\":[\"1.10.x\"]},{\"mcversion\":\"1.11.2\",\"game_versions\":[\"1.11.x\"]},{\"mcversion\":\"1.12.2\",\"game_versions\":[\"1.12.x\"]},{\"mcversion\":\"1.13.2\",\"game_versions\":[\"1.13.x\"]},{\"mcversion\":\"1.14.4\",\"game_versions\":[\"1.14.x\"]},{\"mcversion\":\"1.15.2\",\"game_versions\":[\"1.15.x\"]},{\"mcversion\":\"1.16.5\",\"game_versions\":[\"1.16.x\"]},{\"mcversion\":\"1.17.1\",\"game_versions\":[\"1.17.x\"]},{\"mcversion\":\"1.18.2\",\"game_versions\":[\"1.18.x\"]},{\"mcversion\":\"1.19.2\",\"game_versions\":[\"1.19\",\"1.19.1\",\"1.19.2\"]}]}" >> $GITHUB_OUTPUT
+      modrinth_publish: ${{ steps.modrinth.outputs.publish }}
+      modrinth_matrix: ${{ steps.modrinth.outputs.matrix }}
 
   upload-modrinth:
-    needs: [build, generate-matrix]
-    if: needs.build.outputs.modrinth_exists != 'true'
+    needs: build
+    if: needs.build.outputs.modrinth_publish == 'true'
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
-      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+      matrix: ${{ fromJson(needs.build.outputs.modrinth_matrix) }}
     steps:
       - name: Download artifacts
         uses: actions/download-artifact@v4
@@ -120,8 +134,8 @@ jobs:
         with:
           token: ${{ secrets.MODRINTH_TOKEN }}
           project: AO8iY7f9
-          version: ${{ needs.build.outputs.mc_version }}-${{ matrix.mcversion }}
-          name: ${{ needs.build.outputs.mc_version }} to ${{ matrix.mcversion }}
+          version: ${{ matrix.version }}
+          name: ${{ matrix.name }}
           loaders: minecraft
           channel: release
           game-versions: ${{ toJson(matrix.game_versions) }}
