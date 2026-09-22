@@ -31,6 +31,15 @@
 > [!TIP]
 > 1.19.2以上（1.19.3及之后）的所有版本都可以接受语言文件更新，这些版本不需要使用此资源包。**
 
+## Modrinth 发布维护
+
+Modrinth 只发布 Mojang 官方版本清单中标记为 `release` 的翻译来源版本。
+版本名称格式为 `Minecraft 1.19.2 - Translations from 26.3`，分别说明适用版本和翻译来源；完整版本号用于避免重复发布。
+
+历史版本维护可运行 `python modrinth.py repair` 预览；配置 `MODRINTH_TOKEN` 后加上 `--apply`，会删除非正式来源版本并修正正式版名称。
+也可以手动运行 **Update resource pack** 工作流并勾选 `repair_modrinth`，使用仓库 Secret 执行同样的维护。
+维护前的版本清单和操作计划保存为 `modrinth-repair.json`，工作流会将其上传为 Artifact。
+
 ## 协议
 
 资源包在[Apache 2.0协议](LICENSE)下发布。
