@@ -3626,6 +3626,13 @@
     "en_us": "Can't give more than %s of %s"
   },
   {
+    "old_key": "commands.item.source.not_a_container",
+    "old_value": "起位%s, %s, %s之上者非器也",
+    "new_key": "commands.item.source.not_a_container",
+    "new_value": "始位%s, %s, %s之上者非器也",
+    "en_us": "Source position %s, %s, %s is not a container"
+  },
+  {
     "old_key": "commands.jfr.start.failed",
     "old_value": "始析JFR未成",
     "new_key": "commands.jfr.start.failed",

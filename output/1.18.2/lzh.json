@@ -586,6 +586,7 @@
   "commands.gamerule.query": "章則%s今爲%s",
   "commands.gamerule.set": "章則%s即設爲%s",
   "commands.give.failed.toomanyitems": "夫予%s者有界，%s爲其限。",
+  "commands.item.source.not_a_container": "始位%s, %s, %s之上者非器也",
   "commands.jfr.start.failed": "始析JFR之能度而未成",
   "commands.kick.success": "既逐%s：%s",
   "commands.list.players": "%s人在綫，%s人爲極：%s",
