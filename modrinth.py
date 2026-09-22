@@ -4,6 +4,7 @@ import argparse
 import json
 import os
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
@@ -55,9 +56,10 @@ def release_types():
     return {version["id"]: version["type"] for version in request_json(MANIFEST_URL)["versions"]}
 
 
-def project_versions(token=None):
+def project_versions(token=None, *, fresh=False):
     """Read the project's complete version inventory."""
-    return request_json(f"{API_URL}/project/{PROJECT_ID}/version", token=token)
+    query = f"?check={time.time_ns()}" if fresh else ""
+    return request_json(f"{API_URL}/project/{PROJECT_ID}/version{query}", token=token)
 
 
 def upload_matrix(source, types, versions):
@@ -137,7 +139,7 @@ def main():
     token = os.environ.get("MODRINTH_TOKEN")
     if args.apply and not token:
         parser.error("--apply requires MODRINTH_TOKEN")
-    versions = project_versions(token)
+    versions = project_versions(token, fresh=True)
     changes = repair_plan(types, versions)
     # Preserve the exact inventory and proposed changes before deleting anything.
     Path("modrinth-repair.json").write_text(
@@ -149,15 +151,23 @@ def main():
     if not args.apply:
         print("Preview only. Use --apply to execute modrinth-repair.json changes.")
         return
-    for index, change in enumerate(changes, start=1):
+
+    def apply_change(change):
         request_json(
             f"{API_URL}/version/{change['id']}",
             method=change["method"],
             data=change["data"],
             token=token,
         )
-        print(f"{index}/{len(changes)} {change['method']} {change['id']}", flush=True)
-    remaining = repair_plan(types, project_versions(token))
+        return change
+
+    # Bound in-flight work so an error stops the repair after the current batch.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for start in range(0, len(changes), 8):
+            batch = changes[start : start + 8]
+            for index, change in enumerate(executor.map(apply_change, batch), start + 1):
+                print(f"{index}/{len(changes)} {change['method']} {change['id']}", flush=True)
+    remaining = repair_plan(types, project_versions(token, fresh=True))
     if remaining:
         raise RuntimeError(f"Repair incomplete: {len(remaining)} changes remain")
     print("Verified: all remaining versions use release sources and corrected names.")
