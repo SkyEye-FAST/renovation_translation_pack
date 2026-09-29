@@ -152,12 +152,28 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效實體錨點座標 %s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效實體錨點位置 %s",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
     "old_key": "argument.block.tag.disallowed",
     "old_value": "此處無法使用標籤，只能用於實際方塊",
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "此處無法使用標籤，僅用於實際方塊",
     "new_en_us": "Tags aren't allowed here; only actual blocks are"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效聊天組合：%s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效聊天元件：%s",
+    "new_en_us": "Invalid chat component '%s'"
   },
   {
     "old_key": "argument.criteria.invalid",
@@ -309,7 +325,7 @@
     "old_en_us": "Click to copy to Clipboard",
     "new_key": "chat.copy.click",
     "new_value": "按此處複製至剪貼簿",
-    "new_en_us": "Click to Copy to Clipboard"
+    "new_en_us": "Click to copy to clipboard"
   },
   {
     "old_key": "command.failed",
@@ -928,6 +944,14 @@
     "new_en_us": "The demo time has expired. Buy the game to continue or start a new world!"
   },
   {
+    "old_key": "disconnect.loginFailedInfo.invalidSession",
+    "old_value": "無效對談（請嘗試重新啟動遊戲與啟動器）",
+    "old_en_us": "Invalid session (Try restarting your game and the launcher)",
+    "new_key": "disconnect.loginFailedInfo.invalidSession",
+    "new_value": "無效連接階段（請嘗試重新啟動遊戲與啟動器）",
+    "new_en_us": "Invalid session (try restarting your game and the launcher)"
+  },
+  {
     "old_key": "disconnect.loginFailedInfo.serversUnavailable",
     "old_value": "驗證伺服器暫停運作，正在進行維護。",
     "old_en_us": "The authentication servers are currently down for maintenance.",
@@ -965,7 +989,7 @@
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "按右鍵瞭解更多",
-    "new_en_us": "Right Click for More"
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.recipebook.toggleRecipes.blastable",
@@ -1392,6 +1416,46 @@
     "new_en_us": "Time Since Last Rest"
   },
   {
+    "old_key": "subtitles.block.anvil.use",
+    "old_value": "鐵砧被使用",
+    "old_en_us": "Anvil used",
+    "new_key": "subtitles.block.anvil.use",
+    "new_value": "使用鐵砧",
+    "new_en_us": "Anvil is used"
+  },
+  {
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱被上鎖",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱上鎖",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火焰被熄滅",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰熄滅",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.grindstone.use",
+    "old_value": "砂輪被使用",
+    "old_en_us": "Grindstone used",
+    "new_key": "subtitles.block.grindstone.use",
+    "new_value": "使用砂輪",
+    "new_en_us": "Grindstone is used"
+  },
+  {
+    "old_key": "subtitles.block.honey_block.slide",
+    "old_value": "喺蜜糖塊上面滑落嚟",
+    "old_en_us": "Sliding down a honey block",
+    "new_key": "subtitles.block.honey_block.slide",
+    "new_value": "在蜜糖塊上面滑落",
+    "new_en_us": "Sliding down a Honey Block"
+  },
+  {
     "old_key": "subtitles.block.iron_trapdoor.close",
     "old_value": "地板門被打開",
     "old_en_us": "Trapdoor opens",
@@ -1424,6 +1488,22 @@
     "new_en_us": "Shulker box opens"
   },
   {
+    "old_key": "subtitles.entity.fishing_bobber.throw",
+    "old_value": "浮標被拋出",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "拋出浮標",
+    "new_en_us": "Bobber is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.fox.aggro",
+    "old_value": "狐狸發嬲",
+    "old_en_us": "Fox angers",
+    "new_key": "subtitles.entity.fox.aggro",
+    "new_value": "狐狸發怒",
+    "new_en_us": "Fox gets angry"
+  },
+  {
     "old_key": "subtitles.entity.husk.converted_to_zombie",
     "old_value": "屍殼變成殭屍",
     "old_en_us": "Husk converted to Zombie",
@@ -1432,12 +1512,12 @@
     "new_en_us": "Husk converts to Zombie"
   },
   {
-    "old_key": "subtitles.entity.painting.break",
-    "old_value": "畫被破壞",
-    "old_en_us": "Painting breaks",
-    "new_key": "subtitles.entity.painting.break",
-    "new_value": "畫被取下",
-    "new_en_us": "Painting broken"
+    "old_key": "subtitles.entity.magma_cube.hurt",
+    "old_value": "岩漿史萊姆受傷",
+    "old_en_us": "Magma Cube hurts",
+    "new_key": "subtitles.entity.magma_cube.hurt",
+    "new_value": "巖漿史萊姆受傷",
+    "new_en_us": "Magma Cube is hurt"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -1448,12 +1528,36 @@
     "new_en_us": "Parrot moans"
   },
   {
+    "old_key": "subtitles.entity.parrot.imitate.wither",
+    "old_value": "鸚鵡發嬲",
+    "old_en_us": "Parrot angers",
+    "new_key": "subtitles.entity.parrot.imitate.wither",
+    "new_value": "鸚鵡發怒",
+    "new_en_us": "Parrot gets angry"
+  },
+  {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
     "old_value": "北極熊喘氣聲",
     "old_en_us": "Polar Bear hums",
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼年北極熊喘氣聲",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "樽被掟出",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "樽被擲出",
+    "new_en_us": "Bottle is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.hurt",
+    "old_value": "雞泡魚受傷",
+    "old_en_us": "Pufferfish hurts",
+    "new_key": "subtitles.entity.puffer_fish.hurt",
+    "new_value": "河豚受傷",
+    "new_en_us": "Pufferfish is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.death_baby",
@@ -1477,7 +1581,7 @@
     "old_en_us": "Turtle baby hurts",
     "new_key": "subtitles.entity.turtle.hurt_baby",
     "new_value": "幼年海龜受傷",
-    "new_en_us": "Baby Turtle hurts"
+    "new_en_us": "Baby Turtle is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble_baby",
@@ -1486,6 +1590,22 @@
     "new_key": "subtitles.entity.turtle.shamble_baby",
     "new_value": "幼年海龜爬行",
     "new_en_us": "Baby Turtle shambles"
+  },
+  {
+    "old_key": "subtitles.entity.wither.ambient",
+    "old_value": "凋零怪發嬲",
+    "old_en_us": "Wither angers",
+    "new_key": "subtitles.entity.wither.ambient",
+    "new_value": "凋零怪發怒",
+    "new_en_us": "Wither gets angry"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_horse.hurt",
+    "old_value": "殭屍馬受傷",
+    "old_en_us": "Zombie Horse hurts",
+    "new_key": "subtitles.entity.zombie_horse.hurt",
+    "new_value": "喪屍馬受傷",
+    "new_en_us": "Zombie Horse is hurt"
   },
   {
     "old_key": "subtitles.entity.zombie_villager.converted",
@@ -1504,12 +1624,36 @@
     "new_en_us": "Zombie Villager snuffles"
   },
   {
+    "old_key": "subtitles.entity.zombie_villager.hurt",
+    "old_value": "殭屍村民受傷",
+    "old_en_us": "Zombie Villager hurts",
+    "new_key": "subtitles.entity.zombie_villager.hurt",
+    "new_value": "喪屍村民受傷",
+    "new_en_us": "Zombie Villager is hurt"
+  },
+  {
     "old_key": "subtitles.entity.zombie.converted_to_drowned",
     "old_value": "殭屍變成沉屍",
     "old_en_us": "Zombie converted to Drowned",
     "new_key": "subtitles.entity.zombie.converted_to_drowned",
     "new_value": "喪屍變成沉屍",
     "new_en_us": "Zombie converts to Drowned"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.hurt",
+    "old_value": "殭屍受傷",
+    "old_en_us": "Zombie hurts",
+    "new_key": "subtitles.entity.zombie.hurt",
+    "new_value": "喪屍受傷",
+    "new_en_us": "Zombie is hurt"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip",
+    "old_value": "盔甲被裝備",
+    "old_en_us": "Gear equips",
+    "new_key": "subtitles.item.armor.equip",
+    "new_value": "着上裝備",
+    "new_en_us": "Gear is equipped"
   },
   {
     "old_key": "subtitles.item.armor.equip_turtle",
@@ -1528,6 +1672,14 @@
     "new_en_us": "Axe strips"
   },
   {
+    "old_key": "subtitles.item.crop.plant",
+    "old_value": "作物被播種",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.crop.plant",
+    "new_value": "種植作物",
+    "new_en_us": "Crop is planted"
+  },
+  {
     "old_key": "subtitles.item.honey_bottle.drink",
     "old_value": "蜜糖被飲用",
     "old_en_us": "Honey gulping",
@@ -1536,11 +1688,19 @@
     "new_en_us": "Gulping"
   },
   {
+    "old_key": "subtitles.item.nether_wart.plant",
+    "old_value": "作物被播種",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.nether_wart.plant",
+    "new_value": "種植作物",
+    "new_en_us": "Crop is planted"
+  },
+  {
     "old_key": "title.multiplayer.other",
     "old_value": "多人遊戲（第三方）",
     "old_en_us": "Multiplayer (3rd-party)",
     "new_key": "title.multiplayer.other",
     "new_value": "多人遊戲（第三方伺服器）",
-    "new_en_us": "Multiplayer (3rd-party Server)"
+    "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

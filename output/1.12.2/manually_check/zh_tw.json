@@ -229,7 +229,7 @@
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "按下右鍵以查看更多",
-    "new_en_us": "Right Click for More"
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.toMenu",
@@ -792,12 +792,12 @@
     "new_en_us": "Fishing Bobber splashes"
   },
   {
-    "old_key": "subtitles.entity.itemframe.break",
-    "old_value": "破壞物品展示框",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "new_en_us": "Item Frame broken"
+    "old_key": "subtitles.entity.generic.big_fall",
+    "old_value": "物體墜落",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.generic.big_fall",
+    "new_value": "物體掉落",
+    "new_en_us": "Something falls"
   },
   {
     "old_key": "subtitles.entity.leashknot.place",
@@ -805,7 +805,7 @@
     "old_en_us": "Leash knot tied",
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "繫上拴繩",
-    "new_en_us": "Leash Knot tied"
+    "new_en_us": "Leash Knot is tied"
   },
   {
     "old_key": "subtitles.entity.llama.angry",
@@ -814,6 +814,22 @@
     "new_key": "subtitles.entity.llama.angry",
     "new_value": "駱馬怒吼",
     "new_en_us": "Llama bleats angrily"
+  },
+  {
+    "old_key": "subtitles.entity.llama.chest",
+    "old_value": "為羊駝裝上儲物箱",
+    "old_en_us": "Llama Chest equips",
+    "new_key": "subtitles.entity.llama.chest",
+    "new_value": "為駱馬裝上儲物箱",
+    "new_en_us": "Llama Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.llama.hurt",
+    "old_value": "羊駝受傷",
+    "old_en_us": "Llama hurts",
+    "new_key": "subtitles.entity.llama.hurt",
+    "new_value": "駱馬受傷",
+    "new_en_us": "Llama is hurt"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",

@@ -2562,20 +2562,6 @@
     "en_us": "Eerie noise"
   },
   {
-    "old_key": "subtitles.block.chest.locked",
-    "old_value": "儲物箱鎖上了",
-    "new_key": "subtitles.block.chest.locked",
-    "new_value": "儲物箱鎖上",
-    "en_us": "Chest locked"
-  },
-  {
-    "old_key": "subtitles.block.fire.extinguish",
-    "old_value": "火被撲滅",
-    "new_key": "subtitles.block.fire.extinguish",
-    "new_value": "火焰熄滅聲",
-    "en_us": "Fire extinguished"
-  },
-  {
     "old_key": "subtitles.block.furnace.fire_crackle",
     "old_value": "熔爐劈啪作響",
     "new_key": "subtitles.block.furnace.fire_crackle",
@@ -2588,13 +2574,6 @@
     "new_key": "subtitles.block.generic.break",
     "new_value": "方塊破壞聲",
     "en_us": "Block broken"
-  },
-  {
-    "old_key": "subtitles.block.generic.place",
-    "old_value": "方塊被放置",
-    "new_key": "subtitles.block.generic.place",
-    "new_value": "方塊放置聲",
-    "en_us": "Block placed"
   },
   {
     "old_key": "subtitles.block.lava.ambient",
@@ -2625,39 +2604,11 @@
     "en_us": "Thorns prick"
   },
   {
-    "old_key": "subtitles.entity.armorstand.fall",
-    "old_value": "盔甲座掉落",
-    "new_key": "subtitles.entity.armor_stand.fall",
-    "new_value": "物體掉落",
-    "en_us": "Something fell"
-  },
-  {
     "old_key": "subtitles.entity.blaze.ambient",
     "old_value": "烈焰使者叫聲",
     "new_key": "subtitles.entity.blaze.ambient",
     "new_value": "烈焰使者吐息",
     "en_us": "Blaze breathes"
-  },
-  {
-    "old_key": "subtitles.entity.bobber.throw",
-    "old_value": "投出魚鉤",
-    "new_key": "subtitles.entity.fishing_bobber.throw",
-    "new_value": "浮標投出",
-    "en_us": "Bobber thrown"
-  },
-  {
-    "old_key": "subtitles.entity.cat.hurt",
-    "old_value": "貓受傷聲",
-    "new_key": "subtitles.entity.cat.hurt",
-    "new_value": "貓受傷",
-    "en_us": "Cat hurts"
-  },
-  {
-    "old_key": "subtitles.entity.chicken.hurt",
-    "old_value": "雞受傷聲",
-    "new_key": "subtitles.entity.chicken.hurt",
-    "new_value": "雞受傷",
-    "en_us": "Chicken hurts"
   },
   {
     "old_key": "subtitles.entity.cow.milk",
@@ -2672,13 +2623,6 @@
     "new_key": "subtitles.entity.donkey.angry",
     "new_value": "驢子嘶鳴",
     "en_us": "Donkey neighs"
-  },
-  {
-    "old_key": "subtitles.entity.donkey.chest",
-    "old_value": "為驢子裝上儲物箱聲",
-    "new_key": "subtitles.entity.donkey.chest",
-    "new_value": "為驢子裝上儲物箱",
-    "en_us": "Donkey Chest equips"
   },
   {
     "old_key": "subtitles.entity.enderdragon.growl",
@@ -2709,25 +2653,11 @@
     "en_us": "Firework launches"
   },
   {
-    "old_key": "subtitles.entity.generic.big_fall",
-    "old_value": "物體落地聲",
-    "new_key": "subtitles.entity.generic.big_fall",
-    "new_value": "物體掉落",
-    "en_us": "Something fell"
-  },
-  {
     "old_key": "subtitles.entity.generic.explode",
     "old_value": "爆炸",
     "new_key": "subtitles.entity.generic.explode",
     "new_value": "爆炸聲",
     "en_us": "Explosion"
-  },
-  {
-    "old_key": "subtitles.entity.generic.hurt",
-    "old_value": "一些東西受到傷害",
-    "new_key": "subtitles.entity.generic.hurt",
-    "new_value": "物體受傷",
-    "en_us": "Something hurts"
   },
   {
     "old_key": "subtitles.entity.ghast.ambient",
@@ -2751,13 +2681,6 @@
     "en_us": "Horse neighs"
   },
   {
-    "old_key": "subtitles.entity.horse.armor",
-    "old_value": "為馬裝備馬鎧聲",
-    "new_key": "subtitles.entity.horse.armor",
-    "new_value": "裝上馬鎧",
-    "en_us": "Horse armor equips"
-  },
-  {
     "old_key": "subtitles.entity.horse.eat",
     "old_value": "馬吃東西",
     "new_key": "subtitles.entity.horse.eat",
@@ -2765,11 +2688,11 @@
     "en_us": "Horse eats"
   },
   {
-    "old_key": "subtitles.entity.horse.saddle",
-    "old_value": "為馬上鞍聲",
-    "new_key": "subtitles.entity.horse.saddle",
-    "new_value": "裝上鞍",
-    "en_us": "Saddle equips"
+    "old_key": "subtitles.entity.itemframe.break",
+    "old_value": "破壞物品展示框",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "取下物品展示框",
+    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.magmacube.death",
@@ -2777,13 +2700,6 @@
     "new_key": "subtitles.entity.magma_cube.death",
     "new_value": "岩漿立方怪死亡",
     "en_us": "Magma Cube dies"
-  },
-  {
-    "old_key": "subtitles.entity.magmacube.hurt",
-    "old_value": "熔岩史萊姆受傷",
-    "new_key": "subtitles.entity.magma_cube.hurt",
-    "new_value": "岩漿立方怪受傷",
-    "en_us": "Magma Cube hurts"
   },
   {
     "old_key": "subtitles.entity.magmacube.squish",
@@ -2798,13 +2714,6 @@
     "new_key": "subtitles.entity.minecart.riding",
     "new_value": "礦車移動",
     "en_us": "Minecart rolls"
-  },
-  {
-    "old_key": "subtitles.entity.pig.saddle",
-    "old_value": "為豬上鞍聲",
-    "new_key": "subtitles.entity.pig.saddle",
-    "new_value": "裝上鞍",
-    "en_us": "Saddle equips"
   },
   {
     "old_key": "subtitles.entity.potion.splash",
@@ -2835,20 +2744,6 @@
     "en_us": "Sheep dies"
   },
   {
-    "old_key": "subtitles.entity.sheep.hurt",
-    "old_value": "羊受傷",
-    "new_key": "subtitles.entity.sheep.hurt",
-    "new_value": "綿羊受傷",
-    "en_us": "Sheep hurts"
-  },
-  {
-    "old_key": "subtitles.entity.shulker.hurt",
-    "old_value": "界伏蚌受傷害",
-    "new_key": "subtitles.entity.shulker.hurt",
-    "new_value": "界伏蚌受傷",
-    "en_us": "Shulker hurts"
-  },
-  {
     "old_key": "subtitles.entity.skeleton.ambient",
     "old_value": "骷髏喀喀聲",
     "new_key": "subtitles.entity.skeleton.ambient",
@@ -2875,13 +2770,6 @@
     "new_key": "subtitles.entity.squid.death",
     "new_value": "魷魚死亡",
     "en_us": "Squid dies"
-  },
-  {
-    "old_key": "subtitles.entity.squid.hurt",
-    "old_value": "烏賊受傷",
-    "new_key": "subtitles.entity.squid.hurt",
-    "new_value": "魷魚受傷",
-    "en_us": "Squid hurts"
   },
   {
     "old_key": "subtitles.entity.wolf.ambient",

@@ -208,12 +208,28 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效實體錨坐標 %s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效實體錨座標%s",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
     "old_key": "argument.block.tag.disallowed",
     "old_value": "此地不可用簽，但諸實塊耳",
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "此地不可用籤，但諸實塊耳",
     "new_en_us": "Tags aren't allowed here; only actual blocks are"
+  },
+  {
+    "old_key": "argument.id.unknown",
+    "old_value": "未明之ID：%s",
+    "old_en_us": "Unknown ID: %s",
+    "new_key": "argument.id.unknown",
+    "new_value": "未明ID：%s",
+    "new_en_us": "Unknown ID '%s'"
   },
   {
     "old_key": "argument.item.tag.disallowed",
@@ -246,6 +262,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻數須爲非赤",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "chat.copy.click",
+    "old_value": "擊以複刻之於簿",
+    "old_en_us": "Click to Copy to Clipboard",
+    "new_key": "chat.copy.click",
+    "new_value": "擊以鈔之於簿",
+    "new_en_us": "Click to copy to clipboard"
   },
   {
     "old_key": "chat.disabled.launcher",
@@ -856,6 +880,14 @@
     "new_en_us": "F3 + N = Cycle previous game mode <-> spectator"
   },
   {
+    "old_key": "disconnect.loginFailedInfo.invalidSession",
+    "old_value": "是會話無效，宜複啟遊戲與啟動器",
+    "old_en_us": "Invalid session (Try restarting your game and the launcher)",
+    "new_key": "disconnect.loginFailedInfo.invalidSession",
+    "new_value": "是會話無效，宜復啟戲與啟者",
+    "new_en_us": "Invalid session (try restarting your game and the launcher)"
+  },
+  {
     "old_key": "gamerule.doEntityDrops.description",
     "old_value": "擇車（亦可物之欄）、置具框、舟之落物。",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
@@ -877,7 +909,7 @@
     "old_en_us": "Controls resource drops from mobs, including experience orbs",
     "new_key": "gamerule.doMobLoot.description",
     "new_value": "控生靈之所遺，經驗珠隨焉。",
-    "new_en_us": "Controls resource drops from mobs, including experience orbs."
+    "new_en_us": "Controls resource drops from mobs, including Experience Orbs."
   },
   {
     "old_key": "gamerule.doMobSpawning.description",
@@ -893,7 +925,7 @@
     "old_en_us": "Controls resource drops from blocks, including experience orbs",
     "new_key": "gamerule.doTileDrops.description",
     "new_value": "控塊方之所遺，經驗珠隨焉。",
-    "new_en_us": "Controls resource drops from blocks, including experience orbs."
+    "new_en_us": "Controls resource drops from blocks, including Experience Orbs."
   },
   {
     "old_key": "gamerule.maxCommandChainLength.description",
@@ -926,6 +958,14 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "現其論議",
     "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "item_modifier.unknown",
+    "old_value": "未知之物修飾符：%s",
+    "old_en_us": "Unknown item modifier: %s",
+    "new_key": "item_modifier.unknown",
+    "new_value": "未明物綴：%s",
+    "new_en_us": "Unknown item modifier '%s'"
   },
   {
     "old_key": "itemGroup.redstone",
@@ -982,6 +1022,14 @@
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無以傳侃談之訊， 請察伺服器之誌： %s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
+    "old_key": "multiplayer.socialInteractions.not_available",
+    "old_value": "交際但使於衆戲之生界",
+    "old_en_us": "Social Interactions are only available in Multiplayer worlds",
+    "new_key": "multiplayer.socialInteractions.not_available",
+    "new_value": "交際但使於眾戲之生界",
+    "new_en_us": "Social Interactions are only available in multiplayer worlds"
   },
   {
     "old_key": "narration.component_list.usage",
@@ -1128,6 +1176,30 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未明之粒：%s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知之粒：%s",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
+    "old_key": "predicate.unknown",
+    "old_value": "未明之辞：%s",
+    "old_en_us": "Unknown predicate: %s",
+    "new_key": "predicate.unknown",
+    "new_value": "未明之辝：%s",
+    "new_en_us": "Unknown predicate '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "%s乃未明之方",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "%s乃未知之方",
+    "new_en_us": "Unknown recipe '%s'"
+  },
+  {
     "old_key": "recipe.toast.title",
     "old_value": "新方已明！",
     "old_en_us": "New Recipes Unlocked!",
@@ -1232,6 +1304,14 @@
     "new_en_us": "relative position x"
   },
   {
+    "old_key": "subtitles.block.beacon.power_select",
+    "old_value": "即擇烽火臺之效",
+    "old_en_us": "Beacon power selected",
+    "new_key": "subtitles.block.beacon.power_select",
+    "new_value": "擇烽燧之效",
+    "new_en_us": "Beacon power is selected"
+  },
+  {
     "old_key": "subtitles.block.respawn_anchor.ambient",
     "old_value": "結界門蕭蕭",
     "old_en_us": "Portal whooshes",
@@ -1256,12 +1336,76 @@
     "new_en_us": "Shulker box opens"
   },
   {
-    "old_key": "subtitles.entity.item_frame.break",
-    "old_value": "置具框壞",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "置具匡壞",
-    "new_en_us": "Item Frame broken"
+    "old_key": "subtitles.entity.donkey.chest",
+    "old_value": "驢獲箱",
+    "old_en_us": "Donkey Chest equips",
+    "new_key": "subtitles.entity.donkey.chest",
+    "new_value": "驢著箱",
+    "new_en_us": "Donkey Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.evoker.prepare_wololo",
+    "old_value": "御魔使備咒",
+    "old_en_us": "Evoker prepares charming",
+    "new_key": "subtitles.entity.evoker.prepare_wololo",
+    "new_value": "御魔使欲惑",
+    "new_en_us": "Evoker prepares to charm"
+  },
+  {
+    "old_key": "subtitles.entity.generic.hurt",
+    "old_value": "傷之聲",
+    "old_en_us": "Something hurts",
+    "new_key": "subtitles.entity.generic.hurt",
+    "new_value": "物傷",
+    "new_en_us": "Something is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.ghast.hurt",
+    "old_value": "惡靈傷",
+    "old_en_us": "Ghast hurts",
+    "new_key": "subtitles.entity.ghast.hurt",
+    "new_value": "魄傷",
+    "new_en_us": "Ghast is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.add_item",
+    "old_value": "填爍置具匡",
+    "old_en_us": "Glow Item Frame fills",
+    "new_key": "subtitles.entity.glow_item_frame.add_item",
+    "new_value": "爍置具匡填",
+    "new_en_us": "Glow Item Frame is filled"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.place",
+    "old_value": "置爍置具匡",
+    "old_en_us": "Glow Item Frame placed",
+    "new_key": "subtitles.entity.glow_item_frame.place",
+    "new_value": "爍置具匡置",
+    "new_en_us": "Glow Item Frame is placed"
+  },
+  {
+    "old_key": "subtitles.entity.horse.armor",
+    "old_value": "馬著甲",
+    "old_en_us": "Horse armor equips",
+    "new_key": "subtitles.entity.horse.armor",
+    "new_value": "著馬甲",
+    "new_en_us": "Horse armor is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.item_frame.add_item",
+    "old_value": "填置具框",
+    "old_en_us": "Item Frame fills",
+    "new_key": "subtitles.entity.item_frame.add_item",
+    "new_value": "置具匡填",
+    "new_en_us": "Item Frame is filled"
+  },
+  {
+    "old_key": "subtitles.entity.item_frame.place",
+    "old_value": "置置具框",
+    "old_en_us": "Item Frame placed",
+    "new_key": "subtitles.entity.item_frame.place",
+    "new_value": "置具匡置",
+    "new_en_us": "Item Frame is placed"
   },
   {
     "old_key": "subtitles.entity.leash_knot.break",
@@ -1269,7 +1413,7 @@
     "old_en_us": "Leash knot breaks",
     "new_key": "subtitles.entity.leash_knot.break",
     "new_value": "繯解",
-    "new_en_us": "Leash Knot broken"
+    "new_en_us": "Leash Knot breaks"
   },
   {
     "old_key": "subtitles.entity.leash_knot.place",
@@ -1277,15 +1421,31 @@
     "old_en_us": "Leash knot tied",
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "繯繫",
-    "new_en_us": "Leash Knot tied"
+    "new_en_us": "Leash Knot is tied"
   },
   {
-    "old_key": "subtitles.entity.painting.break",
-    "old_value": "撤畫",
-    "old_en_us": "Painting breaks",
-    "new_key": "subtitles.entity.painting.break",
-    "new_value": "畫壞",
-    "new_en_us": "Painting broken"
+    "old_key": "subtitles.entity.llama.chest",
+    "old_value": "美洲駝獲箱",
+    "old_en_us": "Llama Chest equips",
+    "new_key": "subtitles.entity.llama.chest",
+    "new_value": "美洲駝著箱",
+    "new_en_us": "Llama Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.mule.chest",
+    "old_value": "騾獲箱",
+    "old_en_us": "Mule Chest equips",
+    "new_key": "subtitles.entity.mule.chest",
+    "new_value": "騾著箱",
+    "new_en_us": "Mule Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.painting.place",
+    "old_value": "置畫",
+    "old_en_us": "Painting placed",
+    "new_key": "subtitles.entity.painting.place",
+    "new_value": "畫置",
+    "new_en_us": "Painting is placed"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -1304,12 +1464,60 @@
     "new_en_us": "Parrot snorts"
   },
   {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "呃",
+    "new_en_us": "Player burps"
+  },
+  {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
     "old_value": "雪熊低鳴",
     "old_en_us": "Polar Bear hums",
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼雪熊低鳴",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "擲瓶",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "擲甁",
+    "new_en_us": "Bottle is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.puffer_fish.hurt",
+    "old_value": "鯸傷",
+    "old_en_us": "Pufferfish hurts",
+    "new_key": "subtitles.entity.puffer_fish.hurt",
+    "new_value": "河豚傷",
+    "new_en_us": "Pufferfish is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.silverfish.hurt",
+    "old_value": "蠹傷",
+    "old_en_us": "Silverfish hurts",
+    "new_key": "subtitles.entity.silverfish.hurt",
+    "new_value": "蟫傷",
+    "new_en_us": "Silverfish is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.skeleton_horse.hurt",
+    "old_value": "髑馬傷",
+    "old_en_us": "Skeleton Horse hurts",
+    "new_key": "subtitles.entity.skeleton_horse.hurt",
+    "new_value": "骷髏馬傷",
+    "new_en_us": "Skeleton Horse is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.skeleton.hurt",
+    "old_value": "髑傷",
+    "old_en_us": "Skeleton hurts",
+    "new_key": "subtitles.entity.skeleton.hurt",
+    "new_value": "骷髏傷",
+    "new_en_us": "Skeleton is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.death_baby",
@@ -1320,12 +1528,20 @@
     "new_en_us": "Baby Turtle dies"
   },
   {
+    "old_key": "subtitles.entity.turtle.hurt",
+    "old_value": "龜傷",
+    "old_en_us": "Turtle hurts",
+    "new_key": "subtitles.entity.turtle.hurt",
+    "new_value": "海龜傷",
+    "new_en_us": "Turtle is hurt"
+  },
+  {
     "old_key": "subtitles.entity.turtle.hurt_baby",
     "old_value": "幼龜傷",
     "old_en_us": "Turtle baby hurts",
     "new_key": "subtitles.entity.turtle.hurt_baby",
     "new_value": "幼海龜傷",
-    "new_en_us": "Baby Turtle hurts"
+    "new_en_us": "Baby Turtle is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble_baby",
@@ -1334,5 +1550,21 @@
     "new_key": "subtitles.entity.turtle.shamble_baby",
     "new_value": "幼海龜匍匐",
     "new_en_us": "Baby Turtle shambles"
+  },
+  {
+    "old_key": "subtitles.entity.wither_skeleton.hurt",
+    "old_value": "凋靈髑傷",
+    "old_en_us": "Wither Skeleton hurts",
+    "new_key": "subtitles.entity.wither_skeleton.hurt",
+    "new_value": "凋靈骷髏傷",
+    "new_en_us": "Wither Skeleton is hurt"
+  },
+  {
+    "old_key": "title.multiplayer.other",
+    "old_value": "衆戲（第三方伺服器）",
+    "old_en_us": "Multiplayer (3rd-party Server)",
+    "new_key": "title.multiplayer.other",
+    "new_value": "眾戲（第三方伺服器）",
+    "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

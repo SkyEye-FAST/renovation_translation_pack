@@ -406,13 +406,6 @@
     "en_us": "Command set: %s"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效實體錨點座標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨點位置 %s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.angle.incomplete",
     "old_value": "不完整（需要 1 個角度）",
     "new_key": "argument.angle.incomplete",
@@ -467,13 +460,6 @@
     "new_key": "argument.color.invalid",
     "new_value": "未知顏色「%s」",
     "en_us": "Unknown color '%s'"
-  },
-  {
-    "old_key": "argument.component.invalid",
-    "old_value": "無效聊天組合：%s",
-    "new_key": "argument.component.invalid",
-    "new_value": "無效聊天元件：%s",
-    "en_us": "Invalid chat component: %s"
   },
   {
     "old_key": "argument.criteria.invalid",
@@ -2224,13 +2210,6 @@
     "new_key": "chat.copy",
     "new_value": "複製至剪貼簿",
     "en_us": "Copy to Clipboard"
-  },
-  {
-    "old_key": "chat.copy.click",
-    "old_value": "按此複製到剪貼簿",
-    "new_key": "chat.copy.click",
-    "new_value": "按此處複製至剪貼簿",
-    "en_us": "Click to Copy to Clipboard"
   },
   {
     "old_key": "chat.link.confirm",
@@ -4522,13 +4501,6 @@
     "en_us": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled."
   },
   {
-    "old_key": "gui.recipebook.moreRecipes",
-    "old_value": "按右鍵以了解更多",
-    "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按右鍵瞭解更多",
-    "en_us": "Right Click for More"
-  },
-  {
     "old_key": "gui.recipebook.toggleRecipes.blastable",
     "old_value": "只顯示可用高爐熔煉",
     "new_key": "gui.recipebook.toggleRecipes.blastable",
@@ -5446,13 +5418,6 @@
     "en_us": "Rejecting this custom resource pack will disconnect you from this server."
   },
   {
-    "old_key": "multiplayer.socialInteractions.not_available",
-    "old_value": "線上社羣互動只會於多人地圖內提供",
-    "new_key": "multiplayer.socialInteractions.not_available",
-    "new_value": "線上社羣互動僅會於多人地圖內提供",
-    "en_us": "Social Interactions are only available in Multiplayer worlds"
-  },
-  {
     "old_key": "multiplayer.status.and_more",
     "old_value": "⋯⋯同另外 %s 人⋯⋯",
     "new_key": "multiplayer.status.and_more",
@@ -5500,13 +5465,6 @@
     "new_key": "narration.cycle_button.usage.focused",
     "new_value": "按 Enter 鍵切換至 %s",
     "en_us": "Press Enter to switch to %s"
-  },
-  {
-    "old_key": "narration.cycle_button.usage.hovered",
-    "old_value": "按左鍵以切換到 %s",
-    "new_key": "narration.cycle_button.usage.hovered",
-    "new_value": "按左鍵切換至 %s",
-    "en_us": "Left click to switch to %s"
   },
   {
     "old_key": "narrator.button.accessibility",
@@ -5873,13 +5831,6 @@
     "en_us": "Downgrading a world is not supported"
   },
   {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "不支援使用實驗性質設定嘅世界",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援啟用實驗性設定的世界",
-    "en_us": "Worlds using Experimental Settings are not supported"
-  },
-  {
     "old_key": "selectWorld.backupQuestion.snapshot",
     "old_value": "你確定想載入此世界？",
     "new_key": "selectWorld.backupQuestion.snapshot",
@@ -6209,13 +6160,6 @@
     "en_us": "Beacon deactivates"
   },
   {
-    "old_key": "subtitles.block.beacon.power_select",
-    "old_value": "選取烽火台效果",
-    "new_key": "subtitles.block.beacon.power_select",
-    "new_value": "選取燈標效果",
-    "en_us": "Beacon power selected"
-  },
-  {
     "old_key": "subtitles.block.beehive.shear",
     "old_value": "鉸剪刮嘢聲",
     "new_key": "subtitles.block.beehive.shear",
@@ -6230,13 +6174,6 @@
     "en_us": "Bell resonates"
   },
   {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "發射器射出物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品被射出",
-    "en_us": "Dispensed item"
-  },
-  {
     "old_key": "subtitles.block.door.toggle",
     "old_value": "門聲",
     "new_key": "subtitles.block.door.toggle",
@@ -6249,13 +6186,6 @@
     "new_key": "subtitles.block.fence_gate.toggle",
     "new_value": "閘門作響",
     "en_us": "Fence Gate creaks"
-  },
-  {
-    "old_key": "subtitles.block.honey_block.slide",
-    "old_value": "喺蜜糖塊上面滑落嚟",
-    "new_key": "subtitles.block.honey_block.slide",
-    "new_value": "在蜜糖塊上面滑落",
-    "en_us": "Sliding down a honey block"
   },
   {
     "old_key": "subtitles.block.lava.ambient",
@@ -6454,20 +6384,6 @@
     "en_us": "Experience gained"
   },
   {
-    "old_key": "subtitles.entity.fishing_bobber.retrieve",
-    "old_value": "浮標收返",
-    "new_key": "subtitles.entity.fishing_bobber.retrieve",
-    "new_value": "浮標收回",
-    "en_us": "Bobber retrieved"
-  },
-  {
-    "old_key": "subtitles.entity.fox.aggro",
-    "old_value": "狐狸發嬲",
-    "new_key": "subtitles.entity.fox.aggro",
-    "new_value": "狐狸發怒",
-    "en_us": "Fox angers"
-  },
-  {
     "old_key": "subtitles.entity.fox.bite",
     "old_value": "狐狸咬嘢",
     "new_key": "subtitles.entity.fox.bite",
@@ -6524,18 +6440,11 @@
     "en_us": "Ghast cries"
   },
   {
-    "old_key": "subtitles.entity.glow_item_frame.add_item",
-    "old_value": "螢光物品展示框被填充",
-    "new_key": "subtitles.entity.glow_item_frame.add_item",
-    "new_value": "熒光物品展示框被填充",
-    "en_us": "Glow Item Frame fills"
-  },
-  {
-    "old_key": "subtitles.entity.glow_item_frame.place",
-    "old_value": "螢光物品展示框被放置",
-    "new_key": "subtitles.entity.glow_item_frame.place",
-    "new_value": "熒光物品展示框被放置",
-    "en_us": "Glow Item Frame placed"
+    "old_key": "subtitles.entity.glow_item_frame.break",
+    "old_value": "螢光物品展示框被破壞",
+    "new_key": "subtitles.entity.glow_item_frame.break",
+    "new_value": "熒光物品展示框被破壞",
+    "en_us": "Glow Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.glow_item_frame.remove_item",
@@ -6564,13 +6473,6 @@
     "new_key": "subtitles.entity.glow_squid.death",
     "new_value": "熒光墨魚死亡",
     "en_us": "Glow Squid dies"
-  },
-  {
-    "old_key": "subtitles.entity.glow_squid.hurt",
-    "old_value": "螢光墨魚受傷",
-    "new_key": "subtitles.entity.glow_squid.hurt",
-    "new_value": "熒光墨魚受傷",
-    "en_us": "Glow Squid hurts"
   },
   {
     "old_key": "subtitles.entity.glow_squid.squirt",
@@ -6692,13 +6594,6 @@
     "en_us": "Magma Cube dies"
   },
   {
-    "old_key": "subtitles.entity.magma_cube.hurt",
-    "old_value": "岩漿史萊姆受傷",
-    "new_key": "subtitles.entity.magma_cube.hurt",
-    "new_value": "巖漿史萊姆受傷",
-    "en_us": "Magma Cube hurts"
-  },
-  {
     "old_key": "subtitles.entity.magma_cube.squish",
     "old_value": "岩漿史萊姆彈跳聲",
     "new_key": "subtitles.entity.magma_cube.squish",
@@ -6732,6 +6627,13 @@
     "new_key": "subtitles.entity.mule.eat",
     "new_value": "騾進食",
     "en_us": "Mule eats"
+  },
+  {
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "畫被破壞",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "畫被取下",
+    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",
@@ -6860,13 +6762,6 @@
     "en_us": "Parrot mutters"
   },
   {
-    "old_key": "subtitles.entity.parrot.imitate.wither",
-    "old_value": "鸚鵡發嬲",
-    "new_key": "subtitles.entity.parrot.imitate.wither",
-    "new_value": "鸚鵡發怒",
-    "en_us": "Parrot angers"
-  },
-  {
     "old_key": "subtitles.entity.parrot.imitate.zoglin",
     "old_value": "鸚鵡咆哮聲",
     "new_key": "subtitles.entity.parrot.imitate.zoglin",
@@ -6944,13 +6839,6 @@
     "en_us": "Pillager murmurs"
   },
   {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "樽被掟出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "樽被擲出",
-    "en_us": "Bottle thrown"
-  },
-  {
     "old_key": "subtitles.entity.puffer_fish.blow_out",
     "old_value": "雞泡魚消氣",
     "new_key": "subtitles.entity.puffer_fish.blow_out",
@@ -6977,13 +6865,6 @@
     "new_key": "subtitles.entity.puffer_fish.flop",
     "new_value": "河豚彈跳聲",
     "en_us": "Pufferfish flops"
-  },
-  {
-    "old_key": "subtitles.entity.puffer_fish.hurt",
-    "old_value": "雞泡魚受傷",
-    "new_key": "subtitles.entity.puffer_fish.hurt",
-    "new_value": "河豚受傷",
-    "en_us": "Pufferfish hurts"
   },
   {
     "old_key": "subtitles.entity.puffer_fish.sting",
@@ -7112,13 +6993,6 @@
     "en_us": "Witch throws"
   },
   {
-    "old_key": "subtitles.entity.wither.ambient",
-    "old_value": "凋零怪發嬲",
-    "new_key": "subtitles.entity.wither.ambient",
-    "new_value": "凋零怪發怒",
-    "en_us": "Wither angers"
-  },
-  {
     "old_key": "subtitles.entity.wolf.growl",
     "old_value": "狼嚎",
     "new_key": "subtitles.entity.wolf.growl",
@@ -7154,13 +7028,6 @@
     "en_us": "Zombie Horse dies"
   },
   {
-    "old_key": "subtitles.entity.zombie_horse.hurt",
-    "old_value": "殭屍馬受傷",
-    "new_key": "subtitles.entity.zombie_horse.hurt",
-    "new_value": "喪屍馬受傷",
-    "en_us": "Zombie Horse hurts"
-  },
-  {
     "old_key": "subtitles.entity.zombie_villager.ambient",
     "old_value": "殭屍村民嘶叫聲",
     "new_key": "subtitles.entity.zombie_villager.ambient",
@@ -7189,13 +7056,6 @@
     "en_us": "Zombie Villager dies"
   },
   {
-    "old_key": "subtitles.entity.zombie_villager.hurt",
-    "old_value": "殭屍村民受傷",
-    "new_key": "subtitles.entity.zombie_villager.hurt",
-    "new_value": "喪屍村民受傷",
-    "en_us": "Zombie Villager hurts"
-  },
-  {
     "old_key": "subtitles.entity.zombie.ambient",
     "old_value": "殭屍嘶叫聲",
     "new_key": "subtitles.entity.zombie.ambient",
@@ -7215,13 +7075,6 @@
     "new_key": "subtitles.entity.zombie.death",
     "new_value": "喪屍死亡",
     "en_us": "Zombie dies"
-  },
-  {
-    "old_key": "subtitles.entity.zombie.hurt",
-    "old_value": "殭屍受傷",
-    "new_key": "subtitles.entity.zombie.hurt",
-    "new_value": "喪屍受傷",
-    "en_us": "Zombie hurts"
   },
   {
     "old_key": "subtitles.entity.zombie.infect",
@@ -7252,13 +7105,6 @@
     "en_us": "Zombified Piglin dies"
   },
   {
-    "old_key": "subtitles.entity.zombified_piglin.hurt",
-    "old_value": "殭屍豬人受傷",
-    "new_key": "subtitles.entity.zombified_piglin.hurt",
-    "new_value": "喪屍豬人受傷",
-    "en_us": "Zombified Piglin hurts"
-  },
-  {
     "old_key": "subtitles.item.armor.equip_gold",
     "old_value": "裝備黃金盔甲",
     "new_key": "subtitles.item.armor.equip_gold",
@@ -7285,13 +7131,6 @@
     "new_key": "subtitles.item.bundle.drop_contents",
     "new_value": "清空收納袋",
     "en_us": "Bundle empties"
-  },
-  {
-    "old_key": "subtitles.item.bundle.remove_one",
-    "old_value": "物品由收納袋拎出",
-    "new_key": "subtitles.item.bundle.remove_one",
-    "new_value": "取出物品",
-    "en_us": "Item unpacked"
   },
   {
     "old_key": "subtitles.item.glow_ink_sac.use",
@@ -7341,13 +7180,6 @@
     "new_key": "translation.test.complex",
     "new_value": "前綴，%s%2$s 之後為 %s 與 %1$s 最後為 %s 以及 %1$s！",
     "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
-  },
-  {
-    "old_key": "tutorial.bundleInsert.description",
-    "old_value": "按右鍵來收納物品",
-    "new_key": "tutorial.bundleInsert.description",
-    "new_value": "按右鍵收納物品",
-    "en_us": "Right Click to add items"
   },
   {
     "old_key": "tutorial.find_tree.description",

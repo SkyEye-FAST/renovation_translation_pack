@@ -126,13 +126,6 @@
     "en_us": "Unknown color '%s'"
   },
   {
-    "old_key": "argument.component.invalid",
-    "old_value": "无效的聊天组件： %s",
-    "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件：%s",
-    "en_us": "Invalid chat component: %s"
-  },
-  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未知的准则：'%s'",
     "new_key": "argument.criteria.invalid",
@@ -642,13 +635,6 @@
     "new_key": "book.pageIndicator",
     "new_value": "第%1$s页/共%2$s页",
     "en_us": "Page %1$s of %2$s"
-  },
-  {
-    "old_key": "chat.copy.click",
-    "old_value": "单击复制到剪切板",
-    "new_key": "chat.copy.click",
-    "new_value": "单击复制到剪贴板",
-    "en_us": "Click to Copy to Clipboard"
   },
   {
     "old_key": "chat.link.confirm",
@@ -1211,13 +1197,6 @@
     "en_us": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled."
   },
   {
-    "old_key": "gui.recipebook.moreRecipes",
-    "old_value": "右击以获取更多信息",
-    "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "单击鼠标右键获取更多信息",
-    "en_us": "Right Click for More"
-  },
-  {
     "old_key": "item.minecraft.bucket",
     "old_value": "桶",
     "new_key": "item.minecraft.bucket",
@@ -1652,13 +1631,6 @@
     "en_us": "Expected quote to start a string"
   },
   {
-    "old_key": "predicate.unknown",
-    "old_value": "未知的战利品表条件：%s",
-    "new_key": "predicate.unknown",
-    "new_value": "未知的谓词：%s",
-    "en_us": "Unknown predicate: %s"
-  },
-  {
     "old_key": "resourcePack.broken_assets",
     "old_value": "检测到损坏的资源文件",
     "new_key": "resourcePack.broken_assets",
@@ -1692,13 +1664,6 @@
     "new_key": "selectWorld.backupJoinConfirmButton",
     "new_value": "创建备份并加载",
     "en_us": "Create Backup and Load"
-  },
-  {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "使用“实验性设置”的世界已不受支持",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "使用“实验性设置”的世界不受支持",
-    "en_us": "Worlds using Experimental Settings are not supported"
   },
   {
     "old_key": "selectWorld.backupWarning.customized",
@@ -2023,20 +1988,6 @@
     "en_us": "Size successfully detected for '%s'"
   },
   {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "铁砧：着地",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "铁砧：着陆",
-    "en_us": "Anvil landed"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "en_us": "Dispensed item"
-  },
-  {
     "old_key": "subtitles.block.tripwire.attach",
     "old_value": "绊线钩：连接",
     "new_key": "subtitles.block.tripwire.attach",
@@ -2226,13 +2177,6 @@
     "en_us": "Bottle smashes"
   },
   {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "药瓶：扔出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
-    "en_us": "Bottle thrown"
-  },
-  {
     "old_key": "subtitles.entity.puffer_fish.sting",
     "old_value": "河豚：刺蛰",
     "new_key": "subtitles.entity.puffer_fish.sting",
@@ -2322,13 +2266,6 @@
     "new_key": "subtitles.item.bucket.fill",
     "new_value": "铁桶：装满",
     "en_us": "Bucket fills"
-  },
-  {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "打火石：生火",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "打火石：点火",
-    "en_us": "Flint and Steel click"
   },
   {
     "old_key": "subtitles.item.hoe.till",

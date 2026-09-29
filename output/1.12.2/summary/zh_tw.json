@@ -42,6 +42,13 @@
     "en_us": "Never open links from people that you don't trust!"
   },
   {
+    "old_key": "chat.type.text.narrate",
+    "old_value": "%s 說︰%s",
+    "new_key": "chat.type.text.narrate",
+    "new_value": "%s 說：%s",
+    "en_us": "%s says %s"
+  },
+  {
     "old_key": "container.repair",
     "old_value": "修復 & 命名",
     "new_key": "container.repair",
@@ -2373,11 +2380,11 @@
     "en_us": "Dragon growls"
   },
   {
-    "old_key": "subtitles.entity.generic.big_fall",
-    "old_value": "物體墜落",
-    "new_key": "subtitles.entity.generic.big_fall",
-    "new_value": "物體掉落",
-    "en_us": "Something fell"
+    "old_key": "subtitles.entity.itemframe.break",
+    "old_value": "破壞物品展示框",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "取下物品展示框",
+    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.llama.ambient",
@@ -2385,13 +2392,6 @@
     "new_key": "subtitles.entity.llama.ambient",
     "new_value": "駱馬叫聲",
     "en_us": "Llama bleats"
-  },
-  {
-    "old_key": "subtitles.entity.llama.chest",
-    "old_value": "為羊駝裝上儲物箱",
-    "new_key": "subtitles.entity.llama.chest",
-    "new_value": "為駱馬裝上儲物箱",
-    "en_us": "Llama Chest equips"
   },
   {
     "old_key": "subtitles.entity.llama.death",
@@ -2406,13 +2406,6 @@
     "new_key": "subtitles.entity.llama.eat",
     "new_value": "駱馬進食",
     "en_us": "Llama eats"
-  },
-  {
-    "old_key": "subtitles.entity.llama.hurt",
-    "old_value": "羊駝受傷",
-    "new_key": "subtitles.entity.llama.hurt",
-    "new_value": "駱馬受傷",
-    "en_us": "Llama hurts"
   },
   {
     "old_key": "subtitles.entity.llama.spit",

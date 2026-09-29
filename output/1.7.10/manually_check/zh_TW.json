@@ -205,7 +205,7 @@
     "old_en_us": "Invalid session (Try restarting your game)",
     "new_key": "disconnect.loginFailedInfo.invalidSession",
     "new_value": "無效的 session（請嘗試重開您的遊戲與啟動器）",
-    "new_en_us": "Invalid session (Try restarting your game and the launcher)"
+    "new_en_us": "Invalid session (try restarting your game and the launcher)"
   },
   {
     "old_key": "disconnect.loginFailedInfo.serversUnavailable",

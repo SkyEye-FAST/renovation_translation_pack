@@ -1680,25 +1680,11 @@
     "en_us": "Interactions with Crafting Table"
   },
   {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "铁砧：着地",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "铁砧：着陆",
-    "en_us": "Anvil landed"
-  },
-  {
     "old_key": "subtitles.block.button.click",
     "old_value": "按钮：点击",
     "new_key": "subtitles.block.button.click",
     "new_value": "按钮：咔哒",
     "en_us": "Button clicks"
-  },
-  {
-    "old_key": "subtitles.block.chest.locked",
-    "old_value": "箱子：关闭",
-    "new_key": "subtitles.block.chest.locked",
-    "new_value": "箱子：锁上",
-    "en_us": "Chest locked"
   },
   {
     "old_key": "subtitles.block.chorus_flower.death",
@@ -1713,13 +1699,6 @@
     "new_key": "subtitles.block.chorus_flower.grow",
     "new_value": "紫颂花：生长",
     "en_us": "Chorus Flower grows"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "en_us": "Dispensed item"
   },
   {
     "old_key": "subtitles.block.lava.ambient",
@@ -1771,25 +1750,11 @@
     "en_us": "Tripwire detaches"
   },
   {
-    "old_key": "subtitles.entity.bobber.throw",
-    "old_value": "浮标：甩出",
-    "new_key": "subtitles.entity.fishing_bobber.throw",
-    "new_value": "浮漂：甩出",
-    "en_us": "Bobber thrown"
-  },
-  {
     "old_key": "subtitles.entity.creeper.death",
     "old_value": "爬行者：死亡",
     "new_key": "subtitles.entity.creeper.death",
     "new_value": "苦力怕：死亡",
     "en_us": "Creeper dies"
-  },
-  {
-    "old_key": "subtitles.entity.creeper.hurt",
-    "old_value": "爬行者：受伤",
-    "new_key": "subtitles.entity.creeper.hurt",
-    "new_value": "苦力怕：受伤",
-    "en_us": "Creeper hurts"
   },
   {
     "old_key": "subtitles.entity.creeper.primed",
@@ -1876,13 +1841,6 @@
     "en_us": "Bottle smashes"
   },
   {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "药瓶：扔出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
-    "en_us": "Bottle thrown"
-  },
-  {
     "old_key": "subtitles.entity.sheep.ambient",
     "old_value": "羊：咩~",
     "new_key": "subtitles.entity.sheep.ambient",
@@ -1895,13 +1853,6 @@
     "new_key": "subtitles.entity.sheep.death",
     "new_value": "绵羊：死亡",
     "en_us": "Sheep dies"
-  },
-  {
-    "old_key": "subtitles.entity.sheep.hurt",
-    "old_value": "羊：受伤",
-    "new_key": "subtitles.entity.sheep.hurt",
-    "new_value": "绵羊：受伤",
-    "en_us": "Sheep hurts"
   },
   {
     "old_key": "subtitles.entity.shulker.open",
@@ -1986,13 +1937,6 @@
     "new_key": "subtitles.item.bucket.fill",
     "new_value": "铁桶：装满",
     "en_us": "Bucket fills"
-  },
-  {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "打火石：生火",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "打火石：点火",
-    "en_us": "Flint and Steel click"
   },
   {
     "old_key": "subtitles.item.hoe.till",

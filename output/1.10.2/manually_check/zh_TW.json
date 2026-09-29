@@ -205,7 +205,7 @@
     "old_en_us": "Invalid session (Try restarting your game)",
     "new_key": "disconnect.loginFailedInfo.invalidSession",
     "new_value": "無效的 session（請嘗試重開您的遊戲與啟動器）",
-    "new_en_us": "Invalid session (Try restarting your game and the launcher)"
+    "new_en_us": "Invalid session (try restarting your game and the launcher)"
   },
   {
     "old_key": "disconnect.loginFailedInfo.serversUnavailable",
@@ -1024,6 +1024,30 @@
     "new_en_us": "Unable to detect structure size. Add corners with matching structure names"
   },
   {
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱鎖上了",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱鎖上",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火被撲滅",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰熄滅聲",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.generic.place",
+    "old_value": "方塊被放置",
+    "old_en_us": "Block placed",
+    "new_key": "subtitles.block.generic.place",
+    "new_value": "方塊放置聲",
+    "new_en_us": "Block is placed"
+  },
+  {
     "old_key": "subtitles.block.iron_trapdoor.close",
     "old_value": "地板門開啟",
     "old_en_us": "Trapdoor opens",
@@ -1048,12 +1072,68 @@
     "new_en_us": "Note Block plays"
   },
   {
+    "old_key": "subtitles.entity.armorstand.fall",
+    "old_value": "盔甲座掉落",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.armor_stand.fall",
+    "new_value": "物體掉落",
+    "new_en_us": "Something falls"
+  },
+  {
     "old_key": "subtitles.entity.bobber.splash",
     "old_value": "釣鉤濺水聲",
     "old_en_us": "Fishing hook splashes",
     "new_key": "subtitles.entity.fishing_bobber.splash",
     "new_value": "浮標濺水聲",
     "new_en_us": "Fishing Bobber splashes"
+  },
+  {
+    "old_key": "subtitles.entity.bobber.throw",
+    "old_value": "投出魚鉤",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "浮標投出",
+    "new_en_us": "Bobber is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.cat.hurt",
+    "old_value": "貓受傷聲",
+    "old_en_us": "Cat hurts",
+    "new_key": "subtitles.entity.cat.hurt",
+    "new_value": "貓受傷",
+    "new_en_us": "Cat is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.chicken.hurt",
+    "old_value": "雞受傷聲",
+    "old_en_us": "Chicken hurts",
+    "new_key": "subtitles.entity.chicken.hurt",
+    "new_value": "雞受傷",
+    "new_en_us": "Chicken is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.donkey.chest",
+    "old_value": "為驢子裝上儲物箱聲",
+    "old_en_us": "Donkey Chest equips",
+    "new_key": "subtitles.entity.donkey.chest",
+    "new_value": "為驢子裝上儲物箱",
+    "new_en_us": "Donkey Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.generic.big_fall",
+    "old_value": "物體落地聲",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.generic.big_fall",
+    "new_value": "物體掉落",
+    "new_en_us": "Something falls"
+  },
+  {
+    "old_key": "subtitles.entity.generic.hurt",
+    "old_value": "一些東西受到傷害",
+    "old_en_us": "Something hurts",
+    "new_key": "subtitles.entity.generic.hurt",
+    "new_value": "物體受傷",
+    "new_en_us": "Something is hurt"
   },
   {
     "old_key": "subtitles.entity.generic.small_fall",
@@ -1064,12 +1144,20 @@
     "new_en_us": "Something trips"
   },
   {
-    "old_key": "subtitles.entity.itemframe.break",
-    "old_value": "破壞物品展示框",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "new_en_us": "Item Frame broken"
+    "old_key": "subtitles.entity.horse.armor",
+    "old_value": "為馬裝備馬鎧聲",
+    "old_en_us": "Horse armor equips",
+    "new_key": "subtitles.entity.horse.armor",
+    "new_value": "裝上馬鎧",
+    "new_en_us": "Horse armor is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.horse.saddle",
+    "old_value": "為馬上鞍聲",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.horse.saddle",
+    "new_value": "裝上鞍",
+    "new_en_us": "Saddle is equipped"
   },
   {
     "old_key": "subtitles.entity.leashknot.place",
@@ -1077,7 +1165,23 @@
     "old_en_us": "Leash knot tied",
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "繫上拴繩",
-    "new_en_us": "Leash Knot tied"
+    "new_en_us": "Leash Knot is tied"
+  },
+  {
+    "old_key": "subtitles.entity.magmacube.hurt",
+    "old_value": "岩漿史萊姆受傷",
+    "old_en_us": "Magma Cube hurts",
+    "new_key": "subtitles.entity.magma_cube.hurt",
+    "new_value": "岩漿立方怪受傷",
+    "new_en_us": "Magma Cube is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.pig.saddle",
+    "old_value": "為豬上鞍聲",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.pig.saddle",
+    "new_value": "裝上鞍",
+    "new_en_us": "Saddle is equipped"
   },
   {
     "old_key": "subtitles.entity.polar_bear.baby_ambient",
@@ -1086,6 +1190,30 @@
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼年北極熊低哼",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.polar_bear.hurt",
+    "old_value": "北極熊受到傷害",
+    "old_en_us": "Polar Bear hurts",
+    "new_key": "subtitles.entity.polar_bear.hurt",
+    "new_value": "北極熊受傷",
+    "new_en_us": "Polar Bear is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.sheep.hurt",
+    "old_value": "羊受傷",
+    "old_en_us": "Sheep hurts",
+    "new_key": "subtitles.entity.sheep.hurt",
+    "new_value": "綿羊受傷",
+    "new_en_us": "Sheep is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.shulker.hurt",
+    "old_value": "界伏蚌受傷害",
+    "old_en_us": "Shulker hurts",
+    "new_key": "subtitles.entity.shulker.hurt",
+    "new_value": "界伏蚌受傷",
+    "new_en_us": "Shulker is hurt"
   },
   {
     "old_key": "subtitles.entity.shulker_bullet.hit",
@@ -1102,6 +1230,22 @@
     "new_key": "subtitles.entity.shulker_bullet.hurt",
     "new_value": "界伏彈破裂",
     "new_en_us": "Shulker Bullet breaks"
+  },
+  {
+    "old_key": "subtitles.entity.stray.hurt",
+    "old_value": "流髑受到傷害",
+    "old_en_us": "Stray hurts",
+    "new_key": "subtitles.entity.stray.hurt",
+    "new_value": "流髑受傷",
+    "new_en_us": "Stray is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.wither_skeleton.hurt",
+    "old_value": "凋零骷髏受到傷害",
+    "old_en_us": "Wither Skeleton hurts",
+    "new_key": "subtitles.entity.wither_skeleton.hurt",
+    "new_value": "凋零骷髏受傷",
+    "new_en_us": "Wither Skeleton is hurt"
   },
   {
     "old_key": "subtitles.entity.zombie_villager.converted",

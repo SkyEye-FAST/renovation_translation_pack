@@ -105,13 +105,6 @@
     "en_us": "Expected value for property '%s' on block %s"
   },
   {
-    "old_key": "argument.component.invalid",
-    "old_value": "无效的聊天组件： %s",
-    "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件：%s",
-    "en_us": "Invalid chat component: %s"
-  },
-  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未知的准则：“%s”",
     "new_key": "argument.criteria.invalid",
@@ -581,13 +574,6 @@
     "en_us": "Wither Rose"
   },
   {
-    "old_key": "chat.copy.click",
-    "old_value": "单击复制到剪切板",
-    "new_key": "chat.copy.click",
-    "new_value": "单击复制到剪贴板",
-    "en_us": "Click to Copy to Clipboard"
-  },
-  {
     "old_key": "chat.disabled.expiredProfileKey",
     "old_value": "由于个人信息公钥过期，聊天已被禁用。请尝试重新连接。",
     "new_key": "chat.disabled.expiredProfileKey",
@@ -761,13 +747,6 @@
     "new_key": "commands.spawnpoint.success.single",
     "new_value": "已将%6$s的出生点设为%5$s中的%1$s, %2$s, %3$s [%4$s]",
     "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
-  },
-  {
-    "old_key": "commands.spreadplayers.failed.invalid.height",
-    "old_value": "无效的maxHeight值：%s，需要高于世界最小高度%s",
-    "new_key": "commands.spreadplayers.failed.invalid.height",
-    "new_value": "无效的maxHeight值：%s，应高于世界最小高度%s",
-    "en_us": "Invalid maxHeight %s; expected higher than world minimum %s"
   },
   {
     "old_key": "commands.stopsound.success.source.any",
@@ -985,13 +964,6 @@
     "new_key": "gui.chatReport.selected_chat",
     "new_value": "已选中%s条要举报的聊天消息",
     "en_us": "%s Chat Message(s) Selected to Report"
-  },
-  {
-    "old_key": "gui.recipebook.moreRecipes",
-    "old_value": "右击以获取更多信息",
-    "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "单击鼠标右键获取更多信息",
-    "en_us": "Right Click for More"
   },
   {
     "old_key": "item.minecraft.bucket",
@@ -1274,13 +1246,6 @@
     "en_us": "Failed to access world"
   },
   {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "使用“实验性设置”的世界已不受支持",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "使用“实验性设置”的世界不受支持",
-    "en_us": "Worlds using Experimental Settings are not supported"
-  },
-  {
     "old_key": "selectWorld.backupWarning.customized",
     "old_value": "不巧，我们在这个版本的Minecraft中不支持自定义世界。我们可以继续加载这个世界并保持原状，但任何新生成的地形将不再被自定义。抱歉给你带来不便。",
     "new_key": "selectWorld.backupWarning.customized",
@@ -1526,20 +1491,6 @@
     "en_us": "Save"
   },
   {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "铁砧：着地",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "铁砧：着陆",
-    "en_us": "Anvil landed"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "en_us": "Dispensed item"
-  },
-  {
     "old_key": "subtitles.entity.bee.sting",
     "old_value": "蜜蜂：蛰",
     "new_key": "subtitles.entity.bee.sting",
@@ -1659,25 +1610,11 @@
     "en_us": "Bucket fills"
   },
   {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "打火石：生火",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "打火石：点火",
-    "en_us": "Flint and Steel click"
-  },
-  {
     "old_key": "subtitles.item.shears.shear",
     "old_value": "剪刀：剪断",
     "new_key": "subtitles.item.shears.shear",
     "new_value": "剪刀：咔嚓",
     "en_us": "Shears click"
-  },
-  {
-    "old_key": "tutorial.bundleInsert.description",
-    "old_value": "右击收纳物品",
-    "new_key": "tutorial.bundleInsert.description",
-    "new_value": "单击鼠标右键收纳物品",
-    "en_us": "Right Click to add items"
   },
   {
     "old_key": "tutorial.find_tree.description",

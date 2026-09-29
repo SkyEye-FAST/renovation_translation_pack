@@ -119,13 +119,6 @@
     "en_us": "Unknown color '%s'"
   },
   {
-    "old_key": "argument.component.invalid",
-    "old_value": "无效的聊天组件： %s",
-    "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件：%s",
-    "en_us": "Invalid chat component: %s"
-  },
-  {
     "old_key": "argument.dimension.invalid",
     "old_value": "未知的维度'%s'",
     "new_key": "argument.dimension.invalid",
@@ -1771,13 +1764,6 @@
     "en_us": "A player is required to run this command here"
   },
   {
-    "old_key": "predicate.unknown",
-    "old_value": "未知的战利品表条件：%s",
-    "new_key": "predicate.unknown",
-    "new_value": "未知的谓词：%s",
-    "en_us": "Unknown predicate: %s"
-  },
-  {
     "old_key": "resourcePack.broken_assets",
     "old_value": "检测到损坏的资源文件",
     "new_key": "resourcePack.broken_assets",
@@ -2114,20 +2100,6 @@
     "en_us": "Size successfully detected for '%s'"
   },
   {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "铁砧：着地",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "铁砧：着陆",
-    "en_us": "Anvil landed"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "en_us": "Dispensed item"
-  },
-  {
     "old_key": "subtitles.block.tripwire.attach",
     "old_value": "绊线钩：连接",
     "new_key": "subtitles.block.tripwire.attach",
@@ -2317,13 +2289,6 @@
     "en_us": "Bottle smashes"
   },
   {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "药瓶：扔出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
-    "en_us": "Bottle thrown"
-  },
-  {
     "old_key": "subtitles.entity.puffer_fish.sting",
     "old_value": "河豚：刺蛰",
     "new_key": "subtitles.entity.puffer_fish.sting",
@@ -2413,13 +2378,6 @@
     "new_key": "subtitles.item.bucket.fill",
     "new_value": "铁桶：装满",
     "en_us": "Bucket fills"
-  },
-  {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "打火石：生火",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "打火石：点火",
-    "en_us": "Flint and Steel click"
   },
   {
     "old_key": "subtitles.item.hoe.till",

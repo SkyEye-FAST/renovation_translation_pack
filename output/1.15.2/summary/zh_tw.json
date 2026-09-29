@@ -1,12 +1,5 @@
 [
   {
-    "old_key": "advancement.advancementNotFound",
-    "old_value": "未知的進度： %s",
-    "new_key": "advancement.advancementNotFound",
-    "new_value": "未知的進度：%s",
-    "en_us": "Unknown advancement: %s"
-  },
-  {
     "old_key": "advancements.adventure.root.description",
     "old_value": "冒險、 探索和戰鬥",
     "new_key": "advancements.adventure.root.description",
@@ -56,25 +49,11 @@
     "en_us": "Command set: %s"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效的實體錨點座標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效的實體錨點 %s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.block.property.novalue",
     "old_value": "%2$s 方塊的屬性 '%1$s' 應為數值",
     "new_key": "argument.block.property.novalue",
     "new_value": "%2$s 方塊的屬性 '%1$s' 應為值",
     "en_us": "Expected value for property '%s' on block %s"
-  },
-  {
-    "old_key": "argument.component.invalid",
-    "old_value": "無效的聊天組合： %s",
-    "new_key": "argument.component.invalid",
-    "new_value": "無效的聊天元件：%s",
-    "en_us": "Invalid chat component: %s"
   },
   {
     "old_key": "argument.entity.options.predicate.description",
@@ -1519,6 +1498,13 @@
     "en_us": "Click to teleport"
   },
   {
+    "old_key": "chat.type.text.narrate",
+    "old_value": "%s 說︰%s",
+    "new_key": "chat.type.text.narrate",
+    "new_value": "%s 說：%s",
+    "en_us": "%s says %s"
+  },
+  {
     "old_key": "command.exception",
     "old_value": "無法解析指令： %s",
     "new_key": "command.exception",
@@ -1722,13 +1708,6 @@
     "en_us": "%s has the following entity data: %s"
   },
   {
-    "old_key": "commands.data.modify.invalid_index",
-    "old_value": "無效的串列索引： %s",
-    "new_key": "commands.data.modify.invalid_index",
-    "new_value": "無效的串列索引：%s",
-    "en_us": "Invalid list index: %s"
-  },
-  {
     "old_key": "commands.data.storage.query",
     "old_value": "容器 %s 擁有下列內容物： %s",
     "new_key": "commands.data.storage.query",
@@ -1881,6 +1860,34 @@
     "new_key": "commands.team.option.nametagVisibility.success",
     "new_value": "隊伍 %s 現在的名牌可見度為「%s」",
     "en_us": "Nametag visibility for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.teleport.success.entity.multiple",
+    "old_value": "已傳送 %s 個實體到 %s",
+    "new_key": "commands.teleport.success.entity.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s",
+    "en_us": "Teleported %s entities to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.entity.single",
+    "old_value": "傳送 %s 到 %s",
+    "new_key": "commands.teleport.success.entity.single",
+    "new_value": "已將 %s 傳送到 %s",
+    "en_us": "Teleported %s to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.multiple",
+    "old_value": "已傳送 %s 個實體到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s, %s, %s",
+    "en_us": "Teleported %s entities to %s, %s, %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.single",
+    "old_value": "傳送 %s 到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.single",
+    "new_value": "已將 %s 傳送到 %s, %s, %s",
+    "en_us": "Teleported %s to %s, %s, %s"
   },
   {
     "old_key": "commands.trigger.add.success",
@@ -2765,6 +2772,13 @@
     "en_us": "NBT: %s tag(s)"
   },
   {
+    "old_key": "key.keyboard.keypad.decimal",
+    "old_value": "數字鍵 .",
+    "new_key": "key.keyboard.keypad.decimal",
+    "new_value": "數字鍵 十進位",
+    "en_us": "Keypad Decimal"
+  },
+  {
     "old_key": "key.keyboard.left.win",
     "old_value": "左 Windows",
     "new_key": "key.keyboard.left.win",
@@ -2975,27 +2989,6 @@
     "en_us": "Skin Customization"
   },
   {
-    "old_key": "particle.notFound",
-    "old_value": "未知的粒子： %s",
-    "new_key": "particle.notFound",
-    "new_value": "未知的粒子：%s",
-    "en_us": "Unknown particle: %s"
-  },
-  {
-    "old_key": "predicate.unknown",
-    "old_value": "未知的述詞： %s",
-    "new_key": "predicate.unknown",
-    "new_value": "未知的述詞：%s",
-    "en_us": "Unknown predicate: %s"
-  },
-  {
-    "old_key": "recipe.notFound",
-    "old_value": "未知的配方： %s",
-    "new_key": "recipe.notFound",
-    "new_value": "未知的配方：%s",
-    "en_us": "Unknown recipe: %s"
-  },
-  {
     "old_key": "resourcePack.broken_assets",
     "old_value": "偵測到損壞的檔案資料",
     "new_key": "resourcePack.broken_assets",
@@ -3176,6 +3169,13 @@
     "new_key": "subtitles.block.furnace.fire_crackle",
     "new_value": "熔爐劈啪聲",
     "en_us": "Furnace crackles"
+  },
+  {
+    "old_key": "subtitles.entity.item_frame.break",
+    "old_value": "破壞物品展示框",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "取下物品展示框",
+    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",

@@ -28,25 +28,11 @@
     "en_us": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效的實體錨點座標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效的實體錨點 %s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.block.property.novalue",
     "old_value": "%2$s 方塊的屬性 '%1$s' 應為數值",
     "new_key": "argument.block.property.novalue",
     "new_value": "%2$s 方塊的屬性 '%1$s' 應為值",
     "en_us": "Expected value for property '%s' on block %s"
-  },
-  {
-    "old_key": "argument.component.invalid",
-    "old_value": "無效的聊天組合：%s",
-    "new_key": "argument.component.invalid",
-    "new_value": "無效的聊天元件：%s",
-    "en_us": "Invalid chat component: %s"
   },
   {
     "old_key": "argument.literal.incorrect",
@@ -1435,13 +1421,6 @@
     "en_us": "Wheat Crops"
   },
   {
-    "old_key": "chat_screen.title",
-    "old_value": "聊天畫面",
-    "new_key": "chat_screen.title",
-    "new_value": "聊天欄",
-    "en_us": "Chat screen"
-  },
-  {
     "old_key": "chat.cannotSend",
     "old_value": "無法發送聊天訊息",
     "new_key": "chat.cannotSend",
@@ -1456,11 +1435,11 @@
     "en_us": "Click to teleport"
   },
   {
-    "old_key": "chat.copy.click",
-    "old_value": "點擊複製到剪貼簿",
-    "new_key": "chat.copy.click",
-    "new_value": "按此複製到剪貼簿",
-    "en_us": "Click to Copy to Clipboard"
+    "old_key": "chat.type.text.narrate",
+    "old_value": "%s 說︰%s",
+    "new_key": "chat.type.text.narrate",
+    "new_value": "%s 說：%s",
+    "en_us": "%s says %s"
   },
   {
     "old_key": "commands.advancement.revoke.criterion.to.many.failure",
@@ -1603,6 +1582,34 @@
     "en_us": "Nametag visibility for team %s is now \"%s\""
   },
   {
+    "old_key": "commands.teleport.success.entity.multiple",
+    "old_value": "已傳送 %s 個實體到 %s",
+    "new_key": "commands.teleport.success.entity.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s",
+    "en_us": "Teleported %s entities to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.entity.single",
+    "old_value": "傳送 %s 到 %s",
+    "new_key": "commands.teleport.success.entity.single",
+    "new_value": "已將 %s 傳送到 %s",
+    "en_us": "Teleported %s to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.multiple",
+    "old_value": "已傳送 %s 個實體到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s, %s, %s",
+    "en_us": "Teleported %s entities to %s, %s, %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.single",
+    "old_value": "傳送 %s 到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.single",
+    "new_value": "已將 %s 傳送到 %s, %s, %s",
+    "en_us": "Teleported %s to %s, %s, %s"
+  },
+  {
     "old_key": "commands.trigger.add.success",
     "old_value": "已觸發 %s （將數值增加 %s ）",
     "new_key": "commands.trigger.add.success",
@@ -1678,13 +1685,6 @@
     "new_key": "entity.minecraft.leash_knot",
     "new_value": "拴繩結",
     "en_us": "Leash Knot"
-  },
-  {
-    "old_key": "gui.recipebook.moreRecipes",
-    "old_value": "點擊右鍵以查看更多",
-    "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按下右鍵以查看更多",
-    "en_us": "Right Click for More"
   },
   {
     "old_key": "gui.socialInteractions.empty_blocked",
@@ -2492,6 +2492,13 @@
     "en_us": "Zombified Piglin Spawn Egg"
   },
   {
+    "old_key": "key.keyboard.keypad.decimal",
+    "old_value": "數字鍵 .",
+    "new_key": "key.keyboard.keypad.decimal",
+    "new_value": "數字鍵 十進位",
+    "en_us": "Keypad Decimal"
+  },
+  {
     "old_key": "key.keyboard.left.win",
     "old_value": "左 Windows",
     "new_key": "key.keyboard.left.win",
@@ -2688,20 +2695,6 @@
     "en_us": "Distance Sprinted"
   },
   {
-    "old_key": "subtitles.block.composter.empty",
-    "old_value": "堆肥桶被清空",
-    "new_key": "subtitles.block.composter.empty",
-    "new_value": "清空堆肥箱",
-    "en_us": "Composter emptied"
-  },
-  {
-    "old_key": "subtitles.block.composter.fill",
-    "old_value": "堆肥桶被填滿",
-    "new_key": "subtitles.block.composter.fill",
-    "new_value": "填入堆肥箱",
-    "en_us": "Composter filled"
-  },
-  {
     "old_key": "subtitles.block.composter.ready",
     "old_value": "堆肥桶堆肥",
     "new_key": "subtitles.block.composter.ready",
@@ -2714,6 +2707,20 @@
     "new_key": "subtitles.block.furnace.fire_crackle",
     "new_value": "熔爐劈啪聲",
     "en_us": "Furnace crackles"
+  },
+  {
+    "old_key": "subtitles.entity.glow_item_frame.break",
+    "old_value": "破壞螢光物品展示框",
+    "new_key": "subtitles.entity.glow_item_frame.break",
+    "new_value": "取下螢光物品展示框",
+    "en_us": "Glow Item Frame breaks"
+  },
+  {
+    "old_key": "subtitles.entity.item_frame.break",
+    "old_value": "破壞物品展示框",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "取下物品展示框",
+    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",
@@ -2756,19 +2763,5 @@
     "new_key": "subtitles.item.armor.equip_netherite",
     "new_value": "獄髓盔甲鏗噹聲",
     "en_us": "Netherite armor clanks"
-  },
-  {
-    "old_key": "subtitles.item.bucket.fill_fish",
-    "old_value": "魚被捕獲",
-    "new_key": "subtitles.item.bucket.fill_fish",
-    "new_value": "捕獲魚",
-    "en_us": "Fish captured"
-  },
-  {
-    "old_key": "tutorial.bundleInsert.description",
-    "old_value": "點擊右鍵以放入物品",
-    "new_key": "tutorial.bundleInsert.description",
-    "new_value": "按下右鍵以放入物品",
-    "en_us": "Right Click to add items"
   }
 ]

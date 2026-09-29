@@ -301,13 +301,6 @@
     "en_us": "Command set: %s"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效實體錨點座標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨點位置 %s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.block.id.invalid",
     "old_value": "未知嘅方塊類型 '%s",
     "new_key": "argument.block.id.invalid",
@@ -355,13 +348,6 @@
     "new_key": "argument.color.invalid",
     "new_value": "未知顏色「%s」",
     "en_us": "Unknown color '%s'"
-  },
-  {
-    "old_key": "argument.component.invalid",
-    "old_value": "無效聊天組合：%s",
-    "new_key": "argument.component.invalid",
-    "new_value": "無效聊天元件：%s",
-    "en_us": "Invalid chat component: %s"
   },
   {
     "old_key": "argument.dimension.invalid",
@@ -3318,13 +3304,6 @@
     "en_us": "Lock World Difficulty"
   },
   {
-    "old_key": "disconnect.loginFailedInfo.invalidSession",
-    "old_value": "無效對談（請嘗試重新啟動遊戲與啟動器）",
-    "new_key": "disconnect.loginFailedInfo.invalidSession",
-    "new_value": "無效連接階段（請嘗試重新啟動遊戲與啟動器）",
-    "en_us": "Invalid session (Try restarting your game and the launcher)"
-  },
-  {
     "old_key": "effect.minecraft.hunger",
     "old_value": "飢餓",
     "new_key": "effect.minecraft.hunger",
@@ -4606,13 +4585,6 @@
     "en_us": "Size successfully detected for '%s'"
   },
   {
-    "old_key": "subtitles.block.anvil.use",
-    "old_value": "鐵砧被使用",
-    "new_key": "subtitles.block.anvil.use",
-    "new_value": "使用鐵砧",
-    "en_us": "Anvil used"
-  },
-  {
     "old_key": "subtitles.block.barrel.close",
     "old_value": "木桶被關閉",
     "new_key": "subtitles.block.barrel.close",
@@ -4648,13 +4620,6 @@
     "en_us": "Chest closes"
   },
   {
-    "old_key": "subtitles.block.chest.locked",
-    "old_value": "儲物箱被上鎖",
-    "new_key": "subtitles.block.chest.locked",
-    "new_value": "儲物箱上鎖",
-    "en_us": "Chest locked"
-  },
-  {
     "old_key": "subtitles.block.chest.open",
     "old_value": "儲物箱被打開",
     "new_key": "subtitles.block.chest.open",
@@ -4674,27 +4639,6 @@
     "new_key": "subtitles.block.fence_gate.toggle",
     "new_value": "閘門作響",
     "en_us": "Fence Gate creaks"
-  },
-  {
-    "old_key": "subtitles.block.fire.extinguish",
-    "old_value": "火焰被熄滅",
-    "new_key": "subtitles.block.fire.extinguish",
-    "new_value": "火焰熄滅",
-    "en_us": "Fire extinguished"
-  },
-  {
-    "old_key": "subtitles.block.grindstone.use",
-    "old_value": "砂輪被使用",
-    "new_key": "subtitles.block.grindstone.use",
-    "new_value": "使用砂輪",
-    "en_us": "Grindstone used"
-  },
-  {
-    "old_key": "subtitles.block.honey_block.slide",
-    "old_value": "喺蜜糖塊上面滑落嚟",
-    "new_key": "subtitles.block.honey_block.slide",
-    "new_value": "在蜜糖塊上面滑落",
-    "en_us": "Sliding down a honey block"
   },
   {
     "old_key": "subtitles.block.lava.ambient",
@@ -4865,20 +4809,6 @@
     "en_us": "Experience gained"
   },
   {
-    "old_key": "subtitles.entity.fishing_bobber.throw",
-    "old_value": "浮標被拋出",
-    "new_key": "subtitles.entity.fishing_bobber.throw",
-    "new_value": "拋出浮標",
-    "en_us": "Bobber thrown"
-  },
-  {
-    "old_key": "subtitles.entity.fox.aggro",
-    "old_value": "狐狸發嬲",
-    "new_key": "subtitles.entity.fox.aggro",
-    "new_value": "狐狸發怒",
-    "en_us": "Fox angers"
-  },
-  {
     "old_key": "subtitles.entity.fox.bite",
     "old_value": "狐狸咬嘢",
     "new_key": "subtitles.entity.fox.bite",
@@ -5019,13 +4949,6 @@
     "en_us": "Magma Cube dies"
   },
   {
-    "old_key": "subtitles.entity.magma_cube.hurt",
-    "old_value": "岩漿史萊姆受傷",
-    "new_key": "subtitles.entity.magma_cube.hurt",
-    "new_value": "巖漿史萊姆受傷",
-    "en_us": "Magma Cube hurts"
-  },
-  {
     "old_key": "subtitles.entity.magma_cube.squish",
     "old_value": "岩漿史萊姆彈跳聲",
     "new_key": "subtitles.entity.magma_cube.squish",
@@ -5052,6 +4975,13 @@
     "new_key": "subtitles.entity.mooshroom.suspicious_milk",
     "new_value": "蘑菇牛被擠出可疑的燉湯",
     "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "畫被破壞",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "畫被取下",
+    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",
@@ -5166,13 +5096,6 @@
     "en_us": "Parrot mutters"
   },
   {
-    "old_key": "subtitles.entity.parrot.imitate.wither",
-    "old_value": "鸚鵡發嬲",
-    "new_key": "subtitles.entity.parrot.imitate.wither",
-    "new_value": "鸚鵡發怒",
-    "en_us": "Parrot angers"
-  },
-  {
     "old_key": "subtitles.entity.phantom.bite",
     "old_value": "夜魅咬嘢",
     "new_key": "subtitles.entity.phantom.bite",
@@ -5192,13 +5115,6 @@
     "new_key": "subtitles.entity.pillager.ambient",
     "new_value": "掠奪者低語",
     "en_us": "Pillager murmurs"
-  },
-  {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "樽被掟出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "樽被擲出",
-    "en_us": "Bottle thrown"
   },
   {
     "old_key": "subtitles.entity.puffer_fish.blow_out",
@@ -5227,13 +5143,6 @@
     "new_key": "subtitles.entity.puffer_fish.flop",
     "new_value": "河豚彈跳聲",
     "en_us": "Pufferfish flops"
-  },
-  {
-    "old_key": "subtitles.entity.puffer_fish.hurt",
-    "old_value": "雞泡魚受傷",
-    "new_key": "subtitles.entity.puffer_fish.hurt",
-    "new_value": "河豚受傷",
-    "en_us": "Pufferfish hurts"
   },
   {
     "old_key": "subtitles.entity.puffer_fish.sting",
@@ -5348,13 +5257,6 @@
     "en_us": "Witch throws"
   },
   {
-    "old_key": "subtitles.entity.wither.ambient",
-    "old_value": "凋零怪發嬲",
-    "new_key": "subtitles.entity.wither.ambient",
-    "new_value": "凋零怪發怒",
-    "en_us": "Wither angers"
-  },
-  {
     "old_key": "subtitles.entity.wolf.growl",
     "old_value": "狼嚎",
     "new_key": "subtitles.entity.wolf.growl",
@@ -5376,13 +5278,6 @@
     "en_us": "Zombie Horse dies"
   },
   {
-    "old_key": "subtitles.entity.zombie_horse.hurt",
-    "old_value": "殭屍馬受傷",
-    "new_key": "subtitles.entity.zombie_horse.hurt",
-    "new_value": "喪屍馬受傷",
-    "en_us": "Zombie Horse hurts"
-  },
-  {
     "old_key": "subtitles.entity.zombie_villager.ambient",
     "old_value": "殭屍村民嘶叫聲",
     "new_key": "subtitles.entity.zombie_villager.ambient",
@@ -5395,13 +5290,6 @@
     "new_key": "subtitles.entity.zombie_villager.death",
     "new_value": "喪屍村民死亡",
     "en_us": "Zombie Villager dies"
-  },
-  {
-    "old_key": "subtitles.entity.zombie_villager.hurt",
-    "old_value": "殭屍村民受傷",
-    "new_key": "subtitles.entity.zombie_villager.hurt",
-    "new_value": "喪屍村民受傷",
-    "en_us": "Zombie Villager hurts"
   },
   {
     "old_key": "subtitles.entity.zombie.ambient",
@@ -5418,25 +5306,11 @@
     "en_us": "Zombie dies"
   },
   {
-    "old_key": "subtitles.entity.zombie.hurt",
-    "old_value": "殭屍受傷",
-    "new_key": "subtitles.entity.zombie.hurt",
-    "new_value": "喪屍受傷",
-    "en_us": "Zombie hurts"
-  },
-  {
     "old_key": "subtitles.entity.zombie.infect",
     "old_value": "殭屍感染",
     "new_key": "subtitles.entity.zombie.infect",
     "new_value": "喪屍感染",
     "en_us": "Zombie infects"
-  },
-  {
-    "old_key": "subtitles.item.armor.equip",
-    "old_value": "盔甲被裝備",
-    "new_key": "subtitles.item.armor.equip",
-    "new_value": "着上裝備",
-    "en_us": "Gear equips"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",
@@ -5502,13 +5376,6 @@
     "en_us": "Bucket fills"
   },
   {
-    "old_key": "subtitles.item.crop.plant",
-    "old_value": "作物被播種",
-    "new_key": "subtitles.item.crop.plant",
-    "new_value": "種植作物",
-    "en_us": "Crop planted"
-  },
-  {
     "old_key": "subtitles.item.crossbow.charge",
     "old_value": "弩被搭箭",
     "new_key": "subtitles.item.crossbow.charge",
@@ -5528,13 +5395,6 @@
     "new_key": "subtitles.item.crossbow.load",
     "new_value": "弩裝填",
     "en_us": "Crossbow loads"
-  },
-  {
-    "old_key": "subtitles.item.nether_wart.plant",
-    "old_value": "作物被播種",
-    "new_key": "subtitles.item.nether_wart.plant",
-    "new_value": "種植作物",
-    "en_us": "Crop planted"
   },
   {
     "old_key": "subtitles.item.shears.shear",

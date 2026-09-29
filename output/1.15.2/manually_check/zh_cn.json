@@ -80,6 +80,14 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.component.invalid",
+    "old_value": "无效的聊天组件： %s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "无效的聊天组件：%s",
+    "new_en_us": "Invalid chat component '%s'"
+  },
+  {
     "old_key": "argument.criteria.invalid",
     "old_value": "未知的准则：'%s'",
     "old_en_us": "Unknown criteria '%s'",
@@ -637,7 +645,7 @@
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "单击鼠标右键获取更多信息",
-    "new_en_us": "Right Click for More"
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.toMenu",
@@ -896,6 +904,14 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "predicate.unknown",
+    "old_value": "未知的战利品表条件：%s",
+    "old_en_us": "Unknown predicate: %s",
+    "new_key": "predicate.unknown",
+    "new_value": "未知的谓词：%s",
+    "new_en_us": "Unknown predicate '%s'"
+  },
+  {
     "old_key": "selectWorld.allowCommands",
     "old_value": "允许作弊：",
     "old_en_us": "Allow Cheats:",
@@ -1000,12 +1016,28 @@
     "new_en_us": "Save Mode - Write to file"
   },
   {
+    "old_key": "subtitles.block.anvil.land",
+    "old_value": "铁砧：着地",
+    "old_en_us": "Anvil landed",
+    "new_key": "subtitles.block.anvil.land",
+    "new_value": "铁砧：着陆",
+    "new_en_us": "Anvil lands"
+  },
+  {
     "old_key": "subtitles.block.bubble_column.upwards_inside",
     "old_value": "气泡：飞升",
     "old_en_us": "Bubbles woosh",
     "new_key": "subtitles.block.bubble_column.upwards_inside",
     "new_value": "气泡：上升",
     "new_en_us": "Bubbles whoosh"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "发射器：发射物品",
+    "old_en_us": "Dispensed item",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "物品：被射出",
+    "new_en_us": "Dispenser dispenses item"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",
@@ -1048,6 +1080,14 @@
     "new_en_us": "Baby Polar Bear hums"
   },
   {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "药瓶：扔出",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "玻璃瓶：扔出",
+    "new_en_us": "Bottle is thrown"
+  },
+  {
     "old_key": "subtitles.entity.shulker_bullet.hit",
     "old_value": "潜影贝导弹：爆炸",
     "old_en_us": "Shulker bullet explodes",
@@ -1088,6 +1128,14 @@
     "new_en_us": "Axe strips"
   },
   {
+    "old_key": "subtitles.item.flintandsteel.use",
+    "old_value": "打火石：生火",
+    "old_en_us": "Flint and Steel click",
+    "new_key": "subtitles.item.flintandsteel.use",
+    "new_value": "打火石：点火",
+    "new_en_us": "Flint and Steel clicks"
+  },
+  {
     "old_key": "subtitles.item.honey_bottle.drink",
     "old_value": "蜂蜜：吞咽",
     "old_en_us": "Honey gulping",
@@ -1101,6 +1149,6 @@
     "old_en_us": "Multiplayer (3rd-party)",
     "new_key": "title.multiplayer.other",
     "new_value": "多人游戏（第三方服务器）",
-    "new_en_us": "Multiplayer (3rd-party Server)"
+    "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

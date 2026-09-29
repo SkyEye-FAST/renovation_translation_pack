@@ -64,6 +64,22 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效的實體錨點座標 %s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效的實體錨點 %s",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效的聊天組合：%s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效的聊天元件：%s",
+    "new_en_us": "Invalid chat component '%s'"
+  },
+  {
     "old_key": "argument.double.big",
     "old_value": "倍精度浮點數不能多於 %s，但找到的是 %s",
     "old_en_us": "Double must not be more than %s, found %s",
@@ -94,6 +110,14 @@
     "new_key": "argument.float.low",
     "new_value": "單精度浮點數不能少於 %s，但實際為 %s",
     "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.id.unknown",
+    "old_value": "未知的 ID：%s",
+    "old_en_us": "Unknown ID: %s",
+    "new_key": "argument.id.unknown",
+    "new_value": "未知的 ID: %s",
+    "new_en_us": "Unknown ID '%s'"
   },
   {
     "old_key": "argument.integer.big",
@@ -220,7 +244,7 @@
     "old_value": "未進行任何變更。此頭目狀態條已經是該最大值",
     "old_en_us": "Nothing changed. That's already the max of this bossbar",
     "new_key": "commands.bossbar.set.max.unchanged",
-    "new_value": "未進行任何變更。此 Boss 狀態條已經是該最大值",
+    "new_value": "未進行任何變更。此 Boss 狀態條已經是最大值",
     "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
@@ -629,7 +653,7 @@
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "按下右鍵以查看更多",
-    "new_en_us": "Right Click for More"
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.toMenu",
@@ -1024,12 +1048,12 @@
     "new_en_us": "Shulker box opens"
   },
   {
-    "old_key": "subtitles.entity.item_frame.break",
-    "old_value": "破壞物品展示框",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "new_en_us": "Item Frame broken"
+    "old_key": "subtitles.entity.generic.big_fall",
+    "old_value": "物體墜落",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.generic.big_fall",
+    "new_value": "物體掉落",
+    "new_en_us": "Something falls"
   },
   {
     "old_key": "subtitles.entity.leash_knot.place",
@@ -1037,7 +1061,23 @@
     "old_en_us": "Leash knot tied",
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "繫上拴繩",
-    "new_en_us": "Leash Knot tied"
+    "new_en_us": "Leash Knot is tied"
+  },
+  {
+    "old_key": "subtitles.entity.llama.chest",
+    "old_value": "為大羊駝裝上儲物箱",
+    "old_en_us": "Llama Chest equips",
+    "new_key": "subtitles.entity.llama.chest",
+    "new_value": "為駱馬裝上儲物箱",
+    "new_en_us": "Llama Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.llama.hurt",
+    "old_value": "大羊駝受傷",
+    "old_en_us": "Llama hurts",
+    "new_key": "subtitles.entity.llama.hurt",
+    "new_value": "駱馬受傷",
+    "new_en_us": "Llama is hurt"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -1069,7 +1109,7 @@
     "old_en_us": "Turtle baby hurts",
     "new_key": "subtitles.entity.turtle.hurt_baby",
     "new_value": "幼年海龜受傷",
-    "new_en_us": "Baby Turtle hurts"
+    "new_en_us": "Baby Turtle is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble_baby",

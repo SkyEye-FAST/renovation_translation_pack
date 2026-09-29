@@ -546,13 +546,6 @@
     "en_us": "Command set: %s"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效實體錨坐標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨座標%s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.block.id.invalid",
     "old_value": "未知塊類 '%s'",
     "new_key": "argument.block.id.invalid",
@@ -777,13 +770,6 @@
     "en_us": "Invalid ID"
   },
   {
-    "old_key": "argument.id.unknown",
-    "old_value": "未解之 ID: %s",
-    "new_key": "argument.id.unknown",
-    "new_value": "未明ID：%s",
-    "en_us": "Unknown ID: %s"
-  },
-  {
     "old_key": "argument.item.id.invalid",
     "old_value": "是品物未知：（%s）",
     "new_key": "argument.item.id.invalid",
@@ -915,13 +901,6 @@
     "new_key": "arguments.function.tag.unknown",
     "new_value": "未知之術籖「%s」",
     "en_us": "Unknown function tag '%s'"
-  },
-  {
-    "old_key": "arguments.function.unknown",
-    "old_value": "是術未知：（%s）",
-    "new_key": "arguments.function.unknown",
-    "new_value": "是術未知：「%s」",
-    "en_us": "Unknown function %s"
   },
   {
     "old_key": "arguments.item.tag.unknown",
@@ -4445,13 +4424,6 @@
     "en_us": "Can't get %s; tag doesn't exist"
   },
   {
-    "old_key": "commands.data.modify.invalid_index",
-    "old_value": "無效單序：%s",
-    "new_key": "commands.data.modify.invalid_index",
-    "new_value": "無效簿序：%s",
-    "en_us": "Invalid list index: %s"
-  },
-  {
     "old_key": "commands.data.storage.modified",
     "old_value": "已更器%s",
     "new_key": "commands.data.storage.modified",
@@ -6081,13 +6053,6 @@
     "new_key": "disconnect.loginFailedInfo",
     "new_value": "登入未成，蓋因%s",
     "en_us": "Failed to log in: %s"
-  },
-  {
-    "old_key": "disconnect.loginFailedInfo.invalidSession",
-    "old_value": "是會話無效，宜複啟遊戲與啟動器",
-    "new_key": "disconnect.loginFailedInfo.invalidSession",
-    "new_value": "是會話無效，宜復啟戲與啟者",
-    "en_us": "Invalid session (Try restarting your game and the launcher)"
   },
   {
     "old_key": "disconnect.lost",
@@ -9135,13 +9100,6 @@
     "en_us": "Expected quote to start a string"
   },
   {
-    "old_key": "particle.notFound",
-    "old_value": "未明之粒：%s",
-    "new_key": "particle.notFound",
-    "new_value": "未知之粒：%s",
-    "en_us": "Unknown particle: %s"
-  },
-  {
     "old_key": "permissions.requires.entity",
     "old_value": "此旨需行以實體",
     "new_key": "permissions.requires.entity",
@@ -9191,25 +9149,11 @@
     "en_us": "VI"
   },
   {
-    "old_key": "predicate.unknown",
-    "old_value": "未明之辞：%s",
-    "new_key": "predicate.unknown",
-    "new_value": "未明之辝：%s",
-    "en_us": "Unknown predicate: %s"
-  },
-  {
     "old_key": "realms.missing.snapshot.error.text",
     "old_value": "此快照不可用Realms",
     "new_key": "realms.missing.snapshot.error.text",
     "new_value": "快照不可入領域",
     "en_us": "Realms is currently not supported in snapshots"
-  },
-  {
-    "old_key": "recipe.notFound",
-    "old_value": "未明之方：%s",
-    "new_key": "recipe.notFound",
-    "new_value": "%s乃未知之方",
-    "en_us": "Unknown recipe: %s"
   },
   {
     "old_key": "recipe.toast.description",
@@ -10080,27 +10024,6 @@
     "en_us": "Structure Name"
   },
   {
-    "old_key": "subtitles.block.anvil.destroy",
-    "old_value": "砧壞",
-    "new_key": "subtitles.block.anvil.destroy",
-    "new_value": "鐵砧壞",
-    "en_us": "Anvil destroyed"
-  },
-  {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "砧墜",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "鐵砧墜",
-    "en_us": "Anvil landed"
-  },
-  {
-    "old_key": "subtitles.block.anvil.use",
-    "old_value": "砧用",
-    "new_key": "subtitles.block.anvil.use",
-    "new_value": "鐵砧爲用",
-    "en_us": "Anvil used"
-  },
-  {
     "old_key": "subtitles.block.barrel.close",
     "old_value": "桶閉",
     "new_key": "subtitles.block.barrel.close",
@@ -10150,20 +10073,6 @@
     "en_us": "Comparator clicks"
   },
   {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "射器發",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "射械發",
-    "en_us": "Dispensed item"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.fail",
-    "old_value": "射械發而未果",
-    "new_key": "subtitles.block.dispenser.fail",
-    "new_value": "射械發而未成",
-    "en_us": "Dispenser failed"
-  },
-  {
     "old_key": "subtitles.block.door.toggle",
     "old_value": "門之嘎吱響",
     "new_key": "subtitles.block.door.toggle",
@@ -10183,13 +10092,6 @@
     "new_key": "subtitles.block.generic.break",
     "new_value": "塊壞",
     "en_us": "Block broken"
-  },
-  {
-    "old_key": "subtitles.block.grindstone.use",
-    "old_value": "用礪",
-    "new_key": "subtitles.block.grindstone.use",
-    "new_value": "礪爲用",
-    "en_us": "Grindstone used"
   },
   {
     "old_key": "subtitles.block.lava.ambient",
@@ -10276,13 +10178,6 @@
     "en_us": "Thorns prick"
   },
   {
-    "old_key": "subtitles.entity.arrow.hit_player",
-    "old_value": "撃戯者",
-    "new_key": "subtitles.entity.arrow.hit_player",
-    "new_value": "撃戲者",
-    "en_us": "Player hit"
-  },
-  {
     "old_key": "subtitles.entity.bat.ambient",
     "old_value": "蟙䘃：聲",
     "new_key": "subtitles.entity.bat.ambient",
@@ -10323,13 +10218,6 @@
     "new_key": "subtitles.entity.blaze.ambient",
     "new_value": "炎靈息",
     "en_us": "Blaze breathes"
-  },
-  {
-    "old_key": "subtitles.entity.cod.hurt",
-    "old_value": "鳕傷",
-    "new_key": "subtitles.entity.cod.hurt",
-    "new_value": "鱈傷",
-    "en_us": "Cod hurts"
   },
   {
     "old_key": "subtitles.entity.cow.ambient",
@@ -10381,13 +10269,6 @@
     "en_us": "Donkey neighs"
   },
   {
-    "old_key": "subtitles.entity.donkey.chest",
-    "old_value": "驢获匣",
-    "new_key": "subtitles.entity.donkey.chest",
-    "new_value": "驢著箱",
-    "en_us": "Donkey Chest equips"
-  },
-  {
     "old_key": "subtitles.entity.drowned.ambient",
     "old_value": "溺屍之汩汩聲",
     "new_key": "subtitles.entity.drowned.ambient",
@@ -10437,13 +10318,6 @@
     "en_us": "Dragon growls"
   },
   {
-    "old_key": "subtitles.entity.ender_dragon.hurt",
-    "old_value": "終界龍傷",
-    "new_key": "subtitles.entity.ender_dragon.hurt",
-    "new_value": "終眇龍傷",
-    "en_us": "Dragon hurts"
-  },
-  {
     "old_key": "subtitles.entity.ender_dragon.shoot",
     "old_value": "終界龍發",
     "new_key": "subtitles.entity.ender_dragon.shoot",
@@ -10486,39 +10360,11 @@
     "en_us": "Evoker dies"
   },
   {
-    "old_key": "subtitles.entity.evoker.hurt",
-    "old_value": "禦魔使傷",
-    "new_key": "subtitles.entity.evoker.hurt",
-    "new_value": "御魔使傷",
-    "en_us": "Evoker hurts"
-  },
-  {
     "old_key": "subtitles.entity.evoker.prepare_attack",
     "old_value": "禦魔使欲攻",
     "new_key": "subtitles.entity.evoker.prepare_attack",
     "new_value": "御魔使欲攻",
     "en_us": "Evoker prepares attack"
-  },
-  {
-    "old_key": "subtitles.entity.evoker.prepare_summon",
-    "old_value": "禦魔使欲召魔",
-    "new_key": "subtitles.entity.evoker.prepare_summon",
-    "new_value": "御魔使欲召魔",
-    "en_us": "Evoker prepares summoning"
-  },
-  {
-    "old_key": "subtitles.entity.evoker.prepare_wololo",
-    "old_value": "禦魔使備咒",
-    "new_key": "subtitles.entity.evoker.prepare_wololo",
-    "new_value": "御魔使欲惑",
-    "en_us": "Evoker prepares charming"
-  },
-  {
-    "old_key": "subtitles.entity.fox.aggro",
-    "old_value": "狐愠",
-    "new_key": "subtitles.entity.fox.aggro",
-    "new_value": "狐慍",
-    "en_us": "Fox angers"
   },
   {
     "old_key": "subtitles.entity.fox.ambient",
@@ -10535,13 +10381,6 @@
     "en_us": "Fox spits"
   },
   {
-    "old_key": "subtitles.entity.generic.hurt",
-    "old_value": "傷之聲",
-    "new_key": "subtitles.entity.generic.hurt",
-    "new_value": "物傷",
-    "en_us": "Something hurts"
-  },
-  {
     "old_key": "subtitles.entity.ghast.ambient",
     "old_value": "惡靈泣",
     "new_key": "subtitles.entity.ghast.ambient",
@@ -10554,13 +10393,6 @@
     "new_key": "subtitles.entity.ghast.death",
     "new_value": "魄斃",
     "en_us": "Ghast dies"
-  },
-  {
-    "old_key": "subtitles.entity.ghast.hurt",
-    "old_value": "惡靈傷",
-    "new_key": "subtitles.entity.ghast.hurt",
-    "new_value": "魄傷",
-    "en_us": "Ghast hurts"
   },
   {
     "old_key": "subtitles.entity.ghast.shoot",
@@ -10591,13 +10423,6 @@
     "en_us": "Horse neighs"
   },
   {
-    "old_key": "subtitles.entity.horse.armor",
-    "old_value": "馬着甲",
-    "new_key": "subtitles.entity.horse.armor",
-    "new_value": "著馬甲",
-    "en_us": "Horse armor equips"
-  },
-  {
     "old_key": "subtitles.entity.horse.breathe",
     "old_value": "馬息之聲",
     "new_key": "subtitles.entity.horse.breathe",
@@ -10610,13 +10435,6 @@
     "new_key": "subtitles.entity.horse.gallop",
     "new_value": "馬馳騁",
     "en_us": "Horse gallops"
-  },
-  {
-    "old_key": "subtitles.entity.horse.saddle",
-    "old_value": "着鞍",
-    "new_key": "subtitles.entity.horse.saddle",
-    "new_value": "著鞍",
-    "en_us": "Saddle equips"
   },
   {
     "old_key": "subtitles.entity.illusioner.cast_spell",
@@ -10668,34 +10486,6 @@
     "en_us": "Iron Golem dies"
   },
   {
-    "old_key": "subtitles.entity.iron_golem.hurt",
-    "old_value": "鐵魔傷",
-    "new_key": "subtitles.entity.iron_golem.hurt",
-    "new_value": "鐵傀儡傷",
-    "en_us": "Iron Golem hurts"
-  },
-  {
-    "old_key": "subtitles.entity.iron_golem.repair",
-    "old_value": "鐡魔修",
-    "new_key": "subtitles.entity.iron_golem.repair",
-    "new_value": "鐵傀儡修",
-    "en_us": "Iron Golem repaired"
-  },
-  {
-    "old_key": "subtitles.entity.item_frame.add_item",
-    "old_value": "填置具匡",
-    "new_key": "subtitles.entity.item_frame.add_item",
-    "new_value": "置具匡填",
-    "en_us": "Item Frame fills"
-  },
-  {
-    "old_key": "subtitles.entity.item_frame.place",
-    "old_value": "置置具匡",
-    "new_key": "subtitles.entity.item_frame.place",
-    "new_value": "置具匡置",
-    "en_us": "Item Frame placed"
-  },
-  {
     "old_key": "subtitles.entity.item_frame.remove_item",
     "old_value": "清置具匡",
     "new_key": "subtitles.entity.item_frame.remove_item",
@@ -10724,13 +10514,6 @@
     "en_us": "Llama bleats angrily"
   },
   {
-    "old_key": "subtitles.entity.llama.chest",
-    "old_value": "美洲駝获匣",
-    "new_key": "subtitles.entity.llama.chest",
-    "new_value": "美洲駝著箱",
-    "en_us": "Llama Chest equips"
-  },
-  {
     "old_key": "subtitles.entity.llama.swag",
     "old_value": "美洲駝着飾",
     "new_key": "subtitles.entity.llama.swag",
@@ -10743,13 +10526,6 @@
     "new_key": "subtitles.entity.magma_cube.death",
     "new_value": "火漿魔斃",
     "en_us": "Magma Cube dies"
-  },
-  {
-    "old_key": "subtitles.entity.magma_cube.hurt",
-    "old_value": "熔膏豸傷",
-    "new_key": "subtitles.entity.magma_cube.hurt",
-    "new_value": "火漿魔傷",
-    "en_us": "Magma Cube hurts"
   },
   {
     "old_key": "subtitles.entity.magma_cube.squish",
@@ -10794,18 +10570,11 @@
     "en_us": "Mooshroom gets milked suspiciously"
   },
   {
-    "old_key": "subtitles.entity.mule.chest",
-    "old_value": "騾获匣",
-    "new_key": "subtitles.entity.mule.chest",
-    "new_value": "騾著箱",
-    "en_us": "Mule Chest equips"
-  },
-  {
-    "old_key": "subtitles.entity.painting.place",
-    "old_value": "置畫",
-    "new_key": "subtitles.entity.painting.place",
-    "new_value": "畫置",
-    "en_us": "Painting placed"
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "撤畫",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "畫壞",
+    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",
@@ -10857,13 +10626,6 @@
     "en_us": "Parrot vexes"
   },
   {
-    "old_key": "subtitles.entity.parrot.imitate.wither",
-    "old_value": "鸚鵡愠",
-    "new_key": "subtitles.entity.parrot.imitate.wither",
-    "new_value": "鸚鵡慍",
-    "en_us": "Parrot angers"
-  },
-  {
     "old_key": "subtitles.entity.parrot.imitate.wither_skeleton",
     "old_value": "鸚鵡之格格聲",
     "new_key": "subtitles.entity.parrot.imitate.wither_skeleton",
@@ -10899,13 +10661,6 @@
     "en_us": "Phantom flaps"
   },
   {
-    "old_key": "subtitles.entity.phantom.hurt",
-    "old_value": "夜魅傷",
-    "new_key": "subtitles.entity.phantom.hurt",
-    "new_value": "魘靈傷",
-    "en_us": "Phantom hurts"
-  },
-  {
     "old_key": "subtitles.entity.phantom.swoop",
     "old_value": "夜魅俯翔",
     "new_key": "subtitles.entity.phantom.swoop",
@@ -10918,20 +10673,6 @@
     "new_key": "subtitles.entity.pig.ambient",
     "new_value": "豕鳴",
     "en_us": "Pig oinks"
-  },
-  {
-    "old_key": "subtitles.entity.pig.saddle",
-    "old_value": "着鞍",
-    "new_key": "subtitles.entity.pig.saddle",
-    "new_value": "著鞍",
-    "en_us": "Saddle equips"
-  },
-  {
-    "old_key": "subtitles.entity.player.burp",
-    "old_value": "嗝",
-    "new_key": "subtitles.entity.player.burp",
-    "new_value": "呃",
-    "en_us": "Burp"
   },
   {
     "old_key": "subtitles.entity.player.death",
@@ -10953,13 +10694,6 @@
     "new_key": "subtitles.entity.potion.splash",
     "new_value": "甁破",
     "en_us": "Bottle smashes"
-  },
-  {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "擲瓶",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "擲甁",
-    "en_us": "Bottle thrown"
   },
   {
     "old_key": "subtitles.entity.puffer_fish.blow_out",
@@ -10990,13 +10724,6 @@
     "en_us": "Pufferfish flops"
   },
   {
-    "old_key": "subtitles.entity.puffer_fish.hurt",
-    "old_value": "鯸傷",
-    "new_key": "subtitles.entity.puffer_fish.hurt",
-    "new_value": "河豚傷",
-    "en_us": "Pufferfish hurts"
-  },
-  {
     "old_key": "subtitles.entity.puffer_fish.sting",
     "old_value": "鯸螫",
     "new_key": "subtitles.entity.puffer_fish.sting",
@@ -11023,13 +10750,6 @@
     "new_key": "subtitles.entity.shulker.death",
     "new_value": "匿贆斃",
     "en_us": "Shulker dies"
-  },
-  {
-    "old_key": "subtitles.entity.shulker.hurt",
-    "old_value": "眇贆傷",
-    "new_key": "subtitles.entity.shulker.hurt",
-    "new_value": "匿贆傷",
-    "en_us": "Shulker hurts"
   },
   {
     "old_key": "subtitles.entity.shulker.open",
@@ -11067,13 +10787,6 @@
     "en_us": "Silverfish dies"
   },
   {
-    "old_key": "subtitles.entity.silverfish.hurt",
-    "old_value": "蠹傷",
-    "new_key": "subtitles.entity.silverfish.hurt",
-    "new_value": "蟫傷",
-    "en_us": "Silverfish hurts"
-  },
-  {
     "old_key": "subtitles.entity.skeleton_horse.ambient",
     "old_value": "髑馬鳴",
     "new_key": "subtitles.entity.skeleton_horse.ambient",
@@ -11086,13 +10799,6 @@
     "new_key": "subtitles.entity.skeleton_horse.death",
     "new_value": "骷髏馬斃",
     "en_us": "Skeleton Horse dies"
-  },
-  {
-    "old_key": "subtitles.entity.skeleton_horse.hurt",
-    "old_value": "髑馬傷",
-    "new_key": "subtitles.entity.skeleton_horse.hurt",
-    "new_value": "骷髏馬傷",
-    "en_us": "Skeleton Horse hurts"
   },
   {
     "old_key": "subtitles.entity.skeleton_horse.swim",
@@ -11116,13 +10822,6 @@
     "en_us": "Skeleton dies"
   },
   {
-    "old_key": "subtitles.entity.skeleton.hurt",
-    "old_value": "髑傷",
-    "new_key": "subtitles.entity.skeleton.hurt",
-    "new_value": "骷髏傷",
-    "en_us": "Skeleton hurts"
-  },
-  {
     "old_key": "subtitles.entity.skeleton.shoot",
     "old_value": "髑發",
     "new_key": "subtitles.entity.skeleton.shoot",
@@ -11144,13 +10843,6 @@
     "en_us": "Slime dies"
   },
   {
-    "old_key": "subtitles.entity.slime.hurt",
-    "old_value": "黏豸傷",
-    "new_key": "subtitles.entity.slime.hurt",
-    "new_value": "黏膠魔傷",
-    "en_us": "Slime hurts"
-  },
-  {
     "old_key": "subtitles.entity.slime.squish",
     "old_value": "黏豸躍",
     "new_key": "subtitles.entity.slime.squish",
@@ -11163,13 +10855,6 @@
     "new_key": "subtitles.entity.snow_golem.death",
     "new_value": "雪傀儡斃",
     "en_us": "Snow Golem dies"
-  },
-  {
-    "old_key": "subtitles.entity.snow_golem.hurt",
-    "old_value": "雪魔傷",
-    "new_key": "subtitles.entity.snow_golem.hurt",
-    "new_value": "雪傀儡傷",
-    "en_us": "Snow Golem hurts"
   },
   {
     "old_key": "subtitles.entity.stray.ambient",
@@ -11198,13 +10883,6 @@
     "new_key": "subtitles.entity.turtle.death",
     "new_value": "海龜斃",
     "en_us": "Turtle dies"
-  },
-  {
-    "old_key": "subtitles.entity.turtle.hurt",
-    "old_value": "龜傷",
-    "new_key": "subtitles.entity.turtle.hurt",
-    "new_value": "海龜傷",
-    "en_us": "Turtle hurts"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble",
@@ -11270,32 +10948,11 @@
     "en_us": "Wither Skeleton dies"
   },
   {
-    "old_key": "subtitles.entity.wither_skeleton.hurt",
-    "old_value": "凋靈髑傷",
-    "new_key": "subtitles.entity.wither_skeleton.hurt",
-    "new_value": "凋靈骷髏傷",
-    "en_us": "Wither Skeleton hurts"
-  },
-  {
-    "old_key": "subtitles.entity.wither.ambient",
-    "old_value": "凋靈愠",
-    "new_key": "subtitles.entity.wither.ambient",
-    "new_value": "凋靈慍",
-    "en_us": "Wither angers"
-  },
-  {
     "old_key": "subtitles.entity.zombie_villager.ambient",
     "old_value": "屍豚者：呻鳴",
     "new_key": "subtitles.entity.zombie_villager.ambient",
     "new_value": "屍化鄉民呻鳴",
     "en_us": "Zombie Villager groans"
-  },
-  {
-    "old_key": "subtitles.entity.zombie_villager.hurt",
-    "old_value": "殭屍鄉民傷",
-    "new_key": "subtitles.entity.zombie_villager.hurt",
-    "new_value": "屍化鄉民傷",
-    "en_us": "Zombie Villager hurts"
   },
   {
     "old_key": "subtitles.entity.zombie.infect",
@@ -11310,13 +10967,6 @@
     "new_key": "subtitles.event.raid.horn",
     "new_value": "厄角鳴",
     "en_us": "Ominous horn blares"
-  },
-  {
-    "old_key": "subtitles.item.armor.equip",
-    "old_value": "着甲",
-    "new_key": "subtitles.item.armor.equip",
-    "new_value": "著甲",
-    "en_us": "Gear equips"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",
@@ -11401,13 +11051,6 @@
     "new_key": "subtitles.item.firecharge.use",
     "new_value": "火丸簌然",
     "en_us": "Fireball whooshes"
-  },
-  {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "撃火器",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "以鐮擊石",
-    "en_us": "Flint and Steel click"
   },
   {
     "old_key": "subtitles.item.shears.shear",

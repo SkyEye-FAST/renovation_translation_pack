@@ -112,13 +112,6 @@
     "en_us": "Unknown color '%s'"
   },
   {
-    "old_key": "argument.component.invalid",
-    "old_value": "无效的聊天文本： %s",
-    "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件：%s",
-    "en_us": "Invalid chat component: %s"
-  },
-  {
     "old_key": "argument.dimension.invalid",
     "old_value": "未知的维度'%s'",
     "new_key": "argument.dimension.invalid",
@@ -2114,32 +2107,11 @@
     "en_us": "Size successfully detected for '%s'"
   },
   {
-    "old_key": "subtitles.block.anvil.land",
-    "old_value": "铁砧：着地",
-    "new_key": "subtitles.block.anvil.land",
-    "new_value": "铁砧：着陆",
-    "en_us": "Anvil landed"
-  },
-  {
     "old_key": "subtitles.block.button.click",
     "old_value": "按钮：点击",
     "new_key": "subtitles.block.button.click",
     "new_value": "按钮：咔哒",
     "en_us": "Button clicks"
-  },
-  {
-    "old_key": "subtitles.block.chest.locked",
-    "old_value": "箱子：关闭",
-    "new_key": "subtitles.block.chest.locked",
-    "new_value": "箱子：锁上",
-    "en_us": "Chest locked"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "en_us": "Dispensed item"
   },
   {
     "old_key": "subtitles.block.pressure_plate.click",
@@ -2331,13 +2303,6 @@
     "en_us": "Bottle smashes"
   },
   {
-    "old_key": "subtitles.entity.potion.throw",
-    "old_value": "药瓶：扔出",
-    "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
-    "en_us": "Bottle thrown"
-  },
-  {
     "old_key": "subtitles.entity.puffer_fish.flop",
     "old_value": "河豚：扑腾 ",
     "new_key": "subtitles.entity.puffer_fish.flop",
@@ -2364,13 +2329,6 @@
     "new_key": "subtitles.entity.sheep.death",
     "new_value": "绵羊：死亡",
     "en_us": "Sheep dies"
-  },
-  {
-    "old_key": "subtitles.entity.sheep.hurt",
-    "old_value": "羊：受伤",
-    "new_key": "subtitles.entity.sheep.hurt",
-    "new_value": "绵羊：受伤",
-    "en_us": "Sheep hurts"
   },
   {
     "old_key": "subtitles.entity.shulker.close",
@@ -2462,13 +2420,6 @@
     "new_key": "subtitles.item.bucket.fill",
     "new_value": "铁桶：装满",
     "en_us": "Bucket fills"
-  },
-  {
-    "old_key": "subtitles.item.flintandsteel.use",
-    "old_value": "打火石：生火",
-    "new_key": "subtitles.item.flintandsteel.use",
-    "new_value": "打火石：点火",
-    "en_us": "Flint and Steel click"
   },
   {
     "old_key": "subtitles.item.hoe.till",

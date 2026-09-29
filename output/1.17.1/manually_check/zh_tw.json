@@ -64,6 +64,22 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效的實體錨點座標 %s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效的實體錨點 %s",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效的聊天組合：%s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效的聊天元件：%s",
+    "new_en_us": "Invalid chat component '%s'"
+  },
+  {
     "old_key": "argument.double.big",
     "old_value": "倍精度浮點數不能多於 %s，但找到的是 %s",
     "old_en_us": "Double must not be more than %s, found %s",
@@ -160,6 +176,22 @@
     "new_en_us": "The height limit for building is %s"
   },
   {
+    "old_key": "chat_screen.title",
+    "old_value": "聊天畫面",
+    "old_en_us": "Chat screen",
+    "new_key": "chat_screen.title",
+    "new_value": "聊天欄",
+    "new_en_us": "Chat Screen"
+  },
+  {
+    "old_key": "chat.copy.click",
+    "old_value": "點擊複製到剪貼簿",
+    "old_en_us": "Click to Copy to Clipboard",
+    "new_key": "chat.copy.click",
+    "new_value": "按此複製到剪貼簿",
+    "new_en_us": "Click to copy to clipboard"
+  },
+  {
     "old_key": "chat.disabled.launcher",
     "old_value": "啟動器選項已停用聊天功能。無法傳送訊息",
     "old_en_us": "Chat disabled by launcher option. Cannot send message",
@@ -198,6 +230,14 @@
     "new_key": "command.failed",
     "new_value": "試圖執行該指令時發生了非預期的錯誤",
     "new_en_us": "An unexpected error occurred while trying to execute that command"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已經是該最大值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未進行任何變更。此 Boss 狀態條已經是最大值",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
     "old_key": "commands.clear.success.multiple",
@@ -477,7 +517,7 @@
     "old_en_us": "Controls resource drops from mobs, including experience orbs",
     "new_key": "gamerule.doMobLoot.description",
     "new_value": "控制生物資源掉落，包含經驗球。",
-    "new_en_us": "Controls resource drops from mobs, including experience orbs."
+    "new_en_us": "Controls resource drops from mobs, including Experience Orbs."
   },
   {
     "old_key": "gamerule.doMobSpawning.description",
@@ -493,7 +533,7 @@
     "old_en_us": "Controls resource drops from blocks, including experience orbs",
     "new_key": "gamerule.doTileDrops.description",
     "new_value": "控制方塊資源掉落，包含經驗球。",
-    "new_en_us": "Controls resource drops from blocks, including experience orbs."
+    "new_en_us": "Controls resource drops from blocks, including Experience Orbs."
   },
   {
     "old_key": "gamerule.maxCommandChainLength.description",
@@ -510,6 +550,14 @@
     "new_key": "gamerule.reducedDebugInfo.description",
     "new_value": "限制除錯畫面的內容。",
     "new_en_us": "Limits contents of debug screen."
+  },
+  {
+    "old_key": "gui.recipebook.moreRecipes",
+    "old_value": "點擊右鍵以查看更多",
+    "old_en_us": "Right Click for More",
+    "new_key": "gui.recipebook.moreRecipes",
+    "new_value": "按下右鍵以查看更多",
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.socialInteractions.tooltip.hide",
@@ -736,6 +784,22 @@
     "new_en_us": "Narrator/Voice"
   },
   {
+    "old_key": "subtitles.block.composter.empty",
+    "old_value": "堆肥桶被清空",
+    "old_en_us": "Composter emptied",
+    "new_key": "subtitles.block.composter.empty",
+    "new_value": "清空堆肥箱",
+    "new_en_us": "Composter empties"
+  },
+  {
+    "old_key": "subtitles.block.composter.fill",
+    "old_value": "堆肥桶被填滿",
+    "old_en_us": "Composter filled",
+    "new_key": "subtitles.block.composter.fill",
+    "new_value": "填入堆肥箱",
+    "new_en_us": "Composter is filled"
+  },
+  {
     "old_key": "subtitles.block.respawn_anchor.ambient",
     "old_value": "傳送門颼颼聲",
     "old_en_us": "Portal whooshes",
@@ -766,22 +830,6 @@
     "new_key": "subtitles.block.shulker_box.open",
     "new_value": "界伏盒開啟",
     "new_en_us": "Shulker box opens"
-  },
-  {
-    "old_key": "subtitles.entity.glow_item_frame.break",
-    "old_value": "破壞螢光物品展示框",
-    "old_en_us": "Glow Item Frame breaks",
-    "new_key": "subtitles.entity.glow_item_frame.break",
-    "new_value": "取下螢光物品展示框",
-    "new_en_us": "Glow Item Frame broken"
-  },
-  {
-    "old_key": "subtitles.entity.item_frame.break",
-    "old_value": "破壞物品展示框",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "new_en_us": "Item Frame broken"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -821,7 +869,7 @@
     "old_en_us": "Turtle baby hurts",
     "new_key": "subtitles.entity.turtle.hurt_baby",
     "new_value": "幼年海龜受傷",
-    "new_en_us": "Baby Turtle hurts"
+    "new_en_us": "Baby Turtle is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble_baby",
@@ -830,5 +878,21 @@
     "new_key": "subtitles.entity.turtle.shamble_baby",
     "new_value": "幼年海龜爬行",
     "new_en_us": "Baby Turtle shambles"
+  },
+  {
+    "old_key": "subtitles.item.bucket.fill_fish",
+    "old_value": "魚被捕獲",
+    "old_en_us": "Fish captured",
+    "new_key": "subtitles.item.bucket.fill_fish",
+    "new_value": "捕獲魚",
+    "new_en_us": "Fish is captured"
+  },
+  {
+    "old_key": "tutorial.bundleInsert.description",
+    "old_value": "點擊右鍵以放入物品",
+    "old_en_us": "Right Click to add items",
+    "new_key": "tutorial.bundleInsert.description",
+    "new_value": "按下右鍵以放入物品",
+    "new_en_us": "Right-click to add items"
   }
 ]

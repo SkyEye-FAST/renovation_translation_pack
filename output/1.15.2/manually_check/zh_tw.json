@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知的進度： %s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知的進度：%s",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.shoot_arrow.description",
     "old_value": "使用弓與箭矢射擊任何東西",
     "old_en_us": "Shoot something with a bow and arrow",
@@ -80,12 +88,28 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "無效的實體錨點座標 %s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "無效的實體錨點 %s",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
     "old_key": "argument.block.tag.disallowed",
     "old_value": "這裡無法使用標籤， 只能用於實際方塊",
     "old_en_us": "Tags aren't allowed here, only actual blocks",
     "new_key": "argument.block.tag.disallowed",
     "new_value": "這裡無法使用標籤，只能用於實際方塊",
     "new_en_us": "Tags aren't allowed here; only actual blocks are"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效的聊天組合： %s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效的聊天元件：%s",
+    "new_en_us": "Invalid chat component '%s'"
   },
   {
     "old_key": "argument.double.big",
@@ -197,7 +221,7 @@
     "old_en_us": "Click to copy to Clipboard",
     "new_key": "chat.copy.click",
     "new_value": "按此複製到剪貼簿",
-    "new_en_us": "Click to Copy to Clipboard"
+    "new_en_us": "Click to copy to clipboard"
   },
   {
     "old_key": "command.failed",
@@ -246,6 +270,14 @@
     "new_key": "commands.bossbar.list.bars.some",
     "new_value": "已啟用的 %s 個自訂 Boss 狀態條為：%s",
     "new_en_us": "There are %s custom bossbar(s) active: %s"
+  },
+  {
+    "old_key": "commands.bossbar.set.max.unchanged",
+    "old_value": "未進行任何變更。此 Boss 狀態條已經是該最大值",
+    "old_en_us": "Nothing changed. That's already the max of this bossbar",
+    "new_key": "commands.bossbar.set.max.unchanged",
+    "new_value": "未進行任何變更。此 Boss 狀態條已經是最大值",
+    "new_en_us": "Nothing changed. That's already the maximum of this bossbar"
   },
   {
     "old_key": "commands.bossbar.set.players.success.some",
@@ -302,6 +334,14 @@
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應為物件：當前值 %s",
     "new_en_us": "Expected an object: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.invalid_index",
+    "old_value": "無效的串列索引： %s",
+    "old_en_us": "Invalid list index: %s",
+    "new_key": "commands.data.modify.invalid_index",
+    "new_value": "無效的串列索引：%s",
+    "new_en_us": "Invalid list index '%s'"
   },
   {
     "old_key": "commands.datapack.list.enabled.success",
@@ -733,7 +773,7 @@
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
     "new_value": "按下右鍵以查看更多",
-    "new_en_us": "Right Click for More"
+    "new_en_us": "Right-Click for More"
   },
   {
     "old_key": "gui.toTitle",
@@ -968,6 +1008,30 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未知的粒子： %s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知的粒子：%s",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
+    "old_key": "predicate.unknown",
+    "old_value": "未知的述詞： %s",
+    "old_en_us": "Unknown predicate: %s",
+    "new_key": "predicate.unknown",
+    "new_value": "未知的述詞：%s",
+    "new_en_us": "Unknown predicate '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "未知的配方： %s",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "未知的配方：%s",
+    "new_en_us": "Unknown recipe '%s'"
+  },
+  {
     "old_key": "record.nowPlaying",
     "old_value": "正在播放： %s",
     "old_en_us": "Now playing: %s",
@@ -1144,20 +1208,12 @@
     "new_en_us": "Shulker box opens"
   },
   {
-    "old_key": "subtitles.entity.item_frame.break",
-    "old_value": "破壞物品展示框",
-    "old_en_us": "Item Frame breaks",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "new_en_us": "Item Frame broken"
-  },
-  {
     "old_key": "subtitles.entity.leash_knot.place",
     "old_value": "拴上繩子",
     "old_en_us": "Leash knot tied",
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "繫上拴繩",
-    "new_en_us": "Leash Knot tied"
+    "new_en_us": "Leash Knot is tied"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -1189,7 +1245,7 @@
     "old_en_us": "Turtle baby hurts",
     "new_key": "subtitles.entity.turtle.hurt_baby",
     "new_value": "幼年海龜受傷",
-    "new_en_us": "Baby Turtle hurts"
+    "new_en_us": "Baby Turtle is hurt"
   },
   {
     "old_key": "subtitles.entity.turtle.shamble_baby",
@@ -1237,6 +1293,6 @@
     "old_en_us": "Multiplayer (3rd-party)",
     "new_key": "title.multiplayer.other",
     "new_value": "多人遊戲（第三方伺服器）",
-    "new_en_us": "Multiplayer (3rd-party Server)"
+    "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

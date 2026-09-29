@@ -28,32 +28,11 @@
     "en_us": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it"
   },
   {
-    "old_key": "argument.anchor.invalid",
-    "old_value": "無效的實體錨點座標 %s",
-    "new_key": "argument.anchor.invalid",
-    "new_value": "無效的實體錨點 %s",
-    "en_us": "Invalid entity anchor position %s"
-  },
-  {
     "old_key": "argument.block.property.novalue",
     "old_value": "%2$s 方塊的屬性 '%1$s' 應為數值",
     "new_key": "argument.block.property.novalue",
     "new_value": "%2$s 方塊的屬性 '%1$s' 應為值",
     "en_us": "Expected value for property '%s' on block %s"
-  },
-  {
-    "old_key": "argument.component.invalid",
-    "old_value": "無效的聊天組合：%s",
-    "new_key": "argument.component.invalid",
-    "new_value": "無效的聊天元件：%s",
-    "en_us": "Invalid chat component: %s"
-  },
-  {
-    "old_key": "argument.id.unknown",
-    "old_value": "未知的 ID：%s",
-    "new_key": "argument.id.unknown",
-    "new_value": "未知的 ID: %s",
-    "en_us": "Unknown ID: %s"
   },
   {
     "old_key": "argument.literal.incorrect",
@@ -1610,6 +1589,13 @@
     "en_us": "Click to teleport"
   },
   {
+    "old_key": "chat.type.text.narrate",
+    "old_value": "%s 說︰%s",
+    "new_key": "chat.type.text.narrate",
+    "new_value": "%s 說：%s",
+    "en_us": "%s says %s"
+  },
+  {
     "old_key": "commands.advancement.grant.criterion.to.one.failure",
     "old_value": "無法將進度 %2$s 的條件 '%1$s' 給予 %3$s ，因為他已經擁有該條件",
     "new_key": "commands.advancement.grant.criterion.to.one.failure",
@@ -1972,6 +1958,34 @@
     "new_key": "commands.team.option.nametagVisibility.success",
     "new_value": "隊伍 %s 現在的名牌可見度為「%s」",
     "en_us": "Nametag visibility for team %s is now \"%s\""
+  },
+  {
+    "old_key": "commands.teleport.success.entity.multiple",
+    "old_value": "已傳送 %s 個實體到 %s",
+    "new_key": "commands.teleport.success.entity.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s",
+    "en_us": "Teleported %s entities to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.entity.single",
+    "old_value": "傳送 %s 到 %s",
+    "new_key": "commands.teleport.success.entity.single",
+    "new_value": "已將 %s 傳送到 %s",
+    "en_us": "Teleported %s to %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.multiple",
+    "old_value": "已傳送 %s 個實體到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.multiple",
+    "new_value": "已將 %s 個實體傳送到 %s, %s, %s",
+    "en_us": "Teleported %s entities to %s, %s, %s"
+  },
+  {
+    "old_key": "commands.teleport.success.location.single",
+    "old_value": "傳送 %s 到 %s, %s, %s",
+    "new_key": "commands.teleport.success.location.single",
+    "new_value": "已將 %s 傳送到 %s, %s, %s",
+    "en_us": "Teleported %s to %s, %s, %s"
   },
   {
     "old_key": "commands.trigger.add.success",
@@ -2863,6 +2877,13 @@
     "en_us": "Attack/Destroy"
   },
   {
+    "old_key": "key.keyboard.keypad.decimal",
+    "old_value": "數字鍵 .",
+    "new_key": "key.keyboard.keypad.decimal",
+    "new_value": "數字鍵 十進位",
+    "en_us": "Keypad Decimal"
+  },
+  {
     "old_key": "key.keyboard.left.win",
     "old_value": "左 Windows",
     "new_key": "key.keyboard.left.win",
@@ -3164,11 +3185,11 @@
     "en_us": "Dragon growls"
   },
   {
-    "old_key": "subtitles.entity.generic.big_fall",
-    "old_value": "物體墜落",
-    "new_key": "subtitles.entity.generic.big_fall",
-    "new_value": "物體掉落",
-    "en_us": "Something fell"
+    "old_key": "subtitles.entity.item_frame.break",
+    "old_value": "破壞物品展示框",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "取下物品展示框",
+    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.llama.ambient",
@@ -3185,13 +3206,6 @@
     "en_us": "Llama bleats angrily"
   },
   {
-    "old_key": "subtitles.entity.llama.chest",
-    "old_value": "為大羊駝裝上儲物箱",
-    "new_key": "subtitles.entity.llama.chest",
-    "new_value": "為駱馬裝上儲物箱",
-    "en_us": "Llama Chest equips"
-  },
-  {
     "old_key": "subtitles.entity.llama.death",
     "old_value": "大羊駝死亡",
     "new_key": "subtitles.entity.llama.death",
@@ -3204,13 +3218,6 @@
     "new_key": "subtitles.entity.llama.eat",
     "new_value": "駱馬進食",
     "en_us": "Llama eats"
-  },
-  {
-    "old_key": "subtitles.entity.llama.hurt",
-    "old_value": "大羊駝受傷",
-    "new_key": "subtitles.entity.llama.hurt",
-    "new_value": "駱馬受傷",
-    "en_us": "Llama hurts"
   },
   {
     "old_key": "subtitles.entity.llama.spit",
