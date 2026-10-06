@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未明之功：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未明之功「%s」",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.shoot_arrow.description",
     "old_value": "射而中獸",
     "old_en_us": "Shoot something with a bow and arrow",
@@ -164,7 +172,7 @@
     "old_value": "無效實體錨坐標 %s",
     "old_en_us": "Invalid entity anchor position %s",
     "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨座標%s",
+    "new_value": "無效實體錨座標「%s」",
     "new_en_us": "Invalid entity anchor position '%s'"
   },
   {
@@ -174,6 +182,14 @@
     "new_key": "argument.block.tag.disallowed",
     "new_value": "此地不可用籤，但諸實塊耳",
     "new_en_us": "Tags aren't allowed here; only actual blocks are"
+  },
+  {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效信組：%s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效信組「%s」",
+    "new_en_us": "Invalid chat component '%s'"
   },
   {
     "old_key": "argument.criteria.invalid",
@@ -196,7 +212,7 @@
     "old_value": "未解之 ID: %s",
     "old_en_us": "Unknown ID: %s",
     "new_key": "argument.id.unknown",
-    "new_value": "未明ID：%s",
+    "new_value": "未明棨信「%s」",
     "new_en_us": "Unknown ID '%s'"
   },
   {
@@ -236,7 +252,7 @@
     "old_value": "是術未知：（%s）",
     "old_en_us": "Unknown function %s",
     "new_key": "arguments.function.unknown",
-    "new_value": "是術未知：「%s」",
+    "new_value": "未明之術「%s」",
     "new_en_us": "Unknown function '%s'"
   },
   {
@@ -436,7 +452,7 @@
     "old_value": "無效單序：%s",
     "old_en_us": "Invalid list index: %s",
     "new_key": "commands.data.modify.invalid_index",
-    "new_value": "無效簿序：%s",
+    "new_value": "無效簿序「%s」",
     "new_en_us": "Invalid list index '%s'"
   },
   {
@@ -1460,7 +1476,7 @@
     "old_value": "未明之粒：%s",
     "old_en_us": "Unknown particle: %s",
     "new_key": "particle.notFound",
-    "new_value": "未知之粒：%s",
+    "new_value": "未明之粒「%s」",
     "new_en_us": "Unknown particle '%s'"
   },
   {
@@ -1468,7 +1484,7 @@
     "old_value": "未明之辞：%s",
     "old_en_us": "Unknown predicate: %s",
     "new_key": "predicate.unknown",
-    "new_value": "未明之辝：%s",
+    "new_value": "未明之辝「%s」",
     "new_en_us": "Unknown predicate '%s'"
   },
   {
@@ -1476,7 +1492,7 @@
     "old_value": "未明之方：%s",
     "old_en_us": "Unknown recipe: %s",
     "new_key": "recipe.notFound",
-    "new_value": "%s乃未知之方",
+    "new_value": "未明之方「%s」",
     "new_en_us": "Unknown recipe '%s'"
   },
   {
@@ -1830,6 +1846,14 @@
     "new_key": "subtitles.entity.ender_dragon.hurt",
     "new_value": "終眇龍傷",
     "new_en_us": "Dragon is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.hurt",
+    "old_value": "終眇使傷",
+    "old_en_us": "Enderman hurts",
+    "new_key": "subtitles.entity.enderman.hurt",
+    "new_value": "終界使傷",
+    "new_en_us": "Enderman is hurt"
   },
   {
     "old_key": "subtitles.entity.evoker.hurt",
@@ -2252,7 +2276,7 @@
     "old_value": "他方之眾戲",
     "old_en_us": "Multiplayer (3rd-party)",
     "new_key": "title.multiplayer.other",
-    "new_value": "眾戲（第三方伺服器）",
+    "new_value": "眾戲（外黨之伺服器）",
     "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

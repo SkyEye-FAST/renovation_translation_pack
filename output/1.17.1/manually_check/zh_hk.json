@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知進度：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知進度「%s」",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.lightning_rod_with_villager_no_fire.description",
     "old_value": "喺唔引燃周圍物體嘅情況下令村民免受雷擊",
     "old_en_us": "Protect a villager from an undesired shock without starting a fire",
@@ -128,6 +136,14 @@
     "new_en_us": "Bring a Beacon to full power"
   },
   {
+    "old_key": "advancements.nether.distract_piglin.title",
+    "old_value": "金光閃閃",
+    "old_en_us": "Oh Shiny",
+    "new_key": "advancements.nether.distract_piglin.title",
+    "new_value": "金光閃閃！",
+    "new_en_us": "Oooh, Shiny!"
+  },
+  {
     "old_key": "advancements.nether.loot_bastion.description",
     "old_value": "掠奪一個堡壘遺跡入面嘅儲物箱",
     "old_en_us": "Loot a chest in a Bastion Remnant",
@@ -220,7 +236,7 @@
     "old_value": "無效實體錨點座標 %s",
     "old_en_us": "Invalid entity anchor position %s",
     "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨點位置 %s",
+    "new_value": "無效實體錨點位置「%s」",
     "new_en_us": "Invalid entity anchor position '%s'"
   },
   {
@@ -236,7 +252,7 @@
     "old_value": "無效聊天組合：%s",
     "old_en_us": "Invalid chat component: %s",
     "new_key": "argument.component.invalid",
-    "new_value": "無效聊天元件：%s",
+    "new_value": "無效聊天組件「%s」",
     "new_en_us": "Invalid chat component '%s'"
   },
   {
@@ -278,6 +294,14 @@
     "new_key": "argument.float.low",
     "new_value": "浮點值不得少於 %s，惟發現 %s",
     "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.id.unknown",
+    "old_value": "未知 ID：%s",
+    "old_en_us": "Unknown ID: %s",
+    "new_key": "argument.id.unknown",
+    "new_value": "未知 ID「%s」",
+    "new_en_us": "Unknown ID '%s'"
   },
   {
     "old_key": "argument.integer.big",
@@ -534,6 +558,14 @@
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應為物件：當前值 %s",
     "new_en_us": "Expected an object: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.invalid_index",
+    "old_value": "無效列表索引：%s",
+    "old_en_us": "Invalid list index: %s",
+    "new_key": "commands.data.modify.invalid_index",
+    "new_value": "無效列表索引「%s」",
+    "new_en_us": "Invalid list index '%s'"
   },
   {
     "old_key": "commands.datapack.list.available.success",
@@ -1044,7 +1076,7 @@
     "old_value": "按右鍵以了解更多",
     "old_en_us": "Right Click for More",
     "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按右鍵瞭解更多",
+    "new_value": "按右掣瞭解更多",
     "new_en_us": "Right-Click for More"
   },
   {
@@ -1140,8 +1172,24 @@
     "old_value": "線上社群互動只會於多人地圖內提供",
     "old_en_us": "Social Interactions are only available in Multiplayer worlds",
     "new_key": "multiplayer.socialInteractions.not_available",
-    "new_value": "線上社羣互動僅會於多人地圖內提供",
+    "new_value": "社羣互動僅於多人遊戲世界中可用",
     "new_en_us": "Social Interactions are only available in multiplayer worlds"
+  },
+  {
+    "old_key": "narration.button.usage.hovered",
+    "old_value": "按左鍵以啟用",
+    "old_en_us": "Left click to activate",
+    "new_key": "narration.button.usage.hovered",
+    "new_value": "按左鍵啟用",
+    "new_en_us": "Left-click to activate"
+  },
+  {
+    "old_key": "narration.checkbox.usage.hovered",
+    "old_value": "按左鍵以切換",
+    "old_en_us": "Left click to toggle",
+    "new_key": "narration.checkbox.usage.hovered",
+    "new_value": "按左鍵切換",
+    "new_en_us": "Left-click to toggle"
   },
   {
     "old_key": "narration.component_list.usage",
@@ -1166,6 +1214,22 @@
     "new_key": "narration.recipe",
     "new_value": "%s 的配方",
     "new_en_us": "Recipe for %s"
+  },
+  {
+    "old_key": "narration.recipe.usage",
+    "old_value": "按左鍵以選取",
+    "old_en_us": "Left click to select",
+    "new_key": "narration.recipe.usage",
+    "new_value": "按左鍵選取",
+    "new_en_us": "Left-click to select"
+  },
+  {
+    "old_key": "narration.recipe.usage.more",
+    "old_value": "按右鍵以顯示更多配方",
+    "old_en_us": "Right click to show more recipes",
+    "new_key": "narration.recipe.usage.more",
+    "new_value": "按右鍵顯示更多配方",
+    "new_en_us": "Right-click to show more recipes"
   },
   {
     "old_key": "narration.selection.usage",
@@ -1236,7 +1300,7 @@
     "old_value": "第三方伺服器可能會傳送非標準格式嘅聊天訊息。\n啟用依個選項後，將會根據發言者嘅名稱嚟隱藏玩家。",
     "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
     "new_key": "options.hideMatchedNames.tooltip",
-    "new_value": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將會根據發言者的名稱而隱藏玩家。",
+    "new_value": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，隱藏玩家將根據發言者的名稱比對。",
     "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
   },
   {
@@ -1288,6 +1352,30 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未知粒子：%s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知粒子「%s」",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
+    "old_key": "predicate.unknown",
+    "old_value": "未知述詞：%s",
+    "old_en_us": "Unknown predicate: %s",
+    "new_key": "predicate.unknown",
+    "new_value": "未知述詞「%s」",
+    "new_en_us": "Unknown predicate '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "未知配方：%s",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "未知配方「%s」",
+    "new_en_us": "Unknown recipe '%s'"
+  },
+  {
     "old_key": "resourcePack.vanilla.description",
     "old_value": "Minecraft 預設資源包",
     "old_en_us": "The default resources for Minecraft",
@@ -1300,7 +1388,7 @@
     "old_value": "不支援使用實驗性質設定嘅世界",
     "old_en_us": "Worlds using Experimental Settings are not supported",
     "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援啟用實驗性設定的世界",
+    "new_value": "使用實驗性設定的世界不受支援",
     "new_en_us": "Worlds using experimental settings are not supported"
   },
   {
@@ -1392,27 +1480,83 @@
     "new_en_us": "Save Mode - Write to file"
   },
   {
+    "old_key": "subtitles.block.anvil.destroy",
+    "old_value": "鐵砧被破壞",
+    "old_en_us": "Anvil destroyed",
+    "new_key": "subtitles.block.anvil.destroy",
+    "new_value": "鐵砧損壞",
+    "new_en_us": "Anvil breaks"
+  },
+  {
+    "old_key": "subtitles.block.anvil.use",
+    "old_value": "使用鐵砧",
+    "old_en_us": "Anvil used",
+    "new_key": "subtitles.block.anvil.use",
+    "new_value": "鐵砧被使用",
+    "new_en_us": "Anvil is used"
+  },
+  {
     "old_key": "subtitles.block.beacon.power_select",
     "old_value": "選取烽火台效果",
     "old_en_us": "Beacon power selected",
     "new_key": "subtitles.block.beacon.power_select",
-    "new_value": "選取燈標效果",
+    "new_value": "燈標效果被選擇",
     "new_en_us": "Beacon power is selected"
   },
   {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "發射器射出物品",
-    "old_en_us": "Dispensed item",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品被射出",
-    "new_en_us": "Dispenser dispenses item"
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱上鎖",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱鎖頭鐺鐺聲",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.composter.empty",
+    "old_value": "堆肥桶清空",
+    "old_en_us": "Composter emptied",
+    "new_key": "subtitles.block.composter.empty",
+    "new_value": "堆肥桶被清空",
+    "new_en_us": "Composter empties"
+  },
+  {
+    "old_key": "subtitles.block.composter.fill",
+    "old_value": "堆肥桶填滿",
+    "old_en_us": "Composter filled",
+    "new_key": "subtitles.block.composter.fill",
+    "new_value": "堆肥桶被填滿",
+    "new_en_us": "Composter is filled"
+  },
+  {
+    "old_key": "subtitles.block.enchantment_table.use",
+    "old_value": "使用附魔台",
+    "old_en_us": "Enchanting Table used",
+    "new_key": "subtitles.block.enchantment_table.use",
+    "new_value": "附魔台被使用",
+    "new_en_us": "Enchanting Table is used"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火焰熄滅",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰被熄滅",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.grindstone.use",
+    "old_value": "使用砂輪",
+    "old_en_us": "Grindstone used",
+    "new_key": "subtitles.block.grindstone.use",
+    "new_value": "砂輪被使用",
+    "new_en_us": "Grindstone is used"
   },
   {
     "old_key": "subtitles.block.honey_block.slide",
     "old_value": "喺蜜糖塊上面滑落嚟",
     "old_en_us": "Sliding down a honey block",
     "new_key": "subtitles.block.honey_block.slide",
-    "new_value": "在蜜糖塊上面滑落",
+    "new_value": "由蜜糖塊上滑落",
     "new_en_us": "Sliding down a Honey Block"
   },
   {
@@ -1432,12 +1576,52 @@
     "new_en_us": "Sculk Sensor clicks"
   },
   {
+    "old_key": "subtitles.block.smithing_table.use",
+    "old_value": "使用鍛造台",
+    "old_en_us": "Smithing Table used",
+    "new_key": "subtitles.block.smithing_table.use",
+    "new_value": "鍛造台被使用",
+    "new_en_us": "Smithing Table is used"
+  },
+  {
+    "old_key": "subtitles.entity.armor_stand.fall",
+    "old_value": "實體跌落",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.armor_stand.fall",
+    "new_value": "某物跌落",
+    "new_en_us": "Something falls"
+  },
+  {
+    "old_key": "subtitles.entity.arrow.hit_player",
+    "old_value": "箭擊中玩家",
+    "old_en_us": "Player hit",
+    "new_key": "subtitles.entity.arrow.hit_player",
+    "new_value": "玩家被箭擊中",
+    "new_en_us": "Player is hit"
+  },
+  {
+    "old_key": "subtitles.entity.arrow.shoot",
+    "old_value": "射箭聲",
+    "old_en_us": "Arrow fired",
+    "new_key": "subtitles.entity.arrow.shoot",
+    "new_value": "箭被射出",
+    "new_en_us": "Arrow is fired"
+  },
+  {
     "old_key": "subtitles.entity.fishing_bobber.retrieve",
     "old_value": "浮標收返",
     "old_en_us": "Bobber retrieved",
     "new_key": "subtitles.entity.fishing_bobber.retrieve",
-    "new_value": "浮標收回",
+    "new_value": "浮標被收返",
     "new_en_us": "Bobber is retrieved"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.throw",
+    "old_value": "拋出浮標",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "浮標被拋出",
+    "new_en_us": "Bobber is thrown"
   },
   {
     "old_key": "subtitles.entity.fox.aggro",
@@ -1446,6 +1630,22 @@
     "new_key": "subtitles.entity.fox.aggro",
     "new_value": "狐狸發怒",
     "new_en_us": "Fox gets angry"
+  },
+  {
+    "old_key": "subtitles.entity.generic.big_fall",
+    "old_value": "實體跌落",
+    "old_en_us": "Something fell",
+    "new_key": "subtitles.entity.generic.big_fall",
+    "new_value": "某物跌落",
+    "new_en_us": "Something falls"
+  },
+  {
+    "old_key": "subtitles.entity.generic.hurt",
+    "old_value": "實體受傷",
+    "old_en_us": "Something hurts",
+    "new_key": "subtitles.entity.generic.hurt",
+    "new_value": "某物受傷",
+    "new_en_us": "Something is hurt"
   },
   {
     "old_key": "subtitles.entity.glow_item_frame.add_item",
@@ -1472,11 +1672,27 @@
     "new_en_us": "Glow Squid is hurt"
   },
   {
+    "old_key": "subtitles.entity.leash_knot.break",
+    "old_value": "牽繩被解開",
+    "old_en_us": "Leash knot breaks",
+    "new_key": "subtitles.entity.leash_knot.break",
+    "new_value": "牽繩結被解開",
+    "new_en_us": "Leash Knot breaks"
+  },
+  {
+    "old_key": "subtitles.entity.leash_knot.place",
+    "old_value": "牽繩被打結",
+    "old_en_us": "Leash knot tied",
+    "new_key": "subtitles.entity.leash_knot.place",
+    "new_value": "牽繩結被打上",
+    "new_en_us": "Leash Knot is tied"
+  },
+  {
     "old_key": "subtitles.entity.magma_cube.hurt",
     "old_value": "岩漿史萊姆受傷",
     "old_en_us": "Magma Cube hurts",
     "new_key": "subtitles.entity.magma_cube.hurt",
-    "new_value": "巖漿史萊姆受傷",
+    "new_value": "熔岩史萊姆受傷",
     "new_en_us": "Magma Cube is hurt"
   },
   {
@@ -1502,6 +1718,22 @@
     "new_key": "subtitles.entity.parrot.imitate.wither",
     "new_value": "鸚鵡發怒",
     "new_en_us": "Parrot gets angry"
+  },
+  {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家打嗝",
+    "new_en_us": "Player burps"
+  },
+  {
+    "old_key": "subtitles.entity.player.hurt_drown",
+    "old_value": "玩家溺水",
+    "old_en_us": "Player drowning",
+    "new_key": "subtitles.entity.player.hurt_drown",
+    "new_value": "玩家遇溺",
+    "new_en_us": "Player is drowning"
   },
   {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
@@ -1590,6 +1822,54 @@
     "new_key": "subtitles.entity.zombified_piglin.hurt",
     "new_value": "喪屍豬人受傷",
     "new_en_us": "Zombified Piglin is hurt"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip",
+    "old_value": "着上裝備",
+    "old_en_us": "Gear equips",
+    "new_key": "subtitles.item.armor.equip",
+    "new_value": "裝備被佩戴",
+    "new_en_us": "Gear is equipped"
+  },
+  {
+    "old_key": "subtitles.item.crop.plant",
+    "old_value": "種植作物",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.crop.plant",
+    "new_value": "作物被種植",
+    "new_en_us": "Crop is planted"
+  },
+  {
+    "old_key": "subtitles.item.nether_wart.plant",
+    "old_value": "種植作物",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.nether_wart.plant",
+    "new_value": "作物被種植",
+    "new_en_us": "Crop is planted"
+  },
+  {
+    "old_key": "subtitles.ui.cartography_table.take_result",
+    "old_value": "繪製地圖",
+    "old_en_us": "Map drawn",
+    "new_key": "subtitles.ui.cartography_table.take_result",
+    "new_value": "地圖被繪製",
+    "new_en_us": "Map is drawn"
+  },
+  {
+    "old_key": "subtitles.ui.loom.take_result",
+    "old_value": "使用織布機",
+    "old_en_us": "Loom used",
+    "new_key": "subtitles.ui.loom.take_result",
+    "new_value": "織布機被使用",
+    "new_en_us": "Loom is used"
+  },
+  {
+    "old_key": "subtitles.ui.stonecutter.take_result",
+    "old_value": "使用切石機",
+    "old_en_us": "Stonecutter used",
+    "new_key": "subtitles.ui.stonecutter.take_result",
+    "new_value": "切石機被使用",
+    "new_en_us": "Stonecutter is used"
   },
   {
     "old_key": "tutorial.bundleInsert.description",

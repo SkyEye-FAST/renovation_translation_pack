@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知的進度：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知的進度 '%s'",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.shoot_arrow.description",
     "old_value": "使用弓與箭矢射擊任何東西",
     "old_en_us": "Shoot something with a bow and arrow",
@@ -68,7 +76,7 @@
     "old_value": "無效的實體錨點座標 %s",
     "old_en_us": "Invalid entity anchor position %s",
     "new_key": "argument.anchor.invalid",
-    "new_value": "無效的實體錨點 %s",
+    "new_value": "無效的實體錨點 '%s'",
     "new_en_us": "Invalid entity anchor position '%s'"
   },
   {
@@ -76,7 +84,7 @@
     "old_value": "無效的聊天組合：%s",
     "old_en_us": "Invalid chat component: %s",
     "new_key": "argument.component.invalid",
-    "new_value": "無效的聊天元件：%s",
+    "new_value": "無效的聊天元件 '%s'",
     "new_en_us": "Invalid chat component '%s'"
   },
   {
@@ -116,7 +124,7 @@
     "old_value": "未知的 ID：%s",
     "old_en_us": "Unknown ID: %s",
     "new_key": "argument.id.unknown",
-    "new_value": "未知的 ID: %s",
+    "new_value": "未知的 ID '%s'",
     "new_en_us": "Unknown ID '%s'"
   },
   {
@@ -142,6 +150,14 @@
     "new_key": "argument.pos.mixed",
     "new_value": "不能混用世界與局部座標（必須全部都用 ^ 或是完全不用）",
     "new_en_us": "Cannot mix world and local coordinates (everything must either use ^ or not)"
+  },
+  {
+    "old_key": "arguments.function.unknown",
+    "old_value": "未知的函數 %s",
+    "old_en_us": "Unknown function %s",
+    "new_key": "arguments.function.unknown",
+    "new_value": "未知的函數 '%s'",
+    "new_en_us": "Unknown function '%s'"
   },
   {
     "old_key": "arguments.nbtpath.node.invalid",
@@ -448,6 +464,14 @@
     "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
   },
   {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "這 %s 個實體總共有 %s 個標籤：%s",
+    "old_en_us": "The %s entities have %s total tags: %s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "這 %s 個實體共有 %s 個標籤：%s",
+    "new_en_us": "The %s entities have %s total tag(s): %s"
+  },
+  {
     "old_key": "commands.team.list.members.success",
     "old_value": "隊伍 %s 有 %s 個成員：%s",
     "old_en_us": "Team %s has %s members: %s",
@@ -652,7 +676,7 @@
     "old_value": "右鍵點擊以瞭解更多",
     "old_en_us": "Right Click for more",
     "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按下右鍵以查看更多",
+    "new_value": "點擊右鍵以查看更多",
     "new_en_us": "Right-Click for More"
   },
   {
@@ -888,6 +912,22 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未知的粒子：%s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知的粒子 '%s'",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "未知的配方：%s",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "未知的配方 '%s'",
+    "new_en_us": "Unknown recipe '%s'"
+  },
+  {
     "old_key": "selectWorld.allowCommands",
     "old_value": "允許作弊：",
     "old_en_us": "Allow Cheats:",
@@ -1016,6 +1056,38 @@
     "new_en_us": "Save Mode - Write to file"
   },
   {
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱鎖上",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱鎖鏗鏘聲",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "物品射出",
+    "old_en_us": "Dispensed item",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "發射器射出物品",
+    "new_en_us": "Dispenser dispenses item"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火焰熄滅聲",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰熄滅",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.generic.place",
+    "old_value": "方塊放置聲",
+    "old_en_us": "Block placed",
+    "new_key": "subtitles.block.generic.place",
+    "new_value": "放置方塊",
+    "new_en_us": "Block is placed"
+  },
+  {
     "old_key": "subtitles.block.iron_trapdoor.close",
     "old_value": "地板門開啟",
     "old_en_us": "Trapdoor opens",
@@ -1046,6 +1118,14 @@
     "new_key": "subtitles.block.shulker_box.open",
     "new_value": "界伏盒開啟",
     "new_en_us": "Shulker box opens"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.throw",
+    "old_value": "浮標投出",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "投出浮標",
+    "new_en_us": "Bobber is thrown"
   },
   {
     "old_key": "subtitles.entity.generic.big_fall",
@@ -1088,12 +1168,28 @@
     "new_en_us": "Parrot moans"
   },
   {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家打嗝",
+    "new_en_us": "Player burps"
+  },
+  {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
     "old_value": "北極熊低哼",
     "old_en_us": "Polar Bear hums",
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼年北極熊低哼",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "擲瓶聲",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "擲出瓶子",
+    "new_en_us": "Bottle is thrown"
   },
   {
     "old_key": "subtitles.entity.turtle.death_baby",

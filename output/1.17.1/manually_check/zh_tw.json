@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知的進度：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知的進度 '%s'",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.lightning_rod_with_villager_no_fire.description",
     "old_value": "保護村民不受雷擊，而且不產生任何火焰",
     "old_en_us": "Protect a villager from an undesired shock without starting a fire",
@@ -40,6 +48,14 @@
     "new_en_us": "Catch a Fish... without a Fishing Rod!"
   },
   {
+    "old_key": "advancements.nether.distract_piglin.title",
+    "old_value": "金光閃閃",
+    "old_en_us": "Oh Shiny",
+    "new_key": "advancements.nether.distract_piglin.title",
+    "new_value": "金光閃閃！",
+    "new_en_us": "Oooh, Shiny!"
+  },
+  {
     "old_key": "advancements.story.iron_tools.title",
     "old_value": "莫非這是鐵鎬",
     "old_en_us": "Isn't It Iron Pick",
@@ -68,7 +84,7 @@
     "old_value": "無效的實體錨點座標 %s",
     "old_en_us": "Invalid entity anchor position %s",
     "new_key": "argument.anchor.invalid",
-    "new_value": "無效的實體錨點 %s",
+    "new_value": "無效的實體錨點 '%s'",
     "new_en_us": "Invalid entity anchor position '%s'"
   },
   {
@@ -76,7 +92,7 @@
     "old_value": "無效的聊天組合：%s",
     "old_en_us": "Invalid chat component: %s",
     "new_key": "argument.component.invalid",
-    "new_value": "無效的聊天元件：%s",
+    "new_value": "無效的聊天元件 '%s'",
     "new_en_us": "Invalid chat component '%s'"
   },
   {
@@ -110,6 +126,14 @@
     "new_key": "argument.float.low",
     "new_value": "單精度浮點數不能少於 %s，但實際為 %s",
     "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.id.unknown",
+    "old_value": "未知的 ID: %s",
+    "old_en_us": "Unknown ID: %s",
+    "new_key": "argument.id.unknown",
+    "new_value": "未知的 ID '%s'",
+    "new_en_us": "Unknown ID '%s'"
   },
   {
     "old_key": "argument.integer.big",
@@ -160,6 +184,14 @@
     "new_en_us": "That position is outside the allowed boundaries"
   },
   {
+    "old_key": "arguments.function.unknown",
+    "old_value": "未知的函數 %s",
+    "old_en_us": "Unknown function %s",
+    "new_key": "arguments.function.unknown",
+    "new_value": "未知的函數 '%s'",
+    "new_en_us": "Unknown function '%s'"
+  },
+  {
     "old_key": "arguments.swizzle.invalid",
     "old_value": "無效的搭配，應為 'x'、'y' 與 'z' 的組合",
     "old_en_us": "Invalid swizzle, expected combination of 'x', 'y' and 'z'",
@@ -188,7 +220,7 @@
     "old_value": "點擊複製到剪貼簿",
     "old_en_us": "Click to Copy to Clipboard",
     "new_key": "chat.copy.click",
-    "new_value": "按此複製到剪貼簿",
+    "new_value": "點擊以複製到剪貼簿",
     "new_en_us": "Click to copy to clipboard"
   },
   {
@@ -278,6 +310,14 @@
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應為物件：當前值 %s",
     "new_en_us": "Expected an object: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.invalid_index",
+    "old_value": "無效的串列索引：%s",
+    "old_en_us": "Invalid list index: %s",
+    "new_key": "commands.data.modify.invalid_index",
+    "new_value": "無效的串列索引 '%s'",
+    "new_en_us": "Invalid list index '%s'"
   },
   {
     "old_key": "commands.datapack.list.available.success",
@@ -400,6 +440,14 @@
     "new_en_us": "Spread %s team(s) around %s, %s with an average distance of %s block(s) apart"
   },
   {
+    "old_key": "commands.tag.list.multiple.success",
+    "old_value": "這 %s 個實體總共有 %s 個標籤：%s",
+    "old_en_us": "The %s entities have %s total tags: %s",
+    "new_key": "commands.tag.list.multiple.success",
+    "new_value": "這 %s 個實體共有 %s 個標籤：%s",
+    "new_en_us": "The %s entities have %s total tag(s): %s"
+  },
+  {
     "old_key": "commands.team.list.members.success",
     "old_value": "隊伍 %s 有 %s 個成員：%s",
     "old_en_us": "Team %s has %s members: %s",
@@ -500,7 +548,7 @@
     "old_value": "控制自礦車（包括物品欄）、物品展示框、船等的掉落物",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
     "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "控制礦車（包括內容物）、物品展示框、船等的掉落物。",
+    "new_value": "控制礦車（包含內容物）、物品展示框、船等的物品掉落。",
     "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
@@ -552,14 +600,6 @@
     "new_en_us": "Limits contents of debug screen."
   },
   {
-    "old_key": "gui.recipebook.moreRecipes",
-    "old_value": "點擊右鍵以查看更多",
-    "old_en_us": "Right Click for More",
-    "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按下右鍵以查看更多",
-    "new_en_us": "Right-Click for More"
-  },
-  {
     "old_key": "gui.socialInteractions.tooltip.hide",
     "old_value": "隱藏聊天室中來自 %s 的訊息",
     "old_en_us": "Hide messages from %s in chat",
@@ -574,6 +614,14 @@
     "new_key": "gui.socialInteractions.tooltip.show",
     "new_value": "顯示訊息",
     "new_en_us": "Show messages"
+  },
+  {
+    "old_key": "item_modifier.unknown",
+    "old_value": "未知的物品屬性：%s",
+    "old_en_us": "Unknown item modifier: %s",
+    "new_key": "item_modifier.unknown",
+    "new_value": "未知的物品屬性 '%s'",
+    "new_en_us": "Unknown item modifier '%s'"
   },
   {
     "old_key": "itemGroup.redstone",
@@ -630,6 +678,14 @@
     "new_key": "narration.component_list.usage",
     "new_value": "按 Tab 移動到下一個元素",
     "new_en_us": "Press Tab to navigate to the next element"
+  },
+  {
+    "old_key": "narration.recipe.usage.more",
+    "old_value": "按下右鍵顯示更多合成配方",
+    "old_en_us": "Right click to show more recipes",
+    "new_key": "narration.recipe.usage.more",
+    "new_value": "按下右鍵以顯示更多合成配方",
+    "new_en_us": "Right-click to show more recipes"
   },
   {
     "old_key": "narration.slider.usage.focused",
@@ -720,12 +776,44 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未知的粒子：%s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知的粒子 '%s'",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
+    "old_key": "predicate.unknown",
+    "old_value": "未知的述詞：%s",
+    "old_en_us": "Unknown predicate: %s",
+    "new_key": "predicate.unknown",
+    "new_value": "未知的述詞 '%s'",
+    "new_en_us": "Unknown predicate '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "未知的配方：%s",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "未知的配方 '%s'",
+    "new_en_us": "Unknown recipe '%s'"
+  },
+  {
     "old_key": "resourcePack.vanilla.description",
     "old_value": "Minecraft 預設的資源包",
     "old_en_us": "The default resources for Minecraft",
     "new_key": "resourcePack.vanilla.description",
     "new_value": "Minecraft 預設的視覺與環境效果",
     "new_en_us": "The default look and feel of Minecraft"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.experimental",
+    "old_value": "使用實驗性設定的世界不受支援",
+    "old_en_us": "Worlds using Experimental Settings are not supported",
+    "new_key": "selectWorld.backupQuestion.experimental",
+    "new_value": "不支援使用實驗性設定的世界",
+    "new_en_us": "Worlds using experimental settings are not supported"
   },
   {
     "old_key": "selectWorld.backupWarning.downgrade",
@@ -784,6 +872,14 @@
     "new_en_us": "Narrator/Voice"
   },
   {
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱鎖上",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱鎖鏗鏘聲",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
     "old_key": "subtitles.block.composter.empty",
     "old_value": "堆肥桶被清空",
     "old_en_us": "Composter emptied",
@@ -798,6 +894,30 @@
     "new_key": "subtitles.block.composter.fill",
     "new_value": "填入堆肥箱",
     "new_en_us": "Composter is filled"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "物品射出",
+    "old_en_us": "Dispensed item",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "發射器射出物品",
+    "new_en_us": "Dispenser dispenses item"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火焰熄滅聲",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰熄滅",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.generic.place",
+    "old_value": "方塊放置聲",
+    "old_en_us": "Block placed",
+    "new_key": "subtitles.block.generic.place",
+    "new_value": "放置方塊",
+    "new_en_us": "Block is placed"
   },
   {
     "old_key": "subtitles.block.respawn_anchor.ambient",
@@ -832,6 +952,30 @@
     "new_en_us": "Shulker box opens"
   },
   {
+    "old_key": "subtitles.entity.fishing_bobber.retrieve",
+    "old_value": "浮標收回",
+    "old_en_us": "Bobber retrieved",
+    "new_key": "subtitles.entity.fishing_bobber.retrieve",
+    "new_value": "收回浮標",
+    "new_en_us": "Bobber is retrieved"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.throw",
+    "old_value": "浮標投出",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "投出浮標",
+    "new_en_us": "Bobber is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.iron_golem.repair",
+    "old_value": "鐵魔像修復",
+    "old_en_us": "Iron Golem repaired",
+    "new_key": "subtitles.entity.iron_golem.repair",
+    "new_value": "修復鐵魔像",
+    "new_en_us": "Iron Golem is repaired"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
     "old_value": "鸚鵡拍打聲",
     "old_en_us": "Parrot flaps",
@@ -848,12 +992,28 @@
     "new_en_us": "Parrot snorts"
   },
   {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家打嗝",
+    "new_en_us": "Player burps"
+  },
+  {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
     "old_value": "北極熊低哼",
     "old_en_us": "Polar Bear hums",
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼年北極熊低哼",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "擲瓶聲",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "擲出瓶子",
+    "new_en_us": "Bottle is thrown"
   },
   {
     "old_key": "subtitles.entity.turtle.death_baby",
@@ -880,19 +1040,19 @@
     "new_en_us": "Baby Turtle shambles"
   },
   {
+    "old_key": "subtitles.item.bucket.fill_axolotl",
+    "old_value": "六角恐龍被撈起",
+    "old_en_us": "Axolotl scooped",
+    "new_key": "subtitles.item.bucket.fill_axolotl",
+    "new_value": "鈍口螈被撈起",
+    "new_en_us": "Axolotl is scooped"
+  },
+  {
     "old_key": "subtitles.item.bucket.fill_fish",
     "old_value": "魚被捕獲",
     "old_en_us": "Fish captured",
     "new_key": "subtitles.item.bucket.fill_fish",
     "new_value": "捕獲魚",
     "new_en_us": "Fish is captured"
-  },
-  {
-    "old_key": "tutorial.bundleInsert.description",
-    "old_value": "點擊右鍵以放入物品",
-    "old_en_us": "Right Click to add items",
-    "new_key": "tutorial.bundleInsert.description",
-    "new_value": "按下右鍵以放入物品",
-    "new_en_us": "Right-click to add items"
   }
 ]

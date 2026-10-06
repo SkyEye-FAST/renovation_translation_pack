@@ -4081,6 +4081,13 @@
     "en_us": "Want to share your preset with someone? Use the box below!"
   },
   {
+    "old_key": "dataPack.title",
+    "old_value": "選取數據包",
+    "new_key": "dataPack.title",
+    "new_value": "選擇數據包",
+    "en_us": "Select Data Packs"
+  },
+  {
     "old_key": "death.attack.anvil",
     "old_value": "%1$s 被跌咗落來嘅鐵砧壓成肉餅",
     "new_key": "death.attack.anvil",
@@ -5143,20 +5150,6 @@
     "new_key": "gui.socialInteractions.status_blocked_offline",
     "new_value": "已封鎖 - 離線",
     "en_us": "Blocked - Offline"
-  },
-  {
-    "old_key": "gui.socialInteractions.tooltip.report.no_messages",
-    "old_value": "玩家 %s 不存在可以舉報嘅訊息",
-    "new_key": "gui.socialInteractions.tooltip.report.no_messages",
-    "new_value": "玩家 %s 不存在可舉報的訊息",
-    "en_us": "No reportable messages from player %s"
-  },
-  {
-    "old_key": "gui.socialInteractions.tooltip.report.not_reportable",
-    "old_value": "無法舉報此玩家，此伺服器無法驗證該玩家嘅聊天訊息",
-    "new_key": "gui.socialInteractions.tooltip.report.not_reportable",
-    "new_value": "無法舉報此玩家，此伺服器無法驗證該玩家的聊天訊息",
-    "en_us": "This player can't be reported, because their chat messages can't be verified on this server"
   },
   {
     "old_key": "gui.stats",
@@ -6895,6 +6888,13 @@
     "en_us": "Shears carve"
   },
   {
+    "old_key": "subtitles.block.sculk.charge",
+    "old_value": "沉靈方塊冒泡",
+    "new_key": "subtitles.block.sculk.charge",
+    "new_value": "沉靈方塊冒泡聲",
+    "en_us": "Sculk bubbles"
+  },
+  {
     "old_key": "subtitles.block.trapdoor.toggle",
     "old_value": "地板門響聲",
     "new_key": "subtitles.block.trapdoor.toggle",
@@ -7112,6 +7112,13 @@
     "en_us": "Eating"
   },
   {
+    "old_key": "subtitles.entity.generic.small_fall",
+    "old_value": "實體跌落",
+    "new_key": "subtitles.entity.generic.small_fall",
+    "new_value": "某物跌落",
+    "en_us": "Something trips"
+  },
+  {
     "old_key": "subtitles.entity.generic.swim",
     "old_value": "游水",
     "new_key": "subtitles.entity.generic.swim",
@@ -7313,13 +7320,6 @@
     "new_key": "subtitles.entity.mule.eat",
     "new_value": "騾進食",
     "en_us": "Mule eats"
-  },
-  {
-    "old_key": "subtitles.entity.painting.break",
-    "old_value": "畫被破壞",
-    "new_key": "subtitles.entity.painting.break",
-    "new_value": "畫被取下",
-    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",

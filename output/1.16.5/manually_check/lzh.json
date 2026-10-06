@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未明之功：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未明之功「%s」",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.ol_betsy.description",
     "old_value": "以弩射之",
     "old_en_us": "Shoot a crossbow",
@@ -188,7 +196,7 @@
     "old_value": "無效實體錨坐標 %s",
     "old_en_us": "Invalid entity anchor position %s",
     "new_key": "argument.anchor.invalid",
-    "new_value": "無效實體錨座標%s",
+    "new_value": "無效實體錨座標「%s」",
     "new_en_us": "Invalid entity anchor position '%s'"
   },
   {
@@ -200,11 +208,19 @@
     "new_en_us": "Tags aren't allowed here; only actual blocks are"
   },
   {
+    "old_key": "argument.component.invalid",
+    "old_value": "無效信組：%s",
+    "old_en_us": "Invalid chat component: %s",
+    "new_key": "argument.component.invalid",
+    "new_value": "無效信組「%s」",
+    "new_en_us": "Invalid chat component '%s'"
+  },
+  {
     "old_key": "argument.id.unknown",
     "old_value": "未明之ID：%s",
     "old_en_us": "Unknown ID: %s",
     "new_key": "argument.id.unknown",
-    "new_value": "未明ID：%s",
+    "new_value": "未明棨信「%s」",
     "new_en_us": "Unknown ID '%s'"
   },
   {
@@ -230,6 +246,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻數須爲非赤",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.function.unknown",
+    "old_value": "是術未知：「%s」",
+    "old_en_us": "Unknown function %s",
+    "new_key": "arguments.function.unknown",
+    "new_value": "未明之術「%s」",
+    "new_en_us": "Unknown function '%s'"
   },
   {
     "old_key": "chat.copy.click",
@@ -398,6 +422,14 @@
     "new_key": "commands.data.modify.expected_object",
     "new_value": "應爲物，今得：%s",
     "new_en_us": "Expected an object: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.invalid_index",
+    "old_value": "無效簿序：%s",
+    "old_en_us": "Invalid list index: %s",
+    "new_key": "commands.data.modify.invalid_index",
+    "new_value": "無效簿序「%s」",
+    "new_en_us": "Invalid list index '%s'"
   },
   {
     "old_key": "commands.datapack.list.available.success",
@@ -992,6 +1024,14 @@
     "new_en_us": "Continue Without Support"
   },
   {
+    "old_key": "options.hideMatchedNames.tooltip",
+    "old_value": "他方之伺服器，或傳諸非禮之訊。\n選項既開，若名相符，則蔽戲者。",
+    "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
+    "new_key": "options.hideMatchedNames.tooltip",
+    "new_value": "外黨之伺服器，或傳諸非禮之訊。\n選項既開，名之相符，則蔽戲者。",
+    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
+  },
+  {
     "old_key": "options.languageWarning",
     "old_value": "文之所譯，未必悉準",
     "old_en_us": "Language translations may not be 100%% accurate",
@@ -1068,7 +1108,7 @@
     "old_value": "未明之粒：%s",
     "old_en_us": "Unknown particle: %s",
     "new_key": "particle.notFound",
-    "new_value": "未知之粒：%s",
+    "new_value": "未明之粒「%s」",
     "new_en_us": "Unknown particle '%s'"
   },
   {
@@ -1076,7 +1116,7 @@
     "old_value": "未明之辞：%s",
     "old_en_us": "Unknown predicate: %s",
     "new_key": "predicate.unknown",
-    "new_value": "未明之辝：%s",
+    "new_value": "未明之辝「%s」",
     "new_en_us": "Unknown predicate '%s'"
   },
   {
@@ -1084,7 +1124,7 @@
     "old_value": "%s乃未明之方",
     "old_en_us": "Unknown recipe: %s",
     "new_key": "recipe.notFound",
-    "new_value": "%s乃未知之方",
+    "new_value": "未明之方「%s」",
     "new_en_us": "Unknown recipe '%s'"
   },
   {
@@ -1094,6 +1134,14 @@
     "new_key": "recipe.toast.title",
     "new_value": "新方已開！",
     "new_en_us": "New Recipe(s) Unlocked!"
+  },
+  {
+    "old_key": "selectWorld.backupQuestion.experimental",
+    "old_value": "無可援未穩之生界",
+    "old_en_us": "Worlds using Experimental Settings are not supported",
+    "new_key": "selectWorld.backupQuestion.experimental",
+    "new_value": "無以援未穩之生界",
+    "new_en_us": "Worlds using experimental settings are not supported"
   },
   {
     "old_key": "selectWorld.edit.backupSize",
@@ -1230,6 +1278,14 @@
     "new_key": "subtitles.entity.ender_dragon.hurt",
     "new_value": "終眇龍傷",
     "new_en_us": "Dragon is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.hurt",
+    "old_value": "終眇使傷",
+    "old_en_us": "Enderman hurts",
+    "new_key": "subtitles.entity.enderman.hurt",
+    "new_value": "終界使傷",
+    "new_en_us": "Enderman is hurt"
   },
   {
     "old_key": "subtitles.entity.evoker.prepare_wololo",
@@ -1444,7 +1500,7 @@
     "old_value": "衆戲（第三方伺服器）",
     "old_en_us": "Multiplayer (3rd-party Server)",
     "new_key": "title.multiplayer.other",
-    "new_value": "眾戲（第三方伺服器）",
+    "new_value": "眾戲（外黨之伺服器）",
     "new_en_us": "Multiplayer (Third-party Server)"
   }
 ]

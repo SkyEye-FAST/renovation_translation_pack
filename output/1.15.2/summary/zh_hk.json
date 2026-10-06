@@ -4851,6 +4851,13 @@
     "en_us": "Eating"
   },
   {
+    "old_key": "subtitles.entity.generic.small_fall",
+    "old_value": "實體跌落",
+    "new_key": "subtitles.entity.generic.small_fall",
+    "new_value": "某物跌落",
+    "en_us": "Something trips"
+  },
+  {
     "old_key": "subtitles.entity.generic.swim",
     "old_value": "游水",
     "new_key": "subtitles.entity.generic.swim",
@@ -4975,13 +4982,6 @@
     "new_key": "subtitles.entity.mooshroom.suspicious_milk",
     "new_value": "蘑菇牛被擠出可疑的燉湯",
     "en_us": "Mooshroom gets milked suspiciously"
-  },
-  {
-    "old_key": "subtitles.entity.painting.break",
-    "old_value": "畫被破壞",
-    "new_key": "subtitles.entity.painting.break",
-    "new_value": "畫被取下",
-    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",

@@ -1,5 +1,13 @@
 [
   {
+    "old_key": "advancement.advancementNotFound",
+    "old_value": "未知的进度：%s",
+    "old_en_us": "Unknown advancement: %s",
+    "new_key": "advancement.advancementNotFound",
+    "new_value": "未知的进度“%s”",
+    "new_en_us": "Unknown advancement '%s'"
+  },
+  {
     "old_key": "advancements.adventure.sleep_in_bed.description",
     "old_value": "改变你的重生点",
     "old_en_us": "Change your respawn point",
@@ -80,11 +88,19 @@
     "new_en_us": "Command blocks are not enabled"
   },
   {
+    "old_key": "argument.anchor.invalid",
+    "old_value": "无效的实体锚点%s",
+    "old_en_us": "Invalid entity anchor position %s",
+    "new_key": "argument.anchor.invalid",
+    "new_value": "无效的实体锚点“%s”",
+    "new_en_us": "Invalid entity anchor position '%s'"
+  },
+  {
     "old_key": "argument.component.invalid",
     "old_value": "无效的聊天组件： %s",
     "old_en_us": "Invalid chat component: %s",
     "new_key": "argument.component.invalid",
-    "new_value": "无效的聊天组件：%s",
+    "new_value": "无效的聊天组件“%s”",
     "new_en_us": "Invalid chat component '%s'"
   },
   {
@@ -126,6 +142,14 @@
     "new_key": "argument.float.low",
     "new_value": "单精度浮点型数据不能小于%s：实际为%s",
     "new_en_us": "Float must not be less than %s: found %s"
+  },
+  {
+    "old_key": "argument.id.unknown",
+    "old_value": "未知的ID：%s",
+    "old_en_us": "Unknown ID: %s",
+    "new_key": "argument.id.unknown",
+    "new_value": "未知的ID“%s”",
+    "new_en_us": "Unknown ID '%s'"
   },
   {
     "old_key": "argument.integer.big",
@@ -174,6 +198,14 @@
     "new_key": "argument.time.invalid_tick_count",
     "new_value": "刻数必须为非负数",
     "new_en_us": "The tick count must be non-negative"
+  },
+  {
+    "old_key": "arguments.function.unknown",
+    "old_value": "未知的函数%s",
+    "old_en_us": "Unknown function %s",
+    "new_key": "arguments.function.unknown",
+    "new_value": "未知的函数“%s”",
+    "new_en_us": "Unknown function '%s'"
   },
   {
     "old_key": "arguments.swizzle.invalid",
@@ -238,6 +270,14 @@
     "new_key": "commands.data.modify.expected_object",
     "new_value": "应为对象：实际为%s",
     "new_en_us": "Expected an object: got %s"
+  },
+  {
+    "old_key": "commands.data.modify.invalid_index",
+    "old_value": "无效的列表索引：%s",
+    "old_en_us": "Invalid list index: %s",
+    "new_key": "commands.data.modify.invalid_index",
+    "new_value": "无效的列表索引“%s”",
+    "new_en_us": "Invalid list index '%s'"
   },
   {
     "old_key": "commands.debug.alreadyRunning",
@@ -904,12 +944,28 @@
     "new_en_us": "Invalid boolean: expected 'true' or 'false' but found '%s'"
   },
   {
+    "old_key": "particle.notFound",
+    "old_value": "未知的粒子：%s",
+    "old_en_us": "Unknown particle: %s",
+    "new_key": "particle.notFound",
+    "new_value": "未知的粒子“%s”",
+    "new_en_us": "Unknown particle '%s'"
+  },
+  {
     "old_key": "predicate.unknown",
     "old_value": "未知的战利品表条件：%s",
     "old_en_us": "Unknown predicate: %s",
     "new_key": "predicate.unknown",
-    "new_value": "未知的谓词：%s",
+    "new_value": "未知的断言“%s”",
     "new_en_us": "Unknown predicate '%s'"
+  },
+  {
+    "old_key": "recipe.notFound",
+    "old_value": "未知的配方：%s",
+    "old_en_us": "Unknown recipe: %s",
+    "new_key": "recipe.notFound",
+    "new_value": "未知的配方“%s”",
+    "new_en_us": "Unknown recipe '%s'"
   },
   {
     "old_key": "selectWorld.allowCommands",
@@ -1016,12 +1072,28 @@
     "new_en_us": "Save Mode - Write to file"
   },
   {
+    "old_key": "subtitles.block.anvil.destroy",
+    "old_value": "铁砧：被毁",
+    "old_en_us": "Anvil destroyed",
+    "new_key": "subtitles.block.anvil.destroy",
+    "new_value": "铁砧：损坏",
+    "new_en_us": "Anvil breaks"
+  },
+  {
     "old_key": "subtitles.block.anvil.land",
     "old_value": "铁砧：着地",
     "old_en_us": "Anvil landed",
     "new_key": "subtitles.block.anvil.land",
     "new_value": "铁砧：着陆",
     "new_en_us": "Anvil lands"
+  },
+  {
+    "old_key": "subtitles.block.anvil.use",
+    "old_value": "铁砧：使用",
+    "old_en_us": "Anvil used",
+    "new_key": "subtitles.block.anvil.use",
+    "new_value": "铁砧：被使用",
+    "new_en_us": "Anvil is used"
   },
   {
     "old_key": "subtitles.block.bubble_column.upwards_inside",
@@ -1032,12 +1104,20 @@
     "new_en_us": "Bubbles whoosh"
   },
   {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "old_en_us": "Dispensed item",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "new_en_us": "Dispenser dispenses item"
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "箱子：锁上",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "箱子：锁哐当作响",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.grindstone.use",
+    "old_value": "砂轮：使用",
+    "old_en_us": "Grindstone used",
+    "new_key": "subtitles.block.grindstone.use",
+    "new_value": "砂轮：被使用",
+    "new_en_us": "Grindstone is used"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",
@@ -1056,6 +1136,38 @@
     "new_en_us": "Trapdoor opens"
   },
   {
+    "old_key": "subtitles.entity.donkey.chest",
+    "old_value": "驴：装备箱子",
+    "old_en_us": "Donkey Chest equips",
+    "new_key": "subtitles.entity.donkey.chest",
+    "new_value": "驴：被装备箱子",
+    "new_en_us": "Donkey Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.throw",
+    "old_value": "浮漂：甩出",
+    "old_en_us": "Bobber thrown",
+    "new_key": "subtitles.entity.fishing_bobber.throw",
+    "new_value": "浮漂：被甩出",
+    "new_en_us": "Bobber is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.horse.armor",
+    "old_value": "马铠：装备",
+    "old_en_us": "Horse armor equips",
+    "new_key": "subtitles.entity.horse.armor",
+    "new_value": "马铠：被装备",
+    "new_en_us": "Horse armor is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.horse.saddle",
+    "old_value": "鞍：装备",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.horse.saddle",
+    "new_value": "鞍：被装备",
+    "new_en_us": "Saddle is equipped"
+  },
+  {
     "old_key": "subtitles.entity.husk.converted_to_zombie",
     "old_value": "尸壳：转变为僵尸",
     "old_en_us": "Husk converted to Zombie",
@@ -1064,12 +1176,68 @@
     "new_en_us": "Husk converts to Zombie"
   },
   {
+    "old_key": "subtitles.entity.iron_golem.repair",
+    "old_value": "铁傀儡：修复",
+    "old_en_us": "Iron Golem repaired",
+    "new_key": "subtitles.entity.iron_golem.repair",
+    "new_value": "铁傀儡：被修复",
+    "new_en_us": "Iron Golem is repaired"
+  },
+  {
+    "old_key": "subtitles.entity.item_frame.add_item",
+    "old_value": "物品展示框：填充",
+    "old_en_us": "Item Frame fills",
+    "new_key": "subtitles.entity.item_frame.add_item",
+    "new_value": "物品展示框：被填充",
+    "new_en_us": "Item Frame is filled"
+  },
+  {
+    "old_key": "subtitles.entity.leash_knot.break",
+    "old_value": "拴绳结：被破坏",
+    "old_en_us": "Leash knot breaks",
+    "new_key": "subtitles.entity.leash_knot.break",
+    "new_value": "拴绳结：损坏",
+    "new_en_us": "Leash Knot breaks"
+  },
+  {
+    "old_key": "subtitles.entity.llama.chest",
+    "old_value": "羊驼：装备箱子",
+    "old_en_us": "Llama Chest equips",
+    "new_key": "subtitles.entity.llama.chest",
+    "new_value": "羊驼：被装备箱子",
+    "new_en_us": "Llama Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.mule.chest",
+    "old_value": "骡：装备箱子",
+    "old_en_us": "Mule Chest equips",
+    "new_key": "subtitles.entity.mule.chest",
+    "new_value": "骡：被装备箱子",
+    "new_en_us": "Mule Chest is equipped"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
     "old_value": "鹦鹉：弹跳",
     "old_en_us": "Parrot flaps",
     "new_key": "subtitles.entity.parrot.imitate.elder_guardian",
     "new_value": "鹦鹉：低鸣",
     "new_en_us": "Parrot moans"
+  },
+  {
+    "old_key": "subtitles.entity.pig.saddle",
+    "old_value": "鞍：装备",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.pig.saddle",
+    "new_value": "鞍：被装备",
+    "new_en_us": "Saddle is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家：打嗝",
+    "new_en_us": "Player burps"
   },
   {
     "old_key": "subtitles.entity.polar_bear.ambient_baby",
@@ -1084,7 +1252,7 @@
     "old_value": "药瓶：扔出",
     "old_en_us": "Bottle thrown",
     "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
+    "new_value": "玻璃瓶：被扔出",
     "new_en_us": "Bottle is thrown"
   },
   {
@@ -1120,12 +1288,28 @@
     "new_en_us": "Zombie converts to Drowned"
   },
   {
+    "old_key": "subtitles.item.armor.equip",
+    "old_value": "盔甲：装备",
+    "old_en_us": "Gear equips",
+    "new_key": "subtitles.item.armor.equip",
+    "new_value": "盔甲：被装备",
+    "new_en_us": "Gear is equipped"
+  },
+  {
     "old_key": "subtitles.item.axe.strip",
     "old_value": "原木：被剥皮",
     "old_en_us": "Debarking log",
     "new_key": "subtitles.item.axe.strip",
     "new_value": "斧：削皮",
     "new_en_us": "Axe strips"
+  },
+  {
+    "old_key": "subtitles.item.crop.plant",
+    "old_value": "作物：种植",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.crop.plant",
+    "new_value": "作物：被种植",
+    "new_en_us": "Crop is planted"
   },
   {
     "old_key": "subtitles.item.flintandsteel.use",
@@ -1142,6 +1326,14 @@
     "new_key": "subtitles.item.honey_bottle.drink",
     "new_value": "吞咽",
     "new_en_us": "Gulping"
+  },
+  {
+    "old_key": "subtitles.item.nether_wart.plant",
+    "old_value": "作物：种植",
+    "old_en_us": "Crop planted",
+    "new_key": "subtitles.item.nether_wart.plant",
+    "new_value": "作物：被种植",
+    "new_en_us": "Crop is planted"
   },
   {
     "old_key": "title.multiplayer.other",

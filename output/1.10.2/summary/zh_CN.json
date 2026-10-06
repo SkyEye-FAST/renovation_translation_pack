@@ -875,11 +875,25 @@
     "en_us": "Item breaks"
   },
   {
+    "old_key": "subtitles.entity.itemframe.break",
+    "old_value": "物品展示框：被破坏",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "物品展示框：损坏",
+    "en_us": "Item Frame breaks"
+  },
+  {
     "old_key": "subtitles.entity.magmacube.squish",
     "old_value": "岩浆怪：移动",
     "new_key": "subtitles.entity.magma_cube.squish",
     "new_value": "岩浆怪：挤压",
     "en_us": "Magma Cube squishes"
+  },
+  {
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "画：被破坏",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "画：损坏",
+    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.potion.splash",

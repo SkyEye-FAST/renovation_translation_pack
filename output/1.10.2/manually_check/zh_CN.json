@@ -656,6 +656,14 @@
     "new_en_us": "Unable to detect structure size. Add corners with matching structure names"
   },
   {
+    "old_key": "subtitles.block.anvil.destroy",
+    "old_value": "铁砧：被毁",
+    "old_en_us": "Anvil destroyed",
+    "new_key": "subtitles.block.anvil.destroy",
+    "new_value": "铁砧：损坏",
+    "new_en_us": "Anvil breaks"
+  },
+  {
     "old_key": "subtitles.block.anvil.land",
     "old_value": "铁砧：着地",
     "old_en_us": "Anvil landed",
@@ -664,20 +672,20 @@
     "new_en_us": "Anvil lands"
   },
   {
+    "old_key": "subtitles.block.anvil.use",
+    "old_value": "铁砧：使用",
+    "old_en_us": "Anvil used",
+    "new_key": "subtitles.block.anvil.use",
+    "new_value": "铁砧：被使用",
+    "new_en_us": "Anvil is used"
+  },
+  {
     "old_key": "subtitles.block.chest.locked",
     "old_value": "箱子：关闭",
     "old_en_us": "Chest locked",
     "new_key": "subtitles.block.chest.locked",
-    "new_value": "箱子：锁上",
+    "new_value": "箱子：锁哐当作响",
     "new_en_us": "Chest lock clangs"
-  },
-  {
-    "old_key": "subtitles.block.dispenser.dispense",
-    "old_value": "发射器：发射物品",
-    "old_en_us": "Dispensed item",
-    "new_key": "subtitles.block.dispenser.dispense",
-    "new_value": "物品：被射出",
-    "new_en_us": "Dispenser dispenses item"
   },
   {
     "old_key": "subtitles.block.iron_trapdoor.close",
@@ -708,7 +716,7 @@
     "old_value": "浮标：甩出",
     "old_en_us": "Bobber thrown",
     "new_key": "subtitles.entity.fishing_bobber.throw",
-    "new_value": "浮漂：甩出",
+    "new_value": "浮漂：被甩出",
     "new_en_us": "Bobber is thrown"
   },
   {
@@ -720,11 +728,43 @@
     "new_en_us": "Creeper is hurt"
   },
   {
+    "old_key": "subtitles.entity.donkey.chest",
+    "old_value": "驴：装备箱子",
+    "old_en_us": "Donkey Chest equips",
+    "new_key": "subtitles.entity.donkey.chest",
+    "new_value": "驴：被装备箱子",
+    "new_en_us": "Donkey Chest is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.horse.armor",
+    "old_value": "马铠：装备",
+    "old_en_us": "Horse armor equips",
+    "new_key": "subtitles.entity.horse.armor",
+    "new_value": "马铠：被装备",
+    "new_en_us": "Horse armor is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.horse.saddle",
+    "old_value": "鞍：装备",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.horse.saddle",
+    "new_value": "鞍：被装备",
+    "new_en_us": "Saddle is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.itemframe.add_item",
+    "old_value": "物品展示框：填充",
+    "old_en_us": "Item Frame fills",
+    "new_key": "subtitles.entity.item_frame.add_item",
+    "new_value": "物品展示框：被填充",
+    "new_en_us": "Item Frame is filled"
+  },
+  {
     "old_key": "subtitles.entity.leashknot.break",
     "old_value": "栓绳结：被破坏",
     "old_en_us": "Leash knot breaks",
     "new_key": "subtitles.entity.leash_knot.break",
-    "new_value": "拴绳结：被破坏",
+    "new_value": "拴绳结：损坏",
     "new_en_us": "Leash Knot breaks"
   },
   {
@@ -734,6 +774,22 @@
     "new_key": "subtitles.entity.leash_knot.place",
     "new_value": "拴绳结：被系上",
     "new_en_us": "Leash Knot is tied"
+  },
+  {
+    "old_key": "subtitles.entity.pig.saddle",
+    "old_value": "鞍：装备",
+    "old_en_us": "Saddle equips",
+    "new_key": "subtitles.entity.pig.saddle",
+    "new_value": "鞍：被装备",
+    "new_en_us": "Saddle is equipped"
+  },
+  {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家：打嗝",
+    "new_en_us": "Player burps"
   },
   {
     "old_key": "subtitles.entity.polar_bear.baby_ambient",
@@ -748,7 +804,7 @@
     "old_value": "药瓶：扔出",
     "old_en_us": "Bottle thrown",
     "new_key": "subtitles.entity.potion.throw",
-    "new_value": "玻璃瓶：扔出",
+    "new_value": "玻璃瓶：被扔出",
     "new_en_us": "Bottle is thrown"
   },
   {
@@ -790,6 +846,14 @@
     "new_key": "subtitles.entity.zombie_villager.converted",
     "new_value": "僵尸村民：哀嚎",
     "new_en_us": "Zombie Villager vociferates"
+  },
+  {
+    "old_key": "subtitles.item.armor.equip",
+    "old_value": "盔甲：装备",
+    "old_en_us": "Gear equipped",
+    "new_key": "subtitles.item.armor.equip",
+    "new_value": "盔甲：被装备",
+    "new_en_us": "Gear is equipped"
   },
   {
     "old_key": "subtitles.item.flintandsteel.use",

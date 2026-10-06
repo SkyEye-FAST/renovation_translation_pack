@@ -2212,6 +2212,13 @@
     "en_us": "Illusioner prepares mirror image"
   },
   {
+    "old_key": "subtitles.entity.item_frame.break",
+    "old_value": "物品展示框：被破坏",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "物品展示框：损坏",
+    "en_us": "Item Frame breaks"
+  },
+  {
     "old_key": "subtitles.entity.item.break",
     "old_value": "物品：被破坏",
     "new_key": "subtitles.entity.item.break",
@@ -2231,6 +2238,13 @@
     "new_key": "subtitles.entity.mooshroom.suspicious_milk",
     "new_value": "哞菇：被挤出谜之炖菜",
     "en_us": "Mooshroom gets milked suspiciously"
+  },
+  {
+    "old_key": "subtitles.entity.painting.break",
+    "old_value": "画：被破坏",
+    "new_key": "subtitles.entity.painting.break",
+    "new_value": "画：损坏",
+    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.drowned",

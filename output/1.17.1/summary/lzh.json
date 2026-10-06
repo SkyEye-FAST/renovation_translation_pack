@@ -7098,6 +7098,13 @@
     "en_us": "Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"
   },
   {
+    "old_key": "tutorial.bundleInsert.title",
+    "old_value": "以皮囊容物",
+    "new_key": "tutorial.bundleInsert.title",
+    "new_value": "以皮囊納物",
+    "en_us": "Use a Bundle"
+  },
+  {
     "old_key": "tutorial.craft_planks.title",
     "old_value": "製板",
     "new_key": "tutorial.craft_planks.title",

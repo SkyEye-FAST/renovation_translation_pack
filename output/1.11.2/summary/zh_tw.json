@@ -2919,11 +2919,53 @@
     "en_us": "Thorns prick"
   },
   {
+    "old_key": "subtitles.entity.arrow.hit",
+    "old_value": "箭矢擊中聲",
+    "new_key": "subtitles.entity.arrow.hit",
+    "new_value": "箭矢擊中",
+    "en_us": "Arrow hits"
+  },
+  {
+    "old_key": "subtitles.entity.bat.ambient",
+    "old_value": "蝙蝠聲",
+    "new_key": "subtitles.entity.bat.ambient",
+    "new_value": "蝙蝠尖叫聲",
+    "en_us": "Bat screeches"
+  },
+  {
+    "old_key": "subtitles.entity.bat.takeoff",
+    "old_value": "蝙蝠飛翔聲",
+    "new_key": "subtitles.entity.bat.takeoff",
+    "new_value": "蝙蝠飛翔",
+    "en_us": "Bat takes off"
+  },
+  {
     "old_key": "subtitles.entity.blaze.ambient",
     "old_value": "烈焰使者叫聲",
     "new_key": "subtitles.entity.blaze.ambient",
     "new_value": "烈焰使者吐息",
     "en_us": "Blaze breathes"
+  },
+  {
+    "old_key": "subtitles.entity.cat.ambient",
+    "old_value": "貓叫聲",
+    "new_key": "subtitles.entity.cat.ambient",
+    "new_value": "貓喵喵叫",
+    "en_us": "Cat meows"
+  },
+  {
+    "old_key": "subtitles.entity.chicken.ambient",
+    "old_value": "雞叫聲",
+    "new_key": "subtitles.entity.chicken.ambient",
+    "new_value": "雞咯咯叫",
+    "en_us": "Chicken clucks"
+  },
+  {
+    "old_key": "subtitles.entity.cow.ambient",
+    "old_value": "牛哞聲",
+    "new_key": "subtitles.entity.cow.ambient",
+    "new_value": "牛哞哞叫",
+    "en_us": "Cow moos"
   },
   {
     "old_key": "subtitles.entity.cow.milk",
@@ -2940,11 +2982,39 @@
     "en_us": "Donkey neighs"
   },
   {
+    "old_key": "subtitles.entity.elder_guardian.ambient",
+    "old_value": "遠古深海守衛叫聲",
+    "new_key": "subtitles.entity.elder_guardian.ambient",
+    "new_value": "遠古深海守衛低鳴",
+    "en_us": "Elder Guardian moans"
+  },
+  {
+    "old_key": "subtitles.entity.enderdragon.ambient",
+    "old_value": "終界龍咆哮聲",
+    "new_key": "subtitles.entity.ender_dragon.ambient",
+    "new_value": "終界龍咆哮",
+    "en_us": "Dragon roars"
+  },
+  {
+    "old_key": "subtitles.entity.enderdragon.flap",
+    "old_value": "終界龍擊翅聲",
+    "new_key": "subtitles.entity.ender_dragon.flap",
+    "new_value": "終界龍振翅",
+    "en_us": "Dragon flaps"
+  },
+  {
     "old_key": "subtitles.entity.enderdragon.growl",
     "old_value": "終界龍吼叫聲",
     "new_key": "subtitles.entity.ender_dragon.growl",
     "new_value": "終界龍吼叫",
     "en_us": "Dragon growls"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.teleport",
+    "old_value": "終界使者瞬移聲",
+    "new_key": "subtitles.entity.enderman.teleport",
+    "new_value": "終界使者瞬移",
+    "en_us": "Enderman teleports"
   },
   {
     "old_key": "subtitles.entity.evocation_illager.ambient",
@@ -2961,11 +3031,25 @@
     "en_us": "Firework launches"
   },
   {
+    "old_key": "subtitles.entity.generic.extinguish_fire",
+    "old_value": "火焰熄滅聲",
+    "new_key": "subtitles.entity.generic.extinguish_fire",
+    "new_value": "火焰熄滅",
+    "en_us": "Fire extinguishes"
+  },
+  {
     "old_key": "subtitles.entity.ghast.ambient",
     "old_value": "地獄幽靈哭聲",
     "new_key": "subtitles.entity.ghast.ambient",
-    "new_value": "地獄幽靈哭泣聲",
+    "new_value": "地獄幽靈哭泣",
     "en_us": "Ghast cries"
+  },
+  {
+    "old_key": "subtitles.entity.guardian.ambient",
+    "old_value": "深海守衛叫聲",
+    "new_key": "subtitles.entity.guardian.ambient",
+    "new_value": "深海守衛低鳴",
+    "en_us": "Guardian moans"
   },
   {
     "old_key": "subtitles.entity.horse.ambient",
@@ -2987,13 +3071,6 @@
     "new_key": "subtitles.entity.horse.eat",
     "new_value": "馬進食",
     "en_us": "Horse eats"
-  },
-  {
-    "old_key": "subtitles.entity.itemframe.break",
-    "old_value": "破壞物品展示框",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.llama.ambient",
@@ -3020,7 +3097,7 @@
     "old_key": "subtitles.entity.llama.spit",
     "old_value": "大羊駝噴口水",
     "new_key": "subtitles.entity.llama.spit",
-    "new_value": "駱馬呸",
+    "new_value": "駱馬噴射唾液",
     "en_us": "Llama spits"
   },
   {
@@ -3059,10 +3136,17 @@
     "en_us": "Minecart rolls"
   },
   {
+    "old_key": "subtitles.entity.pig.ambient",
+    "old_value": "豬叫聲",
+    "new_key": "subtitles.entity.pig.ambient",
+    "new_value": "豬哼叫",
+    "en_us": "Pig oinks"
+  },
+  {
     "old_key": "subtitles.entity.sheep.ambient",
     "old_value": "羊叫聲",
     "new_key": "subtitles.entity.sheep.ambient",
-    "new_value": "綿羊叫聲",
+    "new_value": "綿羊咩咩叫",
     "en_us": "Sheep baahs"
   },
   {

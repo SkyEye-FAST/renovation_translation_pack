@@ -952,6 +952,38 @@
     "new_en_us": "Unable to detect structure size. Add corners with matching structure names"
   },
   {
+    "old_key": "subtitles.block.chest.locked",
+    "old_value": "儲物箱鎖上",
+    "old_en_us": "Chest locked",
+    "new_key": "subtitles.block.chest.locked",
+    "new_value": "儲物箱鎖鏗鏘聲",
+    "new_en_us": "Chest lock clangs"
+  },
+  {
+    "old_key": "subtitles.block.dispenser.dispense",
+    "old_value": "物品射出",
+    "old_en_us": "Dispensed item",
+    "new_key": "subtitles.block.dispenser.dispense",
+    "new_value": "發射器射出物品",
+    "new_en_us": "Dispenser dispenses item"
+  },
+  {
+    "old_key": "subtitles.block.fire.extinguish",
+    "old_value": "火焰熄滅聲",
+    "old_en_us": "Fire extinguished",
+    "new_key": "subtitles.block.fire.extinguish",
+    "new_value": "火焰熄滅",
+    "new_en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.block.generic.place",
+    "old_value": "方塊放置聲",
+    "old_en_us": "Block placed",
+    "new_key": "subtitles.block.generic.place",
+    "new_value": "放置方塊",
+    "new_en_us": "Block is placed"
+  },
+  {
     "old_key": "subtitles.block.iron_trapdoor.close",
     "old_value": "地板門開啟",
     "old_en_us": "Trapdoor opens",
@@ -1004,7 +1036,7 @@
     "old_value": "投出魚鉤",
     "old_en_us": "Bobber thrown",
     "new_key": "subtitles.entity.fishing_bobber.throw",
-    "new_value": "浮標投出",
+    "new_value": "投出浮標",
     "new_en_us": "Bobber is thrown"
   },
   {
@@ -1120,12 +1152,28 @@
     "new_en_us": "Saddle is equipped"
   },
   {
+    "old_key": "subtitles.entity.player.burp",
+    "old_value": "打嗝",
+    "old_en_us": "Burp",
+    "new_key": "subtitles.entity.player.burp",
+    "new_value": "玩家打嗝",
+    "new_en_us": "Player burps"
+  },
+  {
     "old_key": "subtitles.entity.polar_bear.baby_ambient",
     "old_value": "北極熊低哼",
     "old_en_us": "Polar Bear hums",
     "new_key": "subtitles.entity.polar_bear.ambient_baby",
     "new_value": "幼年北極熊低哼",
     "new_en_us": "Baby Polar Bear hums"
+  },
+  {
+    "old_key": "subtitles.entity.potion.throw",
+    "old_value": "擲瓶聲",
+    "old_en_us": "Bottle thrown",
+    "new_key": "subtitles.entity.potion.throw",
+    "new_value": "擲出瓶子",
+    "new_en_us": "Bottle is thrown"
   },
   {
     "old_key": "subtitles.entity.sheep.hurt",

@@ -3773,6 +3773,13 @@
     "en_us": "Want to share your preset with someone? Use the box below!"
   },
   {
+    "old_key": "dataPack.title",
+    "old_value": "選取數據包",
+    "new_key": "dataPack.title",
+    "new_value": "選擇數據包",
+    "en_us": "Select Data Packs"
+  },
+  {
     "old_key": "death.attack.anvil",
     "old_value": "%1$s 被跌咗落來嘅鐵砧壓成肉餅",
     "new_key": "death.attack.anvil",
@@ -6426,6 +6433,13 @@
     "en_us": "Eating"
   },
   {
+    "old_key": "subtitles.entity.generic.small_fall",
+    "old_value": "實體跌落",
+    "new_key": "subtitles.entity.generic.small_fall",
+    "new_value": "某物跌落",
+    "en_us": "Something trips"
+  },
+  {
     "old_key": "subtitles.entity.generic.swim",
     "old_value": "游水",
     "new_key": "subtitles.entity.generic.swim",
@@ -6627,13 +6641,6 @@
     "new_key": "subtitles.entity.mule.eat",
     "new_value": "騾進食",
     "en_us": "Mule eats"
-  },
-  {
-    "old_key": "subtitles.entity.painting.break",
-    "old_value": "畫被破壞",
-    "new_key": "subtitles.entity.painting.break",
-    "new_value": "畫被取下",
-    "en_us": "Painting breaks"
   },
   {
     "old_key": "subtitles.entity.panda.aggressive_ambient",

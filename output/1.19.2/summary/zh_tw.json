@@ -1491,6 +1491,13 @@
     "en_us": "The difficulty has been set to %s"
   },
   {
+    "old_key": "commands.item.target.no_such_slot",
+    "old_value": "該對象並無 %s 欄位",
+    "new_key": "commands.item.target.no_such_slot",
+    "new_value": "該對象沒有 %s 欄位",
+    "en_us": "The target does not have slot %s"
+  },
+  {
     "old_key": "commands.list.players",
     "old_value": "目前有 %s／%s 個玩家在線上：%s",
     "new_key": "commands.list.players",
@@ -2870,18 +2877,151 @@
     "en_us": "Furnace crackles"
   },
   {
-    "old_key": "subtitles.entity.glow_item_frame.break",
-    "old_value": "破壞螢光物品展示框",
-    "new_key": "subtitles.entity.glow_item_frame.break",
-    "new_value": "取下螢光物品展示框",
-    "en_us": "Glow Item Frame breaks"
+    "old_key": "subtitles.entity.arrow.hit",
+    "old_value": "箭矢擊中聲",
+    "new_key": "subtitles.entity.arrow.hit",
+    "new_value": "箭矢擊中",
+    "en_us": "Arrow hits"
   },
   {
-    "old_key": "subtitles.entity.item_frame.break",
-    "old_value": "破壞物品展示框",
-    "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "取下物品展示框",
-    "en_us": "Item Frame breaks"
+    "old_key": "subtitles.entity.bat.ambient",
+    "old_value": "蝙蝠聲",
+    "new_key": "subtitles.entity.bat.ambient",
+    "new_value": "蝙蝠尖叫聲",
+    "en_us": "Bat screeches"
+  },
+  {
+    "old_key": "subtitles.entity.bat.takeoff",
+    "old_value": "蝙蝠飛翔聲",
+    "new_key": "subtitles.entity.bat.takeoff",
+    "new_value": "蝙蝠飛翔",
+    "en_us": "Bat takes off"
+  },
+  {
+    "old_key": "subtitles.entity.cat.ambient",
+    "old_value": "貓叫聲",
+    "new_key": "subtitles.entity.cat.ambient",
+    "new_value": "貓喵喵叫",
+    "en_us": "Cat meows"
+  },
+  {
+    "old_key": "subtitles.entity.chicken.ambient",
+    "old_value": "雞叫聲",
+    "new_key": "subtitles.entity.chicken.ambient",
+    "new_value": "雞咯咯叫",
+    "en_us": "Chicken clucks"
+  },
+  {
+    "old_key": "subtitles.entity.cow.ambient",
+    "old_value": "牛哞聲",
+    "new_key": "subtitles.entity.cow.ambient",
+    "new_value": "牛哞哞叫",
+    "en_us": "Cow moos"
+  },
+  {
+    "old_key": "subtitles.entity.elder_guardian.ambient",
+    "old_value": "遠古深海守衛叫聲",
+    "new_key": "subtitles.entity.elder_guardian.ambient",
+    "new_value": "遠古深海守衛低鳴",
+    "en_us": "Elder Guardian moans"
+  },
+  {
+    "old_key": "subtitles.entity.ender_dragon.ambient",
+    "old_value": "終界龍咆哮聲",
+    "new_key": "subtitles.entity.ender_dragon.ambient",
+    "new_value": "終界龍咆哮",
+    "en_us": "Dragon roars"
+  },
+  {
+    "old_key": "subtitles.entity.ender_dragon.flap",
+    "old_value": "終界龍擊翅聲",
+    "new_key": "subtitles.entity.ender_dragon.flap",
+    "new_value": "終界龍振翅",
+    "en_us": "Dragon flaps"
+  },
+  {
+    "old_key": "subtitles.entity.enderman.teleport",
+    "old_value": "終界使者瞬移聲",
+    "new_key": "subtitles.entity.enderman.teleport",
+    "new_value": "終界使者瞬移",
+    "en_us": "Enderman teleports"
+  },
+  {
+    "old_key": "subtitles.entity.generic.extinguish_fire",
+    "old_value": "火焰熄滅聲",
+    "new_key": "subtitles.entity.generic.extinguish_fire",
+    "new_value": "火焰熄滅",
+    "en_us": "Fire extinguishes"
+  },
+  {
+    "old_key": "subtitles.entity.ghast.ambient",
+    "old_value": "地獄幽靈哭泣聲",
+    "new_key": "subtitles.entity.ghast.ambient",
+    "new_value": "地獄幽靈哭泣",
+    "en_us": "Ghast cries"
+  },
+  {
+    "old_key": "subtitles.entity.goat.long_jump",
+    "old_value": "山羊跳躍聲",
+    "new_key": "subtitles.entity.goat.long_jump",
+    "new_value": "山羊跳躍",
+    "en_us": "Goat leaps"
+  },
+  {
+    "old_key": "subtitles.entity.goat.prepare_ram",
+    "old_value": "山羊重踏聲",
+    "new_key": "subtitles.entity.goat.prepare_ram",
+    "new_value": "山羊重踏",
+    "en_us": "Goat stomps"
+  },
+  {
+    "old_key": "subtitles.entity.goat.ram_impact",
+    "old_value": "山羊衝撞聲",
+    "new_key": "subtitles.entity.goat.ram_impact",
+    "new_value": "山羊衝撞",
+    "en_us": "Goat rams"
+  },
+  {
+    "old_key": "subtitles.entity.goat.screaming.ambient",
+    "old_value": "山羊吼叫聲",
+    "new_key": "subtitles.entity.goat.screaming.ambient",
+    "new_value": "山羊吼叫",
+    "en_us": "Goat bellows"
+  },
+  {
+    "old_key": "subtitles.entity.guardian.ambient",
+    "old_value": "深海守衛叫聲",
+    "new_key": "subtitles.entity.guardian.ambient",
+    "new_value": "深海守衛低鳴",
+    "en_us": "Guardian moans"
+  },
+  {
+    "old_key": "subtitles.entity.llama.spit",
+    "old_value": "駱馬呸",
+    "new_key": "subtitles.entity.llama.spit",
+    "new_value": "駱馬噴射唾液",
+    "en_us": "Llama spits"
+  },
+  {
+    "old_key": "subtitles.entity.pig.ambient",
+    "old_value": "豬叫聲",
+    "new_key": "subtitles.entity.pig.ambient",
+    "new_value": "豬哼叫",
+    "en_us": "Pig oinks"
+  },
+  {
+    "old_key": "subtitles.entity.player.attack.crit",
+    "old_value": "暴擊",
+    "new_key": "subtitles.entity.player.attack.crit",
+    "new_value": "爆擊",
+    "en_us": "Critical attack"
+  },
+  {
+    "old_key": "subtitles.entity.sheep.ambient",
+    "old_value": "綿羊叫聲",
+    "new_key": "subtitles.entity.sheep.ambient",
+    "new_value": "綿羊咩咩叫",
+    "en_us": "Sheep baahs"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",
