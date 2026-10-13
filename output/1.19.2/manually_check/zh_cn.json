@@ -648,6 +648,30 @@
     "new_en_us": "Right-Click for More"
   },
   {
+    "old_key": "gui.socialInteractions.tooltip.report.disabled",
+    "old_value": "举报服务不可用",
+    "old_en_us": "The reporting service is unavailable",
+    "new_key": "gui.socialInteractions.tooltip.report.disabled",
+    "new_value": "举报服务不可用。",
+    "new_en_us": "The reporting service is unavailable."
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.report.no_messages",
+    "old_value": "玩家%s没有可举报的消息",
+    "old_en_us": "No reportable messages from player %s",
+    "new_key": "gui.socialInteractions.tooltip.report.no_messages",
+    "new_value": "玩家%s没有可举报的消息。",
+    "new_en_us": "No reportable messages from player %s."
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.report.not_reportable",
+    "old_value": "无法举报该玩家，服务器无法验证其聊天消息。",
+    "old_en_us": "This player can't be reported, because their chat messages can't be verified on this server",
+    "new_key": "gui.socialInteractions.tooltip.report.not_reportable",
+    "new_value": "无法举报该玩家，因为其聊天消息无法被服务器验证。",
+    "new_en_us": "This player can't be reported because their chat messages can't be verified on this server."
+  },
+  {
     "old_key": "item_modifier.unknown",
     "old_value": "未知的物品修饰器：%s",
     "old_en_us": "Unknown item modifier: %s",

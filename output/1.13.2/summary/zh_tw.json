@@ -2933,6 +2933,13 @@
     "en_us": "Reset Demo World"
   },
   {
+    "old_key": "multiplayer.disconnect.flying",
+    "old_value": "此伺服器並沒有啟用飛行",
+    "new_key": "multiplayer.disconnect.flying",
+    "new_value": "這個伺服器並沒有啟用飛行",
+    "en_us": "Flying is not enabled on this server"
+  },
+  {
     "old_key": "multiplayer.disconnect.unexpected_query_response",
     "old_value": "從用戶端接收到預期外的自定義資料",
     "new_key": "multiplayer.disconnect.unexpected_query_response",
@@ -2950,7 +2957,7 @@
     "old_key": "multiplayer.texturePrompt.line1",
     "old_value": "此伺服器建議使用該伺服器所提供的資源包。",
     "new_key": "multiplayer.texturePrompt.line1",
-    "new_value": "此伺服器建議使用其自訂的資源包。",
+    "new_value": "這個伺服器建議使用其自訂的資源包。",
     "en_us": "This server recommends the use of a custom resource pack."
   },
   {
@@ -3148,6 +3155,13 @@
     "new_key": "stat.minecraft.drop",
     "new_value": "丟棄物品次數",
     "en_us": "Items Dropped"
+  },
+  {
+    "old_key": "stat.minecraft.sleep_in_bed",
+    "old_value": "睡覺次數",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "在床上睡覺次數",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "stat.minecraft.sprint_one_cm",

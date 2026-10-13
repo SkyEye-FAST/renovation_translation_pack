@@ -104,6 +104,14 @@
     "new_en_us": "Bring a Beacon to full power"
   },
   {
+    "old_key": "advancements.nether.distract_piglin.title",
+    "old_value": "金光大耀",
+    "old_en_us": "Oh Shiny",
+    "new_key": "advancements.nether.distract_piglin.title",
+    "new_value": "金光大耀！",
+    "new_en_us": "Oooh, Shiny!"
+  },
+  {
     "old_key": "advancements.nether.loot_bastion.description",
     "old_value": "掠貨自砦堡之箱",
     "old_en_us": "Loot a chest in a Bastion Remnant",
@@ -1280,14 +1288,6 @@
     "new_en_us": "Dragon is hurt"
   },
   {
-    "old_key": "subtitles.entity.enderman.hurt",
-    "old_value": "終眇使傷",
-    "old_en_us": "Enderman hurts",
-    "new_key": "subtitles.entity.enderman.hurt",
-    "new_value": "終界使傷",
-    "new_en_us": "Enderman is hurt"
-  },
-  {
     "old_key": "subtitles.entity.evoker.prepare_wololo",
     "old_value": "御魔使備咒",
     "old_en_us": "Evoker prepares charming",
@@ -1486,6 +1486,14 @@
     "new_key": "subtitles.entity.wither_skeleton.hurt",
     "new_value": "凋靈骷髏傷",
     "new_en_us": "Wither Skeleton is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.hurt",
+    "old_value": "屍化鄉民傷",
+    "old_en_us": "Zombie Villager hurts",
+    "new_key": "subtitles.entity.zombie_villager.hurt",
+    "new_value": "屍鄉民傷",
+    "new_en_us": "Zombie Villager is hurt"
   },
   {
     "old_key": "subtitles.item.axe.strip",

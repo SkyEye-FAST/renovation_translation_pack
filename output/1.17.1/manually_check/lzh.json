@@ -128,6 +128,14 @@
     "new_en_us": "Bring a Beacon to full power"
   },
   {
+    "old_key": "advancements.nether.distract_piglin.title",
+    "old_value": "金光大耀",
+    "old_en_us": "Oh Shiny",
+    "new_key": "advancements.nether.distract_piglin.title",
+    "new_value": "金光大耀！",
+    "new_en_us": "Oooh, Shiny!"
+  },
+  {
     "old_key": "advancements.nether.loot_bastion.description",
     "old_value": "掠貨自砦堡之箱",
     "old_en_us": "Loot a chest in a Bastion Remnant",
@@ -1304,6 +1312,14 @@
     "new_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup."
   },
   {
+    "old_key": "selectWorld.backupWarning.snapshot",
+    "old_value": "昔戲此生界於%s ，今欲以%s入，備以防其損！",
+    "old_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
+    "new_key": "selectWorld.backupWarning.snapshot",
+    "new_value": "昔戲此生界於%s，今欲以%s入，備以防其損。",
+    "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
+  },
+  {
     "old_key": "selectWorld.edit.backupSize",
     "old_value": "世之大，%s兆節也",
     "old_en_us": "size: %s MB",
@@ -1422,14 +1438,6 @@
     "new_key": "subtitles.entity.donkey.chest",
     "new_value": "驢著箱",
     "new_en_us": "Donkey Chest is equipped"
-  },
-  {
-    "old_key": "subtitles.entity.enderman.hurt",
-    "old_value": "終眇使傷",
-    "old_en_us": "Enderman hurts",
-    "new_key": "subtitles.entity.enderman.hurt",
-    "new_value": "終界使傷",
-    "new_en_us": "Enderman is hurt"
   },
   {
     "old_key": "subtitles.entity.evoker.prepare_wololo",
@@ -1646,6 +1654,14 @@
     "new_key": "subtitles.entity.wither_skeleton.hurt",
     "new_value": "凋靈骷髏傷",
     "new_en_us": "Wither Skeleton is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.hurt",
+    "old_value": "屍化鄉民傷",
+    "old_en_us": "Zombie Villager hurts",
+    "new_key": "subtitles.entity.zombie_villager.hurt",
+    "new_value": "屍鄉民傷",
+    "new_en_us": "Zombie Villager is hurt"
   },
   {
     "old_key": "title.multiplayer.other",

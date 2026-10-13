@@ -768,14 +768,6 @@
     "new_en_us": "Unknown recipe '%s'"
   },
   {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "使用實驗性設定的世界不受支援",
-    "old_en_us": "Worlds using Experimental Settings are not supported",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援使用實驗性設定的世界",
-    "new_en_us": "Worlds using experimental settings are not supported"
-  },
-  {
     "old_key": "selectWorld.load_folder_access",
     "old_value": "無法載入或存取遊戲世界存檔所在的資料夾！",
     "old_en_us": "Unable to read or access folder where game worlds are saved!",

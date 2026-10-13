@@ -1080,11 +1080,19 @@
     "new_en_us": "Right-Click for More"
   },
   {
+    "old_key": "gui.socialInteractions.tooltip.report.disabled",
+    "old_value": "無法使用舉報服務",
+    "old_en_us": "The reporting service is unavailable",
+    "new_key": "gui.socialInteractions.tooltip.report.disabled",
+    "new_value": "無法使用舉報服務。",
+    "new_en_us": "The reporting service is unavailable."
+  },
+  {
     "old_key": "gui.socialInteractions.tooltip.report.no_messages",
     "old_value": "玩家 %s 不存在可以舉報嘅訊息",
     "old_en_us": "No reportable messages from player %s",
     "new_key": "gui.socialInteractions.tooltip.report.no_messages",
-    "new_value": "玩家 %s 不存在可舉報的訊息",
+    "new_value": "玩家 %s 不存在可舉報的訊息。",
     "new_en_us": "No reportable messages from player %s."
   },
   {
@@ -1092,7 +1100,7 @@
     "old_value": "無法舉報此玩家，此伺服器無法驗證該玩家嘅聊天訊息",
     "old_en_us": "This player can't be reported, because their chat messages can't be verified on this server",
     "new_key": "gui.socialInteractions.tooltip.report.not_reportable",
-    "new_value": "無法舉報此玩家，此伺服器無法驗證該玩家的聊天訊息",
+    "new_value": "無法舉報此玩家，因為此伺服器無法驗證該玩家的聊天訊息。",
     "new_en_us": "This player can't be reported because their chat messages can't be verified on this server."
   },
   {

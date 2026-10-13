@@ -2383,7 +2383,7 @@
     "old_key": "multiplayer.texturePrompt.line1",
     "old_value": "此伺服器建議使用該伺服器所提供的資源包。",
     "new_key": "multiplayer.texturePrompt.line1",
-    "new_value": "此伺服器建議使用其自訂的資源包。",
+    "new_value": "這個伺服器建議使用其自訂的資源包。",
     "en_us": "This server recommends the use of a custom resource pack."
   },
   {
@@ -2805,6 +2805,13 @@
     "new_key": "stat_type.minecraft.killed.none",
     "new_value": "你沒有殺死過%s",
     "en_us": "You have never killed %s"
+  },
+  {
+    "old_key": "stat.sleepInBed",
+    "old_value": "睡覺次數",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "在床上睡覺次數",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "stat.sprintOneCm",

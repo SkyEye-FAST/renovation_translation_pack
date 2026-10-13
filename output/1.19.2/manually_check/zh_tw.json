@@ -728,6 +728,30 @@
     "new_en_us": "%s message(s) hidden"
   },
   {
+    "old_key": "gui.socialInteractions.tooltip.report.disabled",
+    "old_value": "檢舉服務目前無法使用",
+    "old_en_us": "The reporting service is unavailable",
+    "new_key": "gui.socialInteractions.tooltip.report.disabled",
+    "new_value": "檢舉服務目前無法使用。",
+    "new_en_us": "The reporting service is unavailable."
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.report.no_messages",
+    "old_value": "玩家 %s 沒有可以檢舉的訊息",
+    "old_en_us": "No reportable messages from player %s",
+    "new_key": "gui.socialInteractions.tooltip.report.no_messages",
+    "new_value": "玩家 %s 沒有可以檢舉的訊息。",
+    "new_en_us": "No reportable messages from player %s."
+  },
+  {
+    "old_key": "gui.socialInteractions.tooltip.report.not_reportable",
+    "old_value": "無法檢舉此玩家，因為此伺服器無法驗證該玩家的聊天訊息",
+    "old_en_us": "This player can't be reported, because their chat messages can't be verified on this server",
+    "new_key": "gui.socialInteractions.tooltip.report.not_reportable",
+    "new_value": "無法檢舉這名玩家，因為這個伺服器無法驗證該玩家的聊天訊息",
+    "new_en_us": "This player can't be reported because their chat messages can't be verified on this server."
+  },
+  {
     "old_key": "item_modifier.unknown",
     "old_value": "未知的物品屬性：%s",
     "old_en_us": "Unknown item modifier: %s",
@@ -790,6 +814,14 @@
     "new_key": "multiplayer.message_not_delivered",
     "new_value": "無法傳送聊天訊息，請檢查伺服器記錄：%s",
     "new_en_us": "Can't deliver chat message; check server logs: %s"
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "old_value": "伺服器要求使用其自訂的資源包",
+    "old_en_us": "Server requires a custom resource pack",
+    "new_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "new_value": "這個伺服器要求使用其自訂的資源包",
+    "new_en_us": "This server requires a custom resource pack"
   },
   {
     "old_key": "narration.component_list.usage",
@@ -968,14 +1000,6 @@
     "new_en_us": "The default look and feel of Minecraft"
   },
   {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "使用實驗性設定的世界不受支援",
-    "old_en_us": "Worlds using Experimental Settings are not supported",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援使用實驗性設定的世界",
-    "new_en_us": "Worlds using experimental settings are not supported"
-  },
-  {
     "old_key": "selectWorld.backupWarning.downgrade",
     "old_value": "這個世界最後一次遊玩的版本為 %s，您現在的版本為 %s。降低世界版本可能導致資料毀損，我們無法保證世界能讀取運作。若您仍要繼續，請先進行備份！",
     "old_en_us": "This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup!",
@@ -990,6 +1014,14 @@
     "new_key": "selectWorld.backupWarning.snapshot",
     "new_value": "這個世界最後一次遊玩的版本為 %s，而您使用的版本為 %s。請先建立備份，以防世界損毀。",
     "new_en_us": "This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruption."
+  },
+  {
+    "old_key": "selectWorld.conversion.tooltip",
+    "old_value": "此世界必須先以較舊的版本（如 1.6.4）開啟後才能安全轉換",
+    "old_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted",
+    "new_key": "selectWorld.conversion.tooltip",
+    "new_value": "這個世界必須先以較舊的版本（例如 1.6.4）開啟後才能安全轉換。",
+    "new_en_us": "This world must be opened in an older version (like 1.6.4) to be safely converted."
   },
   {
     "old_key": "selectWorld.load_folder_access",

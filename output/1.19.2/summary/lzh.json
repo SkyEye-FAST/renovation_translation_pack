@@ -364,6 +364,13 @@
     "en_us": "Use a Compass on a Lodestone"
   },
   {
+    "old_key": "advancements.story.cure_zombie_villager.description",
+    "old_value": "虛而療一屍化鄉民",
+    "new_key": "advancements.story.cure_zombie_villager.description",
+    "new_value": "虛而療一屍鄉民",
+    "en_us": "Weaken and then cure a Zombie Villager"
+  },
+  {
     "old_key": "advancements.story.deflect_arrow.description",
     "old_value": "以盾禦彈",
     "new_key": "advancements.story.deflect_arrow.description",
@@ -747,6 +754,13 @@
     "new_key": "biome.minecraft.dark_forest",
     "new_value": "黯林",
     "en_us": "Dark Forest"
+  },
+  {
+    "old_key": "biome.minecraft.dripstone_caves",
+    "old_value": "鐘乳石穴",
+    "new_key": "biome.minecraft.dripstone_caves",
+    "new_value": "鐘乳石窟",
+    "en_us": "Dripstone Caves"
   },
   {
     "old_key": "biome.minecraft.eroded_badlands",
@@ -4669,6 +4683,13 @@
     "en_us": "Wither Skeleton"
   },
   {
+    "old_key": "entity.minecraft.zombie_villager",
+    "old_value": "屍化鄉民",
+    "new_key": "entity.minecraft.zombie_villager",
+    "new_value": "屍鄉民",
+    "en_us": "Zombie Villager"
+  },
+  {
     "old_key": "event.minecraft.raid.defeat",
     "old_value": "敗北",
     "new_key": "event.minecraft.raid.defeat",
@@ -5521,6 +5542,13 @@
     "new_key": "item.minecraft.wither_skeleton_spawn_egg",
     "new_value": "孳凋靈骷髏之卵",
     "en_us": "Wither Skeleton Spawn Egg"
+  },
+  {
+    "old_key": "item.minecraft.zombie_villager_spawn_egg",
+    "old_value": "孳屍化鄉民之卵",
+    "new_key": "item.minecraft.zombie_villager_spawn_egg",
+    "new_value": "孳屍鄉民之卵",
+    "en_us": "Zombie Villager Spawn Egg"
   },
   {
     "old_key": "item.modifiers.mainhand",
@@ -6790,6 +6818,13 @@
     "en_us": "Drowned swims"
   },
   {
+    "old_key": "subtitles.entity.egg.throw",
+    "old_value": "擲卵",
+    "new_key": "subtitles.entity.egg.throw",
+    "new_value": "卵擲",
+    "en_us": "Egg flies"
+  },
+  {
     "old_key": "subtitles.entity.elder_guardian.ambient_land",
     "old_value": "古海衛撃翼",
     "new_key": "subtitles.entity.elder_guardian.ambient_land",
@@ -6879,6 +6914,13 @@
     "new_key": "subtitles.entity.guardian.ambient_land",
     "new_value": "海衛擺尾",
     "en_us": "Guardian flaps"
+  },
+  {
+    "old_key": "subtitles.entity.hoglin.step",
+    "old_value": "獷豕行",
+    "new_key": "subtitles.entity.hoglin.step",
+    "new_value": "獷豕步",
+    "en_us": "Hoglin steps"
   },
   {
     "old_key": "subtitles.entity.horse.ambient",
@@ -7161,6 +7203,13 @@
     "en_us": "Slime dies"
   },
   {
+    "old_key": "subtitles.entity.snowball.throw",
+    "old_value": "擲雪團",
+    "new_key": "subtitles.entity.snowball.throw",
+    "new_value": "雪團擲",
+    "en_us": "Snowball flies"
+  },
+  {
     "old_key": "subtitles.entity.stray.ambient",
     "old_value": "流髑之格格聲",
     "new_key": "subtitles.entity.stray.ambient",
@@ -7301,11 +7350,32 @@
     "en_us": "Wither Skeleton dies"
   },
   {
+    "old_key": "subtitles.entity.zombie_villager.ambient",
+    "old_value": "屍化鄉民呻鳴",
+    "new_key": "subtitles.entity.zombie_villager.ambient",
+    "new_value": "屍鄉民呻鳴",
+    "en_us": "Zombie Villager groans"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.converted",
+    "old_value": "屍化鄉民嚎",
+    "new_key": "subtitles.entity.zombie_villager.converted",
+    "new_value": "屍鄉民嚎",
+    "en_us": "Zombie Villager vociferates"
+  },
+  {
     "old_key": "subtitles.entity.zombie_villager.cure",
     "old_value": "屍化鄉民傷",
     "new_key": "subtitles.entity.zombie_villager.cure",
-    "new_value": "屍化鄉民顫",
+    "new_value": "屍鄉民顫",
     "en_us": "Zombie Villager snuffles"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.death",
+    "old_value": "屍化鄉民斃",
+    "new_key": "subtitles.entity.zombie_villager.death",
+    "new_value": "屍鄉民斃",
+    "en_us": "Zombie Villager dies"
   },
   {
     "old_key": "subtitles.entity.zombie.infect",

@@ -2688,6 +2688,27 @@
     "en_us": "Expired profile public key. Check that your system time is synchronized, and try restarting your game."
   },
   {
+    "old_key": "multiplayer.disconnect.flying",
+    "old_value": "此伺服器並沒有啟用飛行",
+    "new_key": "multiplayer.disconnect.flying",
+    "new_value": "這個伺服器並沒有啟用飛行",
+    "en_us": "Flying is not enabled on this server"
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.line1",
+    "old_value": "此伺服器要求使用其自訂的資源包。",
+    "new_key": "multiplayer.requiredTexturePrompt.line1",
+    "new_value": "這個伺服器要求使用其自訂的資源包。",
+    "en_us": "This server requires the use of a custom resource pack."
+  },
+  {
+    "old_key": "multiplayer.requiredTexturePrompt.line2",
+    "old_value": "拒絕此自訂資源包將使你和伺服器的連線中斷。",
+    "new_key": "multiplayer.requiredTexturePrompt.line2",
+    "new_value": "拒絕這個自訂資源包將使你與該伺服器中斷連線。",
+    "en_us": "Rejecting this custom resource pack will disconnect you from this server."
+  },
+  {
     "old_key": "multiplayer.status.cannot_connect",
     "old_value": "無法連接到伺服器",
     "new_key": "multiplayer.status.cannot_connect",
@@ -2700,6 +2721,27 @@
     "new_key": "multiplayer.status.request_handled",
     "new_value": "已處理傳送的狀態請求",
     "en_us": "Status request has been handled"
+  },
+  {
+    "old_key": "multiplayer.texturePrompt.line1",
+    "old_value": "此伺服器建議使用其自訂的資源包。",
+    "new_key": "multiplayer.texturePrompt.line1",
+    "new_value": "這個伺服器建議使用其自訂的資源包。",
+    "en_us": "This server recommends the use of a custom resource pack."
+  },
+  {
+    "old_key": "multiplayer.unsecureserver.toast",
+    "old_value": "此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息",
+    "new_key": "multiplayer.unsecureserver.toast",
+    "new_value": "這個伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息",
+    "en_us": "Messages sent on this server may be modified and might not reflect the original message"
+  },
+  {
+    "old_key": "multiplayerWarning.check",
+    "old_value": "不再顯示此畫面",
+    "new_key": "multiplayerWarning.check",
+    "new_value": "不再顯示這個畫面",
+    "en_us": "Do not show this screen again"
   },
   {
     "old_key": "narrator.button.difficulty_lock",
@@ -2854,6 +2896,13 @@
     "new_key": "stat.minecraft.interact_with_stonecutter",
     "new_value": "切石機使用次數",
     "en_us": "Interactions with Stonecutter"
+  },
+  {
+    "old_key": "stat.minecraft.sleep_in_bed",
+    "old_value": "睡覺次數",
+    "new_key": "stat.minecraft.sleep_in_bed",
+    "new_value": "在床上睡覺次數",
+    "en_us": "Times Slept in a Bed"
   },
   {
     "old_key": "stat.minecraft.sprint_one_cm",

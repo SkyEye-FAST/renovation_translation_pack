@@ -4539,21 +4539,21 @@
     "old_key": "gui.socialInteractions.empty_blocked",
     "old_value": "聊天頻道入面無任何被封鎖嘅玩家",
     "new_key": "gui.socialInteractions.empty_blocked",
-    "new_value": "聊天頻道中無任何被封鎖的玩家",
+    "new_value": "聊天欄中無任何被封鎖的玩家",
     "en_us": "No blocked players in chat"
   },
   {
     "old_key": "gui.socialInteractions.empty_hidden",
     "old_value": "聊天頻道中並無任何被隱藏嘅玩家",
     "new_key": "gui.socialInteractions.empty_hidden",
-    "new_value": "聊天頻道中無任何隱藏的玩家",
+    "new_value": "聊天欄中無任何隱藏的玩家",
     "en_us": "No players hidden in chat"
   },
   {
     "old_key": "gui.socialInteractions.hidden_in_chat",
     "old_value": "%s 發出嘅訊息將會被隱藏",
     "new_key": "gui.socialInteractions.hidden_in_chat",
-    "new_value": "%s 發出的訊息將會被隱藏",
+    "new_value": "%s 傳送的聊天訊息將會被隱藏",
     "en_us": "Chat messages from %s will be hidden"
   },
   {
@@ -4588,7 +4588,7 @@
     "old_key": "gui.socialInteractions.shown_in_chat",
     "old_value": "將會睇到由 %s 發出嘅訊息",
     "new_key": "gui.socialInteractions.shown_in_chat",
-    "new_value": "%s 發出的訊息將會顯示",
+    "new_value": "%s 傳送的聊天訊息將會顯示",
     "en_us": "Chat messages from %s will be shown"
   },
   {
@@ -4674,13 +4674,6 @@
     "new_key": "item.minecraft.cow_spawn_egg",
     "new_value": "牛生成蛋",
     "en_us": "Cow Spawn Egg"
-  },
-  {
-    "old_key": "item.minecraft.debug_stick.empty",
-    "old_value": "%s 並無屬性",
-    "new_key": "item.minecraft.debug_stick.empty",
-    "new_value": "%s 沒有屬性",
-    "en_us": "%s has no properties"
   },
   {
     "old_key": "item.minecraft.dolphin_spawn_egg",
@@ -6048,6 +6041,13 @@
     "en_us": "Items Dropped"
   },
   {
+    "old_key": "stat.minecraft.eat_cake_slice",
+    "old_value": "蛋糕片食用數量",
+    "new_key": "stat.minecraft.eat_cake_slice",
+    "new_value": "蛋糕片進食數量",
+    "en_us": "Cake Slices Eaten"
+  },
+  {
     "old_key": "stat.minecraft.horse_one_cm",
     "old_value": "騎馬移動距離",
     "new_key": "stat.minecraft.horse_one_cm",
@@ -6331,7 +6331,7 @@
     "old_key": "subtitles.entity.egg.throw",
     "old_value": "雞蛋被掟出",
     "new_key": "subtitles.entity.egg.throw",
-    "new_value": "雞蛋擲出",
+    "new_value": "雞蛋飛出",
     "en_us": "Egg flies"
   },
   {
@@ -6352,7 +6352,7 @@
     "old_key": "subtitles.entity.ender_pearl.throw",
     "old_value": "終界珍珠被掟出",
     "new_key": "subtitles.entity.ender_pearl.throw",
-    "new_value": "終界珍珠擲出",
+    "new_value": "終界珍珠飛出",
     "en_us": "Ender Pearl flies"
   },
   {
@@ -6912,7 +6912,7 @@
     "old_key": "subtitles.entity.snowball.throw",
     "old_value": "雪球被掟出",
     "new_key": "subtitles.entity.snowball.throw",
-    "new_value": "雪球被擲出",
+    "new_value": "雪球飛出",
     "en_us": "Snowball flies"
   },
   {

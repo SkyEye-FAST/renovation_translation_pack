@@ -672,6 +672,14 @@
     "new_en_us": "The server sent an invalid packet"
   },
   {
+    "old_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "old_value": "伺服器要求使用其自訂的資源包",
+    "old_en_us": "Server requires a custom resource pack",
+    "new_key": "multiplayer.requiredTexturePrompt.disconnect",
+    "new_value": "這個伺服器要求使用其自訂的資源包",
+    "new_en_us": "This server requires a custom resource pack"
+  },
+  {
     "old_key": "narration.component_list.usage",
     "old_value": "按 Tab 移動到下個元素",
     "old_en_us": "Press Tab to navigate to next element",
@@ -806,14 +814,6 @@
     "new_key": "resourcePack.vanilla.description",
     "new_value": "Minecraft 預設的視覺與環境效果",
     "new_en_us": "The default look and feel of Minecraft"
-  },
-  {
-    "old_key": "selectWorld.backupQuestion.experimental",
-    "old_value": "使用實驗性設定的世界不受支援",
-    "old_en_us": "Worlds using Experimental Settings are not supported",
-    "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "不支援使用實驗性設定的世界",
-    "new_en_us": "Worlds using experimental settings are not supported"
   },
   {
     "old_key": "selectWorld.backupWarning.downgrade",

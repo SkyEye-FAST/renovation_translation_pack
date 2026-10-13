@@ -3500,13 +3500,6 @@
     "en_us": "Cow Spawn Egg"
   },
   {
-    "old_key": "item.minecraft.debug_stick.empty",
-    "old_value": "%s 並無屬性",
-    "new_key": "item.minecraft.debug_stick.empty",
-    "new_value": "%s 沒有屬性",
-    "en_us": "%s has no properties"
-  },
-  {
     "old_key": "item.minecraft.debug_stick.select",
     "old_value": "已選擇 \"%s\"（%s）",
     "new_key": "item.minecraft.debug_stick.select",
@@ -4501,6 +4494,13 @@
     "en_us": "Items Dropped"
   },
   {
+    "old_key": "stat.minecraft.eat_cake_slice",
+    "old_value": "蛋糕片食用數量",
+    "new_key": "stat.minecraft.eat_cake_slice",
+    "new_value": "蛋糕片進食數量",
+    "en_us": "Cake Slices Eaten"
+  },
+  {
     "old_key": "stat.minecraft.horse_one_cm",
     "old_value": "騎馬移動距離",
     "new_key": "stat.minecraft.horse_one_cm",
@@ -4749,7 +4749,7 @@
     "old_key": "subtitles.entity.egg.throw",
     "old_value": "雞蛋被掟出",
     "new_key": "subtitles.entity.egg.throw",
-    "new_value": "雞蛋擲出",
+    "new_value": "雞蛋飛出",
     "en_us": "Egg flies"
   },
   {
@@ -4770,7 +4770,7 @@
     "old_key": "subtitles.entity.ender_pearl.throw",
     "old_value": "終界珍珠被掟出",
     "new_key": "subtitles.entity.ender_pearl.throw",
-    "new_value": "終界珍珠擲出",
+    "new_value": "終界珍珠飛出",
     "en_us": "Ender Pearl flies"
   },
   {
@@ -5183,7 +5183,7 @@
     "old_key": "subtitles.entity.snowball.throw",
     "old_value": "雪球被掟出",
     "new_key": "subtitles.entity.snowball.throw",
-    "new_value": "雪球被擲出",
+    "new_value": "雪球飛出",
     "en_us": "Snowball flies"
   },
   {

@@ -2103,7 +2103,7 @@
     "old_key": "multiplayer.texturePrompt.line1",
     "old_value": "此伺服器建議使用該伺服器所提供的資源包。",
     "new_key": "multiplayer.texturePrompt.line1",
-    "new_value": "此伺服器建議使用其自訂的資源包。",
+    "new_value": "這個伺服器建議使用其自訂的資源包。",
     "en_us": "This server recommends the use of a custom resource pack."
   },
   {

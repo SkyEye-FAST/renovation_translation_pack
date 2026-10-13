@@ -430,7 +430,7 @@
     "old_key": "advancements.story.cure_zombie_villager.description",
     "old_value": "虚化而治一殭屍鄉民屍化",
     "new_key": "advancements.story.cure_zombie_villager.description",
-    "new_value": "虛而療一屍化鄉民",
+    "new_value": "虛而療一屍鄉民",
     "en_us": "Weaken and then cure a Zombie Villager"
   },
   {
@@ -6657,6 +6657,13 @@
     "en_us": "Wither Skeleton"
   },
   {
+    "old_key": "entity.minecraft.zombie_villager",
+    "old_value": "屍化鄉民",
+    "new_key": "entity.minecraft.zombie_villager",
+    "new_value": "屍鄉民",
+    "en_us": "Zombie Villager"
+  },
+  {
     "old_key": "event.minecraft.raid.victory",
     "old_value": "勝",
     "new_key": "event.minecraft.raid.victory",
@@ -7938,6 +7945,13 @@
     "en_us": "Written Book"
   },
   {
+    "old_key": "item.minecraft.zombie_villager_spawn_egg",
+    "old_value": "孳屍化鄉民之卵",
+    "new_key": "item.minecraft.zombie_villager_spawn_egg",
+    "new_value": "孳屍鄉民之卵",
+    "en_us": "Zombie Villager Spawn Egg"
+  },
+  {
     "old_key": "item.nbt_tags",
     "old_value": "NBT %s簽",
     "new_key": "item.nbt_tags",
@@ -8839,13 +8853,6 @@
     "new_key": "options.fov.min",
     "new_value": "凡",
     "en_us": "Normal"
-  },
-  {
-    "old_key": "options.framerate",
-    "old_value": "%s幀",
-    "new_key": "options.framerate",
-    "new_value": "幀%s",
-    "en_us": "%s fps"
   },
   {
     "old_key": "options.fullscreen.current",
@@ -10283,6 +10290,13 @@
     "en_us": "Drowned swims"
   },
   {
+    "old_key": "subtitles.entity.egg.throw",
+    "old_value": "擲卵",
+    "new_key": "subtitles.entity.egg.throw",
+    "new_value": "卵擲",
+    "en_us": "Egg flies"
+  },
+  {
     "old_key": "subtitles.entity.elder_guardian.ambient_land",
     "old_value": "古海衛撃翼",
     "new_key": "subtitles.entity.elder_guardian.ambient_land",
@@ -10857,6 +10871,13 @@
     "en_us": "Snow Golem dies"
   },
   {
+    "old_key": "subtitles.entity.snowball.throw",
+    "old_value": "擲雪團",
+    "new_key": "subtitles.entity.snowball.throw",
+    "new_value": "雪團擲",
+    "en_us": "Snowball flies"
+  },
+  {
     "old_key": "subtitles.entity.stray.ambient",
     "old_value": "流髑之格格聲",
     "new_key": "subtitles.entity.stray.ambient",
@@ -10951,8 +10972,15 @@
     "old_key": "subtitles.entity.zombie_villager.ambient",
     "old_value": "屍豚者：呻鳴",
     "new_key": "subtitles.entity.zombie_villager.ambient",
-    "new_value": "屍化鄉民呻鳴",
+    "new_value": "屍鄉民呻鳴",
     "en_us": "Zombie Villager groans"
+  },
+  {
+    "old_key": "subtitles.entity.zombie_villager.death",
+    "old_value": "屍化鄉民斃",
+    "new_key": "subtitles.entity.zombie_villager.death",
+    "new_value": "屍鄉民斃",
+    "en_us": "Zombie Villager dies"
   },
   {
     "old_key": "subtitles.entity.zombie.infect",
