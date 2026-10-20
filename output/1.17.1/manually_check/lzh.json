@@ -72,6 +72,22 @@
     "new_en_us": "Find Elytra"
   },
   {
+    "old_key": "advancements.husbandry.axolotl_in_a_bucket.description",
+    "old_value": "獲螈於桶",
+    "old_en_us": "Catch an axolotl in a bucket",
+    "new_key": "advancements.husbandry.axolotl_in_a_bucket.description",
+    "new_value": "獲蠑螈於桶",
+    "new_en_us": "Catch an Axolotl in a Bucket"
+  },
+  {
+    "old_key": "advancements.husbandry.kill_axolotl_target.description",
+    "old_value": "與螈同行而共殺一敵",
+    "old_en_us": "Team up with an axolotl and win a fight",
+    "new_key": "advancements.husbandry.kill_axolotl_target.description",
+    "new_value": "與蠑螈同行而共殺一敵",
+    "new_en_us": "Team up with an Axolotl and win a fight"
+  },
+  {
     "old_key": "advancements.husbandry.make_a_sign_glow.description",
     "old_value": "爍牌文",
     "old_en_us": "Make the text of a sign glow",
@@ -1432,6 +1448,14 @@
     "new_en_us": "Shulker box opens"
   },
   {
+    "old_key": "subtitles.entity.axolotl.hurt",
+    "old_value": "螈傷",
+    "old_en_us": "Axolotl hurts",
+    "new_key": "subtitles.entity.axolotl.hurt",
+    "new_value": "蠑螈傷",
+    "new_en_us": "Axolotl is hurt"
+  },
+  {
     "old_key": "subtitles.entity.donkey.chest",
     "old_value": "驢獲箱",
     "old_en_us": "Donkey Chest equips",
@@ -1542,6 +1566,14 @@
     "new_key": "subtitles.entity.painting.place",
     "new_value": "畫置",
     "new_en_us": "Painting is placed"
+  },
+  {
+    "old_key": "subtitles.entity.panda.hurt",
+    "old_value": "貓熊傷",
+    "old_en_us": "Panda hurts",
+    "new_key": "subtitles.entity.panda.hurt",
+    "new_value": "㹮傷",
+    "new_en_us": "Panda is hurt"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
@@ -1662,6 +1694,14 @@
     "new_key": "subtitles.entity.zombie_villager.hurt",
     "new_value": "屍鄉民傷",
     "new_en_us": "Zombie Villager is hurt"
+  },
+  {
+    "old_key": "subtitles.item.bucket.fill_axolotl",
+    "old_value": "螈儲",
+    "old_en_us": "Axolotl scooped",
+    "new_key": "subtitles.item.bucket.fill_axolotl",
+    "new_value": "蠑螈儲",
+    "new_en_us": "Axolotl is scooped"
   },
   {
     "old_key": "title.multiplayer.other",

@@ -708,7 +708,7 @@
     "old_value": "%s 幀率",
     "old_en_us": "%s fps",
     "new_key": "options.framerate",
-    "new_value": "%s fps",
+    "new_value": "%s FPS",
     "new_en_us": "%s FPS"
   },
   {

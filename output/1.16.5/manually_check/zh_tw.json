@@ -688,6 +688,14 @@
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
   },
   {
+    "old_key": "options.framerate",
+    "old_value": "%s fps",
+    "old_en_us": "%s fps",
+    "new_key": "options.framerate",
+    "new_value": "%s FPS",
+    "new_en_us": "%s FPS"
+  },
+  {
     "old_key": "options.languageWarning",
     "old_value": "語言翻譯並不一定是100%%精確",
     "old_en_us": "Language translations may not be 100%% accurate",

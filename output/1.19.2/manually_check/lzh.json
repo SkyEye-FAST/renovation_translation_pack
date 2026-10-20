@@ -1448,6 +1448,14 @@
     "new_en_us": "Respawn Anchor whooshes"
   },
   {
+    "old_key": "subtitles.entity.axolotl.hurt",
+    "old_value": "螈傷",
+    "old_en_us": "Axolotl hurts",
+    "new_key": "subtitles.entity.axolotl.hurt",
+    "new_value": "蠑螈傷",
+    "new_en_us": "Axolotl is hurt"
+  },
+  {
     "old_key": "subtitles.entity.donkey.chest",
     "old_value": "驢獲箱",
     "old_en_us": "Donkey Chest equips",
@@ -1560,6 +1568,14 @@
     "new_en_us": "Painting is placed"
   },
   {
+    "old_key": "subtitles.entity.panda.hurt",
+    "old_value": "貓熊傷",
+    "old_en_us": "Panda hurts",
+    "new_key": "subtitles.entity.panda.hurt",
+    "new_value": "㹮傷",
+    "new_en_us": "Panda is hurt"
+  },
+  {
     "old_key": "subtitles.entity.player.burp",
     "old_value": "嗝",
     "old_en_us": "Burp",
@@ -1662,6 +1678,14 @@
     "new_key": "subtitles.entity.zombie_villager.hurt",
     "new_value": "屍鄉民傷",
     "new_en_us": "Zombie Villager is hurt"
+  },
+  {
+    "old_key": "subtitles.item.bucket.fill_axolotl",
+    "old_value": "螈儲",
+    "old_en_us": "Axolotl scooped",
+    "new_key": "subtitles.item.bucket.fill_axolotl",
+    "new_value": "蠑螈儲",
+    "new_en_us": "Axolotl is scooped"
   },
   {
     "old_key": "subtitles.item.bundle.insert",

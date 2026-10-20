@@ -2856,6 +2856,13 @@
     "en_us": "Guardian moans"
   },
   {
+    "old_key": "subtitles.entity.husk.converted_to_zombie",
+    "old_value": "屍殼轉變為殭屍",
+    "new_key": "subtitles.entity.husk.converted_to_zombie",
+    "new_value": "屍殼轉化為殭屍",
+    "en_us": "Husk converts to Zombie"
+  },
+  {
     "old_key": "subtitles.entity.llama.spit",
     "old_value": "駱馬呸",
     "new_key": "subtitles.entity.llama.spit",
@@ -2882,6 +2889,13 @@
     "new_key": "subtitles.entity.sheep.ambient",
     "new_value": "綿羊咩咩叫",
     "en_us": "Sheep baahs"
+  },
+  {
+    "old_key": "subtitles.entity.zombie.converted_to_drowned",
+    "old_value": "殭屍轉變為沉屍",
+    "new_key": "subtitles.entity.zombie.converted_to_drowned",
+    "new_value": "殭屍轉化為沉屍",
+    "en_us": "Zombie converts to Drowned"
   },
   {
     "old_key": "subtitles.item.armor.equip_chain",

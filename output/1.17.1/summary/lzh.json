@@ -2450,6 +2450,13 @@
     "en_us": "Cake with Orange Candle"
   },
   {
+    "old_key": "block.minecraft.packed_ice",
+    "old_value": "夯冰",
+    "new_key": "block.minecraft.packed_ice",
+    "new_value": "積冰",
+    "en_us": "Packed Ice"
+  },
+  {
     "old_key": "block.minecraft.petrified_oak_slab",
     "old_value": "巖化柞版",
     "new_key": "block.minecraft.petrified_oak_slab",
@@ -4263,6 +4270,13 @@
     "en_us": "Area Effect Cloud"
   },
   {
+    "old_key": "entity.minecraft.axolotl",
+    "old_value": "螈",
+    "new_key": "entity.minecraft.axolotl",
+    "new_value": "蠑螈",
+    "en_us": "Axolotl"
+  },
+  {
     "old_key": "entity.minecraft.dragon_fireball",
     "old_value": "龍炎彈",
     "new_key": "entity.minecraft.dragon_fireball",
@@ -4324,6 +4338,13 @@
     "new_key": "entity.minecraft.mooshroom",
     "new_value": "牟蕈",
     "en_us": "Mooshroom"
+  },
+  {
+    "old_key": "entity.minecraft.panda",
+    "old_value": "貓熊",
+    "new_key": "entity.minecraft.panda",
+    "new_value": "㹮",
+    "en_us": "Panda"
   },
   {
     "old_key": "entity.minecraft.pufferfish",
@@ -4739,6 +4760,20 @@
     "en_us": "Color: %s"
   },
   {
+    "old_key": "item.minecraft.axolotl_bucket",
+    "old_value": "螈桶",
+    "new_key": "item.minecraft.axolotl_bucket",
+    "new_value": "蠑螈桶",
+    "en_us": "Bucket of Axolotl"
+  },
+  {
+    "old_key": "item.minecraft.axolotl_spawn_egg",
+    "old_value": "孳螈之卵",
+    "new_key": "item.minecraft.axolotl_spawn_egg",
+    "new_value": "孳蠑螈之卵",
+    "en_us": "Axolotl Spawn Egg"
+  },
+  {
     "old_key": "item.minecraft.baked_potato",
     "old_value": "烤洋芋",
     "new_key": "item.minecraft.baked_potato",
@@ -4900,6 +4935,13 @@
     "en_us": "Globe"
   },
   {
+    "old_key": "item.minecraft.glow_ink_sac",
+    "old_value": "爍墨",
+    "new_key": "item.minecraft.glow_ink_sac",
+    "new_value": "爍墨膽",
+    "en_us": "Glow Ink Sac"
+  },
+  {
     "old_key": "item.minecraft.golden_boots",
     "old_value": "金靴",
     "new_key": "item.minecraft.golden_boots",
@@ -4919,6 +4961,13 @@
     "new_key": "item.minecraft.honey_bottle",
     "new_value": "蜜甁",
     "en_us": "Honey Bottle"
+  },
+  {
+    "old_key": "item.minecraft.ink_sac",
+    "old_value": "墨",
+    "new_key": "item.minecraft.ink_sac",
+    "new_value": "墨膽",
+    "en_us": "Ink Sac"
   },
   {
     "old_key": "item.minecraft.iron_boots",
@@ -4996,6 +5045,13 @@
     "new_key": "item.minecraft.netherite_boots",
     "new_value": "玄鈺鞾",
     "en_us": "Netherite Boots"
+  },
+  {
+    "old_key": "item.minecraft.panda_spawn_egg",
+    "old_value": "孳貓熊之卵",
+    "new_key": "item.minecraft.panda_spawn_egg",
+    "new_value": "孳㹮之卵",
+    "en_us": "Panda Spawn Egg"
   },
   {
     "old_key": "item.minecraft.piglin_banner_pattern.desc",
@@ -6384,17 +6440,45 @@
     "en_us": "Thorns prick"
   },
   {
+    "old_key": "subtitles.entity.axolotl.attack",
+    "old_value": "螈攻",
+    "new_key": "subtitles.entity.axolotl.attack",
+    "new_value": "蠑螈攻",
+    "en_us": "Axolotl attacks"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.death",
+    "old_value": "螈斃",
+    "new_key": "subtitles.entity.axolotl.death",
+    "new_value": "蠑螈斃",
+    "en_us": "Axolotl dies"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.idle_air",
+    "old_value": "螈鳴",
+    "new_key": "subtitles.entity.axolotl.idle_air",
+    "new_value": "蠑螈鳴",
+    "en_us": "Axolotl chirps"
+  },
+  {
+    "old_key": "subtitles.entity.axolotl.idle_water",
+    "old_value": "螈鳴",
+    "new_key": "subtitles.entity.axolotl.idle_water",
+    "new_value": "蠑螈鳴",
+    "en_us": "Axolotl chirps"
+  },
+  {
     "old_key": "subtitles.entity.axolotl.splash",
     "old_value": "螈濺",
     "new_key": "subtitles.entity.axolotl.splash",
-    "new_value": "螈擊水",
+    "new_value": "蠑螈擊水",
     "en_us": "Axolotl splashes"
   },
   {
     "old_key": "subtitles.entity.axolotl.swim",
     "old_value": "螈泳",
     "new_key": "subtitles.entity.axolotl.swim",
-    "new_value": "螈游",
+    "new_value": "蠑螈游",
     "en_us": "Axolotl swims"
   },
   {
@@ -6704,6 +6788,76 @@
     "new_key": "subtitles.entity.painting.break",
     "new_value": "畫壞",
     "en_us": "Painting breaks"
+  },
+  {
+    "old_key": "subtitles.entity.panda.aggressive_ambient",
+    "old_value": "貓熊慍",
+    "new_key": "subtitles.entity.panda.aggressive_ambient",
+    "new_value": "㹮慍",
+    "en_us": "Panda huffs"
+  },
+  {
+    "old_key": "subtitles.entity.panda.ambient",
+    "old_value": "貓熊鼻息",
+    "new_key": "subtitles.entity.panda.ambient",
+    "new_value": "㹮鼻息",
+    "en_us": "Panda pants"
+  },
+  {
+    "old_key": "subtitles.entity.panda.bite",
+    "old_value": "貓熊嚙",
+    "new_key": "subtitles.entity.panda.bite",
+    "new_value": "㹮嚙",
+    "en_us": "Panda bites"
+  },
+  {
+    "old_key": "subtitles.entity.panda.cant_breed",
+    "old_value": "貓熊嘯",
+    "new_key": "subtitles.entity.panda.cant_breed",
+    "new_value": "㹮嘯",
+    "en_us": "Panda bleats"
+  },
+  {
+    "old_key": "subtitles.entity.panda.death",
+    "old_value": "貓熊斃",
+    "new_key": "subtitles.entity.panda.death",
+    "new_value": "㹮斃",
+    "en_us": "Panda dies"
+  },
+  {
+    "old_key": "subtitles.entity.panda.eat",
+    "old_value": "貓熊食",
+    "new_key": "subtitles.entity.panda.eat",
+    "new_value": "㹮食",
+    "en_us": "Panda eats"
+  },
+  {
+    "old_key": "subtitles.entity.panda.pre_sneeze",
+    "old_value": "貓熊齉",
+    "new_key": "subtitles.entity.panda.pre_sneeze",
+    "new_value": "㹮齉",
+    "en_us": "Panda's nose tickles"
+  },
+  {
+    "old_key": "subtitles.entity.panda.sneeze",
+    "old_value": "貓熊嚏",
+    "new_key": "subtitles.entity.panda.sneeze",
+    "new_value": "㹮嚏",
+    "en_us": "Panda sneezes"
+  },
+  {
+    "old_key": "subtitles.entity.panda.step",
+    "old_value": "貓熊步",
+    "new_key": "subtitles.entity.panda.step",
+    "new_value": "㹮步",
+    "en_us": "Panda steps"
+  },
+  {
+    "old_key": "subtitles.entity.panda.worried_ambient",
+    "old_value": "貓熊嗚",
+    "new_key": "subtitles.entity.panda.worried_ambient",
+    "new_value": "㹮嗚",
+    "en_us": "Panda whimpers"
   },
   {
     "old_key": "subtitles.entity.parrot.imitate.drowned",
@@ -7103,6 +7257,20 @@
     "new_key": "subtitles.item.firecharge.use",
     "new_value": "火丸簌然",
     "en_us": "Fireball whooshes"
+  },
+  {
+    "old_key": "subtitles.item.glow_ink_sac.use",
+    "old_value": "塗爍墨",
+    "new_key": "subtitles.item.glow_ink_sac.use",
+    "new_value": "塗爍墨膽",
+    "en_us": "Glow Ink Sac splotches"
+  },
+  {
+    "old_key": "subtitles.item.ink_sac.use",
+    "old_value": "塗墨",
+    "new_key": "subtitles.item.ink_sac.use",
+    "new_value": "塗墨膽",
+    "en_us": "Ink Sac splotches"
   },
   {
     "old_key": "subtitles.item.lodestone_compass.lock",

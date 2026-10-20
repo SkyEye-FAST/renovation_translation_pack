@@ -817,6 +817,7 @@
   "options.chat.visibility.system": "僅顯示命令",
   "options.difficulty": "難度",
   "options.fovEffectScale.tooltip": "控制視角廣度隨遊戲機制效果變更程度。",
+  "options.framerate": "%s FPS",
   "options.generic_value": "%s：%s",
   "options.graphics.fabulous": "極佳！",
   "options.graphics.fabulous.tooltip": "%s 畫質用影像着色器在不透明方塊與水後方繪製天氣、雲層及粒子。\n此選項或會嚴重影響流動及 4K 裝置的效能。",

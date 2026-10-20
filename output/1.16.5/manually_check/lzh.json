@@ -1376,6 +1376,14 @@
     "new_en_us": "Painting is placed"
   },
   {
+    "old_key": "subtitles.entity.panda.hurt",
+    "old_value": "貓熊傷",
+    "old_en_us": "Panda hurts",
+    "new_key": "subtitles.entity.panda.hurt",
+    "new_value": "㹮傷",
+    "new_en_us": "Panda is hurt"
+  },
+  {
     "old_key": "subtitles.entity.parrot.imitate.elder_guardian",
     "old_value": "鸚鵡撃翼",
     "old_en_us": "Parrot flaps",
