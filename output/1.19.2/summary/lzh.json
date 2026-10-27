@@ -203,6 +203,13 @@
     "en_us": "Breed two animals together"
   },
   {
+    "old_key": "advancements.husbandry.froglights.description",
+    "old_value": "集各鼃光於行囊",
+    "new_key": "advancements.husbandry.froglights.description",
+    "new_value": "咸集鼃光於行囊",
+    "en_us": "Have all Froglights in your inventory"
+  },
+  {
     "old_key": "advancements.husbandry.kill_axolotl_target.description",
     "old_value": "與螈同行而共殺一敵",
     "new_key": "advancements.husbandry.kill_axolotl_target.description",
@@ -518,13 +525,6 @@
     "en_us": "Invalid name or UUID"
   },
   {
-    "old_key": "argument.entity.options.distance.negative",
-    "old_value": "距不得負",
-    "new_key": "argument.entity.options.distance.negative",
-    "new_value": "距不得赤",
-    "en_us": "Distance cannot be negative"
-  },
-  {
     "old_key": "argument.entity.options.level.description",
     "old_value": "經驗之層",
     "new_key": "argument.entity.options.level.description",
@@ -535,7 +535,7 @@
     "old_key": "argument.entity.options.level.negative",
     "old_value": "級不應負",
     "new_key": "argument.entity.options.level.negative",
-    "new_value": "階不當赤",
+    "new_value": "階不當負",
     "en_us": "Level shouldn't be negative"
   },
   {
@@ -2247,6 +2247,13 @@
     "en_us": "Cocoa"
   },
   {
+    "old_key": "block.minecraft.comparator",
+    "old_value": "較赭儀",
+    "new_key": "block.minecraft.comparator",
+    "new_value": "較赫儀",
+    "en_us": "Redstone Comparator"
+  },
+  {
     "old_key": "block.minecraft.cracked_deepslate_bricks",
     "old_value": "裂板巖磚",
     "new_key": "block.minecraft.cracked_deepslate_bricks",
@@ -2677,7 +2684,7 @@
     "old_key": "block.minecraft.packed_mud",
     "old_value": "夯泥",
     "new_key": "block.minecraft.packed_mud",
-    "new_value": "積泥",
+    "new_value": "泥墼",
     "en_us": "Packed Mud"
   },
   {
@@ -3192,6 +3199,13 @@
     "en_us": "Reinforced Deepslate"
   },
   {
+    "old_key": "block.minecraft.repeater",
+    "old_value": "續赭儀",
+    "new_key": "block.minecraft.repeater",
+    "new_value": "續赫儀",
+    "en_us": "Redstone Repeater"
+  },
+  {
     "old_key": "block.minecraft.rose_bush",
     "old_value": "玫瑰簇",
     "new_key": "block.minecraft.rose_bush",
@@ -3680,6 +3694,13 @@
     "new_key": "commands.bossbar.unknown",
     "new_value": "無帥條之ID爲「%s」",
     "en_us": "No bossbar exists with the ID '%s'"
+  },
+  {
+    "old_key": "commands.data.entity.invalid",
+    "old_value": "不可更戲者錄",
+    "new_key": "commands.data.entity.invalid",
+    "new_value": "不可更戲者之錄",
+    "en_us": "Unable to modify player data"
   },
   {
     "old_key": "commands.data.get.invalid",
@@ -5922,11 +5943,25 @@
     "en_us": "Disconnected"
   },
   {
+    "old_key": "multiplayer.disconnect.invalid_player_data",
+    "old_value": "戲者檔案有舛。",
+    "new_key": "multiplayer.disconnect.invalid_player_data",
+    "new_value": "無效戲者之錄",
+    "en_us": "Invalid player data"
+  },
+  {
     "old_key": "multiplayer.disconnect.invalid_player_movement",
     "old_value": "承無效戲者移動之封包",
     "new_key": "multiplayer.disconnect.invalid_player_movement",
     "new_value": "承無效行人之囊",
     "en_us": "Invalid move player packet received"
+  },
+  {
+    "old_key": "multiplayer.disconnect.invalid_public_key_signature",
+    "old_value": "狀公鑰署名有舛。\n試重啟戲。",
+    "new_key": "multiplayer.disconnect.invalid_public_key_signature",
+    "new_value": "公鑰署名無效。\n試復啟其戲。",
+    "en_us": "Invalid signature for profile public key.\nTry restarting your game."
   },
   {
     "old_key": "multiplayer.disconnect.invalid_vehicle_movement",
@@ -6704,6 +6739,13 @@
     "new_key": "subtitles.block.cake.add_candle",
     "new_value": "軋洋糕",
     "en_us": "Cake squishes"
+  },
+  {
+    "old_key": "subtitles.block.comparator.click",
+    "old_value": "撃較赭儀",
+    "new_key": "subtitles.block.comparator.click",
+    "new_value": "撃較赫儀",
+    "en_us": "Comparator clicks"
   },
   {
     "old_key": "subtitles.block.conduit.deactivate",

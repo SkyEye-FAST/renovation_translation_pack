@@ -196,6 +196,20 @@
     "en_us": "%1$s was struck by lightning"
   },
   {
+    "old_key": "death.attack.thrown",
+    "old_value": "%1$s 被 %2$s 活生生揍死了",
+    "new_key": "death.attack.thrown",
+    "new_value": "%1$s 被 %2$s 活生生砸死了",
+    "en_us": "%1$s was pummeled by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 揍死",
+    "new_key": "death.attack.thrown.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 砸死",
+    "en_us": "%1$s was pummeled by %2$s using %3$s"
+  },
+  {
     "old_key": "death.fell.accident.ladder",
     "old_value": "%1$s 從梯子上摔了下來",
     "new_key": "death.fell.accident.ladder",
@@ -2994,6 +3008,13 @@
     "new_key": "block.minecraft.orange_tulip",
     "new_value": "橙色鬱金香",
     "en_us": "Orange Tulip"
+  },
+  {
+    "old_key": "tile.icePacked.name",
+    "old_value": "冰磚",
+    "new_key": "block.minecraft.packed_ice",
+    "new_value": "積冰",
+    "en_us": "Packed Ice"
   },
   {
     "old_key": "tile.ironTrapdoor.name",

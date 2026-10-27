@@ -224,6 +224,7 @@
   "block.minecraft.banner.stripe_right.yellow": "右方黃色縱帶",
   "block.minecraft.dragon_wall_head": "牆上的龍首",
   "block.minecraft.iron_trapdoor": "鐵地板門",
+  "block.minecraft.packed_ice": "積冰",
   "block.minecraft.poppy": "罌粟花",
   "block.minecraft.potted_poppy": "罌粟花盆栽",
   "block.minecraft.wheat": "小麥植株",
@@ -300,6 +301,8 @@
   "death.attack.inFire.player": "%1$s 在與 %2$s 戰鬥時踏入了火中",
   "death.attack.message_too_long": "死亡訊息過長而無法完整送出。非常抱歉！以下為截短後的版本：%s",
   "death.attack.onFire.player": "%1$s 在與 %2$s 戰鬥時被火焰燒成灰燼",
+  "death.attack.thrown": "%1$s 被 %2$s 活生生砸死了",
+  "death.attack.thrown.item": "%1$s 被 %2$s 用 %3$s 砸死",
   "death.fell.finish.item": "%1$s 摔傷後被 %2$s 以 %3$s 擊殺",
   "deathScreen.quit.confirm": "您確定要離開了嗎？",
   "debug.advanced_tooltips.off": "進階提示：隱藏",
@@ -553,6 +556,7 @@
   "subtitles.item.armor.equip_iron": "鐵製盔甲鏗噹聲",
   "subtitles.item.armor.equip_leather": "皮革盔甲沙沙聲",
   "subtitles.item.armor.equip_netherite": "獄髓盔甲鏗噹聲",
-  "subtitles.item.bucket.fill_axolotl": "鈍口螈被撈起",
-  "subtitles.item.bucket.fill_fish": "捕獲魚"
+  "subtitles.item.bucket.fill_axolotl": "撈起六角恐龍",
+  "subtitles.item.bucket.fill_fish": "捕獲魚",
+  "tutorial.bundleInsert.description": "按下右鍵以放入物品"
 }

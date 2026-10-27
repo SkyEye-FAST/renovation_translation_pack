@@ -609,13 +609,6 @@
     "en_us": "Players with advancements"
   },
   {
-    "old_key": "argument.entity.options.distance.negative",
-    "old_value": "距不得負",
-    "new_key": "argument.entity.options.distance.negative",
-    "new_value": "距不得赤",
-    "en_us": "Distance cannot be negative"
-  },
-  {
     "old_key": "argument.entity.options.dx.description",
     "old_value": "實體之 x 、 x 并 dx 間者",
     "new_key": "argument.entity.options.dx.description",
@@ -654,7 +647,7 @@
     "old_key": "argument.entity.options.level.negative",
     "old_value": "級不應負",
     "new_key": "argument.entity.options.level.negative",
-    "new_value": "階不當赤",
+    "new_value": "階不當負",
     "en_us": "Level shouldn't be negative"
   },
   {
@@ -2614,7 +2607,7 @@
     "old_key": "block.minecraft.comparator",
     "old_value": "赭電較",
     "new_key": "block.minecraft.comparator",
-    "new_value": "較赭儀",
+    "new_value": "較赫儀",
     "en_us": "Redstone Comparator"
   },
   {
@@ -3650,7 +3643,7 @@
     "old_key": "block.minecraft.repeater",
     "old_value": "赭電延",
     "new_key": "block.minecraft.repeater",
-    "new_value": "續赭儀",
+    "new_value": "續赫儀",
     "en_us": "Redstone Repeater"
   },
   {
@@ -4385,7 +4378,7 @@
     "old_key": "commands.data.entity.invalid",
     "old_value": "不可更戯者資",
     "new_key": "commands.data.entity.invalid",
-    "new_value": "不可更戲者錄",
+    "new_value": "不可更戲者之錄",
     "en_us": "Unable to modify player data"
   },
   {
@@ -10090,7 +10083,7 @@
     "old_key": "subtitles.block.comparator.click",
     "old_value": "撃赭電較",
     "new_key": "subtitles.block.comparator.click",
-    "new_value": "撃較赭儀",
+    "new_value": "撃較赫儀",
     "en_us": "Comparator clicks"
   },
   {

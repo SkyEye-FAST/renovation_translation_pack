@@ -1407,6 +1407,13 @@
     "en_us": "Iron Trapdoor"
   },
   {
+    "old_key": "block.minecraft.packed_ice",
+    "old_value": "冰磚",
+    "new_key": "block.minecraft.packed_ice",
+    "new_value": "積冰",
+    "en_us": "Packed Ice"
+  },
+  {
     "old_key": "block.minecraft.poppy",
     "old_value": "罌粟",
     "new_key": "block.minecraft.poppy",
@@ -1748,6 +1755,20 @@
     "new_key": "createWorld.preparing",
     "new_value": "正在準備建立世界...",
     "en_us": "Preparing for world creation..."
+  },
+  {
+    "old_key": "death.attack.thrown",
+    "old_value": "%1$s 被 %2$s 活生生揍死了",
+    "new_key": "death.attack.thrown",
+    "new_value": "%1$s 被 %2$s 活生生砸死了",
+    "en_us": "%1$s was pummeled by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 揍死",
+    "new_key": "death.attack.thrown.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 砸死",
+    "en_us": "%1$s was pummeled by %2$s using %3$s"
   },
   {
     "old_key": "death.fell.finish.item",

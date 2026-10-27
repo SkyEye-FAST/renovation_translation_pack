@@ -1512,6 +1512,13 @@
     "en_us": "Oak Planks"
   },
   {
+    "old_key": "block.minecraft.packed_ice",
+    "old_value": "冰磚",
+    "new_key": "block.minecraft.packed_ice",
+    "new_value": "積冰",
+    "en_us": "Packed Ice"
+  },
+  {
     "old_key": "block.minecraft.poppy",
     "old_value": "罌粟",
     "new_key": "block.minecraft.poppy",
@@ -2056,6 +2063,20 @@
     "new_key": "death.attack.cramming.player",
     "new_value": "%1$s 遭到 %2$s 擠壓致死",
     "en_us": "%1$s was squashed by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown",
+    "old_value": "%1$s 被 %2$s 活生生揍死了",
+    "new_key": "death.attack.thrown",
+    "new_value": "%1$s 被 %2$s 活生生砸死了",
+    "en_us": "%1$s was pummeled by %2$s"
+  },
+  {
+    "old_key": "death.attack.thrown.item",
+    "old_value": "%1$s 被 %2$s 用 %3$s 揍死",
+    "new_key": "death.attack.thrown.item",
+    "new_value": "%1$s 被 %2$s 用 %3$s 砸死",
+    "en_us": "%1$s was pummeled by %2$s using %3$s"
   },
   {
     "old_key": "death.fell.accident.ladder",

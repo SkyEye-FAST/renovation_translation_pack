@@ -1164,7 +1164,7 @@
     "old_value": "伺服器傳送咗一個無效封包",
     "old_en_us": "Server sent an invalid packet",
     "new_key": "multiplayer.disconnect.invalid_packet",
-    "new_value": "伺服器傳送了一個無效封包",
+    "new_value": "伺服器已傳送一個無效封包",
     "new_en_us": "The server sent an invalid packet"
   },
   {
@@ -1357,7 +1357,7 @@
     "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
     "new_key": "options.hideMatchedNames.tooltip",
     "new_value": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，隱藏玩家將根據發言者的名稱比對。",
-    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
+    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, muted players will be matched based on chat sender names."
   },
   {
     "old_key": "options.languageWarning",

@@ -629,6 +629,7 @@
   "demo.reminder": "試玩時間已結束。請購買遊戲以繼續，或重新開始一個新世界！",
   "difficulty.lock.question": "你確定要鎖定世界難度？ 此操作會將世界永久設為%1$s，並且無法再被更改。",
   "difficulty.lock.title": "鎖定世界難度",
+  "disconnect.exceeded_packet_rate": "你因超出網絡封包速率限制而被踢出",
   "disconnect.loginFailedInfo.insufficientPrivileges": "多人遊戲已停用。請檢查你的 Microsoft 帳户設定。",
   "disconnect.loginFailedInfo.serversUnavailable": "暫時無法連線到驗證伺服器，請稍後再試。",
   "effect.minecraft.hunger": "饑餓",

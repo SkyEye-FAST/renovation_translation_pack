@@ -1100,7 +1100,7 @@
     "old_value": "六角恐龍被撈起",
     "old_en_us": "Axolotl scooped",
     "new_key": "subtitles.item.bucket.fill_axolotl",
-    "new_value": "鈍口螈被撈起",
+    "new_value": "撈起六角恐龍",
     "new_en_us": "Axolotl is scooped"
   },
   {
@@ -1110,5 +1110,13 @@
     "new_key": "subtitles.item.bucket.fill_fish",
     "new_value": "捕獲魚",
     "new_en_us": "Fish is captured"
+  },
+  {
+    "old_key": "tutorial.bundleInsert.description",
+    "old_value": "點擊右鍵以放入物品",
+    "old_en_us": "Right Click to add items",
+    "new_key": "tutorial.bundleInsert.description",
+    "new_value": "按下右鍵以放入物品",
+    "new_en_us": "Right-click to add items"
   }
 ]

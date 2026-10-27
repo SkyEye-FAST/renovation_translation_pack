@@ -4655,6 +4655,13 @@
     "en_us": "Lock World Difficulty"
   },
   {
+    "old_key": "disconnect.exceeded_packet_rate",
+    "old_value": "你已因超出網絡封包速率限制而被踢出",
+    "new_key": "disconnect.exceeded_packet_rate",
+    "new_value": "你因超出網絡封包速率限制而被踢出",
+    "en_us": "Kicked for exceeding packet rate limit"
+  },
+  {
     "old_key": "disconnect.loginFailedInfo.insufficientPrivileges",
     "old_value": "多人遊戲已停用。請檢查你嘅 Microsoft 帳户設定。",
     "new_key": "disconnect.loginFailedInfo.insufficientPrivileges",

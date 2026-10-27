@@ -84,7 +84,7 @@
     "old_value": "舛值「%s」",
     "old_en_us": "Invalid value \"%s\"",
     "new_key": "argument.enum.invalid",
-    "new_value": "舛直「%s」",
+    "new_value": "無效直「%s」",
     "new_en_us": "Invalid value '%s'"
   },
   {
@@ -124,7 +124,7 @@
     "old_value": "刻數不可爲負",
     "old_en_us": "Tick count must be non-negative",
     "new_key": "argument.time.invalid_tick_count",
-    "new_value": "刻數須爲非赤",
+    "new_value": "刻數須爲非負",
     "new_en_us": "The tick count must be non-negative"
   },
   {
@@ -1028,7 +1028,7 @@
     "old_value": "伺服器傳一舛囊也。",
     "old_en_us": "Server sent an invalid packet",
     "new_key": "multiplayer.disconnect.invalid_packet",
-    "new_value": "伺服器傳舛囊也",
+    "new_value": "伺服器傳無效之囊",
     "new_en_us": "The server sent an invalid packet"
   },
   {
@@ -1205,7 +1205,7 @@
     "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
     "new_key": "options.hideMatchedNames.tooltip",
     "new_value": "外黨之伺服器，或傳諸非禮之訊。\n選項既開，名之相符，則蔽戲者。",
-    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names."
+    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, muted players will be matched based on chat sender names."
   },
   {
     "old_key": "options.languageWarning",

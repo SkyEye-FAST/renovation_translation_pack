@@ -244,7 +244,7 @@
     "old_value": "刻數不可爲負",
     "old_en_us": "Tick count must be non-negative",
     "new_key": "argument.time.invalid_tick_count",
-    "new_value": "刻數須爲非赤",
+    "new_value": "刻數須爲非負",
     "new_en_us": "The tick count must be non-negative"
   },
   {
