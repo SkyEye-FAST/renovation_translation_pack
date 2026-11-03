@@ -973,7 +973,7 @@
   "options.graphics.warning.title": "顯示卡不受支援",
   "options.hideLightningFlashes": "隱藏天空閃爍效果",
   "options.hideLightningFlashes.tooltip": "使閃電電流或其他環境效果不會導致天空閃爍。閃爍源本身仍然可見。",
-  "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，隱藏玩家將根據發言者的名稱比對。",
+  "options.hideMatchedNames.tooltip": "第三方伺服器可能會傳送非標準格式的聊天訊息。\n啟用此選項後，將根據發言者的名稱比對被噤聲的玩家。",
   "options.languageWarning": "語言翻譯未必 100%% 準確。",
   "options.multiplayer.title": "開放至 LAN⋯⋯",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "部分操作會即時將所處區塊重新編譯，包括放置與破壞方塊。",

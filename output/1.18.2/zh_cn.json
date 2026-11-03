@@ -250,6 +250,7 @@
   "options.graphics.fancy.tooltip": "高品质画质会为大多数设备平衡性能和画面效果。\n天气、云和粒子可能不会在半透明方块或水的后面显示。",
   "options.hideLightningFlashes": "隐藏天空闪烁效果",
   "options.hideLightningFlashes.tooltip": "防止闪电束或其他环境效果使天空闪烁。闪烁源本身仍将可见。",
+  "options.hideMatchedNames.tooltip": "第三方服务器也许会发送非标准格式的聊天消息。\n此设置打开后，被屏蔽消息的玩家将会被根据发言者的名字匹配。",
   "options.languageWarning": "语言翻译不一定100%%准确。",
   "options.multiplayer.title": "对局域网开放",
   "options.prioritizeChunkUpdates.byPlayer.tooltip": "区块中的某些行为会导致区块的重新编译。例如对方块进行放置或破坏。",

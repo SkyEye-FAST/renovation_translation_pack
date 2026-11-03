@@ -824,6 +824,14 @@
     "new_en_us": "Prevents Lightning Bolts or other environmental effects from making the sky flash. The sources of flashes themselves will still be visible."
   },
   {
+    "old_key": "options.hideMatchedNames.tooltip",
+    "old_value": "第三方服务器也许会发送非标准格式的聊天消息。\n此设置打开后，被隐藏的玩家将会被根据发言者的名字匹配。",
+    "old_en_us": "3rd-party Servers may send chat messages in non-standard formats.\nWith this option on: hidden players will be matched based on chat sender names.",
+    "new_key": "options.hideMatchedNames.tooltip",
+    "new_value": "第三方服务器也许会发送非标准格式的聊天消息。\n此设置打开后，被屏蔽消息的玩家将会被根据发言者的名字匹配。",
+    "new_en_us": "Third-party servers may send chat messages in non-standard formats.\nWith this option on, muted players will be matched based on chat sender names."
+  },
+  {
     "old_key": "options.languageWarning",
     "old_value": "语言翻译不一定100%%准确",
     "old_en_us": "Language translations may not be 100%% accurate",
