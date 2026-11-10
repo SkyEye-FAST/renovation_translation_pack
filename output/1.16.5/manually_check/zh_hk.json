@@ -996,7 +996,7 @@
     "old_value": "按右鍵以了解更多",
     "old_en_us": "Right Click for More",
     "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按右掣瞭解更多",
+    "new_value": "按右鍵瞭解更多",
     "new_en_us": "Right-Click for More"
   },
   {
@@ -1236,7 +1236,7 @@
     "old_value": "不支援使用實驗性質設定嘅世界",
     "old_en_us": "Worlds using Experimental Settings are not supported",
     "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "使用實驗性設定的世界不受支援",
+    "new_value": "不支援使用實驗性設定的世界",
     "new_en_us": "Worlds using experimental settings are not supported"
   },
   {

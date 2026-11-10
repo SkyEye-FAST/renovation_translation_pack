@@ -948,7 +948,7 @@
     "old_value": "擇車（亦可物之欄）、置具框、舟之落物。",
     "old_en_us": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
     "new_key": "gamerule.doEntityDrops.description",
-    "new_value": "擇礦車（並其所貯）、置具匡、舟之遺物。",
+    "new_value": "擇礦車（並其所貯）、置物匡、舟之遺物。",
     "new_en_us": "Controls drops from Minecarts (including inventories), Item Frames, Boats, etc."
   },
   {
@@ -1190,6 +1190,14 @@
     "new_key": "options.fovEffectScale.tooltip",
     "new_value": "制戲遊之效所易視野幾何。",
     "new_en_us": "Controls how much the field of view can change with gameplay effects."
+  },
+  {
+    "old_key": "options.framerate",
+    "old_value": "幀%s",
+    "old_en_us": "%s fps",
+    "new_key": "options.framerate",
+    "new_value": "%s幀",
+    "new_en_us": "%s FPS"
   },
   {
     "old_key": "options.graphics.warning.accept",
@@ -1492,7 +1500,7 @@
     "old_value": "填爍置具匡",
     "old_en_us": "Glow Item Frame fills",
     "new_key": "subtitles.entity.glow_item_frame.add_item",
-    "new_value": "爍置具匡填",
+    "new_value": "爍置物匡填",
     "new_en_us": "Glow Item Frame is filled"
   },
   {
@@ -1500,7 +1508,7 @@
     "old_value": "置爍置具匡",
     "old_en_us": "Glow Item Frame placed",
     "new_key": "subtitles.entity.glow_item_frame.place",
-    "new_value": "爍置具匡置",
+    "new_value": "爍置物匡置",
     "new_en_us": "Glow Item Frame is placed"
   },
   {
@@ -1516,7 +1524,7 @@
     "old_value": "填置具框",
     "old_en_us": "Item Frame fills",
     "new_key": "subtitles.entity.item_frame.add_item",
-    "new_value": "置具匡填",
+    "new_value": "置物匡填",
     "new_en_us": "Item Frame is filled"
   },
   {
@@ -1524,7 +1532,7 @@
     "old_value": "置置具框",
     "old_en_us": "Item Frame placed",
     "new_key": "subtitles.entity.item_frame.place",
-    "new_value": "置具匡置",
+    "new_value": "置物匡置",
     "new_en_us": "Item Frame is placed"
   },
   {

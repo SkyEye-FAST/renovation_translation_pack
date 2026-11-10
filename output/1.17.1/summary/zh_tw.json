@@ -1491,10 +1491,73 @@
     "en_us": "The difficulty has been set to %s"
   },
   {
+    "old_key": "commands.effect.clear.everything.failed",
+    "old_value": "該對象沒有可以移除的效果",
+    "new_key": "commands.effect.clear.everything.failed",
+    "new_value": "目標沒有可以移除的效果",
+    "en_us": "Target has no effects to remove"
+  },
+  {
+    "old_key": "commands.effect.clear.everything.success.multiple",
+    "old_value": "已移除 %s 個對象上的所有效果",
+    "new_key": "commands.effect.clear.everything.success.multiple",
+    "new_value": "已移除 %s 個目標上的所有效果",
+    "en_us": "Removed every effect from %s targets"
+  },
+  {
+    "old_key": "commands.effect.clear.specific.failed",
+    "old_value": "該對象沒有你指定的效果",
+    "new_key": "commands.effect.clear.specific.failed",
+    "new_value": "目標不具有指定的效果",
+    "en_us": "Target doesn't have the requested effect"
+  },
+  {
+    "old_key": "commands.effect.clear.specific.success.multiple",
+    "old_value": "已移除 %2$s 個對象身上的 %1$s 效果",
+    "new_key": "commands.effect.clear.specific.success.multiple",
+    "new_value": "已移除 %2$s 個目標身上的 %1$s 效果",
+    "en_us": "Removed effect %s from %s targets"
+  },
+  {
+    "old_key": "commands.effect.give.failed",
+    "old_value": "無法套用這項效果（該對象不受效果影響，或已有其他更強的效果）",
+    "new_key": "commands.effect.give.failed",
+    "new_value": "無法套用這項效果（該目標不受效果影響，或已有其他更強的效果）",
+    "en_us": "Unable to apply this effect (target is either immune to effects, or has something stronger)"
+  },
+  {
+    "old_key": "commands.effect.give.success.multiple",
+    "old_value": "已將 %s 效果作用於 %s 個對象",
+    "new_key": "commands.effect.give.success.multiple",
+    "new_value": "已將 %s 效果作用於 %s 個目標",
+    "en_us": "Applied effect %s to %s targets"
+  },
+  {
+    "old_key": "commands.enchant.failed",
+    "old_value": "未進行任何變更。對象手中沒有物品或是無法套用這項附魔",
+    "new_key": "commands.enchant.failed",
+    "new_value": "未進行任何變更。目標手中沒有物品或是無法套用這項附魔",
+    "en_us": "Nothing changed. Targets either have no item in their hands or the enchantment could not be applied"
+  },
+  {
+    "old_key": "commands.item.target.no_changed.known_item",
+    "old_value": "沒有任何對象的 %2$s 欄位接收到物品 %1$s",
+    "new_key": "commands.item.target.no_changed.known_item",
+    "new_value": "沒有任何目標的 %2$s 欄位接收到物品 %1$s",
+    "en_us": "No targets accepted item %s into slot %s"
+  },
+  {
+    "old_key": "commands.item.target.no_changes",
+    "old_value": "沒有任何對象的 %s 欄位接收到物品",
+    "new_key": "commands.item.target.no_changes",
+    "new_value": "沒有任何目標的 %s 欄位接收到物品",
+    "en_us": "No targets accepted item into slot %s"
+  },
+  {
     "old_key": "commands.item.target.no_such_slot",
     "old_value": "該對象並無 %s 欄位",
     "new_key": "commands.item.target.no_such_slot",
-    "new_value": "該對象沒有 %s 欄位",
+    "new_value": "目標沒有 %s 欄位",
     "en_us": "The target does not have slot %s"
   },
   {
@@ -1580,6 +1643,20 @@
     "new_key": "commands.spawnpoint.success.single",
     "new_value": "已將 %6$s 的重生點設為 %5$s 中的 %1$s, %2$s, %3$s [%4$s]",
     "en_us": "Set spawn point to %s, %s, %s [%s] in %s for %s"
+  },
+  {
+    "old_key": "commands.tag.add.failed",
+    "old_value": "該對象已擁有此標籤或擁有過多標籤",
+    "new_key": "commands.tag.add.failed",
+    "new_value": "指定的目標已擁有此標籤或擁有過多標籤",
+    "en_us": "Target either already has the tag or has too many tags"
+  },
+  {
+    "old_key": "commands.tag.remove.failed",
+    "old_value": "該對象沒有這個標籤",
+    "new_key": "commands.tag.remove.failed",
+    "new_value": "指定的目標沒有這個標籤",
+    "en_us": "Target does not have this tag"
   },
   {
     "old_key": "commands.team.option.deathMessageVisibility.success",

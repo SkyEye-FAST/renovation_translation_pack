@@ -1991,7 +1991,7 @@
     "old_key": "commands.effect.clear.specific.failed",
     "old_value": "對象並無指定嘅效果",
     "new_key": "commands.effect.clear.specific.failed",
-    "new_value": "對象並無指定的效果",
+    "new_value": "對象並無指定效果",
     "en_us": "Target doesn't have the requested effect"
   },
   {
@@ -2012,14 +2012,14 @@
     "old_key": "commands.effect.give.success.multiple",
     "old_value": "已經將 %s 效果作用於 %s 個對象",
     "new_key": "commands.effect.give.success.multiple",
-    "new_value": "已將 %s 效果作用於 %s 個對象",
+    "new_value": "已將 %s 效果套用於 %s 個對象",
     "en_us": "Applied effect %s to %s targets"
   },
   {
     "old_key": "commands.effect.give.success.single",
     "old_value": "已經將 %s 效果作用於 %s",
     "new_key": "commands.effect.give.success.single",
-    "new_value": "已將 %s 效果作用於 %s",
+    "new_value": "已將 %s 效果套用於 %s",
     "en_us": "Applied effect %s to %s"
   },
   {

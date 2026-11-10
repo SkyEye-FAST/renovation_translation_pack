@@ -1076,7 +1076,7 @@
     "old_value": "按右鍵以了解更多",
     "old_en_us": "Right Click for More",
     "new_key": "gui.recipebook.moreRecipes",
-    "new_value": "按右掣瞭解更多",
+    "new_value": "按右鍵瞭解更多",
     "new_en_us": "Right-Click for More"
   },
   {
@@ -1236,8 +1236,16 @@
     "old_value": "按上下方向鍵以移動到其他項目",
     "old_en_us": "Press up and down buttons to move to another entry",
     "new_key": "narration.selection.usage",
-    "new_value": "按上下方向鍵以移動至其他項目",
+    "new_value": "按上下方向鍵移動至其他項目",
     "new_en_us": "Press the up and down buttons to move to another entry"
+  },
+  {
+    "old_key": "narration.slider.usage.focused",
+    "old_value": "按左右方向鍵以變更數值",
+    "old_en_us": "Press left or right keyboard buttons to change value",
+    "new_key": "narration.slider.usage.focused",
+    "new_value": "按左右方向鍵變更數值",
+    "new_en_us": "Press the left or right keyboard buttons to change the value"
   },
   {
     "old_key": "narration.suggestion",
@@ -1396,7 +1404,7 @@
     "old_value": "不支援使用實驗性質設定嘅世界",
     "old_en_us": "Worlds using Experimental Settings are not supported",
     "new_key": "selectWorld.backupQuestion.experimental",
-    "new_value": "使用實驗性設定的世界不受支援",
+    "new_value": "不支援使用實驗性設定的世界",
     "new_en_us": "Worlds using experimental settings are not supported"
   },
   {

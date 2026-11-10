@@ -826,6 +826,13 @@
     "en_us": "Snowy Slopes"
   },
   {
+    "old_key": "biome.minecraft.soul_sand_valley",
+    "old_value": "靈沙谷",
+    "new_key": "biome.minecraft.soul_sand_valley",
+    "new_value": "魂沙谷",
+    "en_us": "Soul Sand Valley"
+  },
+  {
     "old_key": "biome.minecraft.sunflower_plains",
     "old_value": "葵藿原野",
     "new_key": "biome.minecraft.sunflower_plains",
@@ -3255,6 +3262,55 @@
     "en_us": "Smooth Stone Slab"
   },
   {
+    "old_key": "block.minecraft.soul_campfire",
+    "old_value": "靈營火",
+    "new_key": "block.minecraft.soul_campfire",
+    "new_value": "魂營火",
+    "en_us": "Soul Campfire"
+  },
+  {
+    "old_key": "block.minecraft.soul_fire",
+    "old_value": "靈火",
+    "new_key": "block.minecraft.soul_fire",
+    "new_value": "魂火",
+    "en_us": "Soul Fire"
+  },
+  {
+    "old_key": "block.minecraft.soul_lantern",
+    "old_value": "靈燈",
+    "new_key": "block.minecraft.soul_lantern",
+    "new_value": "魂燈籠",
+    "en_us": "Soul Lantern"
+  },
+  {
+    "old_key": "block.minecraft.soul_sand",
+    "old_value": "靈沙",
+    "new_key": "block.minecraft.soul_sand",
+    "new_value": "魂沙",
+    "en_us": "Soul Sand"
+  },
+  {
+    "old_key": "block.minecraft.soul_soil",
+    "old_value": "靈土",
+    "new_key": "block.minecraft.soul_soil",
+    "new_value": "魂土",
+    "en_us": "Soul Soil"
+  },
+  {
+    "old_key": "block.minecraft.soul_torch",
+    "old_value": "靈炬",
+    "new_key": "block.minecraft.soul_torch",
+    "new_value": "魂炬",
+    "en_us": "Soul Torch"
+  },
+  {
+    "old_key": "block.minecraft.soul_wall_torch",
+    "old_value": "壁中靈炬",
+    "new_key": "block.minecraft.soul_wall_torch",
+    "new_value": "壁中魂炬",
+    "en_us": "Soul Wall Torch"
+  },
+  {
     "old_key": "block.minecraft.spawn.not_valid",
     "old_value": "汝無床或復生錨，或其見礙也",
     "new_key": "block.minecraft.spawn.not_valid",
@@ -4543,6 +4599,13 @@
     "en_us": "Knockback"
   },
   {
+    "old_key": "enchantment.minecraft.soul_speed",
+    "old_value": "靈逸",
+    "new_key": "enchantment.minecraft.soul_speed",
+    "new_value": "魂逸",
+    "en_us": "Soul Speed"
+  },
+  {
     "old_key": "entity.minecraft.area_effect_cloud",
     "old_value": "藥雲",
     "new_key": "entity.minecraft.area_effect_cloud",
@@ -4585,10 +4648,17 @@
     "en_us": "Ghast"
   },
   {
+    "old_key": "entity.minecraft.glow_item_frame",
+    "old_value": "爍置具匡",
+    "new_key": "entity.minecraft.glow_item_frame",
+    "new_value": "爍置物匡",
+    "en_us": "Glow Item Frame"
+  },
+  {
     "old_key": "entity.minecraft.item_frame",
     "old_value": "置具框",
     "new_key": "entity.minecraft.item_frame",
-    "new_value": "置具匡",
+    "new_value": "置物匡",
     "en_us": "Item Frame"
   },
   {
@@ -5362,6 +5432,13 @@
     "en_us": "Glow Ink Sac"
   },
   {
+    "old_key": "item.minecraft.glow_item_frame",
+    "old_value": "爍置具匡",
+    "new_key": "item.minecraft.glow_item_frame",
+    "new_value": "爍置物匡",
+    "en_us": "Glow Item Frame"
+  },
+  {
     "old_key": "item.minecraft.golden_boots",
     "old_value": "金靴",
     "new_key": "item.minecraft.golden_boots",
@@ -5400,7 +5477,7 @@
     "old_key": "item.minecraft.item_frame",
     "old_value": "置具框",
     "new_key": "item.minecraft.item_frame",
-    "new_value": "置具匡",
+    "new_value": "置物匡",
     "en_us": "Item Frame"
   },
   {
@@ -5507,6 +5584,13 @@
     "new_key": "item.minecraft.pumpkin_pie",
     "new_value": "南瓜餠",
     "en_us": "Pumpkin Pie"
+  },
+  {
+    "old_key": "item.minecraft.rabbit_stew",
+    "old_value": "兔肉羹",
+    "new_key": "item.minecraft.rabbit_stew",
+    "new_value": "兔羹",
+    "en_us": "Rabbit Stew"
   },
   {
     "old_key": "item.minecraft.raw_gold",
@@ -7028,17 +7112,24 @@
     "en_us": "Ghast shoots"
   },
   {
+    "old_key": "subtitles.entity.glow_item_frame.break",
+    "old_value": "爍置具匡壞",
+    "new_key": "subtitles.entity.glow_item_frame.break",
+    "new_value": "爍置物匡壞",
+    "en_us": "Glow Item Frame breaks"
+  },
+  {
     "old_key": "subtitles.entity.glow_item_frame.remove_item",
     "old_value": "清爍置具匡",
     "new_key": "subtitles.entity.glow_item_frame.remove_item",
-    "new_value": "爍置具匡清",
+    "new_value": "爍置物匡清",
     "en_us": "Glow Item Frame empties"
   },
   {
     "old_key": "subtitles.entity.glow_item_frame.rotate_item",
     "old_value": "撃爍置具匡",
     "new_key": "subtitles.entity.glow_item_frame.rotate_item",
-    "new_value": "爍置具匡旋",
+    "new_value": "爍置物匡旋",
     "en_us": "Glow Item Frame clicks"
   },
   {
@@ -7136,21 +7227,21 @@
     "old_key": "subtitles.entity.item_frame.break",
     "old_value": "置具框壞",
     "new_key": "subtitles.entity.item_frame.break",
-    "new_value": "置具匡壞",
+    "new_value": "置物匡壞",
     "en_us": "Item Frame breaks"
   },
   {
     "old_key": "subtitles.entity.item_frame.remove_item",
     "old_value": "清置具框",
     "new_key": "subtitles.entity.item_frame.remove_item",
-    "new_value": "置具匡清",
+    "new_value": "置物匡清",
     "en_us": "Item Frame empties"
   },
   {
     "old_key": "subtitles.entity.item_frame.rotate_item",
     "old_value": "撃置具框",
     "new_key": "subtitles.entity.item_frame.rotate_item",
-    "new_value": "置具匡旋",
+    "new_value": "置物匡旋",
     "en_us": "Item Frame clicks"
   },
   {
@@ -7691,6 +7782,13 @@
     "new_key": "subtitles.item.trident.throw",
     "new_value": "戟鏗鏘",
     "en_us": "Trident clangs"
+  },
+  {
+    "old_key": "subtitles.particle.soul_escape",
+    "old_value": "靈逸",
+    "new_key": "subtitles.particle.soul_escape",
+    "new_value": "魂逸",
+    "en_us": "Soul escapes"
   },
   {
     "old_key": "team.collision.always",

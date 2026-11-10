@@ -2754,7 +2754,7 @@
     "old_key": "commands.effect.clear.specific.failed",
     "old_value": "對象並無指定嘅效果",
     "new_key": "commands.effect.clear.specific.failed",
-    "new_value": "對象並無指定的效果",
+    "new_value": "對象並無指定效果",
     "en_us": "Target doesn't have the requested effect"
   },
   {
@@ -2775,14 +2775,14 @@
     "old_key": "commands.effect.give.success.multiple",
     "old_value": "已經將 %s 效果作用於 %s 個對象",
     "new_key": "commands.effect.give.success.multiple",
-    "new_value": "已將 %s 效果作用於 %s 個對象",
+    "new_value": "已將 %s 效果套用於 %s 個對象",
     "en_us": "Applied effect %s to %s targets"
   },
   {
     "old_key": "commands.effect.give.success.single",
     "old_value": "已經將 %s 效果作用於 %s",
     "new_key": "commands.effect.give.success.single",
-    "new_value": "已將 %s 效果作用於 %s",
+    "new_value": "已將 %s 效果套用於 %s",
     "en_us": "Applied effect %s to %s"
   },
   {
@@ -5514,6 +5514,13 @@
     "new_key": "multiplayerWarning.message",
     "new_value": "警吿：線上遊戲由第三方伺服器提供，這些伺服器並非由 Mojang Studios 或 Microsoft 擁有、營運及監管。遊玩線上遊戲時，你可能會見到未經審核的聊天訊息或其他類型的用户創造內容，這些內容未必適合所有人。",
     "en_us": "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone."
+  },
+  {
+    "old_key": "narration.checkbox.usage.focused",
+    "old_value": "按 Enter 鍵以切換核取狀態",
+    "new_key": "narration.checkbox.usage.focused",
+    "new_value": "按 Enter 切換",
+    "en_us": "Press Enter to toggle"
   },
   {
     "old_key": "narration.cycle_button.usage.focused",

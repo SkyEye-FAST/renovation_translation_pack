@@ -3706,7 +3706,7 @@
     "old_key": "block.minecraft.soul_sand",
     "old_value": "亡魂沙",
     "new_key": "block.minecraft.soul_sand",
-    "new_value": "靈沙",
+    "new_value": "魂沙",
     "en_us": "Soul Sand"
   },
   {
@@ -6426,6 +6426,13 @@
     "en_us": "Iron Golem"
   },
   {
+    "old_key": "entity.minecraft.item_frame",
+    "old_value": "置具匡",
+    "new_key": "entity.minecraft.item_frame",
+    "new_value": "置物匡",
+    "en_us": "Item Frame"
+  },
+  {
     "old_key": "entity.minecraft.leash_knot",
     "old_value": "繩",
     "new_key": "entity.minecraft.leash_knot",
@@ -7343,6 +7350,13 @@
     "en_us": "Iron Nugget"
   },
   {
+    "old_key": "item.minecraft.item_frame",
+    "old_value": "置具匡",
+    "new_key": "item.minecraft.item_frame",
+    "new_value": "置物匡",
+    "en_us": "Item Frame"
+  },
+  {
     "old_key": "item.minecraft.lapis_lazuli",
     "old_value": "琅玕",
     "new_key": "item.minecraft.lapis_lazuli",
@@ -7698,13 +7712,6 @@
     "new_key": "item.minecraft.pumpkin_pie",
     "new_value": "南瓜餠",
     "en_us": "Pumpkin Pie"
-  },
-  {
-    "old_key": "item.minecraft.rabbit_stew",
-    "old_value": "兔羹",
-    "new_key": "item.minecraft.rabbit_stew",
-    "new_value": "兔肉羹",
-    "en_us": "Rabbit Stew"
   },
   {
     "old_key": "item.minecraft.rotten_flesh",
@@ -10507,17 +10514,24 @@
     "en_us": "Iron Golem dies"
   },
   {
+    "old_key": "subtitles.entity.item_frame.break",
+    "old_value": "置具匡壞",
+    "new_key": "subtitles.entity.item_frame.break",
+    "new_value": "置物匡壞",
+    "en_us": "Item Frame breaks"
+  },
+  {
     "old_key": "subtitles.entity.item_frame.remove_item",
     "old_value": "清置具匡",
     "new_key": "subtitles.entity.item_frame.remove_item",
-    "new_value": "置具匡清",
+    "new_value": "置物匡清",
     "en_us": "Item Frame empties"
   },
   {
     "old_key": "subtitles.entity.item_frame.rotate_item",
     "old_value": "撃置具匡",
     "new_key": "subtitles.entity.item_frame.rotate_item",
-    "new_value": "置具匡旋",
+    "new_value": "置物匡旋",
     "en_us": "Item Frame clicks"
   },
   {
