@@ -680,6 +680,14 @@
     "new_en_us": "Self-harm or suicide"
   },
   {
+    "old_key": "gui.abuseReport.send.json_error",
+    "old_value": "傳送檢舉時遭遇格式錯誤的訊息承載。",
+    "old_en_us": "Encountered malformed payload while sending your report.",
+    "new_key": "gui.abuseReport.send.json_error",
+    "new_value": "提交檢舉時遭遇格式錯誤的訊息承載。",
+    "new_en_us": "Encountered a malformed payload while sending your report."
+  },
+  {
     "old_key": "gui.abuseReport.sending.title",
     "old_value": "正在傳送您的檢舉…",
     "old_en_us": "Sending your report...",

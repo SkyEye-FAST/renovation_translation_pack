@@ -3839,7 +3839,7 @@
     "old_key": "commands.effect.give.failed",
     "old_value": "是效不可用（的自禦之，亦或其有愈強之效）",
     "new_key": "commands.effect.give.failed",
-    "new_value": "是效不可用（的自禦之，抑或其有愈強之效）",
+    "new_value": "是效不可用（的自禦之，抑有愈強者）",
     "en_us": "Unable to apply this effect (target is either immune to effects, or has something stronger)"
   },
   {

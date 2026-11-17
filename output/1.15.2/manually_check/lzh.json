@@ -1320,6 +1320,14 @@
     "new_en_us": "Status request has been handled"
   },
   {
+    "old_key": "multiplayer.status.unrequested",
+    "old_value": "受未求之訊",
+    "old_en_us": "Received unrequested status",
+    "new_key": "multiplayer.status.unrequested",
+    "new_value": "受未求之訊也",
+    "new_en_us": "Received an unrequested status"
+  },
+  {
     "old_key": "multiplayerWarning.header",
     "old_value": "線上眾戲未評等",
     "old_en_us": "Online play is not rated",

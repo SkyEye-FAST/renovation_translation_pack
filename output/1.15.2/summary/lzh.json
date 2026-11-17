@@ -4532,7 +4532,7 @@
     "old_key": "commands.effect.give.failed",
     "old_value": "是效不可用（的自御之，亦或其有愈強之效）",
     "new_key": "commands.effect.give.failed",
-    "new_value": "是效不可用（的自禦之，抑或其有愈強之效）",
+    "new_value": "是效不可用（的自禦之，抑有愈強者）",
     "en_us": "Unable to apply this effect (target is either immune to effects, or has something stronger)"
   },
   {
@@ -8629,13 +8629,6 @@
     "new_key": "multiplayer.status.pinging",
     "new_value": "方測⋯",
     "en_us": "Pinging..."
-  },
-  {
-    "old_key": "multiplayer.status.unrequested",
-    "old_value": "受未求之訊",
-    "new_key": "multiplayer.status.unrequested",
-    "new_value": "受未求之訊也",
-    "en_us": "Received unrequested status"
   },
   {
     "old_key": "multiplayer.texturePrompt.line1",

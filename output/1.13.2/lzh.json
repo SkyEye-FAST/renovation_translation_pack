@@ -1637,7 +1637,7 @@
   "commands.effect.clear.specific.failed": "的無所求之效",
   "commands.effect.clear.specific.success.multiple": "已除%2$s者之%1$s效",
   "commands.effect.clear.specific.success.single": "已除%2$s之%1$s效",
-  "commands.effect.give.failed": "是效不可用（的自禦之，抑或其有愈強之效）",
+  "commands.effect.give.failed": "是效不可用（的自禦之，抑有愈強者）",
   "commands.effect.give.success.multiple": "既致%2$s者以%1$s之效",
   "commands.effect.give.success.single": "既致%2$s以%1$s之效",
   "commands.enchant.failed": "無變。的未持是物，亦或是靈不可用焉",

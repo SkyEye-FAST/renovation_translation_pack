@@ -1112,6 +1112,22 @@
     "new_en_us": "Bobber is thrown"
   },
   {
+    "old_key": "subtitles.entity.generic.death",
+    "old_value": "濒死",
+    "old_en_us": "Dying",
+    "new_key": "subtitles.entity.generic.death",
+    "new_value": "死亡",
+    "new_en_us": "Something dies"
+  },
+  {
+    "old_key": "subtitles.entity.generic.swim",
+    "old_value": "实体：游泳",
+    "old_en_us": "Swimming",
+    "new_key": "subtitles.entity.generic.swim",
+    "new_value": "游泳",
+    "new_en_us": "Something swims"
+  },
+  {
     "old_key": "subtitles.entity.horse.armor",
     "old_value": "马铠：装备",
     "old_en_us": "Horse armor equips",

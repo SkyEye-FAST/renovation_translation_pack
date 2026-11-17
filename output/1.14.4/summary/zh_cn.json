@@ -2184,20 +2184,6 @@
     "en_us": "Firework twinkles"
   },
   {
-    "old_key": "subtitles.entity.generic.death",
-    "old_value": "濒死",
-    "new_key": "subtitles.entity.generic.death",
-    "new_value": "死亡",
-    "en_us": "Dying"
-  },
-  {
-    "old_key": "subtitles.entity.generic.swim",
-    "old_value": "实体：游泳",
-    "new_key": "subtitles.entity.generic.swim",
-    "new_value": "游泳",
-    "en_us": "Swimming"
-  },
-  {
     "old_key": "subtitles.entity.guardian.flop",
     "old_value": "守卫者：落地",
     "new_key": "subtitles.entity.guardian.flop",

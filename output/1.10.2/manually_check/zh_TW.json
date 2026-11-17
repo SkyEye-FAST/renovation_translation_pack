@@ -1136,6 +1136,14 @@
     "new_en_us": "Something falls"
   },
   {
+    "old_key": "subtitles.entity.generic.explode",
+    "old_value": "爆炸",
+    "old_en_us": "Explosion",
+    "new_key": "subtitles.entity.generic.explode",
+    "new_value": "爆炸聲",
+    "new_en_us": "Something explodes"
+  },
+  {
     "old_key": "subtitles.entity.generic.hurt",
     "old_value": "一些東西受到傷害",
     "old_en_us": "Something hurts",

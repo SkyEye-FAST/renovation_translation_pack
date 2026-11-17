@@ -2723,13 +2723,6 @@
     "en_us": "Firework launches"
   },
   {
-    "old_key": "subtitles.entity.generic.explode",
-    "old_value": "爆炸",
-    "new_key": "subtitles.entity.generic.explode",
-    "new_value": "爆炸聲",
-    "en_us": "Explosion"
-  },
-  {
     "old_key": "subtitles.entity.generic.extinguish_fire",
     "old_value": "火焰熄滅聲",
     "new_key": "subtitles.entity.generic.extinguish_fire",

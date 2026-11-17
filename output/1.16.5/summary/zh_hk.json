@@ -1655,7 +1655,7 @@
     "old_key": "command.expected.separator",
     "old_value": "引數結尾應為空白字符，但發現有尾隨數據",
     "new_key": "command.expected.separator",
-    "new_value": "引數結尾應為空白字符，惟發現有尾隨數據",
+    "new_value": "變元結尾應為空白字符，惟發現有尾隨數據",
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
@@ -2394,6 +2394,13 @@
     "en_us": "No recipes could be forgotten"
   },
   {
+    "old_key": "commands.reload.success",
+    "old_value": "重新載入中！",
+    "new_key": "commands.reload.success",
+    "new_value": "正在重新載入！",
+    "en_us": "Reloading!"
+  },
+  {
     "old_key": "commands.save.alreadyOff",
     "old_value": "儲存功能已經關閉",
     "new_key": "commands.save.alreadyOff",
@@ -2411,7 +2418,7 @@
     "old_key": "commands.save.saving",
     "old_value": "儲存遊戲中（可能需要啲時間！）",
     "new_key": "commands.save.saving",
-    "new_value": "儲存遊戲中（可能需要些許時間！）",
+    "new_value": "正在儲存遊戲（可能需要些許時間！）",
     "en_us": "Saving the game (this may take a moment!)"
   },
   {
@@ -3045,6 +3052,27 @@
     "en_us": "Nothing changed. The world border warning is already that amount of time"
   },
   {
+    "old_key": "connect.authorizing",
+    "old_value": "登入中⋯⋯",
+    "new_key": "connect.authorizing",
+    "new_value": "正在登入⋯⋯",
+    "en_us": "Logging in..."
+  },
+  {
+    "old_key": "connect.encrypting",
+    "old_value": "加密中⋯⋯",
+    "new_key": "connect.encrypting",
+    "new_value": "正在加密⋯⋯",
+    "en_us": "Encrypting..."
+  },
+  {
+    "old_key": "connect.negotiating",
+    "old_value": "協議中⋯⋯",
+    "new_key": "connect.negotiating",
+    "new_value": "正在協議⋯⋯",
+    "en_us": "Negotiating..."
+  },
+  {
     "old_key": "container.beacon",
     "old_value": "烽火台",
     "new_key": "container.beacon",
@@ -3617,6 +3645,13 @@
     "new_key": "disconnect.exceeded_packet_rate",
     "new_value": "你因超出網絡封包速率限制而被踢出",
     "en_us": "Kicked for exceeding packet rate limit"
+  },
+  {
+    "old_key": "disconnect.loginFailedInfo",
+    "old_value": "登入失敗：%s",
+    "new_key": "disconnect.loginFailedInfo",
+    "new_value": "無法登入：%s",
+    "en_us": "Failed to log in: %s"
   },
   {
     "old_key": "disconnect.loginFailedInfo.insufficientPrivileges",
@@ -4669,13 +4704,6 @@
     "en_us": "Can't connect to server"
   },
   {
-    "old_key": "multiplayer.status.unrequested",
-    "old_value": "接收到未請求嘅資訊",
-    "new_key": "multiplayer.status.unrequested",
-    "new_value": "接收到未請求的資訊",
-    "en_us": "Received unrequested status"
-  },
-  {
     "old_key": "multiplayer.texturePrompt.line1",
     "old_value": "依個伺服器建議使用自訂資源包。",
     "new_key": "multiplayer.texturePrompt.line1",
@@ -5523,32 +5551,11 @@
     "en_us": "Fox spits"
   },
   {
-    "old_key": "subtitles.entity.generic.drink",
-    "old_value": "飲嘢聲",
-    "new_key": "subtitles.entity.generic.drink",
-    "new_value": "飲用聲",
-    "en_us": "Sipping"
-  },
-  {
-    "old_key": "subtitles.entity.generic.eat",
-    "old_value": "食嘢聲",
-    "new_key": "subtitles.entity.generic.eat",
-    "new_value": "進食聲",
-    "en_us": "Eating"
-  },
-  {
     "old_key": "subtitles.entity.generic.small_fall",
     "old_value": "實體跌落",
     "new_key": "subtitles.entity.generic.small_fall",
     "new_value": "某物跌落",
     "en_us": "Something trips"
-  },
-  {
-    "old_key": "subtitles.entity.generic.swim",
-    "old_value": "游水",
-    "new_key": "subtitles.entity.generic.swim",
-    "new_value": "游泳",
-    "en_us": "Swimming"
   },
   {
     "old_key": "subtitles.entity.ghast.ambient",

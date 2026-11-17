@@ -1876,13 +1876,6 @@
     "en_us": "An unexpected HTTP error occurred while sending your report."
   },
   {
-    "old_key": "gui.abuseReport.send.json_error",
-    "old_value": "傳送檢舉時遭遇格式錯誤的訊息承載。",
-    "new_key": "gui.abuseReport.send.json_error",
-    "new_value": "提交檢舉時遭遇格式錯誤的訊息承載。",
-    "en_us": "Encountered malformed payload while sending your report."
-  },
-  {
     "old_key": "gui.banned.description.reason",
     "old_value": "我們最近收到了對您不當行為的檢舉。我們的審查者已審查此案，並認定其為違反 Minecraft 社群準則的「%s」行為。 ",
     "new_key": "gui.banned.description.reason",

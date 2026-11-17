@@ -1200,6 +1200,14 @@
     "new_en_us": "Social Interactions are only available in multiplayer worlds"
   },
   {
+    "old_key": "multiplayer.status.unrequested",
+    "old_value": "接收到未請求嘅資訊",
+    "old_en_us": "Received unrequested status",
+    "new_key": "multiplayer.status.unrequested",
+    "new_value": "接收到未請求的資訊",
+    "new_en_us": "Received an unrequested status"
+  },
+  {
     "old_key": "narration.button.usage.hovered",
     "old_value": "按左鍵以啟用",
     "old_en_us": "Left click to activate",
@@ -1736,12 +1744,36 @@
     "new_en_us": "Something falls"
   },
   {
+    "old_key": "subtitles.entity.generic.drink",
+    "old_value": "飲嘢聲",
+    "old_en_us": "Sipping",
+    "new_key": "subtitles.entity.generic.drink",
+    "new_value": "飲用聲",
+    "new_en_us": "Something sips"
+  },
+  {
+    "old_key": "subtitles.entity.generic.eat",
+    "old_value": "食嘢聲",
+    "old_en_us": "Eating",
+    "new_key": "subtitles.entity.generic.eat",
+    "new_value": "進食聲",
+    "new_en_us": "Something eats"
+  },
+  {
     "old_key": "subtitles.entity.generic.hurt",
     "old_value": "實體受傷",
     "old_en_us": "Something hurts",
     "new_key": "subtitles.entity.generic.hurt",
     "new_value": "某物受傷",
     "new_en_us": "Something is hurt"
+  },
+  {
+    "old_key": "subtitles.entity.generic.swim",
+    "old_value": "游水",
+    "old_en_us": "Swimming",
+    "new_key": "subtitles.entity.generic.swim",
+    "new_value": "游泳",
+    "new_en_us": "Something swims"
   },
   {
     "old_key": "subtitles.entity.glow_item_frame.add_item",

@@ -711,7 +711,7 @@
   "commands.drop.success.single_with_table": "既落%2$s%1$s於貨表%3$s",
   "commands.effect.clear.everything.failed": "的無效可除",
   "commands.effect.clear.specific.failed": "的無所求之效",
-  "commands.effect.give.failed": "是效不可用（的自禦之，抑或其有愈強之效）",
+  "commands.effect.give.failed": "是效不可用（的自禦之，抑有愈強者）",
   "commands.effect.give.success.multiple": "既致%2$s者以%1$s之效",
   "commands.effect.give.success.single": "既致%2$s以%1$s之效",
   "commands.enchant.failed": "無變。的未持是物，亦或是靈不可用焉",

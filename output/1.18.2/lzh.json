@@ -589,7 +589,7 @@
   "commands.drop.no_loot_table": "實體%s無貨表",
   "commands.drop.success.multiple_with_table": "掉落%1$s物於貨表%2$s",
   "commands.drop.success.single_with_table": "既落%2$s%1$s於貨表%3$s",
-  "commands.effect.give.failed": "是效不可用（的自禦之，抑或其有愈強之效）",
+  "commands.effect.give.failed": "是效不可用（的自禦之，抑有愈強者）",
   "commands.execute.blocks.toobig": "所定之域內塊量過載（至多%s，定量%s）",
   "commands.execute.conditional.fail": "試未舉",
   "commands.execute.conditional.fail_count": "試未舉。凡%s次",
