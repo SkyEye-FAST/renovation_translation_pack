@@ -848,6 +848,14 @@
     "new_en_us": "Something falls"
   },
   {
+    "old_key": "subtitles.entity.generic.burn",
+    "old_value": "燃燒",
+    "old_en_us": "Burning",
+    "new_key": "subtitles.entity.generic.burn",
+    "new_value": "某物燃燒",
+    "new_en_us": "Something burns"
+  },
+  {
     "old_key": "subtitles.entity.leashknot.place",
     "old_value": "拴上繩子",
     "old_en_us": "Leash knot tied",

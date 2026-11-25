@@ -1048,6 +1048,14 @@
     "new_en_us": "Bobber is thrown"
   },
   {
+    "old_key": "subtitles.entity.generic.burn",
+    "old_value": "燃燒",
+    "old_en_us": "Burning",
+    "new_key": "subtitles.entity.generic.burn",
+    "new_value": "某物燃燒",
+    "new_en_us": "Something burns"
+  },
+  {
     "old_key": "subtitles.entity.iron_golem.repair",
     "old_value": "鐵魔像修復",
     "old_en_us": "Iron Golem repaired",

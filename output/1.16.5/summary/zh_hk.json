@@ -94,7 +94,7 @@
     "old_key": "advancements.end.enter_end_gateway.description",
     "old_value": "逃離依座島",
     "new_key": "advancements.end.enter_end_gateway.description",
-    "new_value": "逃離這座島",
+    "new_value": "逃離此島嶼",
     "en_us": "Escape the island"
   },
   {
@@ -1183,6 +1183,20 @@
     "en_us": "Mushroom Stem"
   },
   {
+    "old_key": "block.minecraft.nether_wart",
+    "old_value": "地獄孢子",
+    "new_key": "block.minecraft.nether_wart",
+    "new_value": "地獄疣",
+    "en_us": "Nether Wart"
+  },
+  {
+    "old_key": "block.minecraft.nether_wart_block",
+    "old_value": "地獄孢子塊",
+    "new_key": "block.minecraft.nether_wart_block",
+    "new_value": "地獄疣塊",
+    "en_us": "Nether Wart Block"
+  },
+  {
     "old_key": "block.minecraft.oak_wall_sign",
     "old_value": "牆上嘅橡木指示牌",
     "new_key": "block.minecraft.oak_wall_sign",
@@ -1517,6 +1531,13 @@
     "new_key": "block.minecraft.warped_wall_sign",
     "new_value": "牆上的迷離菌木指示牌",
     "en_us": "Warped Wall Sign"
+  },
+  {
+    "old_key": "block.minecraft.warped_wart_block",
+    "old_value": "迷離孢子塊",
+    "new_key": "block.minecraft.warped_wart_block",
+    "new_value": "迷離疣塊",
+    "en_us": "Warped Wart Block"
   },
   {
     "old_key": "block.minecraft.wheat",
@@ -4130,6 +4151,13 @@
     "en_us": "Mule Spawn Egg"
   },
   {
+    "old_key": "item.minecraft.nether_wart",
+    "old_value": "地獄孢子",
+    "new_key": "item.minecraft.nether_wart",
+    "new_value": "地獄疣",
+    "en_us": "Nether Wart"
+  },
+  {
     "old_key": "item.minecraft.ocelot_spawn_egg",
     "old_value": "豹貓 生成蛋",
     "new_key": "item.minecraft.ocelot_spawn_egg",
@@ -5425,6 +5453,13 @@
     "en_us": "Dolphin eats"
   },
   {
+    "old_key": "subtitles.entity.dolphin.splash",
+    "old_value": "海豚濺水",
+    "new_key": "subtitles.entity.dolphin.splash",
+    "new_value": "海豚激起水花",
+    "en_us": "Dolphin splashes"
+  },
+  {
     "old_key": "subtitles.entity.dolphin.swim",
     "old_value": "海豚游水",
     "new_key": "subtitles.entity.dolphin.swim",
@@ -5521,6 +5556,13 @@
     "new_key": "subtitles.entity.experience_orb.pickup",
     "new_value": "獲取經驗值",
     "en_us": "Experience gained"
+  },
+  {
+    "old_key": "subtitles.entity.fishing_bobber.splash",
+    "old_value": "浮標濺水聲",
+    "new_key": "subtitles.entity.fishing_bobber.splash",
+    "new_value": "浮標激起水花",
+    "en_us": "Fishing Bobber splashes"
   },
   {
     "old_key": "subtitles.entity.fox.bite",
@@ -6254,7 +6296,7 @@
     "old_key": "tutorial.punch_tree.title",
     "old_value": "斬樹",
     "new_key": "tutorial.punch_tree.title",
-    "new_value": "砍伐這棵樹",
+    "new_value": "砍伐樹木",
     "en_us": "Destroy the tree"
   }
 ]

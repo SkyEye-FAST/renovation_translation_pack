@@ -553,6 +553,13 @@
     "en_us": "Wither Rose"
   },
   {
+    "old_key": "book.pageIndicator",
+    "old_value": "第%1$s页/共%2$s页",
+    "new_key": "book.pageIndicator",
+    "new_value": "第%1$s页，共%2$s页",
+    "en_us": "Page %1$s of %2$s"
+  },
+  {
     "old_key": "command.context.parse_error",
     "old_value": "在第%2$s个字符处发现%1$s：%3$s",
     "new_key": "command.context.parse_error",

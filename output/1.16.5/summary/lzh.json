@@ -591,7 +591,7 @@
     "old_key": "biome.minecraft.sunflower_plains",
     "old_value": "葵藿原野",
     "new_key": "biome.minecraft.sunflower_plains",
-    "new_value": "葵花原",
+    "new_value": "向日葵原",
     "en_us": "Sunflower Plains"
   },
   {
@@ -637,11 +637,32 @@
     "en_us": "Andesite Wall"
   },
   {
+    "old_key": "block.minecraft.attached_melon_stem",
+    "old_value": "垂寒瓜莖",
+    "new_key": "block.minecraft.attached_melon_stem",
+    "new_value": "垂西瓜莖",
+    "en_us": "Attached Melon Stem"
+  },
+  {
     "old_key": "block.minecraft.azure_bluet",
     "old_value": "美耳草",
     "new_key": "block.minecraft.azure_bluet",
     "new_value": "藍茜",
     "en_us": "Azure Bluet"
+  },
+  {
+    "old_key": "block.minecraft.bamboo_sapling",
+    "old_value": "竹筍",
+    "new_key": "block.minecraft.bamboo_sapling",
+    "new_value": "筍",
+    "en_us": "Bamboo Shoot"
+  },
+  {
+    "old_key": "block.minecraft.banner.border.black",
+    "old_value": "玄匡",
+    "new_key": "block.minecraft.banner.border.black",
+    "new_value": "黑匡",
+    "en_us": "Black Bordure"
   },
   {
     "old_key": "block.minecraft.banner.border.pink",
@@ -658,6 +679,20 @@
     "en_us": "Red Bordure"
   },
   {
+    "old_key": "block.minecraft.banner.border.white",
+    "old_value": "素匡",
+    "new_key": "block.minecraft.banner.border.white",
+    "new_value": "白匡",
+    "en_us": "White Bordure"
+  },
+  {
+    "old_key": "block.minecraft.banner.bricks.black",
+    "old_value": "玄磚紋",
+    "new_key": "block.minecraft.banner.bricks.black",
+    "new_value": "黑磚紋",
+    "en_us": "Black Field Masoned"
+  },
+  {
     "old_key": "block.minecraft.banner.bricks.pink",
     "old_value": "粉磚紋",
     "new_key": "block.minecraft.banner.bricks.pink",
@@ -670,6 +705,20 @@
     "new_key": "block.minecraft.banner.bricks.red",
     "new_value": "赤磚紋",
     "en_us": "Red Field Masoned"
+  },
+  {
+    "old_key": "block.minecraft.banner.bricks.white",
+    "old_value": "素磚紋",
+    "new_key": "block.minecraft.banner.bricks.white",
+    "new_value": "白磚紋",
+    "en_us": "White Field Masoned"
+  },
+  {
+    "old_key": "block.minecraft.banner.circle.black",
+    "old_value": "玄圈紋",
+    "new_key": "block.minecraft.banner.circle.black",
+    "new_value": "黑圈紋",
+    "en_us": "Black Roundel"
   },
   {
     "old_key": "block.minecraft.banner.circle.pink",
@@ -686,6 +735,20 @@
     "en_us": "Red Roundel"
   },
   {
+    "old_key": "block.minecraft.banner.circle.white",
+    "old_value": "素圈紋",
+    "new_key": "block.minecraft.banner.circle.white",
+    "new_value": "白圈紋",
+    "en_us": "White Roundel"
+  },
+  {
+    "old_key": "block.minecraft.banner.creeper.black",
+    "old_value": "玄伏臨紋",
+    "new_key": "block.minecraft.banner.creeper.black",
+    "new_value": "黑伏臨紋",
+    "en_us": "Black Creeper Charge"
+  },
+  {
     "old_key": "block.minecraft.banner.creeper.pink",
     "old_value": "粉伏臨紋",
     "new_key": "block.minecraft.banner.creeper.pink",
@@ -698,6 +761,20 @@
     "new_key": "block.minecraft.banner.creeper.red",
     "new_value": "赤伏臨紋",
     "en_us": "Red Creeper Charge"
+  },
+  {
+    "old_key": "block.minecraft.banner.creeper.white",
+    "old_value": "素伏臨紋",
+    "new_key": "block.minecraft.banner.creeper.white",
+    "new_value": "白伏臨紋",
+    "en_us": "White Creeper Charge"
+  },
+  {
+    "old_key": "block.minecraft.banner.cross.black",
+    "old_value": "玄阡陌",
+    "new_key": "block.minecraft.banner.cross.black",
+    "new_value": "黑阡陌",
+    "en_us": "Black Saltire"
   },
   {
     "old_key": "block.minecraft.banner.cross.pink",
@@ -714,6 +791,20 @@
     "en_us": "Red Saltire"
   },
   {
+    "old_key": "block.minecraft.banner.cross.white",
+    "old_value": "素阡陌",
+    "new_key": "block.minecraft.banner.cross.white",
+    "new_value": "白阡陌",
+    "en_us": "White Saltire"
+  },
+  {
+    "old_key": "block.minecraft.banner.curly_border.black",
+    "old_value": "玄齒匡",
+    "new_key": "block.minecraft.banner.curly_border.black",
+    "new_value": "黑齒匡",
+    "en_us": "Black Bordure Indented"
+  },
+  {
     "old_key": "block.minecraft.banner.curly_border.pink",
     "old_value": "粉齒匡",
     "new_key": "block.minecraft.banner.curly_border.pink",
@@ -726,6 +817,20 @@
     "new_key": "block.minecraft.banner.curly_border.red",
     "new_value": "赤齒匡",
     "en_us": "Red Bordure Indented"
+  },
+  {
+    "old_key": "block.minecraft.banner.curly_border.white",
+    "old_value": "素齒匡",
+    "new_key": "block.minecraft.banner.curly_border.white",
+    "new_value": "白齒匡",
+    "en_us": "White Bordure Indented"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_left.black",
+    "old_value": "右頂玄緞",
+    "new_key": "block.minecraft.banner.diagonal_left.black",
+    "new_value": "右頂黑緞",
+    "en_us": "Black Per Bend Sinister"
   },
   {
     "old_key": "block.minecraft.banner.diagonal_left.pink",
@@ -742,6 +847,20 @@
     "en_us": "Red Per Bend Sinister"
   },
   {
+    "old_key": "block.minecraft.banner.diagonal_left.white",
+    "old_value": "右頂素緞",
+    "new_key": "block.minecraft.banner.diagonal_left.white",
+    "new_value": "右頂白緞",
+    "en_us": "White Per Bend Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_right.black",
+    "old_value": "左頂玄緞",
+    "new_key": "block.minecraft.banner.diagonal_right.black",
+    "new_value": "左頂黑緞",
+    "en_us": "Black Per Bend"
+  },
+  {
     "old_key": "block.minecraft.banner.diagonal_right.pink",
     "old_value": "左頂粉緞",
     "new_key": "block.minecraft.banner.diagonal_right.pink",
@@ -754,6 +873,20 @@
     "new_key": "block.minecraft.banner.diagonal_right.red",
     "new_value": "左頂赤緞",
     "en_us": "Red Per Bend"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_right.white",
+    "old_value": "左頂素緞",
+    "new_key": "block.minecraft.banner.diagonal_right.white",
+    "new_value": "左頂白緞",
+    "en_us": "White Per Bend"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_up_left.black",
+    "old_value": "右底玄緞",
+    "new_key": "block.minecraft.banner.diagonal_up_left.black",
+    "new_value": "右底黑緞",
+    "en_us": "Black Per Bend Inverted"
   },
   {
     "old_key": "block.minecraft.banner.diagonal_up_left.pink",
@@ -770,6 +903,20 @@
     "en_us": "Red Per Bend Inverted"
   },
   {
+    "old_key": "block.minecraft.banner.diagonal_up_left.white",
+    "old_value": "右底素緞",
+    "new_key": "block.minecraft.banner.diagonal_up_left.white",
+    "new_value": "右底白緞",
+    "en_us": "White Per Bend Inverted"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_up_right.black",
+    "old_value": "左底玄緞",
+    "new_key": "block.minecraft.banner.diagonal_up_right.black",
+    "new_value": "左底黑緞",
+    "en_us": "Black Per Bend Sinister Inverted"
+  },
+  {
     "old_key": "block.minecraft.banner.diagonal_up_right.pink",
     "old_value": "左底粉緞",
     "new_key": "block.minecraft.banner.diagonal_up_right.pink",
@@ -782,6 +929,20 @@
     "new_key": "block.minecraft.banner.diagonal_up_right.red",
     "new_value": "左底赤緞",
     "en_us": "Red Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "block.minecraft.banner.diagonal_up_right.white",
+    "old_value": "左底素緞",
+    "new_key": "block.minecraft.banner.diagonal_up_right.white",
+    "new_value": "左底白緞",
+    "en_us": "White Per Bend Sinister Inverted"
+  },
+  {
+    "old_key": "block.minecraft.banner.flower.black",
+    "old_value": "玄花紋",
+    "new_key": "block.minecraft.banner.flower.black",
+    "new_value": "黑花紋",
+    "en_us": "Black Flower Charge"
   },
   {
     "old_key": "block.minecraft.banner.flower.pink",
@@ -798,10 +959,17 @@
     "en_us": "Red Flower Charge"
   },
   {
+    "old_key": "block.minecraft.banner.flower.white",
+    "old_value": "素花紋",
+    "new_key": "block.minecraft.banner.flower.white",
+    "new_value": "白花紋",
+    "en_us": "White Flower Charge"
+  },
+  {
     "old_key": "block.minecraft.banner.globe.black",
     "old_value": "玄星球紋",
     "new_key": "block.minecraft.banner.globe.black",
-    "new_value": "玄坤輿紋",
+    "new_value": "黑坤輿紋",
     "en_us": "Black Globe"
   },
   {
@@ -899,7 +1067,7 @@
     "old_key": "block.minecraft.banner.globe.white",
     "old_value": "素星球紋",
     "new_key": "block.minecraft.banner.globe.white",
-    "new_value": "素坤輿紋",
+    "new_value": "白坤輿紋",
     "en_us": "White Globe"
   },
   {
@@ -908,6 +1076,13 @@
     "new_key": "block.minecraft.banner.globe.yellow",
     "new_value": "黃坤輿紋",
     "en_us": "Yellow Globe"
+  },
+  {
+    "old_key": "block.minecraft.banner.gradient_up.black",
+    "old_value": "玄頂傾",
+    "new_key": "block.minecraft.banner.gradient_up.black",
+    "new_value": "黑頂傾",
+    "en_us": "Black Base Gradient"
   },
   {
     "old_key": "block.minecraft.banner.gradient_up.pink",
@@ -924,6 +1099,20 @@
     "en_us": "Red Base Gradient"
   },
   {
+    "old_key": "block.minecraft.banner.gradient_up.white",
+    "old_value": "素頂傾",
+    "new_key": "block.minecraft.banner.gradient_up.white",
+    "new_value": "白頂傾",
+    "en_us": "White Base Gradient"
+  },
+  {
+    "old_key": "block.minecraft.banner.gradient.black",
+    "old_value": "玄底傾",
+    "new_key": "block.minecraft.banner.gradient.black",
+    "new_value": "黑底傾",
+    "en_us": "Black Gradient"
+  },
+  {
     "old_key": "block.minecraft.banner.gradient.pink",
     "old_value": "粉底傾",
     "new_key": "block.minecraft.banner.gradient.pink",
@@ -936,6 +1125,20 @@
     "new_key": "block.minecraft.banner.gradient.red",
     "new_value": "赤底傾",
     "en_us": "Red Gradient"
+  },
+  {
+    "old_key": "block.minecraft.banner.gradient.white",
+    "old_value": "素底傾",
+    "new_key": "block.minecraft.banner.gradient.white",
+    "new_value": "白底傾",
+    "en_us": "White Gradient"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_horizontal_bottom.black",
+    "old_value": "底玄緞",
+    "new_key": "block.minecraft.banner.half_horizontal_bottom.black",
+    "new_value": "底黑緞",
+    "en_us": "Black Per Fess Inverted"
   },
   {
     "old_key": "block.minecraft.banner.half_horizontal_bottom.pink",
@@ -952,6 +1155,20 @@
     "en_us": "Red Per Fess Inverted"
   },
   {
+    "old_key": "block.minecraft.banner.half_horizontal_bottom.white",
+    "old_value": "底素緞",
+    "new_key": "block.minecraft.banner.half_horizontal_bottom.white",
+    "new_value": "底白緞",
+    "en_us": "White Per Fess Inverted"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_horizontal.black",
+    "old_value": "頂玄緞",
+    "new_key": "block.minecraft.banner.half_horizontal.black",
+    "new_value": "頂黑緞",
+    "en_us": "Black Per Fess"
+  },
+  {
     "old_key": "block.minecraft.banner.half_horizontal.pink",
     "old_value": "頂粉緞",
     "new_key": "block.minecraft.banner.half_horizontal.pink",
@@ -964,6 +1181,20 @@
     "new_key": "block.minecraft.banner.half_horizontal.red",
     "new_value": "頂赤緞",
     "en_us": "Red Per Fess"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_horizontal.white",
+    "old_value": "頂素緞",
+    "new_key": "block.minecraft.banner.half_horizontal.white",
+    "new_value": "頂白緞",
+    "en_us": "White Per Fess"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_vertical_right.black",
+    "old_value": "左玄縱",
+    "new_key": "block.minecraft.banner.half_vertical_right.black",
+    "new_value": "左黑縱",
+    "en_us": "Black Per Pale Inverted"
   },
   {
     "old_key": "block.minecraft.banner.half_vertical_right.pink",
@@ -980,6 +1211,20 @@
     "en_us": "Red Per Pale Inverted"
   },
   {
+    "old_key": "block.minecraft.banner.half_vertical_right.white",
+    "old_value": "左素縱",
+    "new_key": "block.minecraft.banner.half_vertical_right.white",
+    "new_value": "左白縱",
+    "en_us": "White Per Pale Inverted"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_vertical.black",
+    "old_value": "右玄縱",
+    "new_key": "block.minecraft.banner.half_vertical.black",
+    "new_value": "右黑縱",
+    "en_us": "Black Per Pale"
+  },
+  {
     "old_key": "block.minecraft.banner.half_vertical.pink",
     "old_value": "右粉縱",
     "new_key": "block.minecraft.banner.half_vertical.pink",
@@ -992,6 +1237,13 @@
     "new_key": "block.minecraft.banner.half_vertical.red",
     "new_value": "右赤縱",
     "en_us": "Red Per Pale"
+  },
+  {
+    "old_key": "block.minecraft.banner.half_vertical.white",
+    "old_value": "右素縱",
+    "new_key": "block.minecraft.banner.half_vertical.white",
+    "new_value": "右白縱",
+    "en_us": "White Per Pale"
   },
   {
     "old_key": "block.minecraft.banner.mojang.black",
@@ -1106,25 +1358,123 @@
     "en_us": "Yellow Thing"
   },
   {
+    "old_key": "block.minecraft.banner.piglin.black",
+    "old_value": "玄豕鼻",
+    "new_key": "block.minecraft.banner.piglin.black",
+    "new_value": "黑豕鼻紋",
+    "en_us": "Black Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.blue",
+    "old_value": "靛豕鼻",
+    "new_key": "block.minecraft.banner.piglin.blue",
+    "new_value": "靛豕鼻紋",
+    "en_us": "Blue Snout"
+  },
+  {
     "old_key": "block.minecraft.banner.piglin.brown",
     "old_value": "赭豕鼻",
     "new_key": "block.minecraft.banner.piglin.brown",
-    "new_value": "褐豕鼻",
+    "new_value": "褐豕鼻紋",
     "en_us": "Brown Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.cyan",
+    "old_value": "黛豕鼻",
+    "new_key": "block.minecraft.banner.piglin.cyan",
+    "new_value": "黛豕鼻紋",
+    "en_us": "Cyan Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.gray",
+    "old_value": "灰豕鼻",
+    "new_key": "block.minecraft.banner.piglin.gray",
+    "new_value": "灰豕鼻紋",
+    "en_us": "Gray Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.green",
+    "old_value": "綠豕鼻",
+    "new_key": "block.minecraft.banner.piglin.green",
+    "new_value": "綠豕鼻紋",
+    "en_us": "Green Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.light_blue",
+    "old_value": "縹豕鼻",
+    "new_key": "block.minecraft.banner.piglin.light_blue",
+    "new_value": "縹豕鼻紋",
+    "en_us": "Light Blue Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.light_gray",
+    "old_value": "蒼豕鼻",
+    "new_key": "block.minecraft.banner.piglin.light_gray",
+    "new_value": "蒼豕鼻紋",
+    "en_us": "Light Gray Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.lime",
+    "old_value": "翠豕鼻",
+    "new_key": "block.minecraft.banner.piglin.lime",
+    "new_value": "翠豕鼻紋",
+    "en_us": "Lime Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.magenta",
+    "old_value": "赬豕鼻",
+    "new_key": "block.minecraft.banner.piglin.magenta",
+    "new_value": "赬豕鼻紋",
+    "en_us": "Magenta Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.orange",
+    "old_value": "橙豕鼻",
+    "new_key": "block.minecraft.banner.piglin.orange",
+    "new_value": "橙豕鼻紋",
+    "en_us": "Orange Snout"
   },
   {
     "old_key": "block.minecraft.banner.piglin.pink",
     "old_value": "粉豕鼻",
     "new_key": "block.minecraft.banner.piglin.pink",
-    "new_value": "紅豕鼻",
+    "new_value": "紅豕鼻紋",
     "en_us": "Pink Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.purple",
+    "old_value": "紫豕鼻",
+    "new_key": "block.minecraft.banner.piglin.purple",
+    "new_value": "紫豕鼻紋",
+    "en_us": "Purple Snout"
   },
   {
     "old_key": "block.minecraft.banner.piglin.red",
     "old_value": "紅豕鼻",
     "new_key": "block.minecraft.banner.piglin.red",
-    "new_value": "赤豕鼻",
+    "new_value": "赤豕鼻紋",
     "en_us": "Red Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.white",
+    "old_value": "素豕鼻",
+    "new_key": "block.minecraft.banner.piglin.white",
+    "new_value": "白豕鼻紋",
+    "en_us": "White Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.piglin.yellow",
+    "old_value": "黃豕鼻",
+    "new_key": "block.minecraft.banner.piglin.yellow",
+    "new_value": "黃豕鼻紋",
+    "en_us": "Yellow Snout"
+  },
+  {
+    "old_key": "block.minecraft.banner.rhombus.black",
+    "old_value": "玄菱形",
+    "new_key": "block.minecraft.banner.rhombus.black",
+    "new_value": "黑菱形",
+    "en_us": "Black Lozenge"
   },
   {
     "old_key": "block.minecraft.banner.rhombus.pink",
@@ -1141,6 +1491,20 @@
     "en_us": "Red Lozenge"
   },
   {
+    "old_key": "block.minecraft.banner.rhombus.white",
+    "old_value": "素菱形",
+    "new_key": "block.minecraft.banner.rhombus.white",
+    "new_value": "白菱形",
+    "en_us": "White Lozenge"
+  },
+  {
+    "old_key": "block.minecraft.banner.skull.black",
+    "old_value": "玄髑顱紋",
+    "new_key": "block.minecraft.banner.skull.black",
+    "new_value": "黑髑顱紋",
+    "en_us": "Black Skull Charge"
+  },
+  {
     "old_key": "block.minecraft.banner.skull.pink",
     "old_value": "粉髑顱紋",
     "new_key": "block.minecraft.banner.skull.pink",
@@ -1155,10 +1519,17 @@
     "en_us": "Red Skull Charge"
   },
   {
+    "old_key": "block.minecraft.banner.skull.white",
+    "old_value": "素髑顱紋",
+    "new_key": "block.minecraft.banner.skull.white",
+    "new_value": "白髑顱紋",
+    "en_us": "White Skull Charge"
+  },
+  {
     "old_key": "block.minecraft.banner.small_stripes.black",
     "old_value": "垂直玄緞",
     "new_key": "block.minecraft.banner.small_stripes.black",
-    "new_value": "直玄緞",
+    "new_value": "直黑緞",
     "en_us": "Black Paly"
   },
   {
@@ -1256,7 +1627,7 @@
     "old_key": "block.minecraft.banner.small_stripes.white",
     "old_value": "垂直素緞",
     "new_key": "block.minecraft.banner.small_stripes.white",
-    "new_value": "直素緞",
+    "new_value": "直白緞",
     "en_us": "White Paly"
   },
   {
@@ -1265,6 +1636,13 @@
     "new_key": "block.minecraft.banner.small_stripes.yellow",
     "new_value": "直黃緞",
     "en_us": "Yellow Paly"
+  },
+  {
+    "old_key": "block.minecraft.banner.square_bottom_left.black",
+    "old_value": "右底玄方",
+    "new_key": "block.minecraft.banner.square_bottom_left.black",
+    "new_value": "右底黑方",
+    "en_us": "Black Base Dexter Canton"
   },
   {
     "old_key": "block.minecraft.banner.square_bottom_left.pink",
@@ -1281,6 +1659,20 @@
     "en_us": "Red Base Dexter Canton"
   },
   {
+    "old_key": "block.minecraft.banner.square_bottom_left.white",
+    "old_value": "右底素方",
+    "new_key": "block.minecraft.banner.square_bottom_left.white",
+    "new_value": "右底白方",
+    "en_us": "White Base Dexter Canton"
+  },
+  {
+    "old_key": "block.minecraft.banner.square_bottom_right.black",
+    "old_value": "左底玄方",
+    "new_key": "block.minecraft.banner.square_bottom_right.black",
+    "new_value": "左底黑方",
+    "en_us": "Black Base Sinister Canton"
+  },
+  {
     "old_key": "block.minecraft.banner.square_bottom_right.pink",
     "old_value": "左底粉方",
     "new_key": "block.minecraft.banner.square_bottom_right.pink",
@@ -1293,6 +1685,20 @@
     "new_key": "block.minecraft.banner.square_bottom_right.red",
     "new_value": "左底赤方",
     "en_us": "Red Base Sinister Canton"
+  },
+  {
+    "old_key": "block.minecraft.banner.square_bottom_right.white",
+    "old_value": "左底素方",
+    "new_key": "block.minecraft.banner.square_bottom_right.white",
+    "new_value": "左底白方",
+    "en_us": "White Base Sinister Canton"
+  },
+  {
+    "old_key": "block.minecraft.banner.square_top_left.black",
+    "old_value": "右頂玄方",
+    "new_key": "block.minecraft.banner.square_top_left.black",
+    "new_value": "右頂黑方",
+    "en_us": "Black Chief Dexter Canton"
   },
   {
     "old_key": "block.minecraft.banner.square_top_left.pink",
@@ -1309,6 +1715,20 @@
     "en_us": "Red Chief Dexter Canton"
   },
   {
+    "old_key": "block.minecraft.banner.square_top_left.white",
+    "old_value": "右頂素方",
+    "new_key": "block.minecraft.banner.square_top_left.white",
+    "new_value": "右頂白方",
+    "en_us": "White Chief Dexter Canton"
+  },
+  {
+    "old_key": "block.minecraft.banner.square_top_right.black",
+    "old_value": "左頂玄方",
+    "new_key": "block.minecraft.banner.square_top_right.black",
+    "new_value": "左頂黑方",
+    "en_us": "Black Chief Sinister Canton"
+  },
+  {
     "old_key": "block.minecraft.banner.square_top_right.pink",
     "old_value": "左頂粉方",
     "new_key": "block.minecraft.banner.square_top_right.pink",
@@ -1323,10 +1743,17 @@
     "en_us": "Red Chief Sinister Canton"
   },
   {
+    "old_key": "block.minecraft.banner.square_top_right.white",
+    "old_value": "左頂素方",
+    "new_key": "block.minecraft.banner.square_top_right.white",
+    "new_value": "左頂白方",
+    "en_us": "White Chief Sinister Canton"
+  },
+  {
     "old_key": "block.minecraft.banner.straight_cross.black",
     "old_value": "玄十字",
     "new_key": "block.minecraft.banner.straight_cross.black",
-    "new_value": "玄錯",
+    "new_value": "黑錯",
     "en_us": "Black Cross"
   },
   {
@@ -1424,7 +1851,7 @@
     "old_key": "block.minecraft.banner.straight_cross.white",
     "old_value": "素十字",
     "new_key": "block.minecraft.banner.straight_cross.white",
-    "new_value": "素錯",
+    "new_value": "白錯",
     "en_us": "White Cross"
   },
   {
@@ -1433,6 +1860,13 @@
     "new_key": "block.minecraft.banner.straight_cross.yellow",
     "new_value": "黃錯",
     "en_us": "Yellow Cross"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_bottom.black",
+    "old_value": "玄底",
+    "new_key": "block.minecraft.banner.stripe_bottom.black",
+    "new_value": "黑底",
+    "en_us": "Black Base"
   },
   {
     "old_key": "block.minecraft.banner.stripe_bottom.pink",
@@ -1449,6 +1883,20 @@
     "en_us": "Red Base"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_bottom.white",
+    "old_value": "素底",
+    "new_key": "block.minecraft.banner.stripe_bottom.white",
+    "new_value": "白底",
+    "en_us": "White Base"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_center.black",
+    "old_value": "央玄縱",
+    "new_key": "block.minecraft.banner.stripe_center.black",
+    "new_value": "央黑縱",
+    "en_us": "Black Pale"
+  },
+  {
     "old_key": "block.minecraft.banner.stripe_center.pink",
     "old_value": "央粉縱",
     "new_key": "block.minecraft.banner.stripe_center.pink",
@@ -1463,10 +1911,17 @@
     "en_us": "Red Pale"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_center.white",
+    "old_value": "央素緯",
+    "new_key": "block.minecraft.banner.stripe_center.white",
+    "new_value": "央白緯",
+    "en_us": "White Pale"
+  },
+  {
     "old_key": "block.minecraft.banner.stripe_downleft.black",
     "old_value": "左傾玄緞",
     "new_key": "block.minecraft.banner.stripe_downleft.black",
-    "new_value": "左玄緞",
+    "new_value": "左黑緞",
     "en_us": "Black Bend Sinister"
   },
   {
@@ -1564,7 +2019,7 @@
     "old_key": "block.minecraft.banner.stripe_downleft.white",
     "old_value": "左傾素緞",
     "new_key": "block.minecraft.banner.stripe_downleft.white",
-    "new_value": "左素緞",
+    "new_value": "左白緞",
     "en_us": "White Bend Sinister"
   },
   {
@@ -1578,7 +2033,7 @@
     "old_key": "block.minecraft.banner.stripe_downright.black",
     "old_value": "右傾玄緞",
     "new_key": "block.minecraft.banner.stripe_downright.black",
-    "new_value": "右玄緞",
+    "new_value": "右黑緞",
     "en_us": "Black Bend"
   },
   {
@@ -1676,7 +2131,7 @@
     "old_key": "block.minecraft.banner.stripe_downright.white",
     "old_value": "右傾素緞",
     "new_key": "block.minecraft.banner.stripe_downright.white",
-    "new_value": "右素緞",
+    "new_value": "右白緞",
     "en_us": "White Bend"
   },
   {
@@ -1685,6 +2140,13 @@
     "new_key": "block.minecraft.banner.stripe_downright.yellow",
     "new_value": "右黃緞",
     "en_us": "Yellow Bend"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_left.black",
+    "old_value": "右玄",
+    "new_key": "block.minecraft.banner.stripe_left.black",
+    "new_value": "右黑",
+    "en_us": "Black Pale Dexter"
   },
   {
     "old_key": "block.minecraft.banner.stripe_left.pink",
@@ -1701,6 +2163,20 @@
     "en_us": "Red Pale Dexter"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_left.white",
+    "old_value": "右素",
+    "new_key": "block.minecraft.banner.stripe_left.white",
+    "new_value": "右白",
+    "en_us": "White Pale Dexter"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_middle.black",
+    "old_value": "央玄緯",
+    "new_key": "block.minecraft.banner.stripe_middle.black",
+    "new_value": "央黑緯",
+    "en_us": "Black Fess"
+  },
+  {
     "old_key": "block.minecraft.banner.stripe_middle.pink",
     "old_value": "央粉緯",
     "new_key": "block.minecraft.banner.stripe_middle.pink",
@@ -1715,10 +2191,17 @@
     "en_us": "Red Fess"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_middle.white",
+    "old_value": "中素橫條",
+    "new_key": "block.minecraft.banner.stripe_middle.white",
+    "new_value": "中白橫條",
+    "en_us": "White Fess"
+  },
+  {
     "old_key": "block.minecraft.banner.stripe_right.black",
     "old_value": "左玄縱",
     "new_key": "block.minecraft.banner.stripe_right.black",
-    "new_value": "左玄",
+    "new_value": "左黑",
     "en_us": "Black Pale Sinister"
   },
   {
@@ -1816,7 +2299,7 @@
     "old_key": "block.minecraft.banner.stripe_right.white",
     "old_value": "左素縱",
     "new_key": "block.minecraft.banner.stripe_right.white",
-    "new_value": "左素",
+    "new_value": "左白",
     "en_us": "White Pale Sinister"
   },
   {
@@ -1825,6 +2308,13 @@
     "new_key": "block.minecraft.banner.stripe_right.yellow",
     "new_value": "左黃",
     "en_us": "Yellow Pale Sinister"
+  },
+  {
+    "old_key": "block.minecraft.banner.stripe_top.black",
+    "old_value": "玄頂",
+    "new_key": "block.minecraft.banner.stripe_top.black",
+    "new_value": "黑頂",
+    "en_us": "Black Chief"
   },
   {
     "old_key": "block.minecraft.banner.stripe_top.pink",
@@ -1841,6 +2331,20 @@
     "en_us": "Red Chief"
   },
   {
+    "old_key": "block.minecraft.banner.stripe_top.white",
+    "old_value": "素頂",
+    "new_key": "block.minecraft.banner.stripe_top.white",
+    "new_value": "白頂",
+    "en_us": "White Chief"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_bottom.black",
+    "old_value": "底玄勾股紋",
+    "new_key": "block.minecraft.banner.triangle_bottom.black",
+    "new_value": "底黑勾股紋",
+    "en_us": "Black Chevron"
+  },
+  {
     "old_key": "block.minecraft.banner.triangle_bottom.pink",
     "old_value": "底粉勾股紋",
     "new_key": "block.minecraft.banner.triangle_bottom.pink",
@@ -1853,6 +2357,20 @@
     "new_key": "block.minecraft.banner.triangle_bottom.red",
     "new_value": "底赤勾股紋",
     "en_us": "Red Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_bottom.white",
+    "old_value": "底素勾股紋",
+    "new_key": "block.minecraft.banner.triangle_bottom.white",
+    "new_value": "底白勾股紋",
+    "en_us": "White Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangle_top.black",
+    "old_value": "頂玄反勾股紋",
+    "new_key": "block.minecraft.banner.triangle_top.black",
+    "new_value": "頂黑反勾股紋",
+    "en_us": "Black Inverted Chevron"
   },
   {
     "old_key": "block.minecraft.banner.triangle_top.pink",
@@ -1869,6 +2387,20 @@
     "en_us": "Red Inverted Chevron"
   },
   {
+    "old_key": "block.minecraft.banner.triangle_top.white",
+    "old_value": "頂素反勾股紋",
+    "new_key": "block.minecraft.banner.triangle_top.white",
+    "new_value": "頂白反勾股紋",
+    "en_us": "White Inverted Chevron"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangles_bottom.black",
+    "old_value": "底玄齒紋",
+    "new_key": "block.minecraft.banner.triangles_bottom.black",
+    "new_value": "底黑齒紋",
+    "en_us": "Black Base Indented"
+  },
+  {
     "old_key": "block.minecraft.banner.triangles_bottom.pink",
     "old_value": "底粉齒紋",
     "new_key": "block.minecraft.banner.triangles_bottom.pink",
@@ -1883,6 +2415,20 @@
     "en_us": "Red Base Indented"
   },
   {
+    "old_key": "block.minecraft.banner.triangles_bottom.white",
+    "old_value": "底素齒紋",
+    "new_key": "block.minecraft.banner.triangles_bottom.white",
+    "new_value": "底白齒紋",
+    "en_us": "White Base Indented"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangles_top.black",
+    "old_value": "頂玄齒紋",
+    "new_key": "block.minecraft.banner.triangles_top.black",
+    "new_value": "頂黑齒紋",
+    "en_us": "Black Chief Indented"
+  },
+  {
     "old_key": "block.minecraft.banner.triangles_top.pink",
     "old_value": "頂粉齒紋",
     "new_key": "block.minecraft.banner.triangles_top.pink",
@@ -1895,6 +2441,13 @@
     "new_key": "block.minecraft.banner.triangles_top.red",
     "new_value": "頂赤齒紋",
     "en_us": "Red Chief Indented"
+  },
+  {
+    "old_key": "block.minecraft.banner.triangles_top.white",
+    "old_value": "頂素齒紋",
+    "new_key": "block.minecraft.banner.triangles_top.white",
+    "new_value": "頂白齒紋",
+    "en_us": "White Chief Indented"
   },
   {
     "old_key": "block.minecraft.barrel",
@@ -1935,8 +2488,15 @@
     "old_key": "block.minecraft.beetroots",
     "old_value": "甜菜根",
     "new_key": "block.minecraft.beetroots",
-    "new_value": "甘藜根",
+    "new_value": "菾菜根",
     "en_us": "Beetroots"
+  },
+  {
+    "old_key": "block.minecraft.black_banner",
+    "old_value": "玄旗",
+    "new_key": "block.minecraft.black_banner",
+    "new_value": "黑旗",
+    "en_us": "Black Banner"
   },
   {
     "old_key": "block.minecraft.brewing_stand",
@@ -2012,7 +2572,7 @@
     "old_key": "block.minecraft.cocoa",
     "old_value": "可可豆",
     "new_key": "block.minecraft.cocoa",
-    "new_value": "可可荳",
+    "new_value": "可可果",
     "en_us": "Cocoa"
   },
   {
@@ -2089,7 +2649,7 @@
     "old_key": "block.minecraft.dried_kelp_block",
     "old_value": "海帶乾塊",
     "new_key": "block.minecraft.dried_kelp_block",
-    "new_value": "乾海帶塊",
+    "new_value": "乾昆布塊",
     "en_us": "Dried Kelp Block"
   },
   {
@@ -2219,10 +2779,17 @@
     "en_us": "Jigsaw Block"
   },
   {
+    "old_key": "block.minecraft.kelp",
+    "old_value": "海帶",
+    "new_key": "block.minecraft.kelp",
+    "new_value": "昆布",
+    "en_us": "Kelp"
+  },
+  {
     "old_key": "block.minecraft.kelp_plant",
     "old_value": "海帶植株",
     "new_key": "block.minecraft.kelp_plant",
-    "new_value": "海帶株",
+    "new_value": "昆布株",
     "en_us": "Kelp Plant"
   },
   {
@@ -2254,11 +2821,32 @@
     "en_us": "Magma Block"
   },
   {
+    "old_key": "block.minecraft.melon",
+    "old_value": "寒瓜",
+    "new_key": "block.minecraft.melon",
+    "new_value": "西瓜",
+    "en_us": "Melon"
+  },
+  {
+    "old_key": "block.minecraft.melon_stem",
+    "old_value": "寒瓜莖",
+    "new_key": "block.minecraft.melon_stem",
+    "new_value": "西瓜莖",
+    "en_us": "Melon Stem"
+  },
+  {
     "old_key": "block.minecraft.moving_piston",
     "old_value": "移之韝韛",
     "new_key": "block.minecraft.moving_piston",
     "new_value": "移之鞲鞴",
     "en_us": "Moving Piston"
+  },
+  {
+    "old_key": "block.minecraft.mycelium",
+    "old_value": "盤菌土",
+    "new_key": "block.minecraft.mycelium",
+    "new_value": "蕈土",
+    "en_us": "Mycelium"
   },
   {
     "old_key": "block.minecraft.nether_brick_wall",
@@ -2530,7 +3118,7 @@
     "old_key": "block.minecraft.potted_wither_rose",
     "old_value": "凋零玫瑰盆景",
     "new_key": "block.minecraft.potted_wither_rose",
-    "new_value": "凋靈玫瑰盆景",
+    "new_value": "凋靈薔薇盆景",
     "en_us": "Potted Wither Rose"
   },
   {
@@ -2747,14 +3335,21 @@
     "old_key": "block.minecraft.rose_bush",
     "old_value": "玫瑰簇",
     "new_key": "block.minecraft.rose_bush",
-    "new_value": "玫瑰叢",
+    "new_value": "薔薇叢",
     "en_us": "Rose Bush"
+  },
+  {
+    "old_key": "block.minecraft.seagrass",
+    "old_value": "海艸",
+    "new_key": "block.minecraft.seagrass",
+    "new_value": "藻",
+    "en_us": "Seagrass"
   },
   {
     "old_key": "block.minecraft.shroomlight",
     "old_value": "螢蕈體",
     "new_key": "block.minecraft.shroomlight",
-    "new_value": "熒蕈體",
+    "new_value": "蕈光",
     "en_us": "Shroomlight"
   },
   {
@@ -2912,6 +3507,20 @@
     "en_us": "Sugar Cane"
   },
   {
+    "old_key": "block.minecraft.sunflower",
+    "old_value": "葵花",
+    "new_key": "block.minecraft.sunflower",
+    "new_value": "向日葵",
+    "en_us": "Sunflower"
+  },
+  {
+    "old_key": "block.minecraft.tall_seagrass",
+    "old_value": "高海艸",
+    "new_key": "block.minecraft.tall_seagrass",
+    "new_value": "高藻",
+    "en_us": "Tall Seagrass"
+  },
+  {
     "old_key": "block.minecraft.tnt",
     "old_value": "炸藥",
     "new_key": "block.minecraft.tnt",
@@ -2954,17 +3563,10 @@
     "en_us": "Weeping Vines Plant"
   },
   {
-    "old_key": "block.minecraft.white_banner",
-    "old_value": "白旗",
-    "new_key": "block.minecraft.white_banner",
-    "new_value": "素旗",
-    "en_us": "White Banner"
-  },
-  {
     "old_key": "block.minecraft.wither_rose",
     "old_value": "凋零玫瑰",
     "new_key": "block.minecraft.wither_rose",
-    "new_value": "凋靈玫瑰",
+    "new_value": "凋靈薔薇",
     "en_us": "Wither Rose"
   },
   {
@@ -4546,21 +5148,21 @@
     "old_key": "item.minecraft.beetroot",
     "old_value": "甜菜根",
     "new_key": "item.minecraft.beetroot",
-    "new_value": "甘藜根",
+    "new_value": "菾菜根",
     "en_us": "Beetroot"
   },
   {
     "old_key": "item.minecraft.beetroot_seeds",
     "old_value": "甜菜種",
     "new_key": "item.minecraft.beetroot_seeds",
-    "new_value": "甘藜種",
+    "new_value": "菾菜種",
     "en_us": "Beetroot Seeds"
   },
   {
     "old_key": "item.minecraft.beetroot_soup",
     "old_value": "甜菜羹",
     "new_key": "item.minecraft.beetroot_soup",
-    "new_value": "甘藜羹",
+    "new_value": "菾菜羹",
     "en_us": "Beetroot Soup"
   },
   {
@@ -4641,6 +5243,13 @@
     "en_us": "Diamond Boots"
   },
   {
+    "old_key": "item.minecraft.dried_kelp",
+    "old_value": "乾海帶",
+    "new_key": "item.minecraft.dried_kelp",
+    "new_value": "乾昆布",
+    "en_us": "Dried Kelp"
+  },
+  {
     "old_key": "item.minecraft.experience_bottle",
     "old_value": "淬靈瓶",
     "new_key": "item.minecraft.experience_bottle",
@@ -4669,6 +5278,13 @@
     "en_us": "Unknown Shape"
   },
   {
+    "old_key": "item.minecraft.flower_banner_pattern.desc",
+    "old_value": "菊紋",
+    "new_key": "item.minecraft.flower_banner_pattern.desc",
+    "new_value": "花紋",
+    "en_us": "Flower Charge"
+  },
+  {
     "old_key": "item.minecraft.ghast_spawn_egg",
     "old_value": "孳惡靈之卵",
     "new_key": "item.minecraft.ghast_spawn_egg",
@@ -4688,6 +5304,13 @@
     "new_key": "item.minecraft.glass_bottle",
     "new_value": "琉璃甁",
     "en_us": "Glass Bottle"
+  },
+  {
+    "old_key": "item.minecraft.glistering_melon_slice",
+    "old_value": "爍寒瓜片",
+    "new_key": "item.minecraft.glistering_melon_slice",
+    "new_value": "爍西瓜片",
+    "en_us": "Glistering Melon Slice"
   },
   {
     "old_key": "item.minecraft.globe_banner_pattern.desc",
@@ -4779,6 +5402,20 @@
     "new_key": "item.minecraft.lodestone_compass",
     "new_value": "礠石司南",
     "en_us": "Lodestone Compass"
+  },
+  {
+    "old_key": "item.minecraft.melon_seeds",
+    "old_value": "寒瓜種",
+    "new_key": "item.minecraft.melon_seeds",
+    "new_value": "西瓜種",
+    "en_us": "Melon Seeds"
+  },
+  {
+    "old_key": "item.minecraft.melon_slice",
+    "old_value": "寒瓜片",
+    "new_key": "item.minecraft.melon_slice",
+    "new_value": "西瓜片",
+    "en_us": "Melon Slice"
   },
   {
     "old_key": "item.minecraft.mojang_banner_pattern.desc",
@@ -5586,6 +6223,20 @@
     "en_us": "%s: ON"
   },
   {
+    "old_key": "options.pixel_value",
+    "old_value": "%s：像素%s",
+    "new_key": "options.pixel_value",
+    "new_value": "%s：元%s",
+    "en_us": "%s: %spx"
+  },
+  {
+    "old_key": "options.rawMouseInput",
+    "old_value": "生素入",
+    "new_key": "options.rawMouseInput",
+    "new_value": "生素所入",
+    "en_us": "Raw Input"
+  },
+  {
     "old_key": "options.resourcepack",
     "old_value": "資囊...",
     "new_key": "options.resourcepack",
@@ -5815,6 +6466,13 @@
     "new_key": "stat_type.minecraft.killed",
     "new_value": "君既殺%2$s%1$s回矣",
     "en_us": "You killed %s %s"
+  },
+  {
+    "old_key": "stat.minecraft.clean_shulker_box",
+    "old_value": "贆櫝洗數",
+    "new_key": "stat.minecraft.clean_shulker_box",
+    "new_value": "素贆櫝數",
+    "en_us": "Shulker Boxes Cleaned"
   },
   {
     "old_key": "stat.minecraft.drop",

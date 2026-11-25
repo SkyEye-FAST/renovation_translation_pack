@@ -941,7 +941,7 @@
     "old_key": "book.pageIndicator",
     "old_value": "页面：%1$s/%2$s",
     "new_key": "book.pageIndicator",
-    "new_value": "第%1$s页/共%2$s页",
+    "new_value": "第%1$s页，共%2$s页",
     "en_us": "Page %1$s of %2$s"
   },
   {

@@ -756,7 +756,7 @@
     "old_value": "無法檢舉此玩家，因為此伺服器無法驗證該玩家的聊天訊息",
     "old_en_us": "This player can't be reported, because their chat messages can't be verified on this server",
     "new_key": "gui.socialInteractions.tooltip.report.not_reportable",
-    "new_value": "無法檢舉這名玩家，因為這個伺服器無法驗證該玩家的聊天訊息",
+    "new_value": "無法檢舉這名玩家，因為這個伺服器無法驗證該玩家的聊天訊息。",
     "new_en_us": "This player can't be reported because their chat messages can't be verified on this server."
   },
   {
@@ -1198,6 +1198,14 @@
     "new_key": "subtitles.entity.fishing_bobber.throw",
     "new_value": "投出浮標",
     "new_en_us": "Bobber is thrown"
+  },
+  {
+    "old_key": "subtitles.entity.generic.burn",
+    "old_value": "燃燒",
+    "old_en_us": "Burning",
+    "new_key": "subtitles.entity.generic.burn",
+    "new_value": "某物燃燒",
+    "new_en_us": "Something burns"
   },
   {
     "old_key": "subtitles.entity.iron_golem.repair",

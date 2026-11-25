@@ -824,19 +824,59 @@
     "new_en_us": "Donkey Chest is equipped"
   },
   {
+    "old_key": "subtitles.entity.generic.burn",
+    "old_value": "燃烧",
+    "old_en_us": "Burning",
+    "new_key": "subtitles.entity.generic.burn",
+    "new_value": "某物：燃烧",
+    "new_en_us": "Something burns"
+  },
+  {
     "old_key": "subtitles.entity.generic.death",
     "old_value": "濒死",
     "old_en_us": "Dying",
     "new_key": "subtitles.entity.generic.death",
-    "new_value": "死亡",
+    "new_value": "某物：死亡",
     "new_en_us": "Something dies"
+  },
+  {
+    "old_key": "subtitles.entity.generic.drink",
+    "old_value": "啜饮",
+    "old_en_us": "Sipping",
+    "new_key": "subtitles.entity.generic.drink",
+    "new_value": "某物：啜饮",
+    "new_en_us": "Something sips"
+  },
+  {
+    "old_key": "subtitles.entity.generic.eat",
+    "old_value": "进食",
+    "old_en_us": "Eating",
+    "new_key": "subtitles.entity.generic.eat",
+    "new_value": "某物：进食",
+    "new_en_us": "Something eats"
+  },
+  {
+    "old_key": "subtitles.entity.generic.explode",
+    "old_value": "爆炸",
+    "old_en_us": "Explosion",
+    "new_key": "subtitles.entity.generic.explode",
+    "new_value": "某物：爆炸",
+    "new_en_us": "Something explodes"
+  },
+  {
+    "old_key": "subtitles.entity.generic.splash",
+    "old_value": "溅起水花",
+    "old_en_us": "Splashing",
+    "new_key": "subtitles.entity.generic.splash",
+    "new_value": "某物：溅起水花",
+    "new_en_us": "Something splashes"
   },
   {
     "old_key": "subtitles.entity.generic.swim",
     "old_value": "实体：游泳",
     "old_en_us": "Swimming",
     "new_key": "subtitles.entity.generic.swim",
-    "new_value": "游泳",
+    "new_value": "某物：游泳",
     "new_en_us": "Something swims"
   },
   {
