@@ -1144,6 +1144,14 @@
     "new_en_us": "Trapdoor opens"
   },
   {
+    "old_key": "subtitles.entity.arrow.shoot",
+    "old_value": "箭：被射出",
+    "old_en_us": "Arrow fired",
+    "new_key": "subtitles.entity.arrow.shoot",
+    "new_value": "弓：发射",
+    "new_en_us": "Bow fires"
+  },
+  {
     "old_key": "subtitles.entity.donkey.chest",
     "old_value": "驴：装备箱子",
     "old_en_us": "Donkey Chest equips",

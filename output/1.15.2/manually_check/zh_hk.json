@@ -1564,7 +1564,7 @@
     "old_value": "射箭聲",
     "old_en_us": "Arrow fired",
     "new_key": "subtitles.entity.arrow.shoot",
-    "new_value": "箭被射出",
+    "new_value": "弓發射",
     "new_en_us": "Bow fires"
   },
   {

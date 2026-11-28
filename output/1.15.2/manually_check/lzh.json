@@ -1832,6 +1832,14 @@
     "new_en_us": "Player is hit"
   },
   {
+    "old_key": "subtitles.entity.arrow.shoot",
+    "old_value": "矢發",
+    "old_en_us": "Arrow fired",
+    "new_key": "subtitles.entity.arrow.shoot",
+    "new_value": "弓發",
+    "new_en_us": "Bow fires"
+  },
+  {
     "old_key": "subtitles.entity.cod.hurt",
     "old_value": "鳕傷",
     "old_en_us": "Cod hurts",

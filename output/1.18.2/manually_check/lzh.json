@@ -1496,6 +1496,14 @@
     "new_en_us": "Respawn Anchor whooshes"
   },
   {
+    "old_key": "subtitles.entity.arrow.shoot",
+    "old_value": "矢發",
+    "old_en_us": "Arrow fired",
+    "new_key": "subtitles.entity.arrow.shoot",
+    "new_value": "弓發",
+    "new_en_us": "Bow fires"
+  },
+  {
     "old_key": "subtitles.entity.axolotl.hurt",
     "old_value": "螈傷",
     "old_en_us": "Axolotl hurts",
@@ -1758,6 +1766,14 @@
     "new_key": "subtitles.item.bundle.insert",
     "new_value": "納物於囊",
     "new_en_us": "Item is packed"
+  },
+  {
+    "old_key": "subtitles.item.honeycomb.wax_on",
+    "old_value": "蠟塗",
+    "old_en_us": "Wax on",
+    "new_key": "subtitles.item.honeycomb.wax_on",
+    "new_value": "蠟引",
+    "new_en_us": "Wax is applied"
   },
   {
     "old_key": "title.multiplayer.other",

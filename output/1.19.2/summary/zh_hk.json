@@ -2534,6 +2534,13 @@
     "en_us": "Expected whitespace to end one argument, but found trailing data"
   },
   {
+    "old_key": "command.unknown.argument",
+    "old_value": "命令引數不正確",
+    "new_key": "command.unknown.argument",
+    "new_value": "命令變元不正確",
+    "en_us": "Incorrect argument for command"
+  },
+  {
     "old_key": "commands.advancement.criterionNotFound",
     "old_value": "進度 %1$s 不包含 '%2$s' 標準條件",
     "new_key": "commands.advancement.criterionNotFound",
@@ -2889,6 +2896,13 @@
     "new_key": "commands.data.get.invalid",
     "new_value": "無法獲取 %s，僅允許數字類型標籤",
     "en_us": "Can't get %s; only numeric tags are allowed"
+  },
+  {
+    "old_key": "commands.data.get.multiple",
+    "old_value": "此引數僅接受單一 NBT 數值",
+    "new_key": "commands.data.get.multiple",
+    "new_value": "此變元僅接受單一 NBT 數值",
+    "en_us": "This argument accepts a single NBT value"
   },
   {
     "old_key": "commands.data.get.unknown",

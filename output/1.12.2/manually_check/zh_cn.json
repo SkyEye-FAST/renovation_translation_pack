@@ -792,6 +792,14 @@
     "new_en_us": "Shulker box opens"
   },
   {
+    "old_key": "subtitles.entity.arrow.shoot",
+    "old_value": "箭：被射出",
+    "old_en_us": "Arrow fired",
+    "new_key": "subtitles.entity.arrow.shoot",
+    "new_value": "弓：发射",
+    "new_en_us": "Bow fires"
+  },
+  {
     "old_key": "subtitles.entity.bobber.splash",
     "old_value": "钓鱼钩：溅起水花",
     "old_en_us": "Fishing hook splashes",
